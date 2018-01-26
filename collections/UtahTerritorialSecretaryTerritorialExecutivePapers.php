@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/UtahTerritorialSecretaryTerritorialExecutivePapers.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/UtahTerritorialSecretaryTerritorialExecutivePapers.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UtahTerritorialSecretaryTerritorialExecutivePapers.php">
+<!-- Collection #2288 -->
+<!-- Collection Title -->
+<title>Utah Territorial Secretary Territorial Executive Papers</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahTerritorialSecretaryTerritorialExecutivePapers.php&t=Utah Territorial Secretary Territorial Executive Papers"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahTerritorialSecretaryTerritorialExecutivePapers.php&via=@MountainWestDL&text=Utah Territorial Secretary Territorial Executive Papers"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/UtahTerritorialSecretaryTerritorialExecutivePapers.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection2288.jpg" alt="Territorial Secretary Territorial Executive Papers, 1849-1896" height ="250" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://images.archives.utah.gov/cdm/ref/collection/241/id/4525" target="_blank"><em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em></a>
+</div>
+<!-- Collection Title-->
+<h4>Utah Territorial Secretary Territorial Executive Papers</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+The territorial secretary was responsible for recording all acts and proceedings of the Governor in his executive department and to provide copies of these official acts to specific federal officials. Over half of the series represent official acts of the Governor. Many other duties of the secretary are also documented, most reflecting routine administrative functions of the territorial government. </p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Territorial+Secretary+Territorial+Executive+Papers">Browse all records in Utah Territorial Secretary Territorial Executive Papers</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

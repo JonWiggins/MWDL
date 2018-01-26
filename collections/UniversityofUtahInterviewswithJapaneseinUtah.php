@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/UniversityofUtahInterviewswithJapaneseinUtah.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/UniversityofUtahInterviewswithJapaneseinUtah.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UniversityofUtahInterviewswithJapaneseinUtah.php">
+<!-- Collection #2063 -->
+<!-- Collection Title -->
+<title>University of Utah Interviews with Japanese in Utah</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UniversityofUtahInterviewswithJapaneseinUtah.php&t=University of Utah Interviews with Japanese in Utah"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UniversityofUtahInterviewswithJapaneseinUtah.php&via=@MountainWestDL&text=University of Utah Interviews with Japanese in Utah"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/UniversityofUtahInterviewswithJapaneseinUtah.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection2063.jpg" alt="Saige Aramaki" width="279" height="396" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://content.lib.utah.edu/cdm/ref/collection/uu-iju/id/109" target="_blank">Interviews with Japanese in Utah: Saige Aramaki</a>
+</div>
+<!-- Collection Title-->
+<h4>University of Utah Interviews with Japanese in Utah</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+The interviews with Japanese Americans in Utah (1984-1988) consists of transcripts of a series of interviews conducted with members of the Japanese community between 1984 and 1988. Common themes within the interviews are family life, work, religion, immigration experiences, discrimination, and relations with the Mormon establishment in Utah.</p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=University+of+Utah+Interviews+with+Japanese+in+Utah">Browse all records in University of Utah Interviews with Japanese in Utah</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

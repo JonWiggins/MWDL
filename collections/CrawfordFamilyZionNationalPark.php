@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/CrawfordFamilyZionNationalPark.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/CrawfordFamilyZionNationalPark.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/CrawfordFamilyZionNationalPark.php">
+<!-- Collection #1112 -->
+<!-- Collection Title -->
+<title>Crawford Family, Zion National Park</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&t=Crawford Family, Zion National Park"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&via=@MountainWestDL&text=Crawford Family, Zion National Park"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/CrawfordFamilyZionNationalPark.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection1112.jpg" alt="Mojave Desert" width="353" height="241" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://contentdm.li.suu.edu/cdm4/item_viewer.php?CISOROOT=/crawford_family&CISOPTR=2783&CISOBOX=1&REC=12" target="_blank"> Mojave Desert</a>
+</div>
+<!-- Collection Title-->
+<h4>Crawford Family, Zion National Park</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
+ 
+<!-- Collection Description -->
+<p></p>
+<p>The Crawford Family, Zion National Park Collection consists of diaries and photographs by William Louis Crawford, 1873-1935, and his son, J. L. (Jasper Louis) Crawford, 1914-. Living and farming in what later became Zion National Park, they give insights into pioneer life and the history of this scenic canyon.</p>
+</p>
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Crawford+Family,+Zion+National+Park">Browse all records in Crawford Family, Zion National Park</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

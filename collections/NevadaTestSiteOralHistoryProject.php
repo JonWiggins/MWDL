@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/NevadaTestSiteOralHistoryProject.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/NevadaTestSiteOralHistoryProject.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/NevadaTestSiteOralHistoryProject.php">
+<!-- Collection #1227 -->
+<!-- Collection Title -->
+<title>Nevada Test Site Oral History Project</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/NevadaTestSiteOralHistoryProject.php&t=Nevada Test Site Oral History Project"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/NevadaTestSiteOralHistoryProject.php&via=@MountainWestDL&text=Nevada Test Site Oral History Project"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/NevadaTestSiteOralHistoryProject.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection1227.jpg" alt="Interview with Patricia George and Virginia Sanchez" width="272" height="353" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://digital.library.unlv.edu/objects/nts/1110" target="_blank">Interview with Patricia George and Virginia Sanchez<br> </a>
+</div>
+<!-- Collection Title-->
+<h4>Nevada Test Site Oral History Project</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+The Nevada Test Site Oral History Project at the University of Nevada, Las Vegas is a comprehensive program dedicated to documenting, preserving and disseminating the remembered past of persons affiliated with and affected by the Nevada Test Site during the era of Cold War nuclear testing. From September 2003 through January 2008 a wide range of oral history narrators participated in the project including: national laboratory scientists & engineers; labor trades and support personnel; cabinet-level officials, military personnel & corporate executives; Native American tribal & spiritual leaders; peace activists and protesters; Nevada ranchers, families & communities downwind of the test site.</p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Nevada+Test+Site+Oral+History+Project">Browse all records in Nevada Test Site Oral History Project</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

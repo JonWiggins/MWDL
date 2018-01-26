@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/ColoradoRiverbedCase.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/ColoradoRiverbedCase.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/ColoradoRiverbedCase.php">
+<!-- Collection #1004 -->
+<!-- Collection Title -->
+<title>Colorado Riverbed Case</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/ColoradoRiverbedCase.php&t=Colorado Riverbed Case"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/ColoradoRiverbedCase.php&via=@MountainWestDL&text=Colorado Riverbed Case"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/ColoradoRiverbedCase.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection1004.jpg" alt="United States, Complainant vs. the State of Utah, 1931" width="301" height="433" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://content.lib.utah.edu/cdm4/document.php?CISOROOT=/crc&CISOPTR=2130&REC=6" target="_blank">United States, Complainant vs. the State of Utah, 1931<br> </a>
+</div>
+<!-- Collection Title-->
+<h4>Colorado Riverbed Case</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+Transcripts of the Colorado Riverbed Case. This case grew out of a desire by the State of Utah to determine who owned the bed of the Colorado River. Utah wanted to drill for oil and for other economic purposes in the bed of the river, but it first had to be determined who owned it, Utah or the United States. This hinged on whether the Colorado could be declared a navigable or a non-navigable river. The U.S. Supreme Court began acquiring testimony in October 1929. The final decree was issued in 1931, giving possession of the riverbed to the United States in non-navigable sections of the river in Utah. Possession of the riverbed in navigable sections of the basin was given to the State of Utah.</p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Colorado+Riverbed+Case">Browse all records in Colorado Riverbed Case</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

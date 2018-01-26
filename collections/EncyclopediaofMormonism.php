@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/EncyclopediaofMormonism.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/EncyclopediaofMormonism.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/EncyclopediaofMormonism.php">
+<!-- Collection #1214 -->
+<!-- Collection Title -->
+<title>Encyclopedia of Mormonism</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/EncyclopediaofMormonism.php&t=Encyclopedia of Mormonism"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/EncyclopediaofMormonism.php&via=@MountainWestDL&text=Encyclopedia of Mormonism"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/EncyclopediaofMormonism.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection1214.jpg" alt="Encyclopedia of Mormonism" width="335" height="337" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/EoM/id/4391/" target="_blank">Encyclopedia of Mormonism<br> </a>
+</div>
+<!-- Collection Title-->
+<h4>Encyclopedia of Mormonism</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+The idea for this reference work began with an inquiry from Macmillan in 1987, when Charles Smith approached Professor S. Kent Brown at Brigham Young University (the two knew each other from working together on the Coptic Encyclopedia). Following a successful meeting with BYU President Jeffrey R. Holland, a publication agreement was negotiated, and in 1988 a Board of Editors, with Daniel H. Ludlow as Editor-in-Chief, was appointed. Three years later, the Encyclopedia appeared, bearing a 1992 publication date. It remains the most encyclopedic coverage of Mormonism ever produced.</p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Encyclopedia+of+Mormonism">Browse all records in Encyclopedia of Mormonism</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

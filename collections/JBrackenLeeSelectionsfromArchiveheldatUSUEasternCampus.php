@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">
+<!-- Collection #1790 -->
+<!-- Collection Title -->
+<title>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php&t=J. Bracken Lee: Selections from Archive held at USU Eastern Campus"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php&via=@MountainWestDL&text=J. Bracken Lee: Selections from Archive held at USU Eastern Campus"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection1790.jpg" alt="Testimonial Transcript" width="320" height="220" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://digital.lib.usu.edu/cdm/compoundobject/collection/Lee/id/351" target="_blank">Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972</a>
+</div>
+<!-- Collection Title-->
+<h4>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
+ 
+<!-- Collection Description -->
+<p></p>
+<p>The J. Bracken Lee collection contains photographs, newspaper articles, campaign ephemera, transcripts, correspondence, and audio recordings that span Lee's entire life, from birth to retirement. While these papers are physically housed at the Utah State University-Eastern in Price, Utah, you can sample some of the most significant documents and recordings from the former governor's remarkable career in this online J. Bracken Lee digital exhibit. </p>
+</p>
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=J.+Bracken+Lee:++Selections+from+Archive+held+at+USU+Eastern+Campus">Browse all records in J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>

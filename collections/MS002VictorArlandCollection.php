@@ -1,0 +1,55 @@
+<?php include ("../includes/header.php");?>
+<?php include ("../includes/linkImports.php");?>
+<script type="text/javascript">
+	if (screen.width <= 800) {
+  		window.location = "../ampcollections/MS002VictorArlandCollection.php";
+	}
+</script>
+<!-- Mobile Links -->
+<link rel="amphtml" href="../ampcollections/MS002VictorArlandCollection.php">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/MS002VictorArlandCollection.php">
+<!-- Collection #2271 -->
+<!-- Collection Title -->
+<title>MS 002 Victor Arland Collection</title>
+<?php include("../includes/collectionmenuhead.php");?>
+ 
+<!-- Share Links -->
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/MS002VictorArlandCollection.php&t=MS 002 Victor Arland Collection"
+                                  target="_blank"><img src="../images/facebook.png" alt="facebook"
+                                                       height="20" width="20"> Facebook</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/MS002VictorArlandCollection.php&via=@MountainWestDL&text=MS 002 Victor Arland Collection"
+                                  target="_blank"><img src="../images/twitter.png" alt="twitter"
+                                                       height="20" width="20"> Twitter</a></li>
+<li class="mdl-menu__item"><a class="mdl-navigation__link"
+                                  href="http://www.tumblr.com/share/link?url=mwdl.org/collections/MS002VictorArlandCollection.php"
+                                  target="_blank"><img src="../images/tumblr.png"
+                                                       alt="tumblr" height="20" width="20"> Tumblr</a></li>
+</ul>
+</div>
+<div class="imageAndDes">
+<!-- Image (if any)-->
+<img src="../images/collection_images/collection2271.jpg" alt="Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1" width="409" height ="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+<a href="http://library.centerofthewest.org/cdm/ref/collection/MS002/id/188" target="_blank"><em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em></a>
+</div>
+<!-- Collection Title-->
+<h4>MS 002 Victor Arland Collection</h4>
+<!-- Collection Publisher-->
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+ 
+<!-- Collection Description -->
+</p>
+This collection consists of a series of original letters written by Victor Arland (c. 1848- 1890) of Arland, Wyoming to Mr. C.P. Dadant of Hamilton, IL, a beekeeper and manufacturer of bee supplies and distributor of honey. The letters are handwritten in French, dated between 1872 and 1889, and for the most part are in good to excellent condition. The letters have been flattened, separated by acid-free, lignin-free paper in archival folders and housed in Box 1, organized as Series 1. Included in Series 2 are excerpts of essays that have resulted from research with this collection.</p>
+
+<hr>
+<h6>
+<!-- Browse Link -->
+
+<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+002+Victor+Arland+Collection">Browse all records in MS 002 Victor Arland Collection</a></p>
+</h6>
+<p></p>
+</div>
+</div>
+<?php include("../includes/footer.php"); ?>
