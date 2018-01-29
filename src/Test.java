@@ -7,6 +7,8 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /**
+ * Just use this to test methods in a closed enviroment
+ *
  * @author Jonathan Wiggins
  * @version 6/28/17
  */

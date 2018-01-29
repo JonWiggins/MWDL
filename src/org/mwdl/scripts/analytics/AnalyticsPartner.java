@@ -7,6 +7,8 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
+ * Hold the data lines for the analytics emails for each partner
+ *
  * @author Jon Wiggins
  * @version 6/23/17
  */

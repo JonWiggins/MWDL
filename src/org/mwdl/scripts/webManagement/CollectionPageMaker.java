@@ -12,6 +12,8 @@ import java.util.HashMap;
 import static java.util.Collections.sort;
 
 /**
+ * Given a collection object, writes a collection landing page
+ *
  * @author Jonathan Wiggins
  * @version 7/13/17
  */

@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * Please never actually use this, I started to make it, and then realised how dumb it was.
  *
- * If needed, use the method calls to note program flow/order
+ * If needed, use the method calls to note program flow/order to understand how I made all this stuff
  *
  *
  * @author Jonathan Wiggins

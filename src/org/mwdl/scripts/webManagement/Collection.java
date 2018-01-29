@@ -3,6 +3,8 @@ package org.mwdl.scripts.webManagement;
 import java.util.ArrayList;
 
 /**
+ * Represents a collection landing pages, by holding all the info needed to create one
+ *
  * @author Jon Wiggins
  * @version 6/9/17
  */

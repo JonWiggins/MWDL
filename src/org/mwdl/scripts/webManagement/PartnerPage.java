@@ -6,6 +6,8 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 /**
+ * Represents a partner landing page by holding all the info needed to create one
+ *
  * @author Jonathan Wiggins
  * @version 6/23/17
  */

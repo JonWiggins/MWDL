@@ -10,6 +10,13 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 /**
+ * Just a bunch of random helper methods.
+ * Most are used in other classes in the creation and utilization of MWDL data.
+ * Though some just spit out info about the data.
+ * Documented on the basis of this method names.
+ * Most follow the general outline of running through each row in the partner and collection data files
+ *  and adding each row that meats a certain condition to an arraylist.
+ *
  * @author Jonathan Wiggins
  * @version 6/28/17
  */
