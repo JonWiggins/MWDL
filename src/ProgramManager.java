@@ -16,9 +16,14 @@ import java.util.Scanner;
  * @version 7/13/17
  */
 
+@Deprecated //Read above ^
+
 public class ProgramManager {
 
     public static void main(String[] args) {
+
+        System.exit(0); //Somebody touca ma spaght
+
         Scanner s = new Scanner(System.in);
         while (true) {
             System.out.println("Options:");

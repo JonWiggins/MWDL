@@ -12,12 +12,21 @@ import org.jsoup.nodes.Element;
 import org.mwdl.scripts.data.DataFetcher;
 
 /**
+ * Used to strip the information off of the old MWDL website and store it in a spreadsheet
+ * Note that the spreadsheet has been updated since this has been run, so if you run this you will lose tons of work
+ * Note that it is lots of spaghetti because the people who made the side did not have a uniform design
+ *  so about 5 different types of pages have to be accounted for
+ *
+ * pls no use
+ *
+ *
  * @author Jonathan Wiggins
  * @version 6/5/17
  */
 
 
-@Deprecated
+@Deprecated //okay but actually please dont use
+
 public class PartnerMaker {
 
     private static ArrayList<PartnerPage> partnerArrayList;
@@ -26,6 +35,8 @@ public class PartnerMaker {
 
 
     public static void main(String[] args) {
+
+        System.exit(0); // Somebody touca ma spaghet
 
         int count = 101;
         int stopNumber = 369;
