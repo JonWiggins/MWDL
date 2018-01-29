@@ -7,7 +7,9 @@ import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 /**
- * Just use this to test methods in a closed enviroment
+ * Just use this to test methods in a closed environment
+ *
+ * I frequently used this class to run DataFetcher methods, ie, how many in/active collections are there?
  *
  * @author Jonathan Wiggins
  * @version 6/28/17
@@ -16,15 +18,10 @@ import java.util.ArrayList;
 public class Test {
     public static void main(String[] args) {
         try {
-
-
-            for(String c : DataFetcher.getInactiveCollectionLines())
-                System.out.println(c);
-
+            System.out.println(DataFetcher.getInactiveCollectionLines().size());
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
 
     }
 }
