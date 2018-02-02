@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UtahInternationalGeneralElectricMergerDocuments.php">
 <!-- Collection #1854 -->
 <!-- Collection Title -->
-<title>Utah International/General Electric Merger Documents</title>
+<title>Utah International - General Electric Merger Documents</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahInternationalGeneralElectricMergerDocuments.php&t=Utah International/General Electric Merger Documents"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahInternationalGeneralElectricMergerDocuments.php&t=Utah International - General Electric Merger Documents"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahInternationalGeneralElectricMergerDocuments.php&via=@MountainWestDL&text=Utah International/General Electric Merger Documents"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahInternationalGeneralElectricMergerDocuments.php&via=@MountainWestDL&text=Utah International - General Electric Merger Documents"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 <a href="https://cdm.weber.edu/cdm/ref/collection/GE/id/220" target="_blank">Meeting Booklet_16 December 1976<br> </a>
 </div>
 <!-- Collection Title-->
-<h4>Utah International/General Electric Merger Documents</h4>
+<h4>Utah International - General Electric Merger Documents</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  

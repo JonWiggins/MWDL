@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1854 -->
 <!-- Collection Title -->
-<title>Utah International/General Electric Merger Documents</title>
+<title>Utah International - General Electric Merger Documents</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/UtahInternationalGeneralElectricMergerDocuments.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Utah International/General Electric Merger Documents</h3>
+<h3>Utah International - General Electric Merger Documents</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->

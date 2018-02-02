@@ -25,7 +25,7 @@ import org.mwdl.scripts.data.DataFetcher;
  */
 
 
-@Deprecated //okay but actually please dont use
+@Deprecated //okay but actually please don't use
 
 public class PartnerMaker {
 

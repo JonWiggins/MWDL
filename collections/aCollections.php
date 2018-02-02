@@ -62,11 +62,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AmericanWestwardMigration.php">American Westward Migration</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
-<!-- Collection #1840 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "AnnieTaylorDeeandAnnieMaudeDeePorterDiaries.php">Annie Taylor Dee and Annie Maude Dee Porter Diaries</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1168 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ArabicPapyrusParchmentandPaperCollection.php">Arabic Papyrus, Parchment, and Paper Collection</a></td>
@@ -389,12 +384,17 @@
 </tr>
 <!-- Collection #1243 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DeeFamilyPhotographs.php">Dee Family Photographs</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "DeeFamilyPhotographsCorrespondenceandMarriageRegister.php">Dee Family Photographs, Correspondence and Marriage ...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1212 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DeeSchoolofNursingOralHistoryProjectandYearbooks.php">Dee School of Nursing: Oral History Project and Year...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1840 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "DeeAnnieTaylorandAnnieMaudeDeePorterDiaries.php">Dee, Annie Taylor and Annie Maude Dee Porter Diaries</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1038 -->
@@ -422,11 +422,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DixieNationalForestUTPhotographs.php">Dixie National Forest (UT) Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/USForestService,DixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></td>
 </tr>
-<!-- Collection #1841 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DrEdwardIandEmilyAlmiraCozzensRichDiaries.php">Dr. Edward I. and Emily Almira Cozzens Rich Diaries</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1836 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DreamingtheSkylineResortArchitectureandtheNewUrbanSpace.php">Dreaming the Skyline: Resort Architecture and the Ne...</a></td>
@@ -437,11 +432,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DwellingsintheBosomofEmeryCountyUT.php">Dwellings in the Bosom of Emery County (UT)</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/EmeryCountyUTPublicLibraryandEmeryCountyUTArchives.php">Emery County (UT) Public Library and Emery County (UT) Archives</a></td>
 </tr>
-<!-- Collection #1842 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "ERLubbersCompanyHistory.php">E. R. Lubbers Company History</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1930 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "EasternIdahoNewspapers.php">Eastern Idaho Newspapers</a></td>
@@ -449,18 +439,13 @@
 </tr>
 <!-- Collection #1211 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "EcclesBusinessCorrespondence.php">Eccles Business Correspondence</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "EcclesDavidBusinessChurchandPersonalCorrespondence.php">Eccles, David: Business, Church and Personal Corresp...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1065 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "EdithIrvine.php">Edith Irvine</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
-</tr>
-<!-- Collection #1843 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "EdmundWattisLittlefieldSpeeches.php">Edmund Wattis Littlefield Speeches</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1239 -->
 <tr>
@@ -697,6 +682,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricalAmericanForkUT.php">Historical American Fork (UT)</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></td>
 </tr>
+<!-- Collection #2154 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "HistoryinYourAttic.php">History in Your Attic</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
 <!-- Collection #1922 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoryofMonacoPrimaryDocuments.php">History of Monaco: Primary Documents</a></td>
@@ -716,11 +706,6 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HomerJonesPhotographs.php">Homer Jones Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></td>
-</tr>
-<!-- Collection #1308 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "HooverDamProjectScrapbookVol3.php">Hoover Dam Project Scrapbook Vol. 3</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1321 -->
 <tr>
@@ -1202,11 +1187,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NorthLoganUTHistoryCollection.php">North Logan (UT) History Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></td>
 </tr>
-<!-- Collection #1846 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenUTArchitectLeslieHodgson.php">Ogden (UT) Architect Leslie Hodgson</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #2014 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenUTBuildingsbyStreet.php">Ogden (UT) Buildings by Street</a></td>
@@ -1217,15 +1197,20 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenUTCityRecorderBirthRegister.php">Ogden (UT) City Recorder Birth Register</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
-<!-- Collection #1244 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenUTSchoolsandChurches.php">Ogden (UT) Schools and Churches</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #2293 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenUtahCityRecorderMayorsPhotographs.php">Ogden (Utah) City Recorder Mayors Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
+<!-- Collection #1846 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenArchitectsHodgsonandPiers.php">Ogden Architects Hodgson and Piers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1244 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OgdenChurchesandSchools.php">Ogden Churches and Schools</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1281 -->
 <tr>
@@ -1331,6 +1316,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ReligiousStudiesCenter.php">Religious Studies Center</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
+<!-- Collection #1841 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RichDrEdwardIandEmilyAlmiraCozzensDiaries.php">Rich, Dr. Edward I. and Emily Almira Cozzens Diaries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #2079 -->
 <tr>
@@ -1752,14 +1742,29 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahBoardofPardonsPrisonerPardonApplicationCaseFiles.php">Utah Board of Pardons: Prisoner Pardon Application C...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
-<!-- Collection #1155 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyAnnualReports.php">Utah Construction Company: Annual Reports</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1849 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyFeatherRiverCARailroadConstructionScrapbooksVol2.php">Utah Construction Company: Feather River (CA) Railro...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyFeatherRiverScrapbooks.php">Utah Construction Company Feather River Scrapbooks</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1842 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyHistorybyERLubbers.php">Utah Construction Company History by E. R. Lubbers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1308 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyHooverDamScrapbooks.php">Utah Construction Company Hoover Dam Scrapbooks</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1852 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyMexicoProjects.php">Utah Construction Company Mexico Projects</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1843 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanySpeechesbyEdmundWattisLittlefield.php">Utah Construction Company Speeches by Edmund Wattis ...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1850 -->
@@ -1767,19 +1772,19 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyMinutes.php">Utah Construction Company: Minutes</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
-<!-- Collection #1268 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyPhotographs.php">Utah Construction Company: Photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #1852 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanySouthernPacificRailroadofMexico.php">Utah Construction Company: Southern Pacific Railroad...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1853 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionCompanyStockholderLedgers.php">Utah Construction Company: Stockholder Ledgers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1155 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionUtahInternationalAnnualReports.php">Utah Construction-Utah International Annual Reports</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1268 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionUtahInternationalPhotographs.php">Utah Construction-Utah International Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1881 -->
@@ -1884,7 +1889,7 @@
 </tr>
 <!-- Collection #1854 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahInternationalGeneralElectricMergerDocuments.php">Utah International/General Electric Merger Documents</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahInternationalGeneralElectricMergerDocuments.php">Utah International - General Electric Merger Documents</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1624 -->
@@ -2077,31 +2082,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WaterWiseUtah.php">Water Wise Utah</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
-<!-- Collection #2024 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberAdditionalLiteraryPublications19311980.php">Weber Additional Literary Publications 1931-1980</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #2020 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberBellTowerHistory.php">Weber Bell Tower History</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #2015 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberCollegeWhipClub.php">Weber College Whip Club</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #1246 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberCountyUTWorldWarIPhotographs.php">Weber County (UT) World War I Photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #1247 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberCountyUTWorldWarIICorrespondenceNewslettersandPhotographs.php">Weber County (UT) World War II Correspondence, Newsl...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #1245 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WeberNormalCollegeYearbooks19191923.php">Weber Normal College Yearbooks 1919-1923</a></td>
@@ -2112,9 +2092,29 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStakeAcademyLiteraryMagazineTheAcorn19041916.php">Weber Stake Academy Literary Magazine The Acorn 1904...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
-<!-- Collection #1310 -->
+<!-- Collection #2020 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateCollegeYearbook19641982.php">Weber State College Yearbook 1964-1982</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateBellTowerHistoryScrapbook.php">Weber State Bell Tower History Scrapbook</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #2023 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateCatalog1896toPresent.php">Weber State Catalog 1896 to Present</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1860 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateHistoricalPublications.php">Weber State Historical Publications</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #2024 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateLiteraryPublications1904to1980.php">Weber State Literary Publications 1904 to 1980</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1863 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateOralHistoryProject.php">Weber State Oral History Project</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #2018 -->
@@ -2132,26 +2132,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityBuildings1and2APhotoHistory.php">Weber State University Buildings 1 and 2: A Photo Hi...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
-<!-- Collection #2023 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityCatalog1991Present.php">Weber State University Catalog 1991-Present</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #1860 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityHistoricalPublications.php">Weber State University Historical Publications</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #2154 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityHistoryinYourAtticCollection.php">Weber State University History in Your Attic Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
-<!-- Collection #1863 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityOralHistoryProject.php">Weber State University Oral History Project</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
-</tr>
 <!-- Collection #2019 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityStudentMastersTheses.php">Weber State University Student Master's Theses</a></td>
@@ -2167,9 +2147,19 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">Weber State University, Stewart Library, Special Col...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
+<!-- Collection #2015 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateWhipClubScrapbook.php">Weber State Whip Club Scrapbook</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1310 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberStateYearbook1905to1982.php">Weber State Yearbook 1905 to 1982</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
 <!-- Collection #2016 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberandDavisCountiesUTCommunityOralHistoryProject.php">Weber and Davis Counties (UT) Community Oral History...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeberandDavisCountiesCommunityOralHistoryProject.php">Weber and Davis Counties Community Oral History Project</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1261 -->
@@ -2296,6 +2286,16 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WorksProgressAdministrationBiographySketchesCollection.php">Works Progress Administration Biography Sketches Col...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #1246 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WorldWarIPhotographs.php">World War I Photographs</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1247 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php">World War II POW Camp Correspondence, Newsletters, O...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1315 -->
 <tr>

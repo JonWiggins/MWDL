@@ -24,7 +24,7 @@ import org.jsoup.nodes.Element;
  */
 
 
-@Deprecated //okay but actually dont use
+@Deprecated //okay but actually don't use
 
 public class CollectionMaker {
 
@@ -37,10 +37,7 @@ public class CollectionMaker {
         System.exit(0); // Somebody touca ma spaghet
 
         int count = 1001;
-       int stopNumber = 2337;
-        //int count = 1006;
-        //int stopNumber = 1006;
-
+        int stopNumber = 2337;
 
         collectionArrayList = new ArrayList<>();
         String FileLocAndName = "collectionData.csv";
