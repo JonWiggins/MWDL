@@ -5,6 +5,7 @@ import org.mwdl.scripts.webManagement.PartnerPage;
 
 import java.io.File;
 import java.io.FileNotFoundException;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -243,7 +244,20 @@ public class DataFetcher {
             }
         }
         return toReturn;
+    }
 
+    public static ArrayList<String> refineInactiveCollectionLines() throws FileNotFoundException{
+        ArrayList<String> rawInactiveCollections = getInactiveCollectionLines();
+
+        ArrayList<String> toReturn = new ArrayList<>();
+        for(String element : rawInactiveCollections)
+            if(!element.contains("Could not retrieve collection")
+                    && !element.contains("Removed")
+                    && !element.contains("../partners/.php")
+                    && !element.contains("too few elements to be parsed."))
+                toReturn.add(element);
+
+        return toReturn;
     }
 
 

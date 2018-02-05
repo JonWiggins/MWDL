@@ -18,8 +18,13 @@ import java.util.ArrayList;
 public class Test {
     public static void main(String[] args) {
         try {
-            System.out.println(DataFetcher.getInactiveCollectionLines().size());
-        } catch (FileNotFoundException e) {
+            ArrayList<String> inactiveCollections = DataFetcher.refineInactiveCollectionLines();
+
+            for(String s : inactiveCollections)
+                System.out.println(s);
+
+            System.out.println(inactiveCollections.size());
+            } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 

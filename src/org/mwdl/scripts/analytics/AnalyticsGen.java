@@ -76,7 +76,7 @@ public class AnalyticsGen {
         } catch (UnsupportedEncodingException e) {
             e.printStackTrace();
         } catch (FileNotFoundException e) {
-            System.out.println("file not found except");
+            System.err.println("file not found except");
         }
     }
 
