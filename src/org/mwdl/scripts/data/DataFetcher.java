@@ -278,5 +278,35 @@ public class DataFetcher {
         return toReturn;
     }
 
+    public static ArrayList<Collection> howManyImagesAreNotStoredLocally() throws FileNotFoundException{
+        ArrayList<Collection> list = new ArrayList<>();
+        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
+        while (collectionData.hasNext()) {
+            try {
+                String currentDataLine = collectionData.next();
+                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
+                String currentDataNumber = n.next();
+                String isActive = n.next();
+                if (Boolean.valueOf(isActive)) {
+                    String note = n.next();
+                    String title = n.next();
+                    String urlTitle = n.next();
+                    String pub = n.next();
+                    String text = n.next();
+                    String img = n.next();
+                    String ampImage = n.next();
+                    if (Boolean.valueOf(isActive)) {
+                        if (!img.contains(("../images/collection_images/"))) {
+                            list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, title, urlTitle, pub, text, img, ampImage, n.next(), n.next()));
+                        }
+                    }
+                }
+            } catch (NoSuchElementException e) {
+                e.printStackTrace();
+            }
+        }
+        return list;
+    }
+
 
 }

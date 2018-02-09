@@ -19,9 +19,17 @@ import java.util.Scanner;
  * 3. Add the month name to the months ArrayList
  * 4. Add a new ArrayList and needed methods to the AnalyticsPartner class
  * 5. Add the month options to the control statements in this class denoted with //FIXME
+ * 6. Run this class's main method
+ *
+ *
+ * At this point there should be a folder in the cwd titled GeneratedAnalytics which holds csv files for each hub
+ * Now open up VS and run the MWDLAnalyticsEmails program. It will generated all of the emails you need to send out
+ *  and save them into the PhpStorm project folder for MWDL.org
+ * Note: If you are not me the directories will be broken and you will need to fix them for your computer
+ *
  *
  * @author Jon Wiggins
- * @version 6/22/17
+ * @version 2/7/18
  */
 
 public class AnalyticsGen {
@@ -36,6 +44,7 @@ public class AnalyticsGen {
         ArrayList<String> months = new ArrayList<>();
 
         //FIXME add new month here
+        months.add("January");
         months.add("December");
         months.add("November");
         months.add("October");
@@ -125,6 +134,7 @@ public class AnalyticsGen {
                                 else if(month.equalsIgnoreCase("October")) p .addOctCollection(currentLine);
                                 else if(month.equalsIgnoreCase("November")) p.addNovCollection(currentLine);
                                 else if(month.equalsIgnoreCase("December")) p.addDecCollection(currentLine);
+                                else if(month.equalsIgnoreCase("January")) p.addJanCollection(currentLine);
 
                                 else {
                                     System.err.println("Error: Month not found. It was: " + month);
@@ -146,6 +156,7 @@ public class AnalyticsGen {
                             else if(month.equalsIgnoreCase("October")) p .addOctCollection(currentLine);
                             else if(month.equalsIgnoreCase("November")) p.addNovCollection(currentLine);
                             else if(month.equalsIgnoreCase("December")) p.addDecCollection(currentLine);
+                            else if(month.equalsIgnoreCase("January")) p.addJanCollection(currentLine);
 
                             else {
                                 System.err.println("Error: Month not found. It was: " + month);
@@ -225,7 +236,7 @@ public class AnalyticsGen {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
             for (String month : months) {
                 System.out.println("Month:" + month);
-                writer.println("Stats for " + month + " 2017");
+                writer.println("Stats for " + month);
                 count++;
                 for(AnalyticsPartner p : partners) {
                     if(p.getHub() != null && p.getHub().equals(hub)) {
@@ -243,6 +254,7 @@ public class AnalyticsGen {
                         else if(month.equalsIgnoreCase("October")) collections = p.getOctCollections();
                         else if(month.equalsIgnoreCase("November")) collections = p.getNovCollections();
                         else if(month.equalsIgnoreCase("December")) collections = p.getDecCollections();
+                        else if(month.equalsIgnoreCase("January")) collections = p.getJanCollections();
 
                         else {
                             System.err.println("Error: Month not found. It was: " + month);

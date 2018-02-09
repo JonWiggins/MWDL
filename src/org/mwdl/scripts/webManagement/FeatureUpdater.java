@@ -2,7 +2,6 @@ package org.mwdl.scripts.webManagement;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.mwdl.scripts.data.DataFetcher;
 
 import java.io.IOException;
@@ -40,21 +39,21 @@ public class FeatureUpdater {
             String collectionDiv = "";
 
             collectionDiv.concat("<!-- Image (if any)-->");
-            if (ctoInsert.getImg() != null) collectionDiv.concat(ctoInsert.getImg());
+            if (ctoInsert.img != null) collectionDiv.concat(ctoInsert.img);
             collectionDiv.concat("<!-- Image Description -->");
-            collectionDiv.concat(ctoInsert.getDes().replace("&amp;","&"));
+            collectionDiv.concat(ctoInsert.des.replace("&amp;","&"));
             collectionDiv.concat("</div>");
             collectionDiv.concat("<!-- Collection Title-->");
-            collectionDiv.concat("<h4>" + ctoInsert.getTitle() + "</h4>");
+            collectionDiv.concat("<h4>" + ctoInsert.title + "</h4>");
             collectionDiv.concat("<!-- Collection Publisher-->");
-            collectionDiv.concat("<h6> Published by <a href=\"../partners/" + ctoInsert.getUrlPublisher() + ".php\">"+ ctoInsert.getPlainPublisher()+"</a></h6>");
+            collectionDiv.concat("<h6> Published by <a href=\"../partners/" + ctoInsert.getRefinedPublisher() + ".php\">"+ ctoInsert.getPlainPublisher()+"</a></h6>");
             collectionDiv.concat(" ");
             collectionDiv.concat("<!-- Collection Description -->");
-            if (ctoInsert.getText() != null) collectionDiv.concat(ctoInsert.getText());
+            if (ctoInsert.text != null) collectionDiv.concat(ctoInsert.text);
             collectionDiv.concat("<hr>");
             collectionDiv.concat("<h6>");
             collectionDiv.concat("<!-- Browse Link -->");
-            if (ctoInsert.getBrowse() != null) collectionDiv.concat(ctoInsert.getBrowse());
+            if (ctoInsert.getExlibirisLink() != null) collectionDiv.concat(ctoInsert.getExlibirisLink());
             collectionDiv.concat("</h6>");
 
 

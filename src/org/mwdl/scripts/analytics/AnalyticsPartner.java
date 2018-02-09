@@ -8,9 +8,11 @@ import java.util.Scanner;
 
 /**
  * Hold the data lines for the analytics emails for each partner
+ * To use the program, comment and uncomment the lines under //FIXME tags
+ *  to fit the ammount of time that you are going to generate analytics for
  *
  * @author Jon Wiggins
- * @version 6/23/17
+ * @version 2/7/18
  */
 
 public class AnalyticsPartner {
@@ -27,6 +29,7 @@ public class AnalyticsPartner {
     private ArrayList<String> OctCollections;
     private ArrayList<String> NovCollection;
     private ArrayList<String> DecCollection;
+    private ArrayList<String> JanCollection;
 
     AnalyticsPartner(String name){
         this.name = name.replace("&amp;", "&");
@@ -41,6 +44,7 @@ public class AnalyticsPartner {
         OctCollections = new ArrayList<>();
         NovCollection = new ArrayList<>();
         DecCollection = new ArrayList<>();
+        JanCollection = new ArrayList<>();
         fetchHub();
 
     }
@@ -71,6 +75,9 @@ public class AnalyticsPartner {
     void addDecCollection(String collection){
         DecCollection.add(collection);
     }
+    void addJanCollection(String collection){
+        JanCollection.add(collection);
+    }
 
     //FIXME add getter for new month ArrayList here
     ArrayList getMayCollections(){
@@ -96,6 +103,9 @@ public class AnalyticsPartner {
     }
     ArrayList getDecCollections(){
         return DecCollection;
+    }
+    ArrayList getJanCollections(){
+        return JanCollection;
     }
 
     public String getName(){

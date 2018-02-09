@@ -21,7 +21,7 @@ import static java.util.Collections.sort;
 public class CollectionPageMaker {
 
     public static void writeFullCollection(Collection toWrite) {
-        String FileLocAndName = "collections/" + toWrite.getUrlTitle() + ".php";
+        String FileLocAndName = "collections/" + toWrite.refinedPublisher + ".php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -29,37 +29,37 @@ public class CollectionPageMaker {
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<script type=\"text/javascript\">\n" +
                     "\tif (screen.width <= 800) {\n" +
-                    "  \t\twindow.location = \"../ampcollections/"+ toWrite.getUrlTitle() +".php\";\n" +
+                    "  \t\twindow.location = \"../ampcollections/"+ toWrite.urlTitle +".php\";\n" +
                     "\t}\n" +
                     "</script>");
             writer.println("<!-- Mobile Links -->");
-            writer.println("<link rel=\"amphtml\" href=\"../ampcollections/" + toWrite.getUrlTitle() + ".php\">");
-            writer.println("<link rel=\"alternate\" media=\"only screen and (max-width: 640px)\" href=\"../ampcollections/" + toWrite.getUrlTitle() + ".php\">");
-            writer.println("<!-- Collection #" + toWrite.getCollectionNumber() + " -->");
+            writer.println("<link rel=\"amphtml\" href=\"../ampcollections/" + toWrite.urlTitle + ".php\">");
+            writer.println("<link rel=\"alternate\" media=\"only screen and (max-width: 640px)\" href=\"../ampcollections/" + toWrite.urlTitle + ".php\">");
+            writer.println("<!-- Collection #" + toWrite.collectionNumber + " -->");
             writer.println("<!-- Collection Title -->");
-            writer.println("<title>" + toWrite.getTitle() + "</title>");
+            writer.println("<title>" + toWrite.title + "</title>");
 
 //            writer.println("<!-- Schema MetaData Script -->");
 //            writer.println("<script type=\"application/ld+json\">{");
 //            writer.println("\"@context\": \"http://schema.org\",");
 //            writer.println("\"@type\": \""+toWrite.getMetaAtt1()+"\",");
-//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.getUrlTitle()+".php\",");
-//            writer.println("\"headline\": \""+toWrite.getTitle()+"\",");
+//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.urlTitle+".php\",");
+//            writer.println("\"headline\": \""+toWrite.title+"\",");
 //            writer.println("} </script>");
 
             writer.println("<?php include(\"../includes/collectionmenuhead.php\");?>");
             writer.println(" ");
             writer.println("<!-- Share Links -->");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
-                    "                                  href=\"http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/" + toWrite.getUrlTitle() + ".php&t=" + toWrite.getTitle() + "\"\n" +
+                    "                                  href=\"http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/" + toWrite.urlTitle + ".php&t=" + toWrite.title + "\"\n" +
                     "                                  target=\"_blank\"><img src=\"../images/facebook.png\" alt=\"facebook\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Facebook</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
-                    "                                  href=\"http://www.twitter.com/intent/tweet?url=mwdl.org/collections/" + toWrite.getUrlTitle() + ".php&via=@MountainWestDL&text=" + toWrite.getTitle() + "\"\n" +
+                    "                                  href=\"http://www.twitter.com/intent/tweet?url=mwdl.org/collections/" + toWrite.urlTitle + ".php&via=@MountainWestDL&text=" + toWrite.title + "\"\n" +
                     "                                  target=\"_blank\"><img src=\"../images/twitter.png\" alt=\"twitter\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Twitter</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
-                    "                                  href=\"http://www.tumblr.com/share/link?url=mwdl.org/collections/" + toWrite.getUrlTitle() + ".php\"\n" +
+                    "                                  href=\"http://www.tumblr.com/share/link?url=mwdl.org/collections/" + toWrite.urlTitle + ".php\"\n" +
                     "                                  target=\"_blank\"><img src=\"../images/tumblr.png\"\n" +
                     "                                                       alt=\"tumblr\" height=\"20\" width=\"20\"> Tumblr</a></li>");
             writer.println("</ul>");
@@ -67,21 +67,21 @@ public class CollectionPageMaker {
 
             writer.println("<div class=\"imageAndDes\">");
             writer.println("<!-- Image (if any)-->");
-            if (toWrite.getImg() != null) writer.println(toWrite.getImg());
+            if (toWrite.img != null) writer.println(toWrite.img);
             writer.println("<!-- Image Description -->");
-            writer.println(toWrite.getDes().replace("&amp;","&"));
+            writer.println(toWrite.des.replace("&amp;","&"));
             writer.println("</div>");
             writer.println("<!-- Collection Title-->");
-            writer.println("<h4>" + toWrite.getTitle() + "</h4>");
+            writer.println("<h4>" + toWrite.title + "</h4>");
             writer.println("<!-- Collection Publisher-->");
-            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getUrlPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
+            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getRefinedPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
             writer.println(" ");
             writer.println("<!-- Collection Description -->");
-            if (toWrite.getText() != null) writer.println(toWrite.getText());
+            if (toWrite.text != null) writer.println(toWrite.text);
             writer.println("<hr>");
             writer.println("<h6>");
             writer.println("<!-- Browse Link -->");
-            if (toWrite.getBrowse() != null) writer.println(toWrite.getBrowse());
+            if (toWrite.getExlibirisLink() != null) writer.println(toWrite.getExlibirisLink());
             writer.println("</h6>");
             writer.println("<p></p>");
             writer.println("</div>");
@@ -92,48 +92,48 @@ public class CollectionPageMaker {
             writer.close();
         } catch (IOException e) {
             // do something
-            System.err.println("Could not generate regular page for collection number" + toWrite.getCollectionNumber() + ", " + toWrite.getTitle());
+            System.err.println("Could not generate regular page for collection number" + toWrite.collectionNumber + ", " + toWrite.title);
         }
     }
 
     public static void writeAMPCollection(Collection toWrite) {
-        String FileLocAndName = "ampcollections/" + toWrite.getUrlTitle() + ".php";
+        String FileLocAndName = "ampcollections/" + toWrite.urlTitle + ".php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include(\"../includes/ampheader.php\");?>");
-            writer.println("<!-- Collection #" + toWrite.getCollectionNumber() + " -->");
+            writer.println("<!-- Collection #" + toWrite.collectionNumber + " -->");
             writer.println("<!-- Collection Title -->");
-            writer.println("<title>" + toWrite.getTitle() + "</title>");
+            writer.println("<title>" + toWrite.title + "</title>");
             writer.println("<!-- Desktop Version Link -->");
-            writer.println("<link rel=\"canonical\" href=\"../collections/" + toWrite.getUrlTitle() + ".php\">");
+            writer.println("<link rel=\"canonical\" href=\"../collections/" + toWrite.urlTitle + ".php\">");
 
 //            writer.println("<!-- Schema MetaData Script -->");
 //            writer.println("<script type=\"application/ld+json\">{");
 //            writer.println("\"@context\": \"http://schema.org\",");
 //            writer.println("\"@type\": \""+toWrite.getMetaAtt1()+"\",");
-//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.getUrlTitle()+".php\",");
-//            writer.println("\"headline\": \""+toWrite.getTitle()+"\",");
+//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.urlTitle+".php\",");
+//            writer.println("\"headline\": \""+toWrite.title+"\",");
 //            writer.println("} </script>");
 
             writer.println("<?php include(\"../includes/ampstyle.php\");?>");
             writer.println(" ");
             writer.println("<!-- Collection Title -->");
-            writer.println("<h3>" + toWrite.getTitle() + "</h3>");
+            writer.println("<h3>" + toWrite.title + "</h3>");
             writer.println("<!-- Collection Publisher -->");
-            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getUrlPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
+            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getRefinedPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
             writer.println("<!-- Collection Image -->");
             writer.println("<div class=amp-img-fill>");
-            if (toWrite.getAmpImg() != null) writer.println(toWrite.getAmpImg());
+            if (toWrite.ampImage != null) writer.println(toWrite.ampImage);
             writer.println("</div>");
             writer.println("<!-- Image Description -->");
-            if (toWrite.getDes() != null) writer.println(toWrite.getDes());
+            if (toWrite.des != null) writer.println(toWrite.des);
             writer.println("<!-- Article Text -->");
-            if (toWrite.getText() != null) writer.println(toWrite.getText());
+            if (toWrite.text != null) writer.println(toWrite.text);
             writer.println("<hr>");
             writer.println("<!-- Browse Collection -->");
             writer.println("<h6>");
-            if (toWrite.getBrowse() != null) writer.println(toWrite.getBrowse());
+            if (toWrite.getExlibirisLink() != null) writer.println(toWrite.getExlibirisLink());
             writer.println("</h6>");
             writer.println("<?php include(\"../includes/ampfooter.php\");?>");
 
@@ -141,7 +141,7 @@ public class CollectionPageMaker {
             writer.close();
         } catch (IOException e) {
             // do something
-            System.err.println("Could not generate amp page for collection number" + toWrite.getCollectionNumber() + ", " + toWrite.getTitle());
+            System.err.println("Could not generate amp page for collection number" + toWrite.collectionNumber + ", " + toWrite.title);
 
         }
     }
@@ -178,11 +178,11 @@ public class CollectionPageMaker {
             ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
 
             for (Collection c : collectionArrayList) {
-                String urlTitle = c.getUrlTitle();
-                String title = ellipsize(c.getTitle().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
+                String urlTitle = c.urlTitle;
+                String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
                 String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getUrlPublisher();
-                writer.println("<!-- Collection #"+ c.getCollectionNumber()+" -->");
+                String urlPub= c.getRefinedPublisher();
+                writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
 
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
@@ -237,8 +237,8 @@ public class CollectionPageMaker {
             ArrayList<String> collectionNames = new ArrayList<>();
 
             for (Collection c : collectionArrayList) {
-                nameToCollection.put(c.getTitle(), c);
-                collectionNames.add(c.getTitle());
+                nameToCollection.put(c.title, c);
+                collectionNames.add(c.title);
             }
             sort(collectionNames);
 
@@ -249,11 +249,11 @@ public class CollectionPageMaker {
             }
 
             for (Collection c : sorted) {
-                String urlTitle = c.getUrlTitle();
-                String title = ellipsize(c.getTitle().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
+                String urlTitle = c.urlTitle;
+                String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
                 String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getUrlPublisher();
-                writer.println("<!-- Collection #"+ c.getCollectionNumber()+" -->");
+                String urlPub= c.getRefinedPublisher();
+                writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub+".php\">"+ publisherName +"</a></td>");
@@ -321,11 +321,11 @@ public class CollectionPageMaker {
             }
 
             for (Collection c : sorted) {
-                String urlTitle = c.getUrlTitle();
-                String title = ellipsize(c.getTitle().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
+                String urlTitle = c.urlTitle;
+                String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
                 String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getUrlPublisher();
-                writer.println("<!-- Collection #"+ c.getCollectionNumber()+" -->");
+                String urlPub= c.getRefinedPublisher();
+                writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub+".php\">"+ publisherName +"</a></td>");
@@ -366,8 +366,8 @@ public class CollectionPageMaker {
         ArrayList<String> collectionNames = new ArrayList<>();
 
         for (Collection c : collectionArrayList) {
-            nameToCollection.put(c.getTitle(), c);
-            collectionNames.add(c.getTitle());
+            nameToCollection.put(c.title, c);
+            collectionNames.add(c.title);
         }
         sort(collectionNames);
 
@@ -384,8 +384,8 @@ public class CollectionPageMaker {
         ArrayList<String> partnerNames = new ArrayList<>();
 
         for (Collection c : collectionArrayList) {
-            partnerToCollection.put(c.getTitle(), c);
-            partnerNames.add(c.getTitle());
+            partnerToCollection.put(c.title, c);
+            partnerNames.add(c.title);
         }
         sort(partnerNames);
 

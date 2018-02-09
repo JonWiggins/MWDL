@@ -39,14 +39,14 @@ public class WriteCollectionFromCSV {
                 if (isActive) {
                     String note = s.next();
                     if(note == null) note = " ";
-                    String title = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String urlTitle = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String pub = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String text = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String img = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String ampImg = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String des = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
-                    String browse = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");;
+                    String title = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String urlTitle = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String pub = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String text = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String img = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String ampImg = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String des = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
+                    String browse = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
 
                     collectionArrayList.add(new Collection(count, isActive, note, title, urlTitle, pub, text, img, ampImg, des, browse));
                 }

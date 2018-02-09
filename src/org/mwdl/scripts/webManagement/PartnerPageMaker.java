@@ -48,7 +48,7 @@ public class PartnerPageMaker {
 
             ArrayList<Collection> collections = toWrite.getCollections();
             for(Collection collection : collections)
-                writer.println("<li><a href = \"../collections/"+collection.getUrlTitle() + ".php\">" + collection.getTitle().replace("%comma%","") +"</a></li>");
+                writer.println("<li><a href = \"../collections/"+collection.urlTitle + ".php\">" + collection.urlTitle.replace("%comma%","") +"</a></li>");
 
             writer.println("</div>");
             writer.println("</div>");
@@ -97,7 +97,7 @@ public class PartnerPageMaker {
 
             ArrayList<Collection> collections = toWrite.getCollections();
             for(Collection collection : collections)
-                writer.println("<li><a href = \"../ampcollections/"+collection.getUrlTitle() + ".php\">" + collection.getTitle().replace("%comma%","") +"</a></li>");
+                writer.println("<li><a href = \"../ampcollections/"+collection.urlTitle + ".php\">" + collection.urlTitle.replace("%comma%","") +"</a></li>");
 
             writer.println("<?php include(\"../includes/ampfooter.php\");?>");
 

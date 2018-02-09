@@ -305,60 +305,62 @@ public class CollectionMaker {
 
     public static void writeCSV(Collection toWrite){
 
-        csv.append(String.valueOf(toWrite.getCollectionNumber())).append(",");
-        csv.append(String.valueOf(toWrite.getActive())).append(",");
+        csv.append(String.valueOf(toWrite.collectionNumber)).append(",");
+        csv.append(String.valueOf(toWrite.isActive)).append(",");
 
-        if(toWrite.getNote() == null){
+        if(toWrite.note == null){
             csv.append("").append(",");
         }else{
-            csv.append(toWrite.getNote()).append(",");
+            csv.append(toWrite.note).append(",");
         }
 
         try {
-            csv.append(toWrite.getTitle().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+            csv.append(toWrite.title.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getUrlTitle().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.urlTitle.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getPublisherLink().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.publisherLink.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getText().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.text.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getImg().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.img.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getAmpImg().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.ampImage.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
         try{
-        csv.append(toWrite.getDes().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        csv.append(toWrite.des.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");
 
-        try{
-        csv.append(toWrite.getBrowse().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
-        }catch(NullPointerException e){}
+        //Commented because we don't use getBrowse anymore
+        // Browse links are generated, not stored
+//        try{
+//        csv.append(toWrite.getBrowse().replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+//        }catch(NullPointerException e){}
 
         csv.append(",").append("\n");
     }
