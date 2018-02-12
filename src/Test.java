@@ -18,11 +18,11 @@ import java.util.ArrayList;
 public class Test {
     public static void main(String[] args) {
         try {
-            ArrayList<Collection> results = DataFetcher.howManyImagesAreNotStoredLocally();
+            ArrayList<String> results = DataFetcher.refineInactiveCollectionLines();
 
             System.out.println(results.size());
 
-            for(Collection c : results)
+            for(String c : results)
                 System.out.println(c);
 
             } catch (FileNotFoundException e) {

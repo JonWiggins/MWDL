@@ -22,6 +22,9 @@ import java.util.Scanner;
  * @version 6/28/17
  */
 
+
+//OK, I know, calm down guy
+@SuppressWarnings("Deprecated")
 public class DataFetcher {
 
     public static Collection fetchCollection(int collectionNumber) throws FileNotFoundException {
@@ -231,11 +234,13 @@ public class DataFetcher {
 
     public static ArrayList<String> getInactiveCollectionLines() throws FileNotFoundException {
         ArrayList<String> toReturn = new ArrayList<>();
-        Scanner collections = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
-        collections.next();
-        while (collections.hasNext()) {
+        Scanner collections = new Scanner(new File("newCollectionData.csv"));
+        //skip the tiles line
+        collections.nextLine();
 
-            String currentDataLine = collections.next();
+        while (collections.hasNextLine()) {
+
+            String currentDataLine = collections.nextLine();
             Scanner n = new Scanner(currentDataLine).useDelimiter(",");
             String currentDataNumber = n.next();
             String isActive = n.next();
@@ -253,7 +258,7 @@ public class DataFetcher {
         for(String element : rawInactiveCollections)
             if(!element.contains("Could not retrieve collection")
                     && !element.contains("Removed")
-                    && !element.contains("../partners/.php")
+                    && !element.contains("- Collection in the Mountain West Digital Library")
                     && !element.contains("too few elements to be parsed."))
                 toReturn.add(element);
 
@@ -296,7 +301,7 @@ public class DataFetcher {
                     String img = n.next();
                     String ampImage = n.next();
                     if (Boolean.valueOf(isActive)) {
-                        if (!img.contains(("../images/collection_images/"))) {
+                        if (!img.contains(("../images/collection_images/collection"+currentDataNumber))) {
                             list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, title, urlTitle, pub, text, img, ampImage, n.next(), n.next()));
                         }
                     }

@@ -24,12 +24,13 @@ public class Collection {
 
 
 
-    @Deprecated
+
     /**
      * This method is deprecated because it makes use of the browse link, which should be generated rather than stored
      * See getExlibirisLink()
      *
      */
+    @Deprecated
     public Collection(int collectionNumber, boolean isActive, String note, String title, String urTitle, String publisherLink, String text, String img, String ampImage, String des, String browse){
         this.collectionNumber = collectionNumber;
         this.isActive = isActive;
