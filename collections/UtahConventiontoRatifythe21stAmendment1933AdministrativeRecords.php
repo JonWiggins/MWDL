@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1881.jpg" alt="Proceedings reports" width="307" height="399" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1881.jpg" alt="Proceedings reports "width="307" height="399"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm/compoundobject/collection/6300/id/161" target="_blank">Proceedings reports<br> </a>
+Proceedings reports 
 </div>
 <!-- Collection Title-->
 <h4>Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Convention+to+Ratify+the+21st+Amendment+(1933)+Administrative+Records">Browse all records in Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1881&indx=1&bulkSize=50">Browse all record in Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</a>
 </h6>
 <p></p>
 </div>

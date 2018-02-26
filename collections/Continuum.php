@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1221.jpg" alt="Continuum 1993 Summer (Vol. 3, no. 1)" width="220" height="290" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1221.jpg" alt="Continuum 1993 Summer (Vol. 3, no. 1) "width="220" height="290"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/continuum/id/15" target="_blank">Continuum 1993 Summer (Vol. 3, no. 1)<br> </a>
+Continuum 1993 Summer (Vol. 3, no. 1) 
 </div>
 <!-- Collection Title-->
 <h4>Continuum</h4>
@@ -46,8 +46,7 @@ The pages of Continuum, the magazine of the University of Utah, keep alumni, fac
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Continuum">Browse all records in Continuum</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1221&indx=1&bulkSize=50">Browse all record in Continuum</a>
 </h6>
 <p></p>
 </div>

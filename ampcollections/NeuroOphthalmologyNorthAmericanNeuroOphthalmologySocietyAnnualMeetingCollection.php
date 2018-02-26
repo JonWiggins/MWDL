@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1549.jpg" alt="Ocular Motor palsy" width="353" height="422" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Ocular Motor palsy "width="353" height ="422"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/ehsl-nam/id/76" target="_blank">Ocular Motor palsy<br> </a>
+Ocular Motor palsy 
 <!-- Article Text -->
 </p>
 Part of the The Neuro-Ophthalmology Virtual Education Library</p>
@@ -24,7 +24,6 @@ A discipline specific, open access repository of digital materials (images, vide
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Neuro-Ophthalmology:+North+American+Neuro-Ophthalmology+Society+Annual+Meeting+Collection">Browse all records in Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1549&indx=1&bulkSize=50">Browse all record in Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

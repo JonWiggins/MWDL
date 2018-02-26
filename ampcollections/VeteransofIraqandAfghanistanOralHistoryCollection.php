@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2118.jpg" alt="Joseph Cornell" height ="250" width="250" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=" Joseph Cornell"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.uvu.edu/cdm/ref/collection/UVUIraq/id/12" target="_blank"> Joseph Cornell</a>
+ Joseph Cornell
 <!-- Article Text -->
 </p>
 The Veterans of Iraq and Afghanistan Oral History Collection is comprised of interviews conducted by the George Sutherland Archives at Utah Valley University with veterans of the wars in Iraq and Afghanistan, from the years between 2003 and 2011. The collection, which focuses primarily on veterans currently living in Utah County, will continue to grow over the coming years.</p>
@@ -23,7 +23,6 @@ The Veterans of Iraq and Afghanistan Oral History Collection is comprised of int
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Veterans+of+Iraq+and+Afghanistan+Oral+History+Collection">Browse all records in Veterans of Iraq and Afghanistan Oral History Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2118&indx=1&bulkSize=50">Browse all record in Veterans of Iraq and Afghanistan Oral History Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

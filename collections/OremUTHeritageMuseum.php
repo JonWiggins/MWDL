@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1538.jpg" alt="Three Men Kneeling in a Field" width="357" height="282" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1538.jpg" alt="Three Men Kneeling in a Field "width="357" height="282"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.uvu.edu/cdm4/item_viewer.php?CISOROOT=/Scera&CISOPTR=10" target="_blank">Three Men Kneeling in a Field<br> </a>
+Three Men Kneeling in a Field 
 </div>
 <!-- Collection Title-->
 <h4>Orem (UT) Heritage Museum</h4>
@@ -46,8 +46,7 @@ A visit to the Orem Heritage Museum is great for school and church groups, clubs
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Orem+(UT)+Heritage+Museum">Browse all records in Orem (UT) Heritage Museum</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1538&indx=1&bulkSize=50">Browse all record in Orem (UT) Heritage Museum</a>
 </h6>
 <p></p>
 </div>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2281.jpg" alt="Richard Wooden Leg sitting with boy" height="300" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2281.jpg" alt="<em>Richard Wooden Leg sitting with boy</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/MS165/id/186" target="_blank"><em>Richard Wooden Leg sitting with boy</em></a>
+<em>Richard Wooden Leg sitting with boy</em>
 </div>
 <!-- Collection Title-->
 <h4>MS 165 Thomas Marquis Native American Nitrate Negatives</h4>
@@ -46,8 +46,7 @@ These photographs were created by photographer Dr. Thomas Marquis, a physician a
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+165+Thomas+Marquis+Native+American+Nitrate+Negatives">Browse all records in MS 165 Thomas Marquis Native American Nitrate Negatives</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2281&indx=1&bulkSize=50">Browse all record in MS 165 Thomas Marquis Native American Nitrate Negatives</a>
 </h6>
 <p></p>
 </div>

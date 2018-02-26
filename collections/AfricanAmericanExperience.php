@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1941.jpg" width="289" height="285" alt="African-American woman dancing on stage." align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1941.jpg" alt="Film negatives of a talent show winner at the Carver House, April 4, 1962 "width="289" height="285"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digital.library.unlv.edu/objects/ohr/883" target="_blank">Film negatives of a talent show winner at the Carver House, April 4, 1962 </a>
+Film negatives of a talent show winner at the Carver House, April 4, 1962 
 </div>
 <!-- Collection Title-->
 <h4>African American Experience</h4>
@@ -49,8 +49,7 @@ The African American Experience collection at UNLV documents the history of Afri
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=African+American+Experience">Browse all records in African American Experience</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1941&indx=1&bulkSize=50">Browse all record in African American Experience</a>
 </h6>
 <p></p>
 </div>

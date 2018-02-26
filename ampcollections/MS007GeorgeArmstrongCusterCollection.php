@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2272.jpg" alt="General Terry" s second report to General George Crook on the Battle of Little Bighorn' width="409" height ="250" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/MS007/id/73" target="_blank"><em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em></a>
+<em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>
 <!-- Article Text -->
 </p>
 This collection contains various documents concerning the Battle of the Little Big Horn. Most prominent are two original reports of General Alfred H. Terry to General George Crook, the first official reports of the defeat of Custer at the Little Big Horn battlefield. Other documents in the collection include reminiscences of Wilmot Sanford on the battle, a letter from General E. S. Godfrey to E.S. Paxson about the battle, as well as a letter from William F. Cody to Elizabeth Custer regarding a statue of her husband.</p>
@@ -23,7 +23,6 @@ This collection contains various documents concerning the Battle of the Little B
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+007+George+Armstrong+Custer+Collection">Browse all records in MS 007 George Armstrong Custer Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2272&indx=1&bulkSize=50">Browse all record in MS 007 George Armstrong Custer Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

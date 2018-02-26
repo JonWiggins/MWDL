@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1038.jpg" alt="Union Pacific Railroad P. 60" width="324" height="255" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Union Pacific Railroad P. 60 "width="324" height ="255"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/USHS_Class/id/10116" target="_blank">Union Pacific Railroad P. 60<br> </a>
+Union Pacific Railroad P. 60 
 <!-- Article Text -->
 </p>
 A self-indexing, self-service, collection of the best photographs from the Society's collections. Consists of mounted prints made from original photographs taken from other collections, plus some originals.</p>
@@ -23,7 +23,6 @@ A self-indexing, self-service, collection of the best photographs from the Socie
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+State+Historical+Society+Classified+Photograph+Collection">Browse all records in Department of Heritage and Arts Classified Photograph Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1038&indx=1&bulkSize=50">Browse all record in Department of Heritage and Arts Classified Photograph Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

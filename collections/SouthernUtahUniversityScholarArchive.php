@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1868.gif" alt="Ubuntu: a person is a person through other persons" width="326" height="423" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1868.gif" alt="Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons""width="326" height="423"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.li.suu.edu/cdm/compoundobject/collection/scholar/id/6261/rec/45" target="_blank">Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons"</a>
+Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons"
 </div>
 <!-- Collection Title-->
 <h4>Southern Utah University Scholar Archive</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Southern+Utah+University+Scholar+Archive">Browse all records in Southern Utah University Scholar Archive</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1868&indx=1&bulkSize=50">Browse all record in Southern Utah University Scholar Archive</a>
 </h6>
 <p></p>
 </div>

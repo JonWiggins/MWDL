@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1606.jpg" alt="SLCC Student Newspapers 1981-04-14" width="248" height="332" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1606.jpg" alt="SLCC Student Newspapers 1981-04-14 "width="248" height="332"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.slcc.edu/cdm/compoundobject/collection/stnewspp/id/2864" target="_blank">SLCC Student Newspapers 1981-04-14<br> </a>
+SLCC Student Newspapers 1981-04-14 
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake Community College Student Newspapers</h4>
@@ -46,8 +46,7 @@ The student newspaper for Salt Lake Community College has been published under a
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Salt+Lake+Community+College+Student+Newspapers">Browse all records in Salt Lake Community College Student Newspapers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1606&indx=1&bulkSize=50">Browse all record in Salt Lake Community College Student Newspapers</a>
 </h6>
 <p></p>
 </div>

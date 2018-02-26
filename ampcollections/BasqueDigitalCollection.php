@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1823.jpg" alt="A Basque Man Playing Pelota" width="358" height="242" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="A Basque Man Playing Pelota "width="358" height ="242"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/basqcoll&CISOPTR=86&CISOBOX=1&REC=8" target="_blank">A Basque Man Playing Pelota<br> </a>
+A Basque Man Playing Pelota 
 <!-- Article Text -->
 </p>
 This collection is from the Basque Studies Library's photographic archives and includes photographs from both the American West and the Basque Country.</p>
@@ -23,7 +23,6 @@ This collection is from the Basque Studies Library's photographic archives and i
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Basque+Digital+Collection">Browse all records in Basque Digital Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1823&indx=1&bulkSize=50">Browse all record in Basque Digital Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

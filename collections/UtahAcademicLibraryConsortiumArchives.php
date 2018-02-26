@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1196.jpg" alt="Annual Report. Utah College Library Council. 1983-1984" width="375" height="596" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1196.jpg" alt="Annual Report. Utah College Library Council. 1983-1984 "width="375" height="596"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/ualcarch/id/32" target="_blank">Annual Report. Utah College Library Council. 1983-1984<br> </a>
+Annual Report. Utah College Library Council. 1983-1984 
 </div>
 <!-- Collection Title-->
 <h4>Utah Academic Library Consortium Archives</h4>
@@ -46,8 +46,7 @@ The Utah Academic Library Consortium (UALC) was established in 1971 and consists
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Academic+Library+Consortium+Archives">Browse all records in Utah Academic Library Consortium Archives</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1196&indx=1&bulkSize=50">Browse all record in Utah Academic Library Consortium Archives</a>
 </h6>
 <p></p>
 </div>

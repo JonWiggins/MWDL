@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1557.png" alt="Death Record" width="250" height="250"> layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Sanpete County Death Record "width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/15842&CISOPTR=107&REC=1" target="_blank">Sanpete County Death Record<br> </a>
+Sanpete County Death Record 
 <!-- Article Text -->
 </p>
 These records contain death registers for the years 1898-1905. Each entry has the decedent' s name, date of death, place of death, term of residence, sex, color, race, age, occupation, cause of death, marital status, birthplace, residence, and name of informant.</p>
@@ -24,7 +24,6 @@ These records contain death registers for the years 1898-1905. Each entry has th
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Sanpete+County+(Utah).+County+Clerk+Death+Register">Browse all records in Sanpete County (Utah). County Clerk Death Register</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1557&indx=1&bulkSize=50">Browse all record in Sanpete County (Utah). County Clerk Death Register</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

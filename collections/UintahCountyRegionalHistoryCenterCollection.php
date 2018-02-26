@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1029.jpg" alt="Kid's Day Parade" width="380" height="247" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1029.jpg" alt="Ron Stewart along with many other children march in the Children's Day Parade"width="380" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/Uintah_History&CISOPTR=5501" target="_blank">Ron Stewart along with many other children march in the Children's Day Parade</a>
+Ron Stewart along with many other children march in the Children's Day Parade
 </div>
 <!-- Collection Title-->
 <h4>Uintah County Regional History Center Collection</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Uintah+County+Regional+History+Center+Collection">Browse all records in Uintah County Regional History Center Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1029&indx=1&bulkSize=50">Browse all record in Uintah County Regional History Center Collection</a>
 </h6>
 <p></p>
 </div>

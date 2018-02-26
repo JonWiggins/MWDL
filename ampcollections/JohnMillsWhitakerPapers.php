@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1872.jpg" alt="Correspondence between John Mills Whitaker and others, 1898-1899" width="383" height="220" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Correspondence between John Mills Whitaker and others, 1898-1899"width="383" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/compoundobject/collection/uu-jmwp/id/6962" target="_blank">Correspondence between John Mills Whitaker and others, 1898-1899</a>
+Correspondence between John Mills Whitaker and others, 1898-1899
 <!-- Article Text -->
 </p>
 Diaries (1878-1959); correspondence (1884-1959); personal items; memos and notes; business records; diary of Thomas William Whitaker (1849-1886).</p>
@@ -23,7 +23,6 @@ Diaries (1878-1959); correspondence (1884-1959); personal items; memos and notes
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=John+Mills+Whitaker+Papers">Browse all records in John Mills Whitaker Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1872&indx=1&bulkSize=50">Browse all record in John Mills Whitaker Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1638.jpg" alt="William D. Hurst day planner" width="177" height="292" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="William D. Hurst day planner "width="177" height ="292"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://digital.lib.usu.edu/cdm/compoundobject/collection/Hurst/id/19272" target="_blank">William D. Hurst day planner<br> </a>
+William D. Hurst day planner 
 <!-- Article Text -->
 <p></p>
 <p>U.S. Forester William Daly Hurst's distinguished service with the Forest Service spanned four decades (1937-1976) of changes in policies related to multiple use and resource conservation, including the grazing permit controversy of 1957-1958. The William D. Hurst Digital Collection features Hurst's daily diaries, files, and calendars, providing an in-depth look at his life and work in the Forest Service.</p>
@@ -26,7 +26,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=William+D.+Hurst+Papers">Browse all records in William D. Hurst Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1638&indx=1&bulkSize=50">Browse all record in William D. Hurst Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

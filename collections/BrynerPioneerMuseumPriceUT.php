@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1558.jpg" alt="Utah Railway Company Semi-Monthly Time Book" width="262" height="420" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1558.jpg" alt="Utah Railway Company Semi-Monthly Time Book "width="262" height="420"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.uvu.edu/cdm4/document.php?CISOROOT=/Bryner&CISOPTR=102" target="_blank">Utah Railway Company Semi-Monthly Time Book<br> </a>
+Utah Railway Company Semi-Monthly Time Book 
 </div>
 <!-- Collection Title-->
 <h4>Bryner Pioneer Museum, Price (UT)</h4>
@@ -46,8 +46,7 @@ Albert Bryner was the second of three sons of Ulrich and Maria Mathis Bryner. Ul
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Bryner+Pioneer+Museum,+Price+(UT)">Browse all records in Bryner Pioneer Museum, Price (UT)</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1558&indx=1&bulkSize=50">Browse all record in Bryner Pioneer Museum, Price (UT)</a>
 </h6>
 <p></p>
 </div>

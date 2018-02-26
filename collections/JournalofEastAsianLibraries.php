@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1074.jpg" alt="No. 134 Journal of East Asian Libraries" width="309" height="414" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1074.jpg" alt="No. 134 Journal of East Asian Libraries "width="309" height="414"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/EastAsianLibraries/id/2769" target="_blank">No. 134 Journal of East Asian Libraries<br> </a>
+No. 134 Journal of East Asian Libraries 
 </div>
 <!-- Collection Title-->
 <h4>Journal of East Asian Libraries</h4>
@@ -46,8 +46,7 @@ The Journal of East Asian Libraries is published twice a year by the Council on 
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Journal+of+East+Asian+Libraries">Browse all records in Journal of East Asian Libraries</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1074&indx=1&bulkSize=50">Browse all record in Journal of East Asian Libraries</a>
 </h6>
 <p></p>
 </div>

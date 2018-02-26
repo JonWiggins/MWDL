@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1210.jpg" alt="Petition from 1897" width="350" height="400"> align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1210.jpg" alt="Petition from 1897 "width="350" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/432&CISOPTR=2770&REC=3" target="_blank">Petition from 1897<br> </a>
+Petition from 1897 
 </div>
 <!-- Collection Title-->
 <h4>Utah Legislature. House of Representatives Working Bills, 1896-1989</h4>
@@ -48,8 +48,7 @@ This series documents the legislative process in the House of Representatives. T
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Legislature.+House+of+Representatives+Working+Bills,+1896-1989">Browse all records in Utah Legislature. House of Representatives Working Bills, 1896-1989</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
 </h6>
 <p></p>
 </div>

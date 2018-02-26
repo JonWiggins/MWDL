@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2063.jpg" alt="Saige Aramaki" width="279" height="396" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Interviews with Japanese in Utah: Saige Aramaki"width="279" height ="396"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/uu-iju/id/109" target="_blank">Interviews with Japanese in Utah: Saige Aramaki</a>
+Interviews with Japanese in Utah: Saige Aramaki
 <!-- Article Text -->
 </p>
 The interviews with Japanese Americans in Utah (1984-1988) consists of transcripts of a series of interviews conducted with members of the Japanese community between 1984 and 1988. Common themes within the interviews are family life, work, religion, immigration experiences, discrimination, and relations with the Mormon establishment in Utah.</p>
@@ -23,7 +23,6 @@ The interviews with Japanese Americans in Utah (1984-1988) consists of transcrip
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=University+of+Utah+Interviews+with+Japanese+in+Utah">Browse all records in University of Utah Interviews with Japanese in Utah</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2063&indx=1&bulkSize=50">Browse all record in University of Utah Interviews with Japanese in Utah</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

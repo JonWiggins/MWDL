@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1540.jpg" alt="White and Blue 1919-01-15 vol. 22 no. 3" width="322" height="457" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1540.jpg" alt="White and Blue 1919-01-15 vol. 22 no. 3 "width="322" height="457"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/ref/collection/whiteblue/id/2265" target="_blank">White and Blue 1919-01-15 vol. 22 no. 3<br> </a>
+White and Blue 1919-01-15 vol. 22 no. 3 
 </div>
 <!-- Collection Title-->
 <h4>The White and Blue</h4>
@@ -46,8 +46,7 @@ Started during President George Brimhall's administration, The White and Blue wa
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=The+White+and+Blue">Browse all records in The White and Blue</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1540&indx=1&bulkSize=50">Browse all record in The White and Blue</a>
 </h6>
 <p></p>
 </div>

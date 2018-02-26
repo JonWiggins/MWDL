@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1066.jpg" alt="113-145, August 1944" width="376" height="224" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1066.jpg" alt="113-145, August 1944 "width="376" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/EisenhowerCommuniques/id/642/rec/7" target="_blank">113-145, August 1944<br> </a>
+113-145, August 1944 
 </div>
 <!-- Collection Title-->
 <h4>Eisenhower Communiques</h4>
@@ -46,8 +46,7 @@ These communiqués were designed mainly as a guide to correspondents covering ba
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Eisenhower+Communiques">Browse all records in Eisenhower Communiques</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1066&indx=1&bulkSize=50">Browse all record in Eisenhower Communiques</a>
 </h6>
 <p></p>
 </div>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2296.jpg" alt="Swedish Minister" s and President Woodrow Wilson's Requests for Postponements of Execution Sprys Reactions' height="300" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2296.jpg" alt="<em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm/ref/collection/p17010coll5/id/12" target="_blank"><em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em></a>
+<em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence</h4>
@@ -46,8 +46,7 @@ As chief executive officer of the state, the governor has the authority to commu
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Governor+William+Spry+(1909-1917)+Joseph+Hillstrom+Correspondence">Browse all records in Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2296&indx=1&bulkSize=50">Browse all record in Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence</a>
 </h6>
 <p></p>
 </div>

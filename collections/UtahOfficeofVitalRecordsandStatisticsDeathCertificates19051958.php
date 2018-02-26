@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1547.jpg" alt="Death Certificate" width="352" height="326" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1547.jpg" alt="Utah Resident's Death Certificate"width="352" height="326"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/data/81448/4047734/4047734_00000946.jpg" target="_blank">Utah Resident's Death Certificate</a>
+Utah Resident's Death Certificate
 </div>
 <!-- Collection Title-->
 <h4>Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Office+of+Vital+Records+and+Statistics.+Death+Certificates,+1905-1958">Browse all records in Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1547&indx=1&bulkSize=50">Browse all record in Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</a>
 </h6>
 <p></p>
 </div>

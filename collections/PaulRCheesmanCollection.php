@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1219.jpg" alt="Ball Court" width="328" height="321" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1219.jpg" alt="Ball Court "width="328" height="321"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/singleitem/collection/PRCheesman/id/44/rec/3" target="_blank">Ball Court<br> </a>
+Ball Court 
 </div>
 <!-- Collection Title-->
 <h4>Paul R. Cheesman Collection</h4>
@@ -46,8 +46,7 @@ Dr. Paul Robert Cheesman (1921-1991) is well known for his study of ancient Amer
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Paul+R.+Cheesman+Collection">Browse all records in Paul R. Cheesman Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1219&indx=1&bulkSize=50">Browse all record in Paul R. Cheesman Collection</a>
 </h6>
 <p></p>
 </div>

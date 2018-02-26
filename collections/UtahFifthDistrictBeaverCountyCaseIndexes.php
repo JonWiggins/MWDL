@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1266.jpg" alt="Plaintiff Index" width="300" height="410"> align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1266.jpg" alt="Plaintiff Index 1896-1950 "width="300" height="410"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/24549&CISOPTR=62&REC=1" target="_blank">Plaintiff Index 1896-1950<br> </a>
+Plaintiff Index 1896-1950 
 </div>
 <!-- Collection Title-->
 <h4>Utah Fifth District: Beaver County Case Indexes</h4>
@@ -47,8 +47,7 @@ This series is comprised of three index books kept by the Fifth District Court i
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Fifth+District:+Beaver+County+Case+Indexes">Browse all records in Utah Fifth District: Beaver County Case Indexes</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1266&indx=1&bulkSize=50">Browse all record in Utah Fifth District: Beaver County Case Indexes</a>
 </h6>
 <p></p>
 </div>

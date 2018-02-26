@@ -30,10 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2293.jpg" alt="John A. Boyle (1898-1899)
-" height ="250" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2293.jpg" alt="<em>John A. Boyle (1898-1899) </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm/ref/collection/27746/id/43" target="_blank"><em>John A. Boyle (1898-1899) </em></a>
+<em>John A. Boyle (1898-1899) </em>
 </div>
 <!-- Collection Title-->
 <h4>Ogden (Utah) City Recorder Mayors Photographs</h4>
@@ -47,8 +46,7 @@ Photographs of Ogden, UT Mayors from the Ogden City Recorder Collections.</p>
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Ogden+(Utah)+City+Recorder+Mayors+Photographs">Browse all records in Ogden (Utah) City Recorder Mayors Photographs</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2293&indx=1&bulkSize=50">Browse all record in Ogden (Utah) City Recorder Mayors Photographs</a>
 </h6>
 <p></p>
 </div>

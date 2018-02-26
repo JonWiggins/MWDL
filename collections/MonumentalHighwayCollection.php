@@ -30,10 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2075.jpg" alt="Torma at the wheel of her first car" width="380" height="249" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2075.jpg" alt="Dolph Andrus's Monumental Highway Expeditions Digital Exhibit"width="380" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://usudigital.lib.usu.edu/exhibits/show/dolph-andrus-s-monumental-high">Dolph Andrus's Monumental Highway Expeditions Digital Exhibit</a>
-<a href="http://digital.lib.usu.edu/cdm/singleitem/collection/monumental/id/38/rec/14" target="_blank">Torma at the wheel of her first car</a>
+Dolph Andrus's Monumental Highway Expeditions Digital Exhibit
 </div>
 <!-- Collection Title-->
 <h4>Monumental Highway Collection</h4>
@@ -51,8 +50,7 @@ Please visit the <a href="http://usudigital.lib.usu.edu/exhibits/show/dolph-andr
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Monumental+Highway+Collection">Browse all records in Monumental Highway Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2075&indx=1&bulkSize=50">Browse all record in Monumental Highway Collection</a>
 </h6>
 <p></p>
 </div>

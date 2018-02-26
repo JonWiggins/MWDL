@@ -30,11 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2014.jpg" alt="
-281 3rd Street
-" width="300" height ="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2014.jpg" alt=" 281 3rd Street"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="https://cdm.weber.edu/cdm/ref/collection/OBS/id/34" target="_blank"> 281 3rd Street</a>
+ 281 3rd Street
 </div>
 <!-- Collection Title-->
 <h4>Ogden (UT) Buildings by Street</h4>
@@ -48,8 +46,7 @@ This collection contains images of businesses and homes in the Ogden area. The p
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Ogden+(UT)+Buildings+by+Street+">Browse all records in Ogden (UT) Buildings by Street </a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2014&indx=1&bulkSize=50">Browse all record in Ogden (UT) Buildings by Street</a>
 </h6>
 <p></p>
 </div>

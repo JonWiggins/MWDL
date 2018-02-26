@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1126.jpg" alt="Carson Sink" width="300" height="249" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Carson Sink 1910"width="300" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/hmaps&amp;CISOPTR=5&amp;CISOBOX=1&amp;REC=2" target="_blank">Carson Sink 1910</a>
+Carson Sink 1910
 <!-- Article Text -->
 <p></p>
 <p>This collection includes over 4,500 maps and atlases on Nevada and the Great Basin from seven map collections throughout the state of Nevada ranging chronologically from 1750 into the 21st century. </p>
@@ -23,7 +23,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Nevada+in+Maps">Browse all records in Nevada in Maps</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1126&indx=1&bulkSize=50">Browse all record in Nevada in Maps</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

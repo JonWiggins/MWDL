@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1065.jpg" alt="The burned Tree" width="335" height="337" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The burned Tree "width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/singleitem/collection/EdithIrvine/id/807/rec/4" target="_blank">The burned Tree<br> </a>
+The burned Tree 
 <!-- Article Text -->
 </p>
 293 photographs of California, especially stunning are her 1906 San Francisco earthquake images, with other important California images from the Electra Power Project (1898-1902), Mokelumne Hill and Yosemite National Park.</p>
@@ -23,7 +23,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Edith+Irvine">Browse all records in Edith Irvine</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1065&indx=1&bulkSize=50">Browse all record in Edith Irvine</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

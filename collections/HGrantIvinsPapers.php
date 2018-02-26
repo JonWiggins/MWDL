@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2200.jpg" alt="Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2" height="300" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2200.jpg" alt="<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/UU_HGIP/id/1253" target="_blank"><em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em></a>
+<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>
 </div>
 <!-- Collection Title-->
 <h4>H. Grant Ivins Papers</h4>
@@ -46,8 +46,7 @@ The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, 
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=H.+Grant+Ivins+Papers">Browse all records in H. Grant Ivins Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2200&indx=1&bulkSize=50">Browse all record in H. Grant Ivins Papers</a>
 </h6>
 <p></p>
 </div>

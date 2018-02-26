@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1067.jpg" alt="Resurrecting Lope's Autos" width="203" height="388" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Resurrecting Lope's Autos "width="203" height ="388"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/singleitem/collection/ETD/id/835" target="_blank">Resurrecting Lope's Autos<br> </a>
+Resurrecting Lope's Autos 
 <!-- Article Text -->
 </p>
 Electronic versions of works submitted to the BYU School of Graduate Studies.</p>
@@ -23,7 +23,6 @@ Electronic versions of works submitted to the BYU School of Graduate Studies.</p
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Brigham+Young+University+Theses+and+Dissertations">Browse all records in Brigham Young University Theses and Dissertations</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1067&indx=1&bulkSize=50">Browse all record in Brigham Young University Theses and Dissertations</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

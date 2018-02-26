@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1151.jpg" alt="Farm Bureau Case Files F-P" width="289" height="375"> layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Farm Bureau Case Files F-P "width="289" height ="375"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/23346&CISOPTR=3901&REC=2" target="_blank">Farm Bureau Case Files F-P<br> </a>
+Farm Bureau Case Files F-P 
 <!-- Article Text -->
 </p>
 This is an alphabetical index of companies incorporated to do business in the State of Utah and was created by the Division of Corporations to facilitate access to the Incorporation Case Files. The series provides name of incorporation and case file number for corporations active, or only recently expired, at that time.</p>
@@ -24,7 +24,6 @@ This is an alphabetical index of companies incorporated to do business in the St
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Division+of+Corporations+incorporation+case+files+index,+1981">Browse all records in Utah Division of Corporations incorporation case files index, 1981</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1151&indx=1&bulkSize=50">Browse all record in Utah Division of Corporations incorporation case files index, 1981</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

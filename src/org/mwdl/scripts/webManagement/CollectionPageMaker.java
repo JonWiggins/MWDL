@@ -21,7 +21,7 @@ import static java.util.Collections.sort;
 public class CollectionPageMaker {
 
     public static void writeFullCollection(Collection toWrite) {
-        String FileLocAndName = "collections/" + toWrite.refinedPublisher + ".php";
+        String FileLocAndName = "collections/" + toWrite.urlTitle + ".php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -38,14 +38,6 @@ public class CollectionPageMaker {
             writer.println("<!-- Collection #" + toWrite.collectionNumber + " -->");
             writer.println("<!-- Collection Title -->");
             writer.println("<title>" + toWrite.title + "</title>");
-
-//            writer.println("<!-- Schema MetaData Script -->");
-//            writer.println("<script type=\"application/ld+json\">{");
-//            writer.println("\"@context\": \"http://schema.org\",");
-//            writer.println("\"@type\": \""+toWrite.getMetaAtt1()+"\",");
-//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.urlTitle+".php\",");
-//            writer.println("\"headline\": \""+toWrite.title+"\",");
-//            writer.println("} </script>");
 
             writer.println("<?php include(\"../includes/collectionmenuhead.php\");?>");
             writer.println(" ");
@@ -67,7 +59,15 @@ public class CollectionPageMaker {
 
             writer.println("<div class=\"imageAndDes\">");
             writer.println("<!-- Image (if any)-->");
-            if (toWrite.img != null) writer.println(toWrite.img);
+            if (toWrite.img != null)
+                writer.println(
+                        "<img src=\"../images/collection_images/" +
+                                toWrite.img +
+                        "\" alt=\"" + toWrite.des + "\""+
+                        "width=\"" + toWrite.imgW + "\" height=\"" + toWrite.imgH +"\""
+                         + "align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">"
+                );
+
             writer.println("<!-- Image Description -->");
             writer.println(toWrite.des.replace("&amp;","&"));
             writer.println("</div>");
@@ -81,7 +81,8 @@ public class CollectionPageMaker {
             writer.println("<hr>");
             writer.println("<h6>");
             writer.println("<!-- Browse Link -->");
-            if (toWrite.getExlibirisLink() != null) writer.println(toWrite.getExlibirisLink());
+            if (toWrite.getExlibirisLink() != null)
+                writer.println("<a href=\""+toWrite.getExlibirisLink()+"\">Browse all record in " + toWrite.title+"</a>");
             writer.println("</h6>");
             writer.println("<p></p>");
             writer.println("</div>");
@@ -91,8 +92,8 @@ public class CollectionPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
-            System.err.println("Could not generate regular page for collection number" + toWrite.collectionNumber + ", " + toWrite.title);
+            System.err.println("Could not generate regular page for collection number " + toWrite.collectionNumber + ", " + toWrite.title);
+            e.printStackTrace();
         }
     }
 
@@ -107,15 +108,6 @@ public class CollectionPageMaker {
             writer.println("<title>" + toWrite.title + "</title>");
             writer.println("<!-- Desktop Version Link -->");
             writer.println("<link rel=\"canonical\" href=\"../collections/" + toWrite.urlTitle + ".php\">");
-
-//            writer.println("<!-- Schema MetaData Script -->");
-//            writer.println("<script type=\"application/ld+json\">{");
-//            writer.println("\"@context\": \"http://schema.org\",");
-//            writer.println("\"@type\": \""+toWrite.getMetaAtt1()+"\",");
-//            writer.println("\"mainEntityOfPage\": \"mwdl.org/collections/"+ toWrite.urlTitle+".php\",");
-//            writer.println("\"headline\": \""+toWrite.title+"\",");
-//            writer.println("} </script>");
-
             writer.println("<?php include(\"../includes/ampstyle.php\");?>");
             writer.println(" ");
             writer.println("<!-- Collection Title -->");
@@ -124,7 +116,13 @@ public class CollectionPageMaker {
             writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getRefinedPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
             writer.println("<!-- Collection Image -->");
             writer.println("<div class=amp-img-fill>");
-            if (toWrite.ampImage != null) writer.println(toWrite.ampImage);
+            if (toWrite.img != null)
+                writer.println(
+                        "<amp-img src=\"../images/collection_images/" +
+                        "alt=\"" + toWrite.des +"\"" +
+                        "width=\"" + toWrite.imgW + "\" height =\"" + toWrite.imgH +"\" " +
+                        " layout = \"responsive\"></amp-img>"
+                );
             writer.println("</div>");
             writer.println("<!-- Image Description -->");
             if (toWrite.des != null) writer.println(toWrite.des);
@@ -133,26 +131,27 @@ public class CollectionPageMaker {
             writer.println("<hr>");
             writer.println("<!-- Browse Collection -->");
             writer.println("<h6>");
-            if (toWrite.getExlibirisLink() != null) writer.println(toWrite.getExlibirisLink());
+            if (toWrite.getExlibirisLink() != null)
+                writer.println("<a href=\"" + toWrite.getExlibirisLink() + "\">Browse all record in " + toWrite.title+"</a>");
             writer.println("</h6>");
             writer.println("<?php include(\"../includes/ampfooter.php\");?>");
 
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
-            System.err.println("Could not generate amp page for collection number" + toWrite.collectionNumber + ", " + toWrite.title);
+            System.err.println("Could not generate amp page for collection number " + toWrite.collectionNumber + ", " + toWrite.title);
+            e.printStackTrace();
 
         }
     }
 
-    public static void writeCollectionsPage(){
-        writeAlphaCPage();
-        writeInitPage();
-        writePCPage();
+    public static void writeCollectionsPage(ArrayList<Collection> collectionsToWrite){
+        writeAlphaCPage(collectionsToWrite);
+        writeInitPage(collectionsToWrite);
+        writePCPage(collectionsToWrite);
     }
 
-    public static void writeInitPage() {
+    public static void writeInitPage(ArrayList<Collection> collections) {
         String FileLocAndName = "collections/collections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -175,9 +174,7 @@ public class CollectionPageMaker {
             writer.println("</thread>");
             writer.println("<tbody>");
 
-            ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
-
-            for (Collection c : collectionArrayList) {
+            for (Collection c : collections) {
                 String urlTitle = c.urlTitle;
                 String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
                 String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
@@ -186,7 +183,7 @@ public class CollectionPageMaker {
 
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
-                writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub+".php\">"+ publisherName +"</a></td>");
+                writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub + ".php\">"+ publisherName +"</a></td>");
                 writer.println("</tr>");
             }
             writer.println("</tbody>");
@@ -199,13 +196,12 @@ public class CollectionPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
             System.err.println("Could not generate collections list page");
         }
     }
 
 
-    public static void writeAlphaCPage(){
+    public static void writeAlphaCPage(ArrayList<Collection> collections){
         String FileLocAndName = "collections/aCollections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -231,12 +227,11 @@ public class CollectionPageMaker {
             writer.println("<tbody>");
 
             //prepare and sort the array
-            ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
             HashMap<String, Collection> nameToCollection = new HashMap<>();
 
             ArrayList<String> collectionNames = new ArrayList<>();
 
-            for (Collection c : collectionArrayList) {
+            for (Collection c : collections) {
                 nameToCollection.put(c.title, c);
                 collectionNames.add(c.title);
             }
@@ -269,12 +264,11 @@ public class CollectionPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
             System.err.println("Could not generate collections list page");
         }
     }
 
-    public static void writePCPage(){
+    public static void writePCPage(ArrayList<Collection> collections){
         String FileLocAndName = "collections/pCollections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -300,10 +294,9 @@ public class CollectionPageMaker {
             writer.println("</thread>");
             writer.println("<tbody>");
 
-            ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
             ArrayList<String> partnerNames = new ArrayList<>();
 
-            for(Collection c: collectionArrayList){
+            for(Collection c: collections){
                 partnerNames.add(c.getPlainPublisher());
             }
             sort(partnerNames);
@@ -311,10 +304,10 @@ public class CollectionPageMaker {
             ArrayList<Collection> sorted = new ArrayList<>();
 
             for(String n : partnerNames){
-                for(Collection c : collectionArrayList){
+                for(Collection c : collections){
                     if(c.getPlainPublisher().equals(n)){
                         sorted.add(c);
-                        collectionArrayList.remove(c);
+                        collections.remove(c);
                         break;
                     }
                 }
@@ -341,7 +334,6 @@ public class CollectionPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
             System.err.println("Could not generate collections list page");
         }
     }
@@ -355,42 +347,4 @@ public class CollectionPageMaker {
         return input.substring(0, maxLength - ellip.length()).concat(ellip);
     }
 
-
-
-
-    public static void thing() throws FileNotFoundException {
-        //prepare and sort the array
-        ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
-        HashMap<String, Collection> nameToCollection = new HashMap<>();
-
-        ArrayList<String> collectionNames = new ArrayList<>();
-
-        for (Collection c : collectionArrayList) {
-            nameToCollection.put(c.title, c);
-            collectionNames.add(c.title);
-        }
-        sort(collectionNames);
-
-        for (String n : collectionNames) {
-            System.out.println(n);
-        }
-    }
-
-    public static void thiner() throws FileNotFoundException {
-        //prepare and sort the array
-        ArrayList<Collection> collectionArrayList = DataFetcher.getAllActiveCollections();
-        HashMap<String, Collection> partnerToCollection = new HashMap<>();
-
-        ArrayList<String> partnerNames = new ArrayList<>();
-
-        for (Collection c : collectionArrayList) {
-            partnerToCollection.put(c.title, c);
-            partnerNames.add(c.title);
-        }
-        sort(partnerNames);
-
-        for (String n : partnerNames) {
-            System.out.println(n);
-        }
-    }
 }

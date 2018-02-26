@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1007.jpg" alt="Journal of Mormom Thought" width="172" height="273" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1007.jpg" alt="Veiled Woman with her Child "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm4/document.php?CISOROOT=/dialogue&CISOPTR=33579" target="_blank">Veiled Woman with her Child<br> </a>
+Veiled Woman with her Child 
 </div>
 <!-- Collection Title-->
 <h4>Dialogue: A Journal of Mormon Thought</h4>
@@ -46,8 +46,7 @@ Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed art
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Dialogue:+A+Journal+of+Mormon+Thought">Browse all records in Dialogue: A Journal of Mormon Thought</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1007&indx=1&bulkSize=50">Browse all record in Dialogue: A Journal of Mormon Thought</a>
 </h6>
 <p></p>
 </div>

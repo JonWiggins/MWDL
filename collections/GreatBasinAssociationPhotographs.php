@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1011.jpg" alt="Entrance to Caves" width="371" height="196" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1011.jpg" alt="Entrance to Caves "width="371" height="196"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/GBA_Photos&CISOPTR=60&CISOBOX=1&REC=17" target="_blank">Entrance to Caves<br> </a>
+Entrance to Caves 
 </div>
 <!-- Collection Title-->
 <h4>Great Basin Association Photographs</h4>
@@ -46,8 +46,7 @@ The Great Basin Association maintains this photo collection of Great Basin Natio
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Great+Basin+Association+Photographs">Browse all records in Great Basin Association Photographs</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1011&indx=1&bulkSize=50">Browse all record in Great Basin Association Photographs</a>
 </h6>
 <p></p>
 </div>

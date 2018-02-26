@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2277.jpg" alt="Seated portrait of William F. Cody" height="400" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2277.jpg" alt="<em>Seated portrait of William F. Cody</em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/BBOA/id/2427" target="_blank"><em>Seated portrait of William F. Cody</em></a>
+<em>Seated portrait of William F. Cody</em>
 </div>
 <!-- Collection Title-->
 <h4>MS 047 David R. Phillips</h4>
@@ -46,8 +46,7 @@ A group of glass plate negatives from the collection of David R. Phillips focusi
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+047+David+R.+Phillips">Browse all records in MS 047 David R. Phillips</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2277&indx=1&bulkSize=50">Browse all record in MS 047 David R. Phillips</a>
 </h6>
 <p></p>
 </div>

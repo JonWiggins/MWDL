@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2271.jpg" alt="Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1" width="409" height ="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2271.jpg" alt="<em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em>"width="409" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/MS002/id/188" target="_blank"><em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em></a>
+<em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em>
 </div>
 <!-- Collection Title-->
 <h4>MS 002 Victor Arland Collection</h4>
@@ -46,8 +46,7 @@ This collection consists of a series of original letters written by Victor Arlan
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+002+Victor+Arland+Collection">Browse all records in MS 002 Victor Arland Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2271&indx=1&bulkSize=50">Browse all record in MS 002 Victor Arland Collection</a>
 </h6>
 <p></p>
 </div>

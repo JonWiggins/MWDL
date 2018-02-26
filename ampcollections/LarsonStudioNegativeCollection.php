@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1603.jpg" alt="A. C. Talboe" width="409" height ="250" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>A. C. Talboe</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/ushsobl/id/16556" target="_blank"><em>A. C. Talboe</em></a>
+<em>A. C. Talboe</em>
 <!-- Article Text -->
 </p>
 The Larson Studio Collection contains portraits and landscape photographs from Thomas Larson and his son O. Blaine Larson, who operated the Larson Studio in Provo, Utah County, Utah.</p>
@@ -23,7 +23,6 @@ The Larson Studio Collection contains portraits and landscape photographs from T
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Larson+Studio+Negative+Collection">Browse all records in Larson Studio Negative Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1603&indx=1&bulkSize=50">Browse all record in Larson Studio Negative Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1567.jpg" alt="Graduation photo, Nursing Program" width="256" height="220" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1567.jpg" alt="Graduation photo, Nursing Program "width="256" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.slcc.edu/cdm/singleitem/collection/irslcc2/id/206" target="_blank">Graduation photo, Nursing Program<br> </a>
+Graduation photo, Nursing Program 
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake Community College Photograph Archives</h4>
@@ -46,8 +46,7 @@ The Photo Archives Collection is part of the digital archives of Salt Lake Commu
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Salt+Lake+Community+College+Photograph+Archives">Browse all records in Salt Lake Community College Photograph Archives</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1567&indx=1&bulkSize=50">Browse all record in Salt Lake Community College Photograph Archives</a>
 </h6>
 <p></p>
 </div>

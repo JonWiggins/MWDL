@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1539.jpg" alt="Robert Graves letters and photographs, 1943-1960" width="172" height="273" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Robert Graves letters and photographs, 1943-1960 "width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/SCMisc/id/136" target="_blank">Robert Graves letters and photographs, 1943-1960<br> </a>
+Robert Graves letters and photographs, 1943-1960 
 <!-- Article Text -->
 </p>
 This collection features materials from the Weir Family Photographs, David John Diaries, and items on Nursing Education.</p>
@@ -23,7 +23,6 @@ This collection features materials from the Weir Family Photographs, David John 
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Brigham+Young+University+Special+Collections+Miscellaneous">Browse all records in Brigham Young University Special Collections Miscellaneous</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1539&indx=1&bulkSize=50">Browse all record in Brigham Young University Special Collections Miscellaneous</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

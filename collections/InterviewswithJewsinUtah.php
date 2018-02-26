@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2202.jpg" alt="I. J. &quot;Izzie&quot; Wagner, Interviews with Jews in Utah, Accn 998" height="300" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2202.jpg" alt="<em>I. J. "Izzie" Wagner, Interviews with Jews in Utah, Accn 998</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/UU_IJU/id/3390" target="_blank"><em>I. J. "Izzie" Wagner, Interviews with Jews in Utah, Accn 998</em></a>
+<em>I. J. "Izzie" Wagner, Interviews with Jews in Utah, Accn 998</em>
 </div>
 <!-- Collection Title-->
 <h4>Interviews with Jews in Utah</h4>
@@ -46,8 +46,7 @@ The interviews with Jews in Utah collection (1982-1988) is part of a project fun
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Interviews+with+Jews+in+Utah">Browse all records in Interviews with Jews in Utah</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2202&indx=1&bulkSize=50">Browse all record in Interviews with Jews in Utah</a>
 </h6>
 <p></p>
 </div>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1317.jpg" alt="Le May De Paris Av Roy" width="240" height="416" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1317.jpg" alt="Le May De Paris Av Roy "width="240" height="416"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/FrenchPolPa/id/50111/rec/5" target="_blank">Le May De Paris Av Roy<br> </a>
+Le May De Paris Av Roy 
 </div>
 <!-- Collection Title-->
 <h4>French Political Pamphlets</h4>
@@ -46,8 +46,7 @@ The collection of French Political Pamphlets in the L. Tom Perry Special Collect
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=French+Political+Pamphlets">Browse all records in French Political Pamphlets</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1317&indx=1&bulkSize=50">Browse all record in French Political Pamphlets</a>
 </h6>
 <p></p>
 </div>

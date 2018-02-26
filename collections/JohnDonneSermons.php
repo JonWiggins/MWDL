@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1094.jpg" alt="A Sermon Preached at Saint Dunstans" width="335" height="337" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1094.jpg" alt="A Sermon Preached at Saint Dunstans "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/JohnDonne/id/3131/rec/12" target="_blank">A Sermon Preached at Saint Dunstans<br> </a>
+A Sermon Preached at Saint Dunstans 
 </div>
 <!-- Collection Title-->
 <h4>John Donne Sermons</h4>
@@ -46,8 +46,7 @@ Though John Donne is known to his twenty-first century reader primarily as a poe
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=John+Donne+Sermons">Browse all records in John Donne Sermons</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1094&indx=1&bulkSize=50">Browse all record in John Donne Sermons</a>
 </h6>
 <p></p>
 </div>

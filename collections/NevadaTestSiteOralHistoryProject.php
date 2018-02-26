@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1227.jpg" alt="Interview with Patricia George and Virginia Sanchez" width="272" height="353" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1227.jpg" alt="Interview with Patricia George and Virginia Sanchez "width="272" height="353"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digital.library.unlv.edu/objects/nts/1110" target="_blank">Interview with Patricia George and Virginia Sanchez<br> </a>
+Interview with Patricia George and Virginia Sanchez 
 </div>
 <!-- Collection Title-->
 <h4>Nevada Test Site Oral History Project</h4>
@@ -46,8 +46,7 @@ The Nevada Test Site Oral History Project at the University of Nevada, Las Vegas
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Nevada+Test+Site+Oral+History+Project">Browse all records in Nevada Test Site Oral History Project</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1227&indx=1&bulkSize=50">Browse all record in Nevada Test Site Oral History Project</a>
 </h6>
 <p></p>
 </div>

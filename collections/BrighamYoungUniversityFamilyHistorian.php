@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1093.jpg" alt="Vol 1 Fall 2002 The BYU Family Historian" width="339" height="429" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1093.jpg" alt="Vol 1 Fall 2002 The BYU Family Historian "width="339" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/BYUFamilyHistorian/id/229" target="_blank">Vol 1 Fall 2002 The BYU Family Historian<br> </a>
+Vol 1 Fall 2002 The BYU Family Historian 
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Family Historian</h4>
@@ -46,8 +46,7 @@ Assisting in finding ancestors and discovering the world in which they lived.</p
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Brigham+Young+University+Family+Historian">Browse all records in Brigham Young University Family Historian</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1093&indx=1&bulkSize=50">Browse all record in Brigham Young University Family Historian</a>
 </h6>
 <p></p>
 </div>

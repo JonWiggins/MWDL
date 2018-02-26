@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2304.jpg" alt="Christmas Cards" width="409" height ="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2304.jpg" alt="<em>Christmas Cards</em>"width="409" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/ushs_ersp/id/7142" target="_blank"><em>Christmas Cards</em></a>
+<em>Christmas Cards</em>
 </div>
 <!-- Collection Title-->
 <h4>Ellis Reynolds Shipp Papers</h4>
@@ -48,8 +48,7 @@ Subjects covered, at varying depths, by the Shipp papers include early medical p
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Ellis+Reynolds+Shipp+Papers">Browse all records in Ellis Reynolds Shipp Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2304&indx=1&bulkSize=50">Browse all record in Ellis Reynolds Shipp Papers</a>
 </h6>
 <p></p>
 </div>

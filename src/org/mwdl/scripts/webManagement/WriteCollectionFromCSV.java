@@ -22,49 +22,58 @@ public class WriteCollectionFromCSV {
     }
 
     public static void importData() {
-        Scanner s = null;
+        Scanner fullFile = null;
         collectionArrayList = new ArrayList<>();
         try {
-            s = new Scanner(new File("collectionData.csv")).useDelimiter(",");
+            fullFile = new Scanner(new File("newCollectionData.csv"));
+
             //skip the first line
+            fullFile.nextLine();
 
+            while (fullFile.hasNextLine()) {
 
-            //.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%")
-            //.replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");
-            s.nextLine();
+                Scanner currentLine = new Scanner(fullFile.nextLine().replace("%newline%","\n").replace("%return%","\r")).useDelimiter(",");
 
-            while (s.hasNextLine()) {
-                int count = s.nextInt();
-                boolean isActive = Boolean.valueOf(s.next());
+                //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Width, Image Description
+                String count = currentLine.next();
+                boolean isActive = Boolean.valueOf(currentLine.next());
                 if (isActive) {
-                    String note = s.next();
+                    String note = currentLine.next().replace("%comma%",",");
                     if(note == null) note = " ";
-                    String title = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String urlTitle = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String pub = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String text = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String img = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String ampImg = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String des = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-                    String browse = s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
-
-                    collectionArrayList.add(new Collection(count, isActive, note, title, urlTitle, pub, text, img, ampImg, des, browse));
+                    String title = currentLine.next().replace("%comma%",",");
+                    String pub = currentLine.next().replace("%comma%",",");
+                    String text = currentLine.next().replace("%comma%",",");
+                    String img = currentLine.next().replace("%comma%",",");
+                    String imgH = currentLine.next().replace("%comma%",",");
+                    String imgW = currentLine.next().replace("%comma%",",");
+                    String des = currentLine.next().replace("%comma%",",");
+                    if(imgH.equals(""))
+                        imgH = "250";
+                    if(imgW.equals(""))
+                        imgW = "250";
+                    Collection toAdd = new Collection(Integer.parseInt(count), isActive, note, title, pub, text, img, Integer.parseInt(imgH), Integer.parseInt(imgW), des);
+                    collectionArrayList.add(toAdd);
+                    System.out.println("Successfully Read Collection: " + toAdd.title);
                 }
-                s.nextLine();
+                else
+                    System.out.println("Skipping collection " + count +" as it is inactive");
 
             }
             System.out.println("Successfully loaded " + collectionArrayList.size() +" collections from the csv file.");
         } catch (FileNotFoundException e) {
-            e.printStackTrace();
+            System.err.println("Error Reading Collections from file: " + e.getMessage());
         }
     }
 
     public static void exportData() {
+
         for (Collection a : collectionArrayList) {
+            System.out.println("Writing Collection: " + a.title);
             CollectionPageMaker.writeAMPCollection(a);
             CollectionPageMaker.writeFullCollection(a);
         }
-        CollectionPageMaker.writeCollectionsPage();
+
+        CollectionPageMaker.writeCollectionsPage(collectionArrayList);
         System.out.println("Finished");
     }
 

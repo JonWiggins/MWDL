@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1131.jpg" alt="Bitter Cherry" width="300" height="249" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1131.jpg" alt="Bitter Cherry (Prunus emarginata - Rosaceae)"width="300" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/rsc&CISOPTR=277&CISOBOX=1&REC=6" target="_blank">Bitter Cherry (Prunus emarginata - Rosaceae)</a>
+Bitter Cherry (Prunus emarginata - Rosaceae)
 </div>
 <!-- Collection Title-->
 <h4>Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Olga+Reifschneider+Botanical+Images+of+Northern+Nevada+and+the+Lake+Tahoe+Region">Browse all records in Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1131&indx=1&bulkSize=50">Browse all record in Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</a>
 </h6>
 <p></p>
 </div>

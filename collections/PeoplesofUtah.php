@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1254.jpg" alt="Greeks in Utah" width="335" height="267" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1254.jpg" alt="Greeks in Utah "width="335" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/USHS_people/id/530" target="_blank">Greeks in Utah<br> </a>
+Greeks in Utah 
 </div>
 <!-- Collection Title-->
 <h4>Peoples of Utah</h4>
@@ -46,8 +46,7 @@ The Peoples of Utah collection contains images that show some of Utah's great di
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Peoples+of+Utah">Browse all records in Peoples of Utah</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1254&indx=1&bulkSize=50">Browse all record in Peoples of Utah</a>
 </h6>
 <p></p>
 </div>

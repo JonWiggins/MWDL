@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1940.jpg" width="394" height="340" alt="STE Revelle Development house drawing " layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="STE Revelle development house drawing"width="394" height ="340"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/uu-tawp/id/208" target="_blank">STE Revelle development house drawing</a>
+STE Revelle development house drawing
 <!-- Article Text -->
 </p>
 Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd Wright in Prarie School architecture. This collection contains correspondence, blueprints, drawings, and memorabilia relating to Woolley's career. Of particular interest is the correspondence with artist Mahonri M. Young and Frank Lloyd Wright.</p>
@@ -24,7 +24,6 @@ Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Taylor+A.+Woolley+Papers">Browse all records in Taylor A. Woolley Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1940&indx=1&bulkSize=50">Browse all record in Taylor A. Woolley Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

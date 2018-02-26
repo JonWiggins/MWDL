@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2225.jpg" alt="Joseph Ellis Johnson autobiography" height="300" width="250" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Joseph Ellis Johnson autobiography</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/UU_JEJP/id/477" target="_blank"><em>Joseph Ellis Johnson autobiography</em></a>
+<em>Joseph Ellis Johnson autobiography</em>
 <!-- Article Text -->
 </p>
 The Joseph Ellis Johnson papers (1831-1964) consist of the personal and family papers of Joseph E. Johnson (1817-1882). Johnson was a prolific writer, leaving a legacy of seven original diaries written, at broken intervals, between 1850 and 1876. The diaries give detailed accounts of his various travels. The collection also contains his daybooks, account books, and record books.</p>
@@ -24,7 +24,6 @@ Correspondence between members of the Johnson family makes up a great part of th
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Joseph+Ellis+Johnson+Papers">Browse all records in Joseph Ellis Johnson Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2225&indx=1&bulkSize=50">Browse all record in Joseph Ellis Johnson Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

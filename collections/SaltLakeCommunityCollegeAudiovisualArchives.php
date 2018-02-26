@@ -30,10 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2112.jpg" alt="
-River Bottom Texture" height ="250" width="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2112.jpg" alt="Promotional Video for Utah Technical College"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.slcc.edu/cdm/ref/collection/avcoll/id/64" target="_blank">Promotional Video for Utah Technical College</a>
+Promotional Video for Utah Technical College
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake Community College Audiovisual Archives</h4>
@@ -47,8 +46,7 @@ The Audiovisual Archives provides access to digitized archival materials related
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Salt+Lake+Community+College+Audiovisual+Archives">Browse all records in Salt Lake Community College Audiovisual Archives</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2112&indx=1&bulkSize=50">Browse all record in Salt Lake Community College Audiovisual Archives</a>
 </h6>
 <p></p>
 </div>

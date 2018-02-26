@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1134.jpg" alt="Canal waterfall" width="207" height="318" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1134.jpg" alt="Canal waterfall "width="207" height="318"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digital.lib.usu.edu/cdm/singleitem/collection/Bear/id/691" target="_blank">Canal waterfall<br> </a>
+Canal waterfall 
 </div>
 <!-- Collection Title-->
 <h4>Bear River Watershed Historical Collection</h4>
@@ -46,8 +46,7 @@ The Bear River Watershed's geography, history, and development are the primary f
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Bear+River+Watershed+Historical+Collection+">Browse all records in Bear River Watershed Historical Collection </a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1134&indx=1&bulkSize=50">Browse all record in Bear River Watershed Historical Collection</a>
 </h6>
 <p></p>
 </div>

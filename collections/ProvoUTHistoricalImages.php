@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1314.jpg" alt="1st West and Center" width="354" height="293" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1314.jpg" alt="1st West and Center "width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/singleitem/collection/ProvoPhoto/id/254/rec/20" target="_blank">1st West and Center<br> </a>
+1st West and Center 
 </div>
 <!-- Collection Title-->
 <h4>Provo (UT) Historical Images</h4>
@@ -46,8 +46,7 @@ Featuring more than 800 views of Provo City and the vicinity, Provo Historical I
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Provo+(UT)+Historical+Images">Browse all records in Provo (UT) Historical Images</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1314&indx=1&bulkSize=50">Browse all record in Provo (UT) Historical Images</a>
 </h6>
 <p></p>
 </div>

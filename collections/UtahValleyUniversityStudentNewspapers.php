@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1956.jpg" width="172" height="224" alt="Tradewinds, 1973-11-16" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1956.jpg" alt="Tradewinds, November 16, 1973"width="172" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.uvu.edu/cdm/compoundobject/collection/trades/id/739/rec/20" target="_blank">Tradewinds, November 16, 1973</a>
+Tradewinds, November 16, 1973
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Student Newspapers</h4>
@@ -47,8 +47,7 @@ This is the collection of student newspapers from the various iterations of Utah
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Valley+University+Student+Newspapers">Browse all records in Utah Valley University Student Newspapers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1956&indx=1&bulkSize=50">Browse all record in Utah Valley University Student Newspapers</a>
 </h6>
 <p></p>
 </div>

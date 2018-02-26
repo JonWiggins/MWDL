@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1090.jpg" alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922" width="171" height="221" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922 "width="171" height ="221"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/ref/collection/SRVIdaho3/id/1392" target="_blank">Anderson, Betsy (Bengta) Shenstrum 1831-1922<br> </a>
+Anderson, Betsy (Bengta) Shenstrum 1831-1922 
 <!-- Article Text -->
 </p>
 BYU Idaho's collection of historical sketches of Upper Snake River Valley settlers from 1883 to 1893.</p>
@@ -23,7 +23,6 @@ BYU Idaho's collection of historical sketches of Upper Snake River Valley settle
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Upper+Snake+River+Valley+Idaho+Histories">Browse all records in Upper Snake River Valley Idaho Histories</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1090&indx=1&bulkSize=50">Browse all record in Upper Snake River Valley Idaho Histories</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

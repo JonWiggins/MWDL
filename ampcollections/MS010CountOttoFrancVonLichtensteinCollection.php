@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2273.jpg" alt="Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch" width="409" height ="250" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/MS010/id/602" target="_blank"><em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em></a>
+<em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>
 <!-- Article Text -->
 </p>
 Collection consists of four journals by Count Otto Franc von Liechtenstein relating daily activities as he ran the Pitchfork Ranch on the upper Greybull River west of present day Meeteetse, Wyoming. Typed transcripts are present for the first two journals.</p>
@@ -25,7 +25,6 @@ Later in life, in the 1890s Franc served as a Big Horn County justice of the pea
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+010+Count+Otto+Franc+Von+Lichtenstein+Collection">Browse all records in MS 010 Count Otto Franc Von Lichtenstein Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2273&indx=1&bulkSize=50">Browse all record in MS 010 Count Otto Franc Von Lichtenstein Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

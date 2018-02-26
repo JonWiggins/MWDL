@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DaughtersoftheUtahPioneers,SpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1541.jpg" alt="Motto " "He Leadeth Me""" width="369" height="239" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Motto ""He Leadeth Me"" "width="369" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/ref/collection/DUP/id/135" target="_blank">Motto ""He Leadeth Me""<br> </a>
+Motto ""He Leadeth Me"" 
 <!-- Article Text -->
 </p>
 In 1920, women in the Springville Utah area realized the importance of preserving our community's heritage. They began gathering artifacts, histories, photographs and documents of the area. Those interested in learning about the heritage of the area are invited to visit us at the old Carnegie Library on Main Street in Springville, where you can do personal research, and enjoy hands on activities and games with the family. The Museum is run by volunteers.</p>
@@ -23,7 +23,6 @@ In 1920, women in the Springville Utah area realized the importance of preservin
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Daughters+of+the+Utah+Pioneers,+Springville+(UT)">Browse all records in Daughters of the Utah Pioneers, Springville (UT)</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1541&indx=1&bulkSize=50">Browse all record in Daughters of the Utah Pioneers, Springville (UT)</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1940.jpg" width="394" height="340" alt="STE Revelle Development house drawing " align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1940.jpg" alt="STE Revelle development house drawing"width="394" height="340"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/ref/collection/uu-tawp/id/208" target="_blank">STE Revelle development house drawing</a>
+STE Revelle development house drawing
 </div>
 <!-- Collection Title-->
 <h4>Taylor A. Woolley Papers</h4>
@@ -47,8 +47,7 @@ Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Taylor+A.+Woolley+Papers">Browse all records in Taylor A. Woolley Papers</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1940&indx=1&bulkSize=50">Browse all record in Taylor A. Woolley Papers</a>
 </h6>
 <p></p>
 </div>

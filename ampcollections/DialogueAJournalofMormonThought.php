@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DialogueFoundation.php">Dialogue Foundation</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1007.jpg" alt="Journal of Mormom Thought" width="172" height="273" layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Veiled Woman with her Child "width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm4/document.php?CISOROOT=/dialogue&CISOPTR=33579" target="_blank">Veiled Woman with her Child<br> </a>
+Veiled Woman with her Child 
 <!-- Article Text -->
 </p>
 Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed articles from Mormon scholars and writers on sensitive issues in LDS history and doctrine, and topics in Science, Religion, and Politics. It maintains a level of editorial independence that distinguishes it as the premier scholarly journal in the emerging academic field of Mormon Studies.</p>
@@ -23,7 +23,6 @@ Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed art
 <hr>
 <!-- Browse Collection -->
 <h6>
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Dialogue:+A+Journal+of+Mormon+Thought">Browse all records in Dialogue: A Journal of Mormon Thought</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1007&indx=1&bulkSize=50">Browse all record in Dialogue: A Journal of Mormon Thought</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1151.jpg" alt="Farm Bureau Case Files F-P" width="289" height="375"> align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1151.jpg" alt="Farm Bureau Case Files F-P "width="289" height="375"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/23346&CISOPTR=3901&REC=2" target="_blank">Farm Bureau Case Files F-P<br> </a>
+Farm Bureau Case Files F-P 
 </div>
 <!-- Collection Title-->
 <h4>Utah Division of Corporations incorporation case files index, 1981</h4>
@@ -47,8 +47,7 @@ This is an alphabetical index of companies incorporated to do business in the St
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+Division+of+Corporations+incorporation+case+files+index,+1981">Browse all records in Utah Division of Corporations incorporation case files index, 1981</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1151&indx=1&bulkSize=50">Browse all record in Utah Division of Corporations incorporation case files index, 1981</a>
 </h6>
 <p></p>
 </div>

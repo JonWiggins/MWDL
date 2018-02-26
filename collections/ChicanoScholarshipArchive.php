@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2091.jpg" alt="Utah Pioneer Costume and Manners Research Project: index of counties and towns" width="350" height="197" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2091.jpg" alt="Chicano/a Scholarship 2012"width="350" height="197"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://content.lib.utah.edu/cdm/singleitem/collection/ChicScArch/id/6/rec/6" target="_blank">Chicano/a Scholarship 2012</a>
+Chicano/a Scholarship 2012
 </div>
 <!-- Collection Title-->
 <h4>Chicano Scholarship Archive</h4>
@@ -46,8 +46,7 @@ Prior to 1970, few Utah Chicanos had attended the University of Utah and even fe
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Chicano+Scholarship+Archive">Browse all records in Chicano Scholarship Archive</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2091&indx=1&bulkSize=50">Browse all record in Chicano Scholarship Archive</a>
 </h6>
 <p></p>
 </div>

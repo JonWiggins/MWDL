@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1067.jpg" alt="Resurrecting Lope's Autos" width="203" height="388" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1067.jpg" alt="Resurrecting Lope's Autos "width="203" height="388"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/singleitem/collection/ETD/id/835" target="_blank">Resurrecting Lope's Autos<br> </a>
+Resurrecting Lope's Autos 
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Theses and Dissertations</h4>
@@ -46,8 +46,7 @@ Electronic versions of works submitted to the BYU School of Graduate Studies.</p
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Brigham+Young+University+Theses+and+Dissertations">Browse all records in Brigham Young University Theses and Dissertations</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1067&indx=1&bulkSize=50">Browse all record in Brigham Young University Theses and Dissertations</a>
 </h6>
 <p></p>
 </div>

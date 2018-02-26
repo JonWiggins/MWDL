@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1923.jpg" alt="The John and Inger Sward Johnson family" width="384" height="262" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1923.jpg" alt="The John and Inger Sward Johnson family"width="384" height="262"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/p15999coll9/id/3882" target="_blank">The John and Inger Sward Johnson family</a>
+The John and Inger Sward Johnson family
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Family Histories</h4>
@@ -46,8 +46,7 @@ Family histories hosted by Brigham Young University.</p>
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Brigham+Young+University+Family+Histories">Browse all records in Brigham Young University Family Histories</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1923&indx=1&bulkSize=50">Browse all record in Brigham Young University Family Histories</a>
 </h6>
 <p></p>
 </div>

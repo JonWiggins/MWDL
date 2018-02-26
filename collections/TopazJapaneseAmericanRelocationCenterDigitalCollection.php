@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1136.jpg" alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas" width="260" height="358" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1136.jpg" alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas "width="260" height="358"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digital.lib.usu.edu/cdm/compoundobject/collection/Topaz/id/6372" target="_blank">Executive Order 9066: authorizing the Secretary of War to prescribe military areas<br> </a>
+Executive Order 9066: authorizing the Secretary of War to prescribe military areas 
 </div>
 <!-- Collection Title-->
 <h4>Topaz Japanese-American Relocation Center Digital Collection</h4>
@@ -46,8 +46,7 @@ In 1942 shortly after the bombing of Pearl Harbor, over 110,000 people of Japane
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Topaz+Japanese-American+Relocation+Center+Digital+Collection">Browse all records in Topaz Japanese-American Relocation Center Digital Collection</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1136&indx=1&bulkSize=50">Browse all record in Topaz Japanese-American Relocation Center Digital Collection</a>
 </h6>
 <p></p>
 </div>

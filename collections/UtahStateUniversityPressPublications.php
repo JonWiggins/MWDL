@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1650.jpg" alt="The Meaning of Folklore" width="99" height="150" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1650.jpg" alt="The Meaning of Folklore "width="99" height="150"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digitalcommons.usu.edu/usupress_pubs/53/" target="_blank">The Meaning of Folklore<br> </a>
+The Meaning of Folklore 
 </div>
 <!-- Collection Title-->
 <h4>Utah State University Press Publications</h4>
@@ -46,8 +46,7 @@ Utah State University Press is a refereed scholarly publisher and division of Ut
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Utah+State+University+Press+Publications">Browse all records in Utah State University Press Publications</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1650&indx=1&bulkSize=50">Browse all record in Utah State University Press Publications</a>
 </h6>
 <p></p>
 </div>

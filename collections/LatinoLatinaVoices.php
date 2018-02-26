@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1229.jpg" alt="Julio Vergara interview June 21, 2007" width="341" height="285" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1229.jpg" alt="Julio Vergara interview June 21, 2007 "width="341" height="285"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://digital.lib.usu.edu/cdm/compoundobject/collection/Latino/id/403" target="_blank">Julio Vergara interview June 21, 2007<br> </a>
+Julio Vergara interview June 21, 2007 
 </div>
 <!-- Collection Title-->
 <h4>Latino/Latina Voices</h4>
@@ -46,8 +46,7 @@ Cache Valley, Utah is home to a rich and varied Latino population whose voice is
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Latino/Latina+Voices">Browse all records in Latino/Latina Voices</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1229&indx=1&bulkSize=50">Browse all record in Latino/Latina Voices</a>
 </h6>
 <p></p>
 </div>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2275.jpg" alt="Correspondence - from Schuyler, Hartley &amp; Graham Box 25, Folder 46" width="409" height ="250" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2275.jpg" alt="<em>Correspondence - from Schuyler, Hartley & Graham Box 25, Folder 46</em>"width="409" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://library.centerofthewest.org/cdm/ref/collection/SHG/id/6201" target="_blank"><em>Correspondence - from Schuyler, Hartley & Graham Box 25, Folder 46</em></a>
+<em>Correspondence - from Schuyler, Hartley & Graham Box 25, Folder 46</em>
 </div>
 <!-- Collection Title-->
 <h4>MS 034 Schuyler, Hartley, and Graham</h4>
@@ -46,8 +46,7 @@ Among the items in the collection are letters and shipping orders from Schuyler,
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=MS+034+Schuyler,+Hartley,+and+Graham">Browse all records in MS 034 Schuyler, Hartley, and Graham</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2275&indx=1&bulkSize=50">Browse all record in MS 034 Schuyler, Hartley, and Graham</a>
 </h6>
 <p></p>
 </div>

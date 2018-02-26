@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1121.jpg" alt="Auto barge across Lake Tahoe" width="277" height="222" align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1121.jpg" alt="Auto barge across Lake Tahoe"width="277" height="222"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/tahoe&CISOPTR=114&CISOBOX=1&REC=13" target="_blank">Auto barge across Lake Tahoe</a>
+Auto barge across Lake Tahoe
 </div>
 <!-- Collection Title-->
 <h4>Images of Lake Tahoe</h4>
@@ -46,8 +46,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Images+of+Lake+Tahoe">Browse all records in Images of Lake Tahoe</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1121&indx=1&bulkSize=50">Browse all record in Images of Lake Tahoe</a>
 </h6>
 <p></p>
 </div>

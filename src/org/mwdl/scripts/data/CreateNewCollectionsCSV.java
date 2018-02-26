@@ -69,7 +69,6 @@ public class CreateNewCollectionsCSV {
         } catch (FileNotFoundException | UnsupportedEncodingException e) {
             e.printStackTrace();
         }
-        //TODO write the entirety of the cleanedUP arraylist to a new csv file
     }
 
     public static ArrayList<String> importData() {
@@ -132,12 +131,12 @@ public class CreateNewCollectionsCSV {
         if(s.hasNext()){
             toReturn = toReturn.concat(s.next() + ",");
         }
-        //System.out.println("1: " + toReturn);
+
         //articleImage
         if(s.hasNext()){
             String imageTag = s.next();
-            Pattern imgNamePatter = Pattern.compile("\\/images\\/collection_images\\/(collection[0-9]{4}.\\S{3})");
-            Matcher imgNameMatcher = imgNamePatter.matcher(imageTag);
+            Pattern imgNamePattern = Pattern.compile("\\/images\\/collection_images\\/(collection[0-9]{4}.\\S{3})");
+            Matcher imgNameMatcher = imgNamePattern.matcher(imageTag);
             //capture image name in /image/collection_images/collection"number.extension"
             if(imgNameMatcher.find())
                 toReturn = toReturn.concat(imgNameMatcher.group(1));
@@ -161,7 +160,11 @@ public class CreateNewCollectionsCSV {
             s.next();
 
             //image description
-            toReturn.concat(s.next());
+            String imgDes = s.next().replace("<br>","");
+            Pattern imgDesPattern = Pattern.compile("<a\\b[^>]*>(.*?)<\\/a>");
+            Matcher imgDesMatcher = imgDesPattern.matcher(imgDes);
+            if(imgDesMatcher.find())
+                toReturn = toReturn.concat(imgDesMatcher.group(1));
         }
         s.close();
         return toReturn;

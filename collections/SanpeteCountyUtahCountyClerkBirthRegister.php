@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1600.png" alt="Birth Record" width="333" height="333"> align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1600.png" alt="Sanpete County Birth Record "width="333" height="333"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://images.archives.utah.gov/cdm4/document.php?CISOROOT=/84106&CISOPTR=253&REC=1" target="_blank">Sanpete County Birth Record<br> </a>
+Sanpete County Birth Record 
 </div>
 <!-- Collection Title-->
 <h4>Sanpete County (Utah). County Clerk Birth Register</h4>
@@ -47,8 +47,7 @@ These records contain birth registers recorded from 1898 through 1905. Each entr
 <hr>
 <h6>
 <!-- Browse Link -->
-
-<a href=" http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr13&vl(freeText1)=Sanpete+County+(Utah).+County+Clerk+Birth+Register">Browse all records in Sanpete County (Utah). County Clerk Birth Register</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1600&indx=1&bulkSize=50">Browse all record in Sanpete County (Utah). County Clerk Birth Register</a>
 </h6>
 <p></p>
 </div>
