@@ -17,104 +17,43 @@ import java.util.Scanner;
 
 public class AnalyticsPartner {
 
-    private String name;
-    private String hub;
+    public String name;
+    public String hub;
 
-    //FIXME add new ArrayList for month here
-    private ArrayList<String> MayCollections;
-    private ArrayList<String> JuneCollections;
-    private ArrayList<String> JulyCollections;
-    private ArrayList<String> AugustCollections;
-    private ArrayList<String> SeptCollections;
-    private ArrayList<String> OctCollections;
-    private ArrayList<String> NovCollection;
-    private ArrayList<String> DecCollection;
-    private ArrayList<String> JanCollection;
+    public ArrayList<String> JanCollections;
+    public ArrayList<String> FebCollections;
+    public ArrayList<String> MarchCollections;
+    public ArrayList<String> AprilCollections;
+    public ArrayList<String> MayCollections;
+    public ArrayList<String> JuneCollections;
+    public ArrayList<String> JulyCollections;
+    public ArrayList<String> AugustCollections;
+    public ArrayList<String> SeptCollections;
+    public ArrayList<String> OctCollections;
+    public ArrayList<String> NovCollections;
+    public ArrayList<String> DecCollections;
 
-    AnalyticsPartner(String name){
+
+    public AnalyticsPartner(String name){
         this.name = name.replace("&amp;", "&");
+
         if(name.equals("")) this.name = "unpublished";
 
-        //FIXME initialize new ArrayList here
+        fetchHub();
+
+        JanCollections = new ArrayList<>();
+        FebCollections = new ArrayList<>();
+        MarchCollections = new ArrayList<>();
+        AprilCollections = new ArrayList<>();
         MayCollections = new ArrayList<>();
         JuneCollections = new ArrayList<>();
         JulyCollections = new ArrayList<>();
         AugustCollections = new ArrayList<>();
         SeptCollections = new ArrayList<>();
         OctCollections = new ArrayList<>();
-        NovCollection = new ArrayList<>();
-        DecCollection = new ArrayList<>();
-        JanCollection = new ArrayList<>();
-        fetchHub();
-
+        NovCollections = new ArrayList<>();
+        DecCollections = new ArrayList<>();
     }
-
-    //FIXME add adder for new month ArrayList here
-    void addMayCollection(String collection){
-        MayCollections.add(collection);
-    }
-
-    void addJuneCollection(String collection){
-        JuneCollections.add(collection);
-    }
-    void addJulyCollection(String collection){
-        JulyCollections.add(collection);
-    }
-    void addAugustCollection(String collection){
-        AugustCollections.add(collection);
-    }
-    void addSeptCollection(String collection){
-        SeptCollections.add(collection);
-    }
-    void addOctCollection(String collection){
-        OctCollections.add(collection);
-    }
-    void addNovCollection(String collection){
-        NovCollection.add(collection);
-    }
-    void addDecCollection(String collection){
-        DecCollection.add(collection);
-    }
-    void addJanCollection(String collection){
-        JanCollection.add(collection);
-    }
-
-    //FIXME add getter for new month ArrayList here
-    ArrayList getMayCollections(){
-        return MayCollections;
-    }
-    ArrayList getJuneCollections(){
-        return JuneCollections;
-    }
-    ArrayList getJulyCollections(){
-        return JulyCollections;
-    }
-    ArrayList getAugustCollections(){
-        return AugustCollections;
-    }
-    ArrayList getSeptCollections(){
-        return SeptCollections;
-    }
-    ArrayList getOctCollections(){
-        return OctCollections;
-    }
-    ArrayList getNovCollections(){
-        return NovCollection;
-    }
-    ArrayList getDecCollections(){
-        return DecCollection;
-    }
-    ArrayList getJanCollections(){
-        return JanCollection;
-    }
-
-    public String getName(){
-        return name;
-    }
-    String getHub(){
-        return hub;
-    }
-
 
     private void fetchHub(){
 

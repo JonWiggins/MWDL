@@ -46,7 +46,7 @@ public class FeatureUpdater {
             collectionDiv.concat("<!-- Collection Title-->");
             collectionDiv.concat("<h4>" + ctoInsert.title + "</h4>");
             collectionDiv.concat("<!-- Collection Publisher-->");
-            collectionDiv.concat("<h6> Published by <a href=\"../partners/" + ctoInsert.getRefinedPublisher() + ".php\">"+ ctoInsert.getPlainPublisher()+"</a></h6>");
+            collectionDiv.concat("<h6> Published by <a href=\"../partners/" + ctoInsert.refinedPublisher + ".php\">" + ctoInsert.publisher + "</a></h6>");
             collectionDiv.concat(" ");
             collectionDiv.concat("<!-- Collection Description -->");
             if (ctoInsert.text != null) collectionDiv.concat(ctoInsert.text);

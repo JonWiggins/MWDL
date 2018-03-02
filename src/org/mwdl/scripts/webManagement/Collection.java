@@ -16,6 +16,7 @@ public class Collection {
     //Generate this from getExlibrisLink()
     @Deprecated
     public String publisherLink;
+    public String publisher;
     public String text;
     public String img;
     public String des;
@@ -52,7 +53,7 @@ public class Collection {
         this.des= des;
         this.browse= browse;
 
-        refinedPublisher = getPlainPublisher()
+        refinedPublisher = publisher
                 .replace(" ","")
                 .replace(".","")
                 .replace("-","")
@@ -60,33 +61,21 @@ public class Collection {
                 .replace(")","");
     }
 
-    /**
-     * Use this one kid
-     *
-     * @param collectionNumber
-     * @param isActive
-     * @param note
-     * @param title
-     * @param publisherLink
-     * @param text
-     * @param img
-     * @param height
-     * @param width
-     * @param des
-     */
-    public Collection(int collectionNumber, boolean isActive, String note, String title, String publisherLink, String text, String img, int height, int width, String des){
+
+    public Collection(int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des){
         this.collectionNumber = collectionNumber;
         this.isActive = isActive;
         this.note = note;
         this.title = title;
-        this.publisherLink = publisherLink;
+        this.publisher= publisher;
+        this.publisherLink = publisher;
         this.text = text;
         this.img= img;
         this.imgH = height;
         this.imgW = width;
         this.des= des;
 
-        refinedPublisher = getPlainPublisher()
+        refinedPublisher = publisher
                 .replace(" ","")
                 .replace(".","")
                 .replace("-","")
@@ -114,14 +103,6 @@ public class Collection {
         return "Number: "+collectionNumber +"\nisActive: " + isActive + "\nNote: "+ note + "\nTitle: "+ title +"\nURLTitle: " +urlTitle +"\nPublisher: "+ publisherLink + "\nText: " + text + "\nImage: " + img +"\nAMPImage: " + ampImage + "\nDescription: " + des;
     }
 
-    public String getPlainPublisher(){
-        return publisherLink.replaceAll("<.*?>","").replace("Published by ","").replace("%comma%",",");
-    }
-
-    public String getRefinedPublisher(){
-        return refinedPublisher;
-    }
-
     /**
      * Note that the exlibiris browse link is just a search link with the title of the collection in the link
      *
@@ -130,10 +111,10 @@ public class Collection {
     public String getExlibirisLink(){
         return "http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,"
                 + collectionNumber
-                + "&indx=1&"
+                + "&indx=1"
                 //Note, this variable controls how many objects to return each search
                 // currently set to 50
-                + "bulkSize=50";
+                + "&bulkSize=50";
     }
 
 }

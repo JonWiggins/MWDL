@@ -23,23 +23,26 @@ import java.util.Scanner;
  */
 
 
-//OK, I know, calm down guy
-@SuppressWarnings("Deprecated")
+//TODO use newCollectionData.csv
 public class DataFetcher {
 
+
+
     public static Collection fetchCollection(int collectionNumber) throws FileNotFoundException {
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
+        Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
         while (collectionData.hasNext()) {
             String currentDataLine = collectionData.next();
             Scanner n = new Scanner(currentDataLine).useDelimiter(",");
             String currentDataNumber = n.next();
             if (currentDataNumber.contains(String.valueOf(collectionNumber))) {
-                return new Collection(collectionNumber, Boolean.valueOf(n.next()), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next());
+                return new Collection(collectionNumber, Boolean.valueOf(n.next()), n.next(), n.next(), n.next(), n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next());
             }
         }
         return null;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static PartnerPage fetchPartner(int partnerNumber) throws FileNotFoundException {
         Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
         while (partnerData.hasNext()) {
@@ -53,6 +56,8 @@ public class DataFetcher {
         return null;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static Collection fetchFromTitle(String title) throws FileNotFoundException {
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
         while (collectionData.hasNext()) {
@@ -74,6 +79,8 @@ public class DataFetcher {
         return null;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> getAllCollectionsFromPartner(int partner) throws FileNotFoundException {
         ArrayList<Collection> list = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
@@ -98,6 +105,8 @@ public class DataFetcher {
         return list;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> getAllActiveCollectionsFromPartner(int partner) throws FileNotFoundException {
         ArrayList<Collection> list = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
@@ -122,6 +131,8 @@ public class DataFetcher {
         return list;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> getAllActiveCollections() throws FileNotFoundException {
         ArrayList<Collection> list = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
@@ -141,7 +152,8 @@ public class DataFetcher {
         return list;
     }
 
-
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<PartnerPage> getAllActivePartners() throws FileNotFoundException {
         ArrayList<PartnerPage> list = new ArrayList<>();
         Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
@@ -161,6 +173,8 @@ public class DataFetcher {
         return list;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Integer> getInactiveCollectionsNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
         Scanner partnerData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
@@ -181,6 +195,8 @@ public class DataFetcher {
         return list;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Integer> getInactivePartnerNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
         Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
@@ -201,7 +217,8 @@ public class DataFetcher {
         return list;
     }
 
-
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> getAMPImgsWithOutHeight() throws FileNotFoundException {
         ArrayList<Collection> list = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
@@ -232,6 +249,8 @@ public class DataFetcher {
         return list;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<String> getInactiveCollectionLines() throws FileNotFoundException {
         ArrayList<String> toReturn = new ArrayList<>();
         Scanner collections = new Scanner(new File("newCollectionData.csv"));
@@ -251,6 +270,8 @@ public class DataFetcher {
         return toReturn;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<String> refineInactiveCollectionLines() throws FileNotFoundException{
         ArrayList<String> rawInactiveCollections = getInactiveCollectionLines();
 
@@ -265,7 +286,8 @@ public class DataFetcher {
         return toReturn;
     }
 
-
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> createCollectionsFromLines(ArrayList<String> dataLines){
         ArrayList<Collection> toReturn = new ArrayList<>();
         for(String s : dataLines){
@@ -283,6 +305,8 @@ public class DataFetcher {
         return toReturn;
     }
 
+    //Runs off of old CollectionData
+    @Deprecated
     public static ArrayList<Collection> howManyImagesAreNotStoredLocally() throws FileNotFoundException{
         ArrayList<Collection> list = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");

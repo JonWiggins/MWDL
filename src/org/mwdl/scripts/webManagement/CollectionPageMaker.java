@@ -74,7 +74,7 @@ public class CollectionPageMaker {
             writer.println("<!-- Collection Title-->");
             writer.println("<h4>" + toWrite.title + "</h4>");
             writer.println("<!-- Collection Publisher-->");
-            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getRefinedPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
+            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.refinedPublisher + ".php\">"+ toWrite.publisher+"</a></h6>");
             writer.println(" ");
             writer.println("<!-- Collection Description -->");
             if (toWrite.text != null) writer.println(toWrite.text);
@@ -113,7 +113,7 @@ public class CollectionPageMaker {
             writer.println("<!-- Collection Title -->");
             writer.println("<h3>" + toWrite.title + "</h3>");
             writer.println("<!-- Collection Publisher -->");
-            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.getRefinedPublisher() + ".php\">"+ toWrite.getPlainPublisher()+"</a></h6>");
+            writer.println("<h6> Published by <a href=\"../partners/" + toWrite.refinedPublisher + ".php\">"+ toWrite.publisher +"</a></h6>");
             writer.println("<!-- Collection Image -->");
             writer.println("<div class=amp-img-fill>");
             if (toWrite.img != null)
@@ -177,8 +177,8 @@ public class CollectionPageMaker {
             for (Collection c : collections) {
                 String urlTitle = c.urlTitle;
                 String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
-                String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getRefinedPublisher();
+                String publisherName = c.publisher.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
+                String urlPub= c.refinedPublisher;
                 writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
 
                 writer.println("<tr>");
@@ -246,8 +246,8 @@ public class CollectionPageMaker {
             for (Collection c : sorted) {
                 String urlTitle = c.urlTitle;
                 String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
-                String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getRefinedPublisher();
+                String publisherName = c.publisher.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
+                String urlPub= c.refinedPublisher;
                 writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
@@ -297,7 +297,7 @@ public class CollectionPageMaker {
             ArrayList<String> partnerNames = new ArrayList<>();
 
             for(Collection c: collections){
-                partnerNames.add(c.getPlainPublisher());
+                partnerNames.add(c.publisher);
             }
             sort(partnerNames);
 
@@ -305,7 +305,7 @@ public class CollectionPageMaker {
 
             for(String n : partnerNames){
                 for(Collection c : collections){
-                    if(c.getPlainPublisher().equals(n)){
+                    if(c.publisher.equals(n)){
                         sorted.add(c);
                         collections.remove(c);
                         break;
@@ -316,8 +316,8 @@ public class CollectionPageMaker {
             for (Collection c : sorted) {
                 String urlTitle = c.urlTitle;
                 String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
-                String publisherName = c.getPlainPublisher().replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.getRefinedPublisher();
+                String publisherName = c.publisher.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
+                String urlPub= c.refinedPublisher;
                 writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
                 writer.println("<tr>");
                 writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
