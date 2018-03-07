@@ -134,8 +134,6 @@ public class AnalyticsGen {
                                 if(month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
                                 else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
                                 //else if (month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
-
-
                                 else {
                                     System.err.println("Error: Month not found. It was: " + month);
                                     System.exit(0);
@@ -152,7 +150,6 @@ public class AnalyticsGen {
                             if (month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
                             else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
 
-
                             else {
                                 System.err.println("Error: Month not found. It was: " + month);
                                 System.exit(0);
@@ -163,9 +160,7 @@ public class AnalyticsGen {
                     } catch (NumberFormatException e) {
                         //this is not a collection page, so skip it
                         //System.err.println("Collection " + currentLine + " is not a collection.");
-
                     }
-
                 }
             }
             return  partners;
@@ -173,7 +168,6 @@ public class AnalyticsGen {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
         return null;
     }
 
@@ -243,7 +237,6 @@ public class AnalyticsGen {
                         //FIXME update months here
                         if (month.equalsIgnoreCase("January")) collections = p.JanCollections;
                         else if (month.equalsIgnoreCase("February")) collections = p.FebCollections;
-
 
                         else {
                             System.err.println("Error: Month not found. It was: " + month);

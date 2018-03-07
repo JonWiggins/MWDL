@@ -23,7 +23,6 @@ import java.util.Scanner;
  */
 
 
-//TODO use newCollectionData.csv
 public class DataFetcher {
 
 
@@ -41,88 +40,82 @@ public class DataFetcher {
         return null;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
     public static PartnerPage fetchPartner(int partnerNumber) throws FileNotFoundException {
-        Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
         while (partnerData.hasNext()) {
             String currentDataLine = partnerData.next();
             Scanner n = new Scanner(currentDataLine).useDelimiter(",");
             String currentDataNumber = n.next();
             if (currentDataNumber.contains(String.valueOf(partnerNumber))) {
-                return new PartnerPage(partnerNumber, Boolean.valueOf(n.next()), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next());
+                return new PartnerPage(partnerNumber, Boolean.valueOf(n.next()), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next());
             }
         }
         return null;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
     public static Collection fetchFromTitle(String title) throws FileNotFoundException {
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
+        Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
         while (collectionData.hasNext()) {
             try {
-                String currentDataLine = collectionData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                String note = n.next();
-                String ctitle = n.next();
-                String urlTitle = n.next();
-                if (title.equalsIgnoreCase(ctitle) || title.equalsIgnoreCase(urlTitle)) {
-                    return new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, ctitle, urlTitle, n.next(), n.next(), n.next(), n.next(), n.next(), n.next());
-                }
-            } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
-            }
-        }
-        return null;
-    }
-
-    //Runs off of old CollectionData
-    @Deprecated
-    public static ArrayList<Collection> getAllCollectionsFromPartner(int partner) throws FileNotFoundException {
-        ArrayList<Collection> list = new ArrayList<>();
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
-        while (collectionData.hasNext()) {
-            try {
-                String currentDataLine = collectionData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                String note = n.next();
-                String ctitle = n.next();
-                String urlTitle = n.next();
-                String publisher = n.next();
-
-                if (publisher.contains(String.valueOf(partner))) {
-                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, ctitle, urlTitle, publisher, n.next(), n.next(), n.next(), n.next(), n.next()));
-                }
-            } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
-            }
-        }
-        return list;
-    }
-
-    //Runs off of old CollectionData
-    @Deprecated
-    public static ArrayList<Collection> getAllActiveCollectionsFromPartner(int partner) throws FileNotFoundException {
-        ArrayList<Collection> list = new ArrayList<>();
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
-        while (collectionData.hasNext()) {
-            try {
+                //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Length, Image Description
                 String currentDataLine = collectionData.next();
                 Scanner n = new Scanner(currentDataLine).useDelimiter(",");
                 String currentDataNumber = n.next();
                 String isActive = n.next();
                 String note = n.next();
                 String cTitle = n.next();
-                String urlTitle = n.next();
+                if (title.equalsIgnoreCase(cTitle)) {
+                    return new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, n.next(), n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next());
+                }
+            } catch (NoSuchElementException e) {
+                System.err.print("Error: Check DataFetcher");
+            }
+        }
+        return null;
+    }
+
+
+    public static ArrayList<Collection> getAllCollectionsFromPartner(int partner) throws FileNotFoundException {
+        ArrayList<Collection> list = new ArrayList<>();
+        Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
+        while (collectionData.hasNext()) {
+            try {
+                //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Length, Image Description
+                String currentDataLine = collectionData.next();
+                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
+                String currentDataNumber = n.next();
+                String isActive = n.next();
+                String note = n.next();
+                String cTitle = n.next();
+                String publisher = n.next();
+
+                if (publisher.contains(String.valueOf(partner))) {
+                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, publisher,n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
+                }
+            } catch (NoSuchElementException e) {
+                System.err.print("Error: Check DataFetcher");
+            }
+        }
+        return list;
+    }
+
+
+    public static ArrayList<Collection> getAllActiveCollectionsFromPartner(int partner) throws FileNotFoundException {
+        ArrayList<Collection> list = new ArrayList<>();
+        Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
+        while (collectionData.hasNext()) {
+            try {
+                //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Length, Image Description
+                String currentDataLine = collectionData.next();
+                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
+                String currentDataNumber = n.next();
+                String isActive = n.next();
+                String note = n.next();
+                String cTitle = n.next();
                 String publisher = n.next();
 
                 if (Boolean.valueOf(isActive) && publisher.contains(String.valueOf(partner))) {
-                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, urlTitle, publisher, n.next(), n.next(), n.next(), n.next(), n.next()));
+                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, publisher, n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
                 }
             } catch (NoSuchElementException e) {
                 System.err.print("Error: Check DataFetcher");
@@ -131,11 +124,11 @@ public class DataFetcher {
         return list;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
+
+
     public static ArrayList<Collection> getAllActiveCollections() throws FileNotFoundException {
         ArrayList<Collection> list = new ArrayList<>();
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
+        Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
         while (collectionData.hasNext()) {
             try {
                 String currentDataLine = collectionData.next();
@@ -143,7 +136,7 @@ public class DataFetcher {
                 String currentDataNumber = n.next();
                 String isActive = n.next();
                 if (Boolean.valueOf(isActive)) {
-                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next()));
+                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
                 }
             } catch (NoSuchElementException e) {
                 System.err.print("Error: Check DataFetcher");
@@ -152,11 +145,11 @@ public class DataFetcher {
         return list;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
+
+
     public static ArrayList<PartnerPage> getAllActivePartners() throws FileNotFoundException {
         ArrayList<PartnerPage> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
         while (partnerData.hasNext()) {
             try {
                 String currentDataLine = partnerData.next();
@@ -164,7 +157,7 @@ public class DataFetcher {
                 String currentDataNumber = n.next();
                 String isActive = n.next();
                 if (Boolean.valueOf(isActive)) {
-                    list.add(new PartnerPage(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next()));
+                    list.add(new PartnerPage(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next()));
                 }
             } catch (NoSuchElementException e) {
                 System.err.print("Error: Check DataFetcher");
@@ -173,11 +166,11 @@ public class DataFetcher {
         return list;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
+
+
     public static ArrayList<Integer> getInactiveCollectionsNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
         while (partnerData.hasNext()) {
             try {
                 String currentDataLine = partnerData.next();
@@ -195,11 +188,11 @@ public class DataFetcher {
         return list;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
+
+
     public static ArrayList<Integer> getInactivePartnerNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("partnerData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
         while (partnerData.hasNext()) {
             try {
                 String currentDataLine = partnerData.next();
@@ -217,44 +210,13 @@ public class DataFetcher {
         return list;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
-    public static ArrayList<Collection> getAMPImgsWithOutHeight() throws FileNotFoundException {
-        ArrayList<Collection> list = new ArrayList<>();
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
-        while (collectionData.hasNext()) {
-            try {
-                String currentDataLine = collectionData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                if (Boolean.valueOf(isActive)) {
-                    String note = n.next();
-                    String title = n.next();
-                    String urlTitle = n.next();
-                    String pub = n.next();
-                    String text = n.next();
-                    String img = n.next();
-                    String ampImage = n.next();
-                    if (Boolean.valueOf(isActive)) {
-                        if (!ampImage.contains("height") || !ampImage.contains("width")) {
-                            list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, title, urlTitle, pub, text, img, ampImage, n.next(), n.next()));
-                        }
-                    }
-                }
-            } catch (NoSuchElementException e) {
-                e.printStackTrace();
-            }
-        }
-        return list;
-    }
 
-    //Runs off of old CollectionData
-    @Deprecated
+
+
     public static ArrayList<String> getInactiveCollectionLines() throws FileNotFoundException {
         ArrayList<String> toReturn = new ArrayList<>();
         Scanner collections = new Scanner(new File("newCollectionData.csv"));
-        //skip the tiles line
+        //skip the titles line
         collections.nextLine();
 
         while (collections.hasNextLine()) {
@@ -270,24 +232,7 @@ public class DataFetcher {
         return toReturn;
     }
 
-    //Runs off of old CollectionData
-    @Deprecated
-    public static ArrayList<String> refineInactiveCollectionLines() throws FileNotFoundException{
-        ArrayList<String> rawInactiveCollections = getInactiveCollectionLines();
 
-        ArrayList<String> toReturn = new ArrayList<>();
-        for(String element : rawInactiveCollections)
-            if(!element.contains("Could not retrieve collection")
-                    && !element.contains("Removed")
-                    && !element.contains("- Collection in the Mountain West Digital Library")
-                    && !element.contains("too few elements to be parsed."))
-                toReturn.add(element);
-
-        return toReturn;
-    }
-
-    //Runs off of old CollectionData
-    @Deprecated
     public static ArrayList<Collection> createCollectionsFromLines(ArrayList<String> dataLines){
         ArrayList<Collection> toReturn = new ArrayList<>();
         for(String s : dataLines){
@@ -295,47 +240,14 @@ public class DataFetcher {
                 Scanner line = new Scanner(s).useDelimiter(",");
                 String currentDataNumber = line.next();
                 String isActive = line.next();
-                toReturn.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), line.next(), line.next(), line.next(), line.next(), line.next(), line.next(), line.next(), line.next(), line.next()));
+                toReturn.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), line.next(), line.next(), line.next(), line.next(), line.next(), Integer.valueOf(line.next()), Integer.valueOf(line.next()), line.next()));
             }catch (NoSuchElementException e){
-                continue; // for cleen
+                continue; // for clean
             }
         }
 
 
         return toReturn;
     }
-
-    //Runs off of old CollectionData
-    @Deprecated
-    public static ArrayList<Collection> howManyImagesAreNotStoredLocally() throws FileNotFoundException{
-        ArrayList<Collection> list = new ArrayList<>();
-        Scanner collectionData = new Scanner(new File("collectionData.csv")).useDelimiter("\n");
-        while (collectionData.hasNext()) {
-            try {
-                String currentDataLine = collectionData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                if (Boolean.valueOf(isActive)) {
-                    String note = n.next();
-                    String title = n.next();
-                    String urlTitle = n.next();
-                    String pub = n.next();
-                    String text = n.next();
-                    String img = n.next();
-                    String ampImage = n.next();
-                    if (Boolean.valueOf(isActive)) {
-                        if (!img.contains(("../images/collection_images/collection"+currentDataNumber))) {
-                            list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, title, urlTitle, pub, text, img, ampImage, n.next(), n.next()));
-                        }
-                    }
-                }
-            } catch (NoSuchElementException e) {
-                e.printStackTrace();
-            }
-        }
-        return list;
-    }
-
 
 }
