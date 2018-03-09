@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner101.jpg" alt="Marriott Library" width="364" height="190"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner101.jpg" alt=""width="364" height="190"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-J. Willard Marriott Library
+
 </div>
 <!-- Partner #101 -->
 <!-- Partner Name -->
 <h3>University of Utah - J. Willard Marriott Library</h3>
 <!-- Website Link -->
-<h6><a href="http://www.lib.utah.edu/" target="_blank"> University of Utah - J. Willard Marriott Library Website</a></h6>
+<h6>http://www.lib.utah.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,77 +31,76 @@ J. Willard Marriott Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+J.+Willard+Marriott+Library">Browse all records from University of Utah - J. Willard Marriott Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+J.+Willard+Marriott+Library">Browse all records from University of Utah - J. Willard Marriott Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/AmericanWestwardMigration.php">American Westward Migration</a></li>
-<li><a href = "../collections/ColoradoRiverbedCase.php">Colorado Riverbed Case</a></li>
-<li><a href = "../collections/DardHunterBookCollection.php">Dard Hunter Book Collection</a></li>
-<li><a href = "../collections/LandUseTransportationScenarioPlanning.php">Land Use-Transportation Scenario Planning</a></li>
-<li><a href = "../collections/HarmoniaMacrocosmica.php">Harmonia Macrocosmica</a></li>
-<li><a href = "../collections/JohnWesleyPowellCollection.php">John Wesley Powell Collection</a></li>
-<li><a href = "../collections/KarlBodmerAquatintCollection.php">Karl Bodmer Aquatint Collection</a></li>
-<li><a href = "../collections/LessonsTheJournaloftheCenterforTeachingandLearningExcellence.php">Lessons: The Journal of the Center for Teaching and Learning Excellence</a></li>
-<li><a href = "../collections/MusicTempleVisitorsRegister.php">Music Temple Visitors Register</a></li>
-<li><a href = "../collections/TannerTrustBookCollection.php">Tanner Trust Book Collection</a></li>
-<li><a href = "../collections/UniversityofUtahArchivesPhotographCollection.php">University of Utah Archives Photograph Collection</a></li>
-<li><a href = "../collections/UtahSkiArchivesNewsletter.php">Utah Ski Archives Newsletter</a></li>
-<li><a href = "../collections/WesternWatersBookCollection.php">Western Waters: Book Collection</a></li>
-<li><a href = "../collections/WesternWatersDiaryCollection.php">Western Waters: Diary Collection</a></li>
-<li><a href = "../collections/WesternWatersDocuments.php">Western Waters: Documents</a></li>
-<li><a href = "../collections/WesternWatersElectronicResources.php">Western Waters: Electronic Resources</a></li>
-<li><a href = "../collections/WesternWatersTreatiesandCompacts.php">Western Waters: Treaties and Compacts</a></li>
-<li><a href = "../collections/WesternWatersPhotographCollection.php">Western Waters: Photograph Collection</a></li>
-<li><a href = "../collections/FrankLloydWrightWasmuthPortfolio.php">Frank Lloyd Wright: Wasmuth Portfolio</a></li>
-<li><a href = "../collections/ArabicPapyrusParchmentandPaperCollection.php">Arabic Papyrus Parchment and Paper Collection</a></li>
-<li><a href = "../collections/DeNaturaeSimia.php">De Naturae Simia</a></li>
-<li><a href = "../collections/EuropeanPerformanceArts16001899.php">European Performance Arts (1600-1899)</a></li>
-<li><a href = "../collections/JohnWFitzgeraldCollection.php">John W. Fitzgerald Collection</a></li>
-<li><a href = "../collections/MiddleEastCollections.php">Middle East Collections</a></li>
-<li><a href = "../collections/SanbornFireInsuranceMaps.php">Sanborn Fire Insurance Maps</a></li>
-<li><a href = "../collections/MovingImageArchive.php">Moving Image Archive</a></li>
-<li><a href = "../collections/UtahPressAssociationUPAACenturyLater.php">Utah Press Association: UPA - A Century Later</a></li>
-<li><a href = "../collections/UtonianYearbooks.php">Utonian Yearbooks</a></li>
-<li><a href = "../collections/WesternWatersAZvsCA.php">Western Waters: AZ vs. CA</a></li>
-<li><a href = "../collections/WesternWatersAudioVideoCollection.php">Western Waters: Audio-Video Collection</a></li>
-<li><a href = "../collections/HinckleyJournalofPolitics.php">Hinckley Journal of Politics</a></li>
-<li><a href = "../collections/UniversityNeighborhoodPartnersProgram.php">University Neighborhood Partners Program</a></li>
-<li><a href = "../collections/UniversityofUtahElectronicUniversityArchive.php">University of Utah Electronic University Archive</a></li>
-<li><a href = "../collections/WaterWiseUtah.php">Water Wise Utah</a></li>
-<li><a href = "../collections/UniversityofUtahPhotographArchives.php">University of Utah Photograph Archives</a></li>
-<li><a href = "../collections/WesternSoundscapeArchive.php">Western Soundscape Archive</a></li>
-<li><a href = "../collections/WesternSoundscapeArchiveSpectrograms.php">Western Soundscape Archive Spectrograms</a></li>
-<li><a href = "../collections/FrederickWilliamReynoldsLectures.php">Frederick William Reynolds Lectures</a></li>
-<li><a href = "../collections/UniversityofUtahRareBooksCollection.php">University of Utah Rare Books Collection</a></li>
-<li><a href = "../collections/AltaUTAvalancheStudyCenter.php">Alta (UT) Avalanche Study Center</a></li>
-<li><a href = "../collections/HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater.php">Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water</a></li>
-<li><a href = "../collections/WesternWatersUniversityofUtahSpecialCollections.php">Western Waters: University of Utah Special Collections</a></li>
-<li><a href = "../collections/UniversityofUtahMarriottLibraryPermanentArtCollection.php">University of Utah Marriott Library Permanent Art Collection</a></li>
-<li><a href = "../collections/CyclingUtah.php">Cycling Utah</a></li>
-<li><a href = "../collections/JohnMillsWhitakerPapers.php">John Mills Whitaker Papers</a></li>
-<li><a href = "../collections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">Daughters of the Utah Pioneers Kaysville (UT) - Phillips Camp Biographies</a></li>
-<li><a href = "../collections/HiramBClawsonPapers.php">Hiram B. Clawson Papers</a></li>
-<li><a href = "../collections/JohnHamiltonMorganPapers.php">John Hamilton Morgan Papers</a></li>
-<li><a href = "../collections/TaylorAWoolleyPapers.php">Taylor A. Woolley Papers</a></li>
-<li><a href = "../collections/UniversityofUtahTopazOralHistories.php">University of Utah Topaz Oral Histories</a></li>
-<li><a href = "../collections/UniversityofUtahInterviewswithJapaneseinUtah.php">University of Utah Interviews with Japanese in Utah</a></li>
-<li><a href = "../collections/UniversityofUtahDanceThesesCollection.php">University of Utah Dance Theses Collection</a></li>
-<li><a href = "../collections/LeoLeonardPapers.php">Leo Leonard Papers</a></li>
-<li><a href = "../collections/RichardWrightYoungPapers.php">Richard Wright Young Papers</a></li>
-<li><a href = "../collections/UtahHumanitiesResearchFoundation.php">Utah Humanities Research Foundation</a></li>
-<li><a href = "../collections/UtahPioneerCostumeResearchProject.php">Utah Pioneer Costume Research Project</a></li>
-<li><a href = "../collections/ChicanoScholarshipArchive.php">Chicano Scholarship Archive</a></li>
-<li><a href = "../collections/UniversityofUtahHumanitiesInFocus.php">University of Utah Humanities In Focus</a></li>
-<li><a href = "../collections/HGrantIvinsPapers.php">H. Grant Ivins Papers</a></li>
-<li><a href = "../collections/NelsonHigginsPapers.php">Nelson Higgins Papers</a></li>
-<li><a href = "../collections/InterviewswithJewsinUtah.php">Interviews with Jews in Utah</a></li>
-<li><a href = "../collections/EverettRuessFamilyPapers.php">Everett Ruess Family Papers</a></li>
-<li><a href = "../collections/EverettLCooleyOralHistoryProject.php">Everett L. Cooley Oral History Project</a></li>
-<li><a href = "../collections/GeorgeCannonYoungArchitecture.php">George Cannon Young Architecture</a></li>
-<li><a href = "../collections/JosephEllisJohnsonPapers.php">Joseph Ellis Johnson Papers</a></li>
-<li><a href = "../collections/ThomasJeffersonOBrienJournals.php">Thomas Jefferson O'Brien Journals</a></li>
-<li><a href = "../collections/GoldenSpikeOralHistoryPapers.php">Golden Spike Oral History Papers</a></li>
-<li><a href = "../collections/UniversityofUtahDaughtersoftheAmericanRevolutionPapers.php">University of Utah Daughters of the American Revolution Papers</a></li>
+<li><a href = "../collections/AmericanWestwardMigration.php">AmericanWestwardMigration</a></li>
+<li><a href = "../collections/ColoradoRiverbedCase.php">ColoradoRiverbedCase</a></li>
+<li><a href = "../collections/DardHunterBookCollection.php">DardHunterBookCollection</a></li>
+<li><a href = "../collections/LandUseTransportationScenarioPlanning.php">LandUseTransportationScenarioPlanning</a></li>
+<li><a href = "../collections/HarmoniaMacrocosmica.php">HarmoniaMacrocosmica</a></li>
+<li><a href = "../collections/JohnWesleyPowellCollection.php">JohnWesleyPowellCollection</a></li>
+<li><a href = "../collections/KarlBodmerAquatintCollection.php">KarlBodmerAquatintCollection</a></li>
+<li><a href = "../collections/LessonsTheJournaloftheCenterforTeachingandLearningExcellence.php">LessonsTheJournaloftheCenterforTeachingandLearningExcellence</a></li>
+<li><a href = "../collections/MusicTempleVisitorsRegister.php">MusicTempleVisitorsRegister</a></li>
+<li><a href = "../collections/TannerTrustBookCollection.php">TannerTrustBookCollection</a></li>
+<li><a href = "../collections/UniversityofUtahArchivesPhotographCollection.php">UniversityofUtahArchivesPhotographCollection</a></li>
+<li><a href = "../collections/UtahSkiArchivesNewsletter.php">UtahSkiArchivesNewsletter</a></li>
+<li><a href = "../collections/WesternWatersBookCollection.php">WesternWatersBookCollection</a></li>
+<li><a href = "../collections/WesternWatersDiaryCollection.php">WesternWatersDiaryCollection</a></li>
+<li><a href = "../collections/WesternWatersDocuments.php">WesternWatersDocuments</a></li>
+<li><a href = "../collections/WesternWatersElectronicResources.php">WesternWatersElectronicResources</a></li>
+<li><a href = "../collections/WesternWatersTreatiesandCompacts.php">WesternWatersTreatiesandCompacts</a></li>
+<li><a href = "../collections/WesternWatersPhotographCollection.php">WesternWatersPhotographCollection</a></li>
+<li><a href = "../collections/FrankLloydWrightWasmuthPortfolio.php">FrankLloydWrightWasmuthPortfolio</a></li>
+<li><a href = "../collections/ArabicPapyrusParchmentandPaperCollection.php">ArabicPapyrusParchmentandPaperCollection</a></li>
+<li><a href = "../collections/DeNaturaeSimia.php">DeNaturaeSimia</a></li>
+<li><a href = "../collections/EuropeanPerformanceArts16001899.php">EuropeanPerformanceArts16001899</a></li>
+<li><a href = "../collections/JohnWFitzgeraldCollection.php">JohnWFitzgeraldCollection</a></li>
+<li><a href = "../collections/MiddleEastCollections.php">MiddleEastCollections</a></li>
+<li><a href = "../collections/SanbornFireInsuranceMaps.php">SanbornFireInsuranceMaps</a></li>
+<li><a href = "../collections/MovingImageArchive.php">MovingImageArchive</a></li>
+<li><a href = "../collections/UtahPressAssociationUPAACenturyLater.php">UtahPressAssociationUPAACenturyLater</a></li>
+<li><a href = "../collections/UtonianYearbooks.php">UtonianYearbooks</a></li>
+<li><a href = "../collections/WesternWatersAZvsCA.php">WesternWatersAZvsCA</a></li>
+<li><a href = "../collections/WesternWatersAudioVideoCollection.php">WesternWatersAudioVideoCollection</a></li>
+<li><a href = "../collections/HinckleyJournalofPolitics.php">HinckleyJournalofPolitics</a></li>
+<li><a href = "../collections/UniversityNeighborhoodPartnersProgram.php">UniversityNeighborhoodPartnersProgram</a></li>
+<li><a href = "../collections/UniversityofUtahElectronicUniversityArchive.php">UniversityofUtahElectronicUniversityArchive</a></li>
+<li><a href = "../collections/WaterWiseUtah.php">WaterWiseUtah</a></li>
+<li><a href = "../collections/UniversityofUtahPhotographArchives.php">UniversityofUtahPhotographArchives</a></li>
+<li><a href = "../collections/WesternSoundscapeArchive.php">WesternSoundscapeArchive</a></li>
+<li><a href = "../collections/WesternSoundscapeArchiveSpectrograms.php">WesternSoundscapeArchiveSpectrograms</a></li>
+<li><a href = "../collections/FrederickWilliamReynoldsLectures.php">FrederickWilliamReynoldsLectures</a></li>
+<li><a href = "../collections/UniversityofUtahRareBooksCollection.php">UniversityofUtahRareBooksCollection</a></li>
+<li><a href = "../collections/AltaUTAvalancheStudyCenter.php">AltaUTAvalancheStudyCenter</a></li>
+<li><a href = "../collections/HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater.php">HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater</a></li>
+<li><a href = "../collections/WesternWatersUniversityofUtahSpecialCollections.php">WesternWatersUniversityofUtahSpecialCollections</a></li>
+<li><a href = "../collections/UniversityofUtahMarriottLibraryPermanentArtCollection.php">UniversityofUtahMarriottLibraryPermanentArtCollection</a></li>
+<li><a href = "../collections/CyclingUtah.php">CyclingUtah</a></li>
+<li><a href = "../collections/JohnMillsWhitakerPapers.php">JohnMillsWhitakerPapers</a></li>
+<li><a href = "../collections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies</a></li>
+<li><a href = "../collections/HiramBClawsonPapers.php">HiramBClawsonPapers</a></li>
+<li><a href = "../collections/JohnHamiltonMorganPapers.php">JohnHamiltonMorganPapers</a></li>
+<li><a href = "../collections/TaylorAWoolleyPapers.php">TaylorAWoolleyPapers</a></li>
+<li><a href = "../collections/UniversityofUtahTopazOralHistories.php">UniversityofUtahTopazOralHistories</a></li>
+<li><a href = "../collections/UniversityofUtahInterviewswithJapaneseinUtah.php">UniversityofUtahInterviewswithJapaneseinUtah</a></li>
+<li><a href = "../collections/UniversityofUtahDanceThesesCollection.php">UniversityofUtahDanceThesesCollection</a></li>
+<li><a href = "../collections/LeoLeonardPapers.php">LeoLeonardPapers</a></li>
+<li><a href = "../collections/RichardWrightYoungPapers.php">RichardWrightYoungPapers</a></li>
+<li><a href = "../collections/UtahHumanitiesResearchFoundation.php">UtahHumanitiesResearchFoundation</a></li>
+<li><a href = "../collections/UtahPioneerCostumeResearchProject.php">UtahPioneerCostumeResearchProject</a></li>
+<li><a href = "../collections/ChicanoScholarshipArchive.php">ChicanoScholarshipArchive</a></li>
+<li><a href = "../collections/UniversityofUtahHumanitiesInFocus.php">UniversityofUtahHumanitiesInFocus</a></li>
+<li><a href = "../collections/HGrantIvinsPapers.php">HGrantIvinsPapers</a></li>
+<li><a href = "../collections/NelsonHigginsPapers.php">NelsonHigginsPapers</a></li>
+<li><a href = "../collections/InterviewswithJewsinUtah.php">InterviewswithJewsinUtah</a></li>
+<li><a href = "../collections/EverettRuessFamilyPapers.php">EverettRuessFamilyPapers</a></li>
+<li><a href = "../collections/EverettLCooleyOralHistoryProject.php">EverettLCooleyOralHistoryProject</a></li>
+<li><a href = "../collections/GeorgeCannonYoungArchitecture.php">GeorgeCannonYoungArchitecture</a></li>
+<li><a href = "../collections/JosephEllisJohnsonPapers.php">JosephEllisJohnsonPapers</a></li>
+<li><a href = "../collections/ThomasJeffersonO'BrienJournals.php">ThomasJeffersonO'BrienJournals</a></li>
+<li><a href = "../collections/GoldenSpikeOralHistoryPapers.php">GoldenSpikeOralHistoryPapers</a></li>
+<li><a href = "../collections/UniversityofUtahDaughtersoftheAmericanRevolutionPapers.php">UniversityofUtahDaughtersoftheAmericanRevolutionPapers</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Utah Valley University Library</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.uvu.edu/library/" target="_blank">Utah Valley University Library Website</a></h6>
+<h6>http://www.uvu.edu/library/</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner121.jpg" alt="Utah Valley University Library" width="361" height="240" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner121.jpg alt="" width="361" height="240" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Valley University Library
+
 <!-- Article Text -->
 
 <p>Utah Valley University, located in Orem, Utah, has evolved from its beginnings as the Central Utah Vocational School in 1941, with 317 students, to a university with over 32,000 students. In addition to 57 baccalaureate programs, UVU now offers master degrees in education, nursing, and business administration, and still remains committed to career and technical programs. UVU's emphasis on teaching and engaged learning led to its classification as "community engaged" by the Carnegie Foundation.</p>
@@ -26,26 +26,25 @@ Utah Valley University Library
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+Library">Browse all records from Utah Valley University Library</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+Library">Browse all records from Utah Valley University Library</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/UtahValleyUniversityDepartmentalPublications.php">Utah Valley University Departmental Publications</a></li>
-<li><a href = "../ampcollections/UtahValleyUniversityFacultyCollection.php">Utah Valley University Faculty Collection</a></li>
-<li><a href = "../ampcollections/UtahValleyUniversityLibraryCollection.php">Utah Valley University Library Collection</a></li>
-<li><a href = "../ampcollections/WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity.php">Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University</a></li>
-<li><a href = "../ampcollections/UtahTechnicalCollegeYearbooks.php">Utah Technical College Yearbooks</a></li>
-<li><a href = "../ampcollections/UtahPeaceActivistsOralHistory.php">Utah Peace Activists Oral History</a></li>
-<li><a href = "../ampcollections/BarryMaxfieldRailroadPhotographs.php">Barry Maxfield Railroad Photographs</a></li>
-<li><a href = "../ampcollections/VietnamEraOralHistoryProject.php">Vietnam Era Oral History Project</a></li>
-<li><a href = "../ampcollections/UtahFireServiceHistoryDigitalArchive.php">Utah Fire Service History Digital Archive</a></li>
-<li><a href = "../ampcollections/WomensWalkHonoringtheWomenofUtah.php">Women's Walk: Honoring the Women of Utah</a></li>
-<li><a href = "../ampcollections/UtahValleyUniversityStudentNewspapers.php">Utah Valley University Student Newspapers</a></li>
-<li><a href = "../ampcollections/PioneersInYourAtticfromUtahValleyUniversity.php">Pioneers In Your Attic from Utah Valley University</a></li>
-<li><a href = "../ampcollections/VeteransofIraqandAfghanistanOralHistoryCollection.php">Veterans of Iraq and Afghanistan Oral History Collection</a></li>
-<li><a href = "../ampcollections/UtahValleyUniversityCourseCatalogs.php">Utah Valley University Course Catalogs</a></li>
-<li><a href = "../ampcollections/JClaytonTullisUtahStateCapitolCollection.php">J. Clayton Tullis Utah State Capitol Collection</a></li>
-<li><a href = "../ampcollections/HarryBolamSaltairPhotographs.php">Harry Bolam Saltair Photographs</a></li>
-<li><a href = "../ampcollections/UtahTechnicalCollegeWomensAssociationScrapbooks.php">Utah Technical College Women's Association Scrapbooks</a></li>
-<li><a href = "../ampcollections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">Telling Our Story: An Oral History of Utah Valley University</a></li>
+<li><a href = "../ampcollections/UtahValleyUniversityDepartmentalPublications.php">UtahValleyUniversityDepartmentalPublications</a></li>
+<li><a href = "../ampcollections/UtahValleyUniversityFacultyCollection.php">UtahValleyUniversityFacultyCollection</a></li>
+<li><a href = "../ampcollections/UtahValleyUniversityLibraryCollection.php">UtahValleyUniversityLibraryCollection</a></li>
+<li><a href = "../ampcollections/WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity.php">WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity</a></li>
+<li><a href = "../ampcollections/UtahTechnicalCollegeYearbooks.php">UtahTechnicalCollegeYearbooks</a></li>
+<li><a href = "../ampcollections/UtahPeaceActivistsOralHistory.php">UtahPeaceActivistsOralHistory</a></li>
+<li><a href = "../ampcollections/BarryMaxfieldRailroadPhotographs.php">BarryMaxfieldRailroadPhotographs</a></li>
+<li><a href = "../ampcollections/VietnamEraOralHistoryProject.php">VietnamEraOralHistoryProject</a></li>
+<li><a href = "../ampcollections/UtahFireServiceHistoryDigitalArchive.php">UtahFireServiceHistoryDigitalArchive</a></li>
+<li><a href = "../ampcollections/Women'sWalkHonoringtheWomenofUtah.php">Women'sWalkHonoringtheWomenofUtah</a></li>
+<li><a href = "../ampcollections/UtahValleyUniversityStudentNewspapers.php">UtahValleyUniversityStudentNewspapers</a></li>
+<li><a href = "../ampcollections/PioneersInYourAtticfromUtahValleyUniversity.php">PioneersInYourAtticfromUtahValleyUniversity</a></li>
+<li><a href = "../ampcollections/VeteransofIraqandAfghanistanOralHistoryCollection.php">VeteransofIraqandAfghanistanOralHistoryCollection</a></li>
+<li><a href = "../ampcollections/UtahValleyUniversityCourseCatalogs.php">UtahValleyUniversityCourseCatalogs</a></li>
+<li><a href = "../ampcollections/JClaytonTullisUtahStateCapitolCollection.php">JClaytonTullisUtahStateCapitolCollection</a></li>
+<li><a href = "../ampcollections/HarryBolamSaltairPhotographs.php">HarryBolamSaltairPhotographs</a></li>
+<li><a href = "../ampcollections/UtahTechnicalCollegeWomen'sAssociationScrapbooks.php">UtahTechnicalCollegeWomen'sAssociationScrapbooks</a></li>
+<li><a href = "../ampcollections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">TellingOurStoryAnOralHistoryofUtahValleyUniversity</a></li>
 <?php include("../includes/ampfooter.php");?>

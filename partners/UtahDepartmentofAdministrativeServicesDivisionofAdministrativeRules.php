@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner360.jpg" alt="Division of Administrative Rules, Department of Administrative Services" height ="250" width="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner360.jpg" alt=""width="250" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Department of Administrative Services - Division of Administrative Rules
+
 </div>
 <!-- Partner #360 -->
 <!-- Partner Name -->
 <h3>Utah Department of Administrative Services - Division of Administrative Rules</h3>
 <!-- Website Link -->
-<h6><a href="http://www.rules.utah.gov/" target="_blank">Utah Department of Administrative Services - Division of Administrative Rules Website</a></h6>
+<h6>http://www.rules.utah.gov/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,10 +32,9 @@ Utah Department of Administrative Services - Division of Administrative Rules
 
 <p>Collections from this partner:</p></p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Department+of+Administrative+Services+-+Division+of+Administrative+Rules">Browse all records from Utah Department of Administrative Services - Division of Administrative Rules</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Department+of+Administrative+Services+-+Division+of+Administrative+Rules">Browse all records from Utah Department of Administrative Services - Division of Administrative Rules</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahAdministrativeCode.php">Utah Administrative Code</a></li>
+<li><a href = "../collections/UtahAdministrativeCode.php">UtahAdministrativeCode</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

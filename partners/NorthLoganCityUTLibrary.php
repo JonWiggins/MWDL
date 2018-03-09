@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner363.jpg" alt="North Logan City (UT) Library" height ="250" width="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner363.jpg" alt=""width="250" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-North Logan City (UT) Library
+
 </div>
 <!-- Partner #363 -->
 <!-- Partner Name -->
 <h3>North Logan City (UT) Library</h3>
 <!-- Website Link -->
-<h6><a href="http://www.northloganlibrary.org/" target="_blank">North Logan City (UT) Library Website</a></h6>
+<h6>http://www.northloganlibrary.org/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ North Logan City (UT) Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=North+Logan+City+(UT)+Library">Browse all records from North Logan City (UT) Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=North+Logan+City+(UT)+Library">Browse all records from North Logan City (UT) Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/NorthLoganUTHistoryCollection.php">North Logan (UT) History Collection</a></li>
+<li><a href = "../collections/NorthLoganUTHistoryCollection.php">NorthLoganUTHistoryCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

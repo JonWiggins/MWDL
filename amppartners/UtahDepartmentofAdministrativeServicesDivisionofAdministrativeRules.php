@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Utah Department of Administrative Services - Division of Administrative Rules</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.rules.utah.gov/" target="_blank">Utah Department of Administrative Services - Division of Administrative Rules Website</a></h6>
+<h6>http://www.rules.utah.gov/</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner360.jpg" alt="Division of Administrative Rules, Department of Administrative Services" height ="250" width="250" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner360.jpg alt="" width="250" height="" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Department of Administrative Services - Division of Administrative Rules
+
 <!-- Article Text -->
 
 <p>The Division of Administrative Rules is an executive branch agency under the Department of Administrative Services.</p>
@@ -27,9 +27,8 @@ Utah Department of Administrative Services - Division of Administrative Rules
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Department+of+Administrative+Services+-+Division+of+Administrative+Rules">Browse all records from Utah Department of Administrative Services - Division of Administrative Rules</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Department+of+Administrative+Services+-+Division+of+Administrative+Rules">Browse all records from Utah Department of Administrative Services - Division of Administrative Rules</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/UtahAdministrativeCode.php">Utah Administrative Code</a></li>
+<li><a href = "../ampcollections/UtahAdministrativeCode.php">UtahAdministrativeCode</a></li>
 <?php include("../includes/ampfooter.php");?>

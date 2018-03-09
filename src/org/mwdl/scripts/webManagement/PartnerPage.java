@@ -51,13 +51,12 @@ public class PartnerPage {
         this.imageDes = imageDes;
 
         try {
-            activeCollections = DataFetcher.getAllActiveCollectionsFromPartner(number);
+            activeCollections = DataFetcher.getAllActiveCollectionsFromPartner(name);
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 
-        //TODO figure this out
-        browseLink = ""+"";
+        browseLink = getExlibirisLink();
 
         this.urlName = name.replace(" ","")
                 .replace(".","")
@@ -73,5 +72,16 @@ public class PartnerPage {
                 .replace("<p>","")
                 .replace("<b>","")
                 .replace("</b>","");
+    }
+
+    /**
+     * Note that the exlibiris browse link is just a search link with the name of the partner in it
+     *
+     * @return the Exlibirs browse link
+     */
+    public String getExlibirisLink(){
+        //TODO figure this out
+        return "http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)="
+                + this.name.replace(" ", "+");
     }
 }

@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner151.jpg" alt="UALC Logo" width="136" height="144"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner151.jpg" alt=""width="136" height="144"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-UALC Logo
+
 </div>
 <!-- Partner #151 -->
 <!-- Partner Name -->
 <h3>Utah Academic Library Consortium</h3>
 <!-- Website Link -->
-<h6><a href="http://www.ualc.net/" target="_blank">Utah Academic Library Consortium Website</a></h6>
+<h6>http://www.ualc.net/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -29,10 +29,9 @@ UALC Logo
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Academic+Library+Consortium">Browse all records from Utah Academic Library Consortium</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Academic+Library+Consortium">Browse all records from Utah Academic Library Consortium</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahAcademicLibraryConsortiumArchives.php">Utah Academic Library Consortium Archives</a></li>
+<li><a href = "../collections/UtahAcademicLibraryConsortiumArchives.php">UtahAcademicLibraryConsortiumArchives</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

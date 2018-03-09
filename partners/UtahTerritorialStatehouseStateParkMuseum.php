@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner351.jpg" alt="American Fork City (UT) Public Library" width="300px" height ="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner351.jpg" alt=""width="" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Territorial Statehouse State Park Museum
+
 </div>
 <!-- Partner #351 -->
 <!-- Partner Name -->
 <h3>Utah Territorial Statehouse State Park Museum</h3>
 <!-- Website Link -->
-<h6><a href="http://stateparks.utah.gov/park/territorial-statehouse-state-park-museum" target="_blank">Utah Territorial Statehouse State Park Museum Website</a></h6>
+<h6>http://stateparks.utah.gov/park/territorial-statehouse-state-park-museum</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ Utah Territorial Statehouse State Park Museum
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Territorial+Statehouse+State+Park+Museum">Browse all records from Utah Territorial Statehouse State Park Museum</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Territorial+Statehouse+State+Park+Museum">Browse all records from Utah Territorial Statehouse State Park Museum</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahTerritorialStatehouseStateParkMuseum.php">Utah Territorial Statehouse State Park Museum</a></li>
+<li><a href = "../collections/UtahTerritorialStatehouseStateParkMuseum.php">UtahTerritorialStatehouseStateParkMuseum</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner132b.jpg" alt="S.J. Quinney Law Library" width="410" height="221"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner132b.jp" alt=""width="410" height="221"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-University of Utah - S.J. Quinney College of Law
+
 </div>
 <!-- Partner #132 -->
 <!-- Partner Name -->
 <h3>University of Utah - James E. Faust Law Library</h3>
 <!-- Website Link -->
-<h6><a href="http://www.law.utah.edu/library/" target="_blank">University of Utah - James E. Faust Law Library Website</a></h6>
+<h6>http://www.law.utah.edu/library/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ University of Utah - S.J. Quinney College of Law
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+James+E.+Faust+Law+Library">Browse all records from University of Utah - James E. Faust Law Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+James+E.+Faust+Law+Library">Browse all records from University of Utah - James E. Faust Law Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UniversityofUtahCollegeofLawPublications.php">University of Utah College of Law Publications</a></li>
+<li><a href = "../collections/UniversityofUtahCollegeofLawPublications.php">UniversityofUtahCollegeofLawPublications</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -19,14 +19,15 @@ import org.mwdl.scripts.data.DataFetcher;
  *
  * pls no use
  *
+ * Large parts of this program had to be commented out b/c of changes to the PartnerPage class after it was Deprecated
+ * I should probably just delete this so 10 years from now no one can find it and use how bad it is to blackmail me
  *
  * @author Jonathan Wiggins
- * @version 6/5/17
+ * @version 3/9/18
  */
 
 
-@Deprecated //okay but actually please don't use
-
+@Deprecated //okay but actually please don't use this
 public class PartnerMaker {
 
     private static ArrayList<PartnerPage> partnerArrayList;
@@ -309,27 +310,27 @@ public class PartnerMaker {
                         isActive = false;
                     }
 
-                    try {
-                        ArrayList<Collection> a = DataFetcher.getAllActiveCollectionsFromPartner(count);
-                        System.out.println("Active Collections: " + a.size());
-
-                        if (a.size() == 0) {
-                            if (note == null) note = count + ".php has been marked for review (0 Collections)";
-                            else note = note.concat(" (0 Collections)");
-                            System.err.println(note);
-                            isActive = false;
-                        }
+//                    try {
+//                        ArrayList<Collection> a = DataFetcher.getAllActiveCollectionsFromPartner(count);
+//                        System.out.println("Active Collections: " + a.size());
+//
+//                        if (a.size() == 0) {
+//                            if (note == null) note = count + ".php has been marked for review (0 Collections)";
+//                            else note = note.concat(" (0 Collections)");
+//                            System.err.println(note);
+//                            isActive = false;
+//                        }
 
 //                for(Collection p : a){
 //                    System.out.println(p.getTitle());
 //                }
-
-                    } catch (FileNotFoundException e) {
-                        e.printStackTrace();
-                    }
+//
+//                    } catch (FileNotFoundException e) {
+//                        e.printStackTrace();
+//                    }
 
                     //Now that you have the info needed, write it all to a new html doc, and then to a new amphtml doc
-                    partnerArrayList.add(new PartnerPage(count, isActive, note, partnerName, urlPartnerName, currentLink, articleText, image, ampImage, imageDes, browseLink));
+                    //partnerArrayList.add(new PartnerPage(count, isActive, note, partnerName, urlPartnerName, currentLink, articleText, image, ampImage, imageDes, browseLink));
 
                 } else {
                     note = "Partner " + count + " has too few elements to be parsed.";
@@ -348,87 +349,87 @@ public class PartnerMaker {
             count++;
         }
         for (PartnerPage a : partnerArrayList) {
-            writeCSV(a);
-            writeMapCSV(a);
+            //writeCSV(a);
+            //writeMapCSV(a);
         }
         csv.close();
         mapCSV.close();
     }
 
-    public static void writeMapCSV(PartnerPage toWrite){
-        if(toWrite.isActive() && !toWrite.getName().contains("- Partner") && toWrite.getName() != null) {
-            mapCSV.append(toWrite.getName().replace("%comma%",","));
-            mapCSV.append(",");
-            mapCSV.append("http://test.mwdl.org/NewSite/partners/").append(toWrite.getUrlName()).append(".php");
-            mapCSV.append("\n");
-        }
-    }
+//    public static void writeMapCSV(PartnerPage toWrite){
+//        //if(toWrite.isActive() && !toWrite.getName().contains("- Partner") && toWrite.getName() != null) {
+//        //    mapCSV.append(toWrite.getName().replace("%comma%",","));
+//            mapCSV.append(",");
+//        //    mapCSV.append("http://test.mwdl.org/NewSite/partners/").append(toWrite.getUrlName()).append(".php");
+//            mapCSV.append("\n");
+//        }
+//    }
 
-    public static void writeCSV(PartnerPage toWrite) {
+//    public static void writeCSV(PartnerPage toWrite) {
 
-        csv.append(String.valueOf(toWrite.getPartnerNumber())).append(",");
-        csv.append(String.valueOf(toWrite.isActive())).append(",");
+       // csv.append(String.valueOf(toWrite.getPartnerNumber())).append(",");
+        //csv.append(String.valueOf(toWrite.isActive())).append(",");
 
-        if (toWrite.getNote() == null) {
-            csv.append("").append(",");
-        } else {
-            csv.append(toWrite.getNote()).append(",");
-        }
-
-        try {
-            csv.append(toWrite.getName().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getUrlName().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getLink().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getDescription().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getImage().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getAmpImage().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getImageDes().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",");
-
-        try {
-            csv.append(toWrite.getBrowseLink().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
-        } catch (NullPointerException e) {
-        }
-
-        csv.append(",").append("\n");
-    }
+//        if (toWrite.getNote() == null) {
+//            csv.append("").append(",");
+//        } else {
+//            csv.append(toWrite.getNote()).append(",");
+//        }
+//
+//        try {
+//            csv.append(toWrite.getName().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getUrlName().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getLink().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getDescription().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getImage().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getAmpImage().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getImageDes().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",");
+//
+//        try {
+//            csv.append(toWrite.getBrowseLink().replace("\n", "%newline%").replace("\r", "%return%").replace(",", "%comma%"));
+//        } catch (NullPointerException e) {
+//        }
+//
+//        csv.append(",").append("\n");
+//    }
 }

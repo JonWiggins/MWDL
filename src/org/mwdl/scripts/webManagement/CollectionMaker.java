@@ -19,12 +19,16 @@ import org.jsoup.nodes.Element;
  *
  * pls no use
  *
+ * Large parts of this program had to be commented out b/c of changes to the Collection class after it was Deprecated
+ * * I should probably just delete this so 10 years from now no one can find it and use how bad it is to blackmail me
+
+ *
  * @author Jonathan Wiggins
- * @version 6/5/17
+ * @version 3/9/18
  */
 
 
-@Deprecated //okay but actually don't use
+@Deprecated //okay but actually don't use this
 
 public class CollectionMaker {
 
@@ -279,7 +283,7 @@ public class CollectionMaker {
                     }
 
                     //Now that you have the info needed, write it all to a new html doc, and then to a new amphtml doc
-                    collectionArrayList.add(new Collection(count, isActive, note, currentTitle, urlTitle, currentPublisher, articleText, image, ampImage, imageDes, browseLink));
+                    //collectionArrayList.add(new Collection(count, isActive, note, currentTitle, urlTitle, currentPublisher, articleText, image, ampImage, imageDes, browseLink));
 
                 }else{
                     note = "Article " + count +" has too few elements to be parsed.";
@@ -345,7 +349,7 @@ public class CollectionMaker {
         csv.append(",");
 
         try{
-        csv.append(toWrite.ampImage.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+        //csv.append(toWrite.ampImage.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
         }catch(NullPointerException e){}
 
         csv.append(",");

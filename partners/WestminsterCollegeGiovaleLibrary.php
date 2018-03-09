@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner122.jpg" alt="Giovale Library" width="381" height="207"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner122.jpg" alt=""width="381" height="207"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Giovale Library
+
 </div>
 <!-- Partner #122 -->
 <!-- Partner Name -->
 <h3>Westminster College - Giovale Library</h3>
 <!-- Website Link -->
-<h6><a href="http://westminstercollege.edu/library/#page=catalog" target="_blank">Westminster College - Giovale Library Website</a></h6>
+<h6>http://westminstercollege.edu/library/#page=catalog</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,12 +30,11 @@ Giovale Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Westminster+College+-+Giovale+Library">Browse all records from Westminster College - Giovale Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Westminster+College+-+Giovale+Library">Browse all records from Westminster College - Giovale Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/WestminsterCollegePhotographCollection.php">Westminster College Photograph Collection</a></li>
-<li><a href = "../collections/WestminsterCollegeTextualWorksCollection.php">Westminster College Textual Works Collection</a></li>
-<li><a href = "../collections/WestminsterCollegeInstitutionalRepository.php">Westminster College Institutional Repository</a></li>
+<li><a href = "../collections/WestminsterCollegePhotographCollection.php">WestminsterCollegePhotographCollection</a></li>
+<li><a href = "../collections/WestminsterCollegeTextualWorksCollection.php">WestminsterCollegeTextualWorksCollection</a></li>
+<li><a href = "../collections/WestminsterCollegeInstitutionalRepository.php">WestminsterCollegeInstitutionalRepository</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

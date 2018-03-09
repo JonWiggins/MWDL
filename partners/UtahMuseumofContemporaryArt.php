@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner344.jpg" alt="Utah Museum of Contemporary Art" width="300" height ="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner344.jpg" alt=""width="300" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Museum of Contemporary Art
+
 </div>
 <!-- Partner #344 -->
 <!-- Partner Name -->
 <h3>Utah Museum of Contemporary Art</h3>
 <!-- Website Link -->
-<h6><a href="http://www.utahmoca.org" target="_blank">Utah Museum of Contemporary Art Website</a></h6>
+<h6>http://www.utahmoca.org</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,10 +31,9 @@ Utah Museum of Contemporary Art
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Museum+of+Contemporary+Art">Browse all records from Utah Museum of Contemporary Art</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Museum+of+Contemporary+Art">Browse all records from Utah Museum of Contemporary Art</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahMuseumofContemporaryArtCollection.php">Utah Museum of Contemporary Art Collection</a></li>
+<li><a href = "../collections/UtahMuseumofContemporaryArtCollection.php">UtahMuseumofContemporaryArtCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

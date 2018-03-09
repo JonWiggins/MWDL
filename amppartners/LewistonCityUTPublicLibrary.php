@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Lewiston City (UT) Public Library</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.lewiston-ut.org/Library.html" target="_blank">Lewiston City (UT) Public Library Website</a></h6>
+<h6>http://www.lewiston-ut.org/Library.html</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner361.jpg" alt="Lewiston City (UT) Public Library" width="300px" height ="250" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner361.jpg alt="" width="" height="" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Lewiston City (UT) Public Library
+
 <!-- Article Text -->
 
 <p>Mission Statement: The Lewiston Public Library believes it is essential to provide materials and services, which will help community residents, obtain information meeting their personal, educational and professional information needs. The Library will serve as a center for learning and enrichment for all residents of the community regardless of age level. </p>
@@ -25,9 +25,8 @@ Lewiston City (UT) Public Library
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Lewiston+City+(UT)+Public+Library">Browse all records from Lewiston City (UT) Public Library</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Lewiston+City+(UT)+Public+Library">Browse all records from Lewiston City (UT) Public Library</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/LewistonCityUTHistoryCollection.php">Lewiston City (UT) History Collection</a></li>
+<li><a href = "../ampcollections/LewistonCityUTHistoryCollection.php">LewistonCityUTHistoryCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

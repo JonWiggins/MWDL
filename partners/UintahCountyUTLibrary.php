@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner117.jpg" alt="Unitah County Library" width="365" height="242">align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner117.jpg" alt=""width="365" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Unitah County Library
+
 </div>
 <!-- Partner #117 -->
 <!-- Partner Name -->
 <h3>Uintah County (UT) Library</h3>
 <!-- Website Link -->
-<h6><a href="http://www.uintah.lib.ut.us/" target="_blank">Uintah County (UT) Library Website</a></h6>
+<h6>http://www.uintah.lib.ut.us/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,12 +31,11 @@ Unitah County Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Uintah+County+(UT)+Library">Browse all records from Uintah County (UT) Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Uintah+County+(UT)+Library">Browse all records from Uintah County (UT) Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UintahCountyRegionalHistoryCenterCollection.php">Uintah County Regional History Center Collection</a></li>
-<li><a href = "../collections/ThornePhotographCollection.php">Thorne Photograph Collection</a></li>
-<li><a href = "../collections/VernalUTExpressPhotographCollection.php">Vernal (UT) Express Photograph Collection</a></li>
+<li><a href = "../collections/UintahCountyRegionalHistoryCenterCollection.php">UintahCountyRegionalHistoryCenterCollection</a></li>
+<li><a href = "../collections/ThornePhotographCollection.php">ThornePhotographCollection</a></li>
+<li><a href = "../collections/VernalUTExpressPhotographCollection.php">VernalUTExpressPhotographCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

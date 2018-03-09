@@ -61,20 +61,20 @@ public class FeatureUpdater {
             PartnerPage ptoInsert = DataFetcher.fetchPartner(partnerToFeatureNumber);
 
             String partnerDiv = "";
-
-            partnerDiv.concat("<!-- Image -->");
-            partnerDiv.concat(ptoInsert.getImage());
-            partnerDiv.concat("<!-- Image Description -->");
-            partnerDiv.concat(ptoInsert.getImageDes());
-            partnerDiv.concat("</div>");
-            partnerDiv.concat("<!-- Partner #" + ptoInsert.getPartnerNumber() + " -->");
-            partnerDiv.concat("<!-- Partner Name -->");
-            partnerDiv.concat("<h3>"+ptoInsert.getName()+"</h3>");
-            partnerDiv.concat("<!-- Website Link -->");
-            partnerDiv.concat("<h6>"+ptoInsert.getLink()+"</h6>");
-            partnerDiv.concat("<p></p>");
-            partnerDiv.concat("<!-- Article Text -->");
-            partnerDiv.concat("<p>" + ptoInsert.getDescription() + "</p>");
+//
+//            partnerDiv.concat("<!-- Image -->");
+//            partnerDiv.concat(ptoInsert.getImage());
+//            partnerDiv.concat("<!-- Image Description -->");
+//            partnerDiv.concat(ptoInsert.getImageDes());
+//            partnerDiv.concat("</div>");
+//            partnerDiv.concat("<!-- Partner #" + ptoInsert.getPartnerNumber() + " -->");
+//            partnerDiv.concat("<!-- Partner Name -->");
+//            partnerDiv.concat("<h3>"+ptoInsert.getName()+"</h3>");
+//            partnerDiv.concat("<!-- Website Link -->");
+//            partnerDiv.concat("<h6>"+ptoInsert.getLink()+"</h6>");
+//            partnerDiv.concat("<p></p>");
+//            partnerDiv.concat("<!-- Article Text -->");
+//            partnerDiv.concat("<p>" + ptoInsert.getDescription() + "</p>");
 
 
 

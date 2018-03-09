@@ -13,16 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner364.jpg" alt="Emery County (UT) Public Library and Emery County (UT) Archives/r
-" height ="250" width="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner364.jpg" alt=""width="250" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Emery County (UT) Public Library and Emery County (UT) Archives
+
 </div>
 <!-- Partner #364 -->
 <!-- Partner Name -->
 <h3>Emery County (UT) Public Library and Emery County (UT) Archives</h3>
 <!-- Website Link -->
-<h6><a href="http://www.northloganlibrary.org/" target="_blank">Emery County (UT) Public Library and Emery County (UT) Archives Website</a></h6>
+<h6>http://www.northloganlibrary.org/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,10 +31,9 @@ Emery County (UT) Public Library and Emery County (UT) Archives
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Emery+County+(UT)+Public+Library+and+Emery+County+(UT)+Archives">Browse all records from Emery County (UT) Public Library and Emery County (UT) Archives</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Emery+County+(UT)+Public+Library+and+Emery+County+(UT)+Archives">Browse all records from Emery County (UT) Public Library and Emery County (UT) Archives</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/DwellingsintheBosomofEmeryCountyUT.php">Dwellings in the Bosom of Emery County (UT)</a></li>
+<li><a href = "../collections/DwellingsintheBosomofEmeryCountyUT.php">DwellingsintheBosomofEmeryCountyUT</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

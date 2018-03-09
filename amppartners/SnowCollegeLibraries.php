@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Snow College Libraries</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.lib.snow.edu/" target="_blank">Snow College Libraries Website</a></h6>
+<h6>http://www.lib.snow.edu/</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner115.jpg" alt="Snow College Library" width="240" height="180" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner115.jpg alt="" width="240" height="180" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Mormon Pioneer Heritage Institute
+
 <!-- Article Text -->
 
 <p>The Snow College Libraries are dedicated to providing an environment where learning occurs. As the intellectual and social center for both the Ephraim and Richfield campuses, the library is a place where intellectual communities are formed and where students can find a place for study and creativity. The libraries serve as a collaborative center for learning, and are a leader on campus for state of the art technology for students. The library provides research instruction and quality curriculum supporting information sources in the most appropriate formats. Space, equipment and support are provided for student projects.</p>
@@ -26,9 +26,8 @@ Mormon Pioneer Heritage Institute
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Snow+College+Libraries">Browse all records from Snow College Libraries</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Snow+College+Libraries">Browse all records from Snow College Libraries</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/SagaoftheSanpitch.php">Saga of the Sanpitch</a></li>
+<li><a href = "../ampcollections/SagaoftheSanpitch.php">SagaoftheSanpitch</a></li>
 <?php include("../includes/ampfooter.php");?>

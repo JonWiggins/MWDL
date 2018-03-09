@@ -19,54 +19,51 @@ public class WritePartnerFromCSV {
 
 
     public static void main(String[] args) {
-    importData();
-    exportData();
+        importData();
+        exportData();
     }
 
-    public static void importData(){
+    public static void importData() {
         Scanner s = null;
         partnerArrayList = new ArrayList<>();
         try {
-            s = new Scanner(new File("partnerData.csv")).useDelimiter(",");
+            s = new Scanner(new File("newPartnerData.csv"));
             //skip the first line
-
-
-            //.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%")
-            //.replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");
             s.nextLine();
 
-            int lineNumber = 0;
             while (s.hasNextLine()) {
-                int count = s.nextInt();
-                boolean isActive = Boolean.valueOf(s.next());
+                Scanner currentLine = new Scanner(s.nextLine()).useDelimiter(",");
+                String partnerNumber = getNextElement(currentLine);
+                boolean isActive = Boolean.valueOf(getNextElement(currentLine));
                 if (isActive) {
-                    String note = s.next();
-                    if(note == null) note = " ";
-                    String title = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String urlTitle = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String link = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String text = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String img = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String ampImg = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String des = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
-                    String browse = s.next().replace("%newline%","\n").replace("%return%","/r").replace("%comma%",",");;
+                    //Note that the partner data is stored in the format
+                    //Partner Number, Passed Inspection, Note, Name, Link, Text, Image Name, Image Height, Image Length, Image Description
+                    String note = currentLine.next();
+                    if (note == null) note = " ";
+                    String name = getNextElement(currentLine);
+                    String link = getNextElement(currentLine);
+                    String text = getNextElement(currentLine);
+                    String img = getNextElement(currentLine);
+                    String imgH = getNextElement(currentLine);
+                    String imgW = getNextElement(currentLine);
+                    String des = "";
+                    if (currentLine.hasNext())
+                        des = getNextElement(currentLine);
 
-                    partnerArrayList.add(new PartnerPage(count, isActive, note, title, urlTitle, link, text, img, ampImg, des, browse));
+                    partnerArrayList.add(new PartnerPage(Integer.valueOf(partnerNumber), isActive, note, name, link, text, img, imgH, imgW, des));
+                    System.out.println("Loaded " + partnerNumber);
                 }
-                System.out.println(lineNumber);
-                s.nextLine();
-                lineNumber++;
-
+                System.out.println(partnerNumber);
             }
-            System.out.println("Successfully loaded " + partnerArrayList.size() +" partners from the csv file.");
+            System.out.println("Successfully loaded " + partnerArrayList.size() + " partners from the csv file.");
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
 
     }
 
-    public static void exportData(){
-        for(PartnerPage p : partnerArrayList) {
+    public static void exportData() {
+        for (PartnerPage p : partnerArrayList) {
             PartnerPageMaker.writeFullPartner(p);
             PartnerPageMaker.writeAMPPartner(p);
         }
@@ -75,4 +72,7 @@ public class WritePartnerFromCSV {
 
     }
 
+    public static String getNextElement(Scanner toscan) {
+        return toscan.next().replace("%newline%", "\n").replace("%return%", "\r").replace("%comma%", ",");
+    }
 }

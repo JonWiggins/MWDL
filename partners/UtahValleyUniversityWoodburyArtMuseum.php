@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner331.jpg" alt="Yellowstone Art Museum" width="306" height="165"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner331.jpg" alt=""width="306" height="165"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Valley University - Woodbury Art Museum
+
 </div>
 <!-- Partner #331 -->
 <!-- Partner Name -->
 <h3>Utah Valley University - Woodbury Art Museum</h3>
 <!-- Website Link -->
-<h6><a href="http://www.uvu.edu/museum/" target="_blank">Utah Valley University - Woodbury Art Museum Website</a></h6>
+<h6>http://www.uvu.edu/museum/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,12 +30,11 @@ Utah Valley University - Woodbury Art Museum
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+-+Woodbury+Art+Museum">Browse all records from Utah Valley University - Woodbury Art Museum</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+-+Woodbury+Art+Museum">Browse all records from Utah Valley University - Woodbury Art Museum</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/HalWingPhotographyCollection.php">Hal Wing Photography Collection</a></li>
-<li><a href = "../collections/ClowardCollectionofWesternAmericanArt.php">Cloward Collection of Western American Art</a></li>
-<li><a href = "../collections/MalanandLindaJacksonCollectionofMongolianArt.php">Malan and Linda Jackson Collection of Mongolian Art</a></li>
+<li><a href = "../collections/HalWingPhotographyCollection.php">HalWingPhotographyCollection</a></li>
+<li><a href = "../collections/ClowardCollectionofWesternAmericanArt.php">ClowardCollectionofWesternAmericanArt</a></li>
+<li><a href = "../collections/MalanandLindaJacksonCollectionofMongolianArt.php">MalanandLindaJacksonCollectionofMongolianArt</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

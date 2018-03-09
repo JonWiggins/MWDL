@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner365.jpg" alt="Albertsons Library at Boise State University" width="400" height="300"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner365.jpg" alt=""width="400" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Boise State University - Albertsons Library
+
 </div>
 <!-- Partner #365 -->
 <!-- Partner Name -->
 <h3>Boise State University - Albertsons Library</h3>
 <!-- Website Link -->
-<h6><a href="http://library.boisestate.edu/" target="_blank">Boise State University - Albertsons Library Website</a></h6>
+<h6>http://library.boisestate.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -29,10 +29,9 @@ Boise State University - Albertsons Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Boise+State+University+-+Albertsons+Library">Browse all records from Boise State University - Albertsons Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Boise+State+University+-+Albertsons+Library">Browse all records from Boise State University - Albertsons Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/HistoricBoiseStateCollection.php">Historic Boise State Collection</a></li>
+<li><a href = "../collections/HistoricBoiseStateCollection.php">HistoricBoiseStateCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

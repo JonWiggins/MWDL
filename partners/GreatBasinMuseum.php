@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner142.jpg" alt="Great Basin Museum" width="384" height="288"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner142.jpg" alt=""width="384" height="288"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Promotional Sign for Great Basin Museum
+
 </div>
 <!-- Partner #142 -->
 <!-- Partner Name -->
 <h3>Great Basin Museum</h3>
 <!-- Website Link -->
-<h6><a href="http://www.millardcounty.com/placestosee/greatbasinmuseum.htm" target="_blank">Great Basin Museum Website</a></h6>
+<h6>http://www.millardcounty.com/placestosee/greatbasinmuseum.htm</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -29,10 +29,9 @@ Promotional Sign for Great Basin Museum
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Great+Basin+Museum">Browse all records from Great Basin Museum</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Great+Basin+Museum">Browse all records from Great Basin Museum</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/GreatBasinMuseumCollection.php">Great Basin Museum Collection</a></li>
+<li><a href = "../collections/GreatBasinMuseumCollection.php">GreatBasinMuseumCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

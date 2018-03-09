@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner206.jpg" alt="The proposed Bryner Pioneer Museum" width="353" height="238"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner206.jpg" alt=""width="353" height="238"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The proposed Bryner Pioneer Museum
+
 </div>
 <!-- Partner #206 -->
 <!-- Partner Name -->
 <h3>Bryner Pioneer Museum (Price, UT)</h3>
 <!-- Website Link -->
-<h6><a href="http://www.brynermuseum.com/" target="_blank">Bryner Pioneer Museum (Price, UT) Website</a></h6>
+<h6>http://www.brynermuseum.com/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ The proposed Bryner Pioneer Museum
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Bryner+Pioneer+Museum+(Price,+UT)">Browse all records from Bryner Pioneer Museum (Price, UT)</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Bryner+Pioneer+Museum+(Price,+UT)">Browse all records from Bryner Pioneer Museum (Price, UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum Price (UT)</a></li>
+<li><a href = "../collections/BrynerPioneerMuseumPriceUT.php">BrynerPioneerMuseumPriceUT</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

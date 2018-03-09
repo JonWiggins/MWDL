@@ -47,7 +47,7 @@ public class PartnerPageMaker {
             writer.println("<!-- Partner Name -->");
             writer.println("<h3>"+toWrite.name+"</h3>");
             writer.println("<!-- Website Link -->");
-            writer.println("<h6>"+toWrite.link+"</h6>");
+            writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<p></p>");
             writer.println("<!-- Article Text -->");
             writer.println("<p>" + toWrite.description + "</p>");
@@ -89,7 +89,7 @@ public class PartnerPageMaker {
             writer.println("<!-- Partner Title -->");
             writer.println("<h3>" + toWrite.name + "</h3>");
             writer.println("<!-- Partner Website -->");
-            writer.println("<h6>" + toWrite.link + "</h6>");
+            writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<!-- Partner Image -->");
             writer.println("<div class=amp-img-fill>");
             //<amp-img src="../images/partner_images/partner140.jpg" alt="American West Center" width="392" height="53" layout = "responsive"></amp-img>
@@ -113,7 +113,7 @@ public class PartnerPageMaker {
             writer.println("<!-- Browse Collections -->");
             writer.println("<h6>");
             if (toWrite.browseLink != null)
-                writer.println(toWrite.browseLink);
+                writer.println("<a href=\"" + toWrite.browseLink + "\">Browse all records from " + toWrite.name + "</a>");
             writer.println("</h6>");
             writer.println("<!-- List all Active Collections -->");
 

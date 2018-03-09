@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner126.jpg" alt="Green River Launch Complex" width="325" height="224"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner126.jpg" alt=""width="325" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Green River Launch Complex
+
 </div>
 <!-- Partner #126 -->
 <!-- Partner Name -->
 <h3>Green River (UT)</h3>
 <!-- Website Link -->
-<h6><a href="http://content.lib.utah.edu/cdm4/az_details.php?id=51" target="_blank">Green River (UT) Website</a></h6>
+<h6>http://content.lib.utah.edu/cdm4/az_details.php?id=51</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,10 @@ Green River Launch Complex
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Green+River+(UT)">Browse all records from Green River (UT)</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Green+River+(UT)">Browse all records from Green River (UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/GreenRiverLaunchComplexUSAirForce.php">Green River Launch Complex U.S. Air Force</a></li>
+<li><a href = "../collections/GreenRiverLaunchComplexUSAirForce.php">GreenRiverLaunchComplexUSAirForce</a></li>
+<li><a href = "../collections/PearlBiddlecombBakerCollection.php">PearlBiddlecombBakerCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

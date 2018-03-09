@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner137.jpg" alt="UCLS Logo" width="226" height="228"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner137.jpg" alt=""width="226" height="228"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Logo - Utah Council of Land Surveyors
+
 </div>
 <!-- Partner #137 -->
 <!-- Partner Name -->
 <h3>Utah Council of Land Surveyors</h3>
 <!-- Website Link -->
-<h6><a href="http://www.ucls.org/mc/page.do;jsessionid=F1D1D81758E0ABEBD46E77CEE29FCA58.mc0?sitePageId=25509" target="_blank">Utah Council of Land Surveyors Website</a></h6>
+<h6>http://www.ucls.org/mc/page.do;jsessionid=F1D1D81758E0ABEBD46E77CEE29FCA58.mc0?sitePageId=25509</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ Logo - Utah Council of Land Surveyors
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Council+of+Land+Surveyors">Browse all records from Utah Council of Land Surveyors</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Council+of+Land+Surveyors">Browse all records from Utah Council of Land Surveyors</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahCouncilofLandSurveyors.php">Utah Council of Land Surveyors</a></li>
+<li><a href = "../collections/UtahCouncilofLandSurveyors.php">UtahCouncilofLandSurveyors</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

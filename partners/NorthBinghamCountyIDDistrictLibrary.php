@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner127.jpg" alt="North Bingham County Library" width="180" height="135"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner127.jpg" alt=""width="180" height="135"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-North Bingham County (ID) District Library
+
 </div>
 <!-- Partner #127 -->
 <!-- Partner Name -->
 <h3>North Bingham County (ID) District Library</h3>
 <!-- Website Link -->
-<h6><a href="http://northbingham.lili.org/" target="_blank">North Bingham County (ID) District Library Website</a></h6>
+<h6>http://northbingham.lili.org/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ North Bingham County (ID) District Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=North+Bingham+County+(ID)+District+Library">Browse all records from North Bingham County (ID) District Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=North+Bingham+County+(ID)+District+Library">Browse all records from North Bingham County (ID) District Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/HistoryofShelleyID.php">History of Shelley (ID)</a></li>
+<li><a href = "../collections/HistoryofShelleyID.php">HistoryofShelleyID</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

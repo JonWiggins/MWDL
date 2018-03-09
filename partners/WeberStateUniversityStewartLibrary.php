@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner106.jpg" alt="Stewart Library" width="362" height="271"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner106.jpg" alt=""width="362" height="271"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Weber State University - Stewart Library
+
 </div>
 <!-- Partner #106 -->
 <!-- Partner Name -->
 <h3>Weber State University - Stewart Library</h3>
 <!-- Website Link -->
-<h6><a href="http://library.weber.edu/" target="_blank">Weber State University - Stewart Library Website</a></h6>
+<h6>http://library.weber.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -29,49 +29,48 @@ Weber State University - Stewart Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Weber+State+University+-+Stewart+Library">Browse all records from Weber State University - Stewart Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Weber+State+University+-+Stewart+Library">Browse all records from Weber State University - Stewart Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahConstructionUtahInternationalAnnualReports.php">Utah Construction-Utah International Annual Reports</a></li>
-<li><a href = "../collections/WeberStateUniversity50thAnniversary.php">Weber State University 50th Anniversary</a></li>
-<li><a href = "../collections/EcclesDavidBusinessChurchandPersonalCorrespondence.php">Eccles David: Business Church and Personal Correspondence</a></li>
-<li><a href = "../collections/DeeSchoolofNursingOralHistoryProjectandYearbooks.php">Dee School of Nursing: Oral History Project and Yearbooks</a></li>
-<li><a href = "../collections/DeeFamilyPhotographsCorrespondenceandMarriageRegister.php">Dee Family Photographs Correspondence and Marriage Register</a></li>
-<li><a href = "../collections/OgdenChurchesandSchools.php">Ogden Churches and Schools</a></li>
-<li><a href = "../collections/WeberNormalCollegeYearbooks19191923.php">Weber Normal College Yearbooks 1919-1923</a></li>
-<li><a href = "../collections/WorldWarIPhotographs.php">World War I Photographs</a></li>
-<li><a href = "../collections/WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php">World War II POW Camp Correspondence Newsletters Oral History and Photographs</a></li>
-<li><a href = "../collections/WeberStateUniversityBuildings1and2APhotoHistory.php">Weber State University Buildings 1 and 2: A Photo History</a></li>
-<li><a href = "../collections/UtahConstructionUtahInternationalPhotographs.php">Utah Construction-Utah International Photographs</a></li>
-<li><a href = "../collections/WeberStateUniversityStudentNewspapers.php">Weber State University Student Newspapers</a></li>
-<li><a href = "../collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">Weber State University Stewart Library Special Collections Encoded Archival Description (EAD) Finding Aids</a></li>
-<li><a href = "../collections/UtahConstructionCompanyHooverDamScrapbooks.php">Utah Construction Company Hoover Dam Scrapbooks</a></li>
-<li><a href = "../collections/WeberStateYearbook1905to1982.php">Weber State Yearbook 1905 to 1982</a></li>
-<li><a href = "../collections/DeeAnnieTaylorandAnnieMaudeDeePorterDiaries.php">Dee Annie Taylor and Annie Maude Dee Porter Diaries</a></li>
-<li><a href = "../collections/RichDrEdwardIandEmilyAlmiraCozzensDiaries.php">Rich Dr. Edward I. and Emily Almira Cozzens Diaries</a></li>
-<li><a href = "../collections/UtahConstructionCompanyHistorybyERLubbers.php">Utah Construction Company History by E. R. Lubbers</a></li>
-<li><a href = "../collections/UtahConstructionCompanySpeechesbyEdmundWattisLittlefield.php">Utah Construction Company Speeches by Edmund Wattis Littlefield</a></li>
-<li><a href = "../collections/MarriottSlatervilleCityUTOralHistory.php">Marriott-Slaterville City (UT) Oral History</a></li>
-<li><a href = "../collections/OgdenArchitectsHodgsonandPiers.php">Ogden Architects Hodgson and Piers</a></li>
-<li><a href = "../collections/StBenedictsSchoolofNursingOralHistoryProject.php">St. Benedict's School of Nursing: Oral History Project</a></li>
-<li><a href = "../collections/UtahConstructionCompanyFeatherRiverScrapbooks.php">Utah Construction Company Feather River Scrapbooks</a></li>
-<li><a href = "../collections/UtahConstructionCompanyMinutes.php">Utah Construction Company: Minutes</a></li>
-<li><a href = "../collections/UtahConstructionCompanyMexicoProjects.php">Utah Construction Company Mexico Projects</a></li>
-<li><a href = "../collections/UtahConstructionCompanyStockholderLedgers.php">Utah Construction Company: Stockholder Ledgers</a></li>
-<li><a href = "../collections/UtahInternationalGeneralElectricMergerDocuments.php">Utah International - General Electric Merger Documents</a></li>
-<li><a href = "../collections/WeberStateHistoricalPublications.php">Weber State Historical Publications</a></li>
-<li><a href = "../collections/WeberStateOralHistoryProject.php">Weber State Oral History Project</a></li>
-<li><a href = "../collections/OgdenUTBuildingsbyStreet.php">Ogden (UT) Buildings by Street</a></li>
-<li><a href = "../collections/WeberStateWhipClubScrapbook.php">Weber State Whip Club Scrapbook</a></li>
-<li><a href = "../collections/WeberandDavisCountiesCommunityOralHistoryProject.php">Weber and Davis Counties Community Oral History Project</a></li>
-<li><a href = "../collections/WeberStateStudentOralHistoryProjects.php">Weber State Student Oral History Projects</a></li>
-<li><a href = "../collections/WeberStateUniversityStudentMastersTheses.php">Weber State University Student Master's Theses</a></li>
-<li><a href = "../collections/WeberStateBellTowerHistoryScrapbook.php">Weber State Bell Tower History Scrapbook</a></li>
-<li><a href = "../collections/WeberStakeAcademyLiteraryMagazineTheAcorn19041916.php">Weber Stake Academy Literary Magazine The Acorn 1904-1916</a></li>
-<li><a href = "../collections/WeberStateCatalog1896toPresent.php">Weber State Catalog 1896 to Present</a></li>
-<li><a href = "../collections/WeberStateLiteraryPublications1904to1980.php">Weber State Literary Publications 1904 to 1980</a></li>
-<li><a href = "../collections/CivilianConservationCorpsCampPhotos.php">Civilian Conservation Corps Camp Photos</a></li>
-<li><a href = "../collections/HistoryinYourAttic.php">History in Your Attic</a></li>
+<li><a href = "../collections/UtahConstructionUtahInternationalAnnualReports.php">UtahConstructionUtahInternationalAnnualReports</a></li>
+<li><a href = "../collections/WeberStateUniversity50thAnniversary.php">WeberStateUniversity50thAnniversary</a></li>
+<li><a href = "../collections/EcclesDavidBusinessChurchandPersonalCorrespondence.php">EcclesDavidBusinessChurchandPersonalCorrespondence</a></li>
+<li><a href = "../collections/DeeSchoolofNursingOralHistoryProjectandYearbooks.php">DeeSchoolofNursingOralHistoryProjectandYearbooks</a></li>
+<li><a href = "../collections/DeeFamilyPhotographsCorrespondenceandMarriageRegister.php">DeeFamilyPhotographsCorrespondenceandMarriageRegister</a></li>
+<li><a href = "../collections/OgdenChurchesandSchools.php">OgdenChurchesandSchools</a></li>
+<li><a href = "../collections/WeberNormalCollegeYearbooks19191923.php">WeberNormalCollegeYearbooks19191923</a></li>
+<li><a href = "../collections/WorldWarIPhotographs.php">WorldWarIPhotographs</a></li>
+<li><a href = "../collections/WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php">WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs</a></li>
+<li><a href = "../collections/WeberStateUniversityBuildings1and2APhotoHistory.php">WeberStateUniversityBuildings1and2APhotoHistory</a></li>
+<li><a href = "../collections/UtahConstructionUtahInternationalPhotographs.php">UtahConstructionUtahInternationalPhotographs</a></li>
+<li><a href = "../collections/WeberStateUniversityStudentNewspapers.php">WeberStateUniversityStudentNewspapers</a></li>
+<li><a href = "../collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids</a></li>
+<li><a href = "../collections/UtahConstructionCompanyHooverDamScrapbooks.php">UtahConstructionCompanyHooverDamScrapbooks</a></li>
+<li><a href = "../collections/WeberStateYearbook1905to1982.php">WeberStateYearbook1905to1982</a></li>
+<li><a href = "../collections/DeeAnnieTaylorandAnnieMaudeDeePorterDiaries.php">DeeAnnieTaylorandAnnieMaudeDeePorterDiaries</a></li>
+<li><a href = "../collections/RichDrEdwardIandEmilyAlmiraCozzensDiaries.php">RichDrEdwardIandEmilyAlmiraCozzensDiaries</a></li>
+<li><a href = "../collections/UtahConstructionCompanyHistorybyERLubbers.php">UtahConstructionCompanyHistorybyERLubbers</a></li>
+<li><a href = "../collections/UtahConstructionCompanySpeechesbyEdmundWattisLittlefield.php">UtahConstructionCompanySpeechesbyEdmundWattisLittlefield</a></li>
+<li><a href = "../collections/MarriottSlatervilleCityUTOralHistory.php">MarriottSlatervilleCityUTOralHistory</a></li>
+<li><a href = "../collections/OgdenArchitectsHodgsonandPiers.php">OgdenArchitectsHodgsonandPiers</a></li>
+<li><a href = "../collections/StBenedict'sSchoolofNursingOralHistoryProject.php">StBenedict'sSchoolofNursingOralHistoryProject</a></li>
+<li><a href = "../collections/UtahConstructionCompanyFeatherRiverScrapbooks.php">UtahConstructionCompanyFeatherRiverScrapbooks</a></li>
+<li><a href = "../collections/UtahConstructionCompanyMinutes.php">UtahConstructionCompanyMinutes</a></li>
+<li><a href = "../collections/UtahConstructionCompanyMexicoProjects.php">UtahConstructionCompanyMexicoProjects</a></li>
+<li><a href = "../collections/UtahConstructionCompanyStockholderLedgers.php">UtahConstructionCompanyStockholderLedgers</a></li>
+<li><a href = "../collections/UtahInternationalGeneralElectricMergerDocuments.php">UtahInternationalGeneralElectricMergerDocuments</a></li>
+<li><a href = "../collections/WeberStateHistoricalPublications.php">WeberStateHistoricalPublications</a></li>
+<li><a href = "../collections/WeberStateOralHistoryProject.php">WeberStateOralHistoryProject</a></li>
+<li><a href = "../collections/OgdenUTBuildingsbyStreet.php">OgdenUTBuildingsbyStreet</a></li>
+<li><a href = "../collections/WeberStateWhipClubScrapbook.php">WeberStateWhipClubScrapbook</a></li>
+<li><a href = "../collections/WeberandDavisCountiesCommunityOralHistoryProject.php">WeberandDavisCountiesCommunityOralHistoryProject</a></li>
+<li><a href = "../collections/WeberStateStudentOralHistoryProjects.php">WeberStateStudentOralHistoryProjects</a></li>
+<li><a href = "../collections/WeberStateUniversityStudentMaster'sTheses.php">WeberStateUniversityStudentMaster'sTheses</a></li>
+<li><a href = "../collections/WeberStateBellTowerHistoryScrapbook.php">WeberStateBellTowerHistoryScrapbook</a></li>
+<li><a href = "../collections/WeberStakeAcademyLiteraryMagazineTheAcorn19041916.php">WeberStakeAcademyLiteraryMagazineTheAcorn19041916</a></li>
+<li><a href = "../collections/WeberStateCatalog1896toPresent.php">WeberStateCatalog1896toPresent</a></li>
+<li><a href = "../collections/WeberStateLiteraryPublications1904to1980.php">WeberStateLiteraryPublications1904to1980</a></li>
+<li><a href = "../collections/CivilianConservationCorpsCampPhotos.php">CivilianConservationCorpsCampPhotos</a></li>
+<li><a href = "../collections/HistoryinYourAttic.php">HistoryinYourAttic</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

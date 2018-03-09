@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner140.jpg" alt="American West Center" width="392" height="53"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner140.jpg" alt=""width="392" height="53"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Logo - American West Center
+
 </div>
 <!-- Partner #140 -->
 <!-- Partner Name -->
 <h3>University of Utah - American West Center</h3>
 <!-- Website Link -->
-<h6><a href="http://www.awc.utah.edu/" target="_blank">University of Utah - American West Center Website</a></h6>
+<h6>http://www.awc.utah.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -29,10 +29,9 @@ Logo - American West Center
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+American+West+Center">Browse all records from University of Utah - American West Center</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+American+West+Center">Browse all records from University of Utah - American West Center</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahAmericanIndianDigitalArchive.php">Utah American Indian Digital Archive</a></li>
+<li><a href = "../collections/UtahAmericanIndianDigitalArchive.php">UtahAmericanIndianDigitalArchive</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

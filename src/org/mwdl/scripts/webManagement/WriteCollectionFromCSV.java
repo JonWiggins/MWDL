@@ -35,18 +35,18 @@ public class WriteCollectionFromCSV {
                 Scanner currentLine = new Scanner(fullFile.nextLine().replace("%newline%","\n").replace("%return%","\r")).useDelimiter(",");
 
                 //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Width, Image Description
-                String count = currentLine.next();
-                boolean isActive = Boolean.valueOf(currentLine.next());
+                String count = getNextElement(currentLine);
+                boolean isActive = Boolean.valueOf(getNextElement(currentLine));
                 if (isActive) {
-                    String note = currentLine.next().replace("%comma%",",");
+                    String note = getNextElement(currentLine);
                     if(note == null) note = " ";
-                    String title = currentLine.next().replace("%comma%",",");
-                    String pub = currentLine.next().replace("%comma%",",");
-                    String text = currentLine.next().replace("%comma%",",");
-                    String img = currentLine.next().replace("%comma%",",");
-                    String imgH = currentLine.next().replace("%comma%",",");
-                    String imgW = currentLine.next().replace("%comma%",",");
-                    String des = currentLine.next().replace("%comma%",",");
+                    String title = getNextElement(currentLine);
+                    String pub = getNextElement(currentLine);
+                    String text = getNextElement(currentLine);
+                    String img = getNextElement(currentLine);
+                    String imgH = getNextElement(currentLine);
+                    String imgW = getNextElement(currentLine);
+                    String des = getNextElement(currentLine);
                     if(imgH.equals(""))
                         imgH = "250";
                     if(imgW.equals(""))
@@ -75,6 +75,10 @@ public class WriteCollectionFromCSV {
 
         CollectionPageMaker.writeCollectionsPage(collectionArrayList);
         System.out.println("Finished");
+    }
+
+    public static String getNextElement(Scanner s ){
+        return s.next().replace("%newline%","\n").replace("%return%","\r").replace("%comma%",",");
     }
 
 

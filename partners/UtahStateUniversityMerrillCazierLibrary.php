@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner103.jpg" alt="Merrill-Cazier Library" width="384" height="267"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner103.jpg" alt=""width="384" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Merrill-Cazier Library
+
 </div>
 <!-- Partner #103 -->
 <!-- Partner Name -->
 <h3>Utah State University - Merrill-Cazier Library</h3>
 <!-- Website Link -->
-<h6><a href="http://library.usu.edu//" target="_blank">Utah State University - Merrill-Cazier Library Website</a></h6>
+<h6>http://library.usu.edu//</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,53 +31,52 @@ Merrill-Cazier Library
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+University+-+Merrill-Cazier+Library">Browse all records from Utah State University - Merrill-Cazier Library</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+University+-+Merrill-Cazier+Library">Browse all records from Utah State University - Merrill-Cazier Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BearRiverWatershedHistoricalCollection.php">Bear River Watershed Historical Collection</a></li>
-<li><a href = "../collections/FifeSlideCollectionofWesternUSVernacularArchitecture.php">Fife Slide Collection of Western U.S. Vernacular Architecture</a></li>
-<li><a href = "../collections/TopazJapaneseAmericanRelocationCenterDigitalCollection.php">Topaz Japanese-American Relocation Center Digital Collection</a></li>
-<li><a href = "../collections/UtahStateUniversityHistoricalPhotographCollection.php">Utah State University Historical Photograph Collection</a></li>
-<li><a href = "../collections/DeathValleyRegionPhotographCollection.php">Death Valley Region Photograph Collection</a></li>
-<li><a href = "../collections/UtahsMostElusiveHardtoFindGovernmentandScientificReports.php">Utah's Most Elusive: Hard-to-Find Government and Scientific Reports</a></li>
-<li><a href = "../collections/FacingtheColorLineRaceandEthnicityinCacheValley.php">Facing the Color Line: Race and Ethnicity in Cache Valley</a></li>
-<li><a href = "../collections/GrouseCreekCulturalSurveyMormonBuckarooTerritory1985.php">Grouse Creek Cultural Survey: Mormon Buckaroo Territory 1985</a></li>
-<li><a href = "../collections/TheRidgwayBrothersExplorersScientistsandIllustrators.php">The Ridgway Brothers: Explorers Scientists and Illustrators</a></li>
-<li><a href = "../collections/PracticingMedicineAHistoricalGlimpseatUtahandBeyond.php">Practicing Medicine: A Historical Glimpse at Utah and Beyond</a></li>
-<li><a href = "../collections/HistoryofScience.php">History of Science</a></li>
-<li><a href = "../collections/LatinoLatinaVoices.php">Latino/Latina Voices</a></li>
-<li><a href = "../collections/UtahStateUniversitySpecialCollectionsDigitalExhibits.php">Utah State University Special Collections Digital Exhibits</a></li>
-<li><a href = "../collections/DeVillersBookofHours15thCenturyIlluminatedManuscript.php">De Viller's Book of Hours: 15th Century Illuminated Manuscript</a></li>
-<li><a href = "../collections/UtahStateUniversityBuzzerYearbooks.php">Utah State University Buzzer Yearbooks</a></li>
-<li><a href = "../collections/CookeryandCulture.php">Cookery and Culture</a></li>
-<li><a href = "../collections/ElsnerSculpturesandSketchbooks.php">Elsner Sculptures and Sketchbooks</a></li>
+<li><a href = "../collections/BearRiverWatershedHistoricalCollection.php">BearRiverWatershedHistoricalCollection</a></li>
+<li><a href = "../collections/FifeSlideCollectionofWesternUSVernacularArchitecture.php">FifeSlideCollectionofWesternUSVernacularArchitecture</a></li>
+<li><a href = "../collections/TopazJapaneseAmericanRelocationCenterDigitalCollection.php">TopazJapaneseAmericanRelocationCenterDigitalCollection</a></li>
+<li><a href = "../collections/UtahStateUniversityHistoricalPhotographCollection.php">UtahStateUniversityHistoricalPhotographCollection</a></li>
+<li><a href = "../collections/DeathValleyRegionPhotographCollection.php">DeathValleyRegionPhotographCollection</a></li>
+<li><a href = "../collections/Utah'sMostElusiveHardtoFindGovernmentandScientificReports.php">Utah'sMostElusiveHardtoFindGovernmentandScientificReports</a></li>
+<li><a href = "../collections/FacingtheColorLineRaceandEthnicityinCacheValley.php">FacingtheColorLineRaceandEthnicityinCacheValley</a></li>
+<li><a href = "../collections/GrouseCreekCulturalSurveyMormonBuckarooTerritory1985.php">GrouseCreekCulturalSurveyMormonBuckarooTerritory1985</a></li>
+<li><a href = "../collections/TheRidgwayBrothersExplorersScientistsandIllustrators.php">TheRidgwayBrothersExplorersScientistsandIllustrators</a></li>
+<li><a href = "../collections/PracticingMedicineAHistoricalGlimpseatUtahandBeyond.php">PracticingMedicineAHistoricalGlimpseatUtahandBeyond</a></li>
+<li><a href = "../collections/HistoryofScience.php">HistoryofScience</a></li>
+<li><a href = "../collections/LatinoLatinaVoices.php">LatinoLatinaVoices</a></li>
+<li><a href = "../collections/UtahStateUniversitySpecialCollectionsDigitalExhibits.php">UtahStateUniversitySpecialCollectionsDigitalExhibits</a></li>
+<li><a href = "../collections/DeViller'sBookofHours15thCenturyIlluminatedManuscript.php">DeViller'sBookofHours15thCenturyIlluminatedManuscript</a></li>
+<li><a href = "../collections/UtahStateUniversityBuzzerYearbooks.php">UtahStateUniversityBuzzerYearbooks</a></li>
+<li><a href = "../collections/CookeryandCulture.php">CookeryandCulture</a></li>
+<li><a href = "../collections/ElsnerSculpturesandSketchbooks.php">ElsnerSculpturesandSketchbooks</a></li>
 <li><a href = "../collections/FolkBistro.php">FolkBistro</a></li>
-<li><a href = "../collections/OldEphraim.php">Old Ephraim</a></li>
-<li><a href = "../collections/SinginSamAginsCollection.php">Singin' Sam Agins Collection</a></li>
-<li><a href = "../collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php">Extension Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</a></li>
-<li><a href = "../collections/BellsConnectingAnimalsPeopleandLand.php">Bells: Connecting Animals People and Land</a></li>
-<li><a href = "../collections/UtahFolkloristsImageCollection.php">Utah Folklorists Image Collection</a></li>
-<li><a href = "../collections/DesignWorkshopLandscapeArchitectureArchive.php">Design Workshop Landscape Architecture Archive</a></li>
-<li><a href = "../collections/IntermountainIndianSchool.php">Intermountain Indian School</a></li>
-<li><a href = "../collections/PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch.php">Paul Jones the Portal and the Building of St. John's Episcopal Church</a></li>
-<li><a href = "../collections/LincolnEllisonUSForestService.php">Lincoln Ellison U.S. Forest Service</a></li>
-<li><a href = "../collections/WilliamDHurstPapers.php">William D. Hurst Papers</a></li>
-<li><a href = "../collections/ForestRangerDaybooksofAaronPChristiansen.php">Forest Ranger Daybooks of Aaron P. Christiansen</a></li>
-<li><a href = "../collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a></li>
-<li><a href = "../collections/LoganCanyonReflections.php">Logan Canyon Reflections</a></li>
-<li><a href = "../collections/WesternPhotographers.php">Western Photographers</a></li>
-<li><a href = "../collections/FrancesWintonChampMusicCollection.php">Frances Winton Champ Music Collection</a></li>
-<li><a href = "../collections/RanchFamilyDocumentation.php">Ranch Family Documentation</a></li>
-<li><a href = "../collections/RegreeningofCacheValley.php">Regreening of Cache Valley</a></li>
-<li><a href = "../collections/HistoricPostcardsofUtah.php">Historic Postcards of Utah</a></li>
-<li><a href = "../collections/JackLondonCollection.php">Jack London Collection</a></li>
-<li><a href = "../collections/AlfredGEricksonPhotographCollection.php">Alfred G. Erickson Photograph Collection</a></li>
-<li><a href = "../collections/MonumentalHighwayCollection.php">Monumental Highway Collection</a></li>
-<li><a href = "../collections/BarreToelkenFieldworkImageCollection.php">Barre Toelken Fieldwork Image Collection</a></li>
-<li><a href = "../collections/CentralUtahProjectCapturingUtahsShareoftheColoradoRiver.php">Central Utah Project: Capturing Utah's Share of the Colorado River</a></li>
-<li><a href = "../collections/SanFranciscoCAEarthquakeSnapshots.php">San Francisco (CA) Earthquake Snapshots</a></li>
-<li><a href = "../collections/BearLakeMonster.php">Bear Lake Monster</a></li>
-<li><a href = "../collections/CacheCountyUTAerialPhotographCollection.php">Cache County (UT) Aerial Photograph Collection</a></li>
+<li><a href = "../collections/OldEphraim.php">OldEphraim</a></li>
+<li><a href = "../collections/Singin'SamAginsCollection.php">Singin'SamAginsCollection</a></li>
+<li><a href = "../collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php">ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah</a></li>
+<li><a href = "../collections/BellsConnectingAnimalsPeopleandLand.php">BellsConnectingAnimalsPeopleandLand</a></li>
+<li><a href = "../collections/UtahFolkloristsImageCollection.php">UtahFolkloristsImageCollection</a></li>
+<li><a href = "../collections/DesignWorkshopLandscapeArchitectureArchive.php">DesignWorkshopLandscapeArchitectureArchive</a></li>
+<li><a href = "../collections/IntermountainIndianSchool.php">IntermountainIndianSchool</a></li>
+<li><a href = "../collections/PaulJonesthePortalandtheBuildingofStJohn'sEpiscopalChurch.php">PaulJonesthePortalandtheBuildingofStJohn'sEpiscopalChurch</a></li>
+<li><a href = "../collections/LincolnEllisonUSForestService.php">LincolnEllisonUSForestService</a></li>
+<li><a href = "../collections/WilliamDHurstPapers.php">WilliamDHurstPapers</a></li>
+<li><a href = "../collections/ForestRangerDaybooksofAaronPChristiansen.php">ForestRangerDaybooksofAaronPChristiansen</a></li>
+<li><a href = "../collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus</a></li>
+<li><a href = "../collections/LoganCanyonReflections.php">LoganCanyonReflections</a></li>
+<li><a href = "../collections/WesternPhotographers.php">WesternPhotographers</a></li>
+<li><a href = "../collections/FrancesWintonChampMusicCollection.php">FrancesWintonChampMusicCollection</a></li>
+<li><a href = "../collections/RanchFamilyDocumentation.php">RanchFamilyDocumentation</a></li>
+<li><a href = "../collections/RegreeningofCacheValley.php">RegreeningofCacheValley</a></li>
+<li><a href = "../collections/HistoricPostcardsofUtah.php">HistoricPostcardsofUtah</a></li>
+<li><a href = "../collections/JackLondonCollection.php">JackLondonCollection</a></li>
+<li><a href = "../collections/AlfredGEricksonPhotographCollection.php">AlfredGEricksonPhotographCollection</a></li>
+<li><a href = "../collections/MonumentalHighwayCollection.php">MonumentalHighwayCollection</a></li>
+<li><a href = "../collections/BarreToelkenFieldworkImageCollection.php">BarreToelkenFieldworkImageCollection</a></li>
+<li><a href = "../collections/CentralUtahProjectCapturingUtah'sShareoftheColoradoRiver.php">CentralUtahProjectCapturingUtah'sShareoftheColoradoRiver</a></li>
+<li><a href = "../collections/SanFranciscoCAEarthquakeSnapshots.php">SanFranciscoCAEarthquakeSnapshots</a></li>
+<li><a href = "../collections/BearLakeMonster.php">BearLakeMonster</a></li>
+<li><a href = "../collections/CacheCountyUTAerialPhotographCollection.php">CacheCountyUTAerialPhotographCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

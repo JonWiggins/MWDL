@@ -1,6 +1,4 @@
 package org.mwdl.scripts.webManagement;
-
-
 import org.mwdl.scripts.data.DataFetcher;
 
 import java.io.FileNotFoundException;
@@ -18,17 +16,16 @@ public class GeneratePartnerMap {
 
     public static void main(String[] args) {
         try {
-            ArrayList<PartnerPage> partners =  DataFetcher.getAllActivePartners();
+            ArrayList<PartnerPage> partners = DataFetcher.getAllActivePartners();
 
             String FileLocAndName = "partnerMapData.csv";
             PrintWriter csv = new PrintWriter(FileLocAndName,"UTF-8");
             csv.append("Partner Name, Partner Link \n");
             for(PartnerPage current : partners){
-                csv.append(current.getName() + ",http://test.mwdl.org/NewSite/partners/"+current.getUrlName() + ".php\n");
+                csv.append(current.name+ ",http://test.mwdl.org/NewSite/partners/"+current.urlName + ".php\n");
             }
 
             csv.close();
-
 
         } catch (FileNotFoundException | UnsupportedEncodingException e) {
             e.printStackTrace();

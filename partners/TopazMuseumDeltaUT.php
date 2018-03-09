@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner116.jpg" alt="Japanese American WWII Internment Camp" width="362" height="251"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner116.jpg" alt=""width="362" height="251"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<a href="http://www.topazmuseum.org/" target="_blank">www.topazmuseum.org</a>
+
 </div>
 <!-- Partner #116 -->
 <!-- Partner Name -->
 <h3>Topaz Museum (Delta, UT)</h3>
 <!-- Website Link -->
-<h6><a href="http://www.topazmuseum.org/" target="_blank">Topaz Museum (Delta, UT) Website</a></h6>
+<h6>http://www.topazmuseum.org/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@
 <p>Search within the records from this partner:</p>
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Topaz+Museum+(Delta,+UT)">Browse all records from Topaz Museum (Delta, UT)</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Topaz+Museum+(Delta,+UT)">Browse all records from Topaz Museum (Delta, UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/TopazMuseumCollection.php">Topaz Museum Collection</a></li>
+<li><a href = "../collections/TopazMuseumCollection.php">TopazMuseumCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

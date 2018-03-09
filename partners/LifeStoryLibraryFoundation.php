@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner352.png" alt="Life Story Library Foundation" width="300px" height ="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner352.png" alt=""width="" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Life Story Library Foundation
+
 </div>
 <!-- Partner #352 -->
 <!-- Partner Name -->
 <h3>Life Story Library Foundation</h3>
 <!-- Website Link -->
-<h6><a href="http://www.lifestorylibrary.org/" target="_blank">Life Story Library Foundation Website</a></h6>
+<h6>http://www.lifestorylibrary.org/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,10 +31,9 @@ Life Story Library Foundation
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Life+Story+Library+Foundation">Browse all records from Life Story Library Foundation</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Life+Story+Library+Foundation">Browse all records from Life Story Library Foundation</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/LifeStoryLibraryCollection.php">Life Story Library Collection</a></li>
+<li><a href = "../collections/LifeStoryLibraryCollection.php">LifeStoryLibraryCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner149.jpg" alt="College of Architecture and Planning" width="321" height="211"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner149.jpg" alt=""width="321" height="211"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-College of Architecture and Planning
+
 </div>
 <!-- Partner #149 -->
 <!-- Partner Name -->
 <h3>University of Utah - College of Architecture and Planning</h3>
 <!-- Website Link -->
-<h6><a href="http://www.arch.utah.edu/" target="_blank">University of Utah - College of Architecture and Planning Website</a></h6>
+<h6>http://www.arch.utah.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,8 +31,7 @@ College of Architecture and Planning
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+College+of+Architecture+and+Planning">Browse all records from University of Utah - College of Architecture and Planning</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+College+of+Architecture+and+Planning">Browse all records from University of Utah - College of Architecture and Planning</a>
 <!-- List all Active Collections -->
 </div>
 </div>

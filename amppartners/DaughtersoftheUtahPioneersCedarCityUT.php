@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Daughters of the Utah Pioneers, Cedar City (UT)</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.dupinternational.org/" target="_blank">Daughters of the Utah Pioneers, Cedar City (UT) Website</a></h6>
+<h6>http://www.dupinternational.org/</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner217.jpg" alt="Utah Pioneers" width="330" height="247" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner217.jpg alt="" width="330" height="247" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Pioneers
+
 <!-- Article Text -->
 
 <p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears. </p>
@@ -25,9 +25,8 @@ Utah Pioneers
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Daughters+of+the+Utah+Pioneers,+Cedar+City+(UT)">Browse all records from Daughters of the Utah Pioneers, Cedar City (UT)</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Daughters+of+the+Utah+Pioneers,+Cedar+City+(UT)">Browse all records from Daughters of the Utah Pioneers, Cedar City (UT)</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers Cedar City (UT)</a></li>
+<li><a href = "../ampcollections/DaughtersoftheUtahPioneersCedarCityUT.php">DaughtersoftheUtahPioneersCedarCityUT</a></li>
 <?php include("../includes/ampfooter.php");?>

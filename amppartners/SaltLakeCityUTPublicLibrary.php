@@ -9,13 +9,13 @@
 <!-- Partner Title -->
 <h3>Salt Lake City (UT) Public Library</h3>
 <!-- Partner Website -->
-<h6><a href="http://www.slcpl.lib.ut.us/" target="_blank">Salt Lake City (UT) Public Library Website</a></h6>
+<h6>http://www.slcpl.lib.ut.us/</h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner353.jpg" alt="Salt Lake City Public Library" width="300px" height ="250" layout = "responsive"></amp-img></a>
+<amp-img src="../images/partner_images/partner353.jpg alt="" width="" height="" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Salt Lake City (UT) Public Library
+
 <!-- Article Text -->
 
 <p>The Salt Lake City Public Library System consists of a Main Library (pictured) and six Branch Libraries, with plans to open a seventh in late 2015 or early 2016. </p>
@@ -26,9 +26,8 @@ Salt Lake City (UT) Public Library
 <hr>
 <!-- Browse Collections -->
 <h6>
-
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Salt+Lake+City+(UT)+Public+Library">Browse all records from Salt Lake City (UT) Public Library</a></p>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Salt+Lake+City+(UT)+Public+Library">Browse all records from Salt Lake City (UT) Public Library</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/SaltLakeCityPublicLibrarySpecialCollections.php">Salt Lake City Public Library Special Collections</a></li>
+<li><a href = "../ampcollections/SaltLakeCityPublicLibrarySpecialCollections.php">SaltLakeCityPublicLibrarySpecialCollections</a></li>
 <?php include("../includes/ampfooter.php");?>

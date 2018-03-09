@@ -100,28 +100,40 @@ public class DataFetcher {
     }
 
 
-    public static ArrayList<Collection> getAllActiveCollectionsFromPartner(int partner) throws FileNotFoundException {
-        ArrayList<Collection> list = new ArrayList<>();
+    public static ArrayList<Collection> getAllActiveCollectionsFromPartner(String name) throws FileNotFoundException {
+        ArrayList<Collection> toReturn = new ArrayList<>();
         Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
-        while (collectionData.hasNext()) {
-            try {
-                //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Length, Image Description
-                String currentDataLine = collectionData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                String note = n.next();
-                String cTitle = n.next();
-                String publisher = n.next();
+        while (collectionData.hasNextLine()) {
 
-                if (Boolean.valueOf(isActive) && publisher.contains(String.valueOf(partner))) {
-                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, publisher, n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
-                }
-            } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
+            Scanner currentLine = new Scanner(collectionData.nextLine().replace("%newline%","\n").replace("%return%","\r")).useDelimiter(",");
+            //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Width, Image Description
+            String count = getNextElement(currentLine);
+            boolean isActive = Boolean.valueOf(getNextElement(currentLine));
+            if (isActive) {
+                String note = getNextElement(currentLine);
+                if(note == null) note = " ";
+                String title = getNextElement(currentLine);
+                String pub = getNextElement(currentLine);
+                String text = getNextElement(currentLine);
+                String img = getNextElement(currentLine);
+                String imgH = getNextElement(currentLine);
+                String imgW = getNextElement(currentLine);
+                String des = getNextElement(currentLine);
+                if(imgH.equals(""))
+                    imgH = "250";
+                if(imgW.equals(""))
+                    imgW = "250";
+                Collection toAdd = new Collection(Integer.parseInt(count), isActive, note, title, pub, text, img, Integer.parseInt(imgH), Integer.parseInt(imgW), des);
+
+                if(pub.contains(name))
+                    toReturn.add(toAdd);
+                System.out.println("Successfully Read Collection: " + toAdd.title);
             }
+            else
+                System.out.println("Skipping collection " + count +" as it is inactive");
+
         }
-        return list;
+        return toReturn;
     }
 
 
@@ -248,6 +260,11 @@ public class DataFetcher {
 
 
         return toReturn;
+    }
+
+
+    public static String getNextElement(Scanner toscan) {
+        return toscan.next().replace("%newline%", "\n").replace("%return%", "\r").replace("%comma%", ",");
     }
 
 }

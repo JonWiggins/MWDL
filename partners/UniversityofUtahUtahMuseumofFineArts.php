@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner118.jpg" alt="Utah Museum of Fine Arts" width="259" height="194"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner118.jpg" alt=""width="259" height="194"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Museum of Fine Arts
+
 </div>
 <!-- Partner #118 -->
 <!-- Partner Name -->
 <h3>University of Utah - Utah Museum of Fine Arts</h3>
 <!-- Website Link -->
-<h6><a href="http://umfa.utah.edu/" target="_blank">University of Utah - Utah Museum of Fine Arts Website</a></h6>
+<h6>http://umfa.utah.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -30,10 +30,9 @@ Utah Museum of Fine Arts
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+Utah+Museum+of+Fine+Arts">Browse all records from University of Utah - Utah Museum of Fine Arts</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+Utah+Museum+of+Fine+Arts">Browse all records from University of Utah - Utah Museum of Fine Arts</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/AlbertTissandierCollection.php">Albert Tissandier Collection</a></li>
+<li><a href = "../collections/AlbertTissandierCollection.php">AlbertTissandierCollection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

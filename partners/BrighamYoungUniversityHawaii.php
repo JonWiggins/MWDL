@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner128.jpg" alt="BYU Hawaii" height ="250" width="250"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner128.jpg" alt=""width="250" height=""align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Brigham Young University-Hawaii
+
 </div>
 <!-- Partner #128 -->
 <!-- Partner Name -->
 <h3>Brigham Young University-Hawaii</h3>
 <!-- Website Link -->
-<h6><a href="http://www.byuh.edu/" target="_blank">Brigham Young University-Hawaii Website</a></h6>
+<h6>http://www.byuh.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,14 +31,13 @@ Brigham Young University-Hawaii
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University-Hawaii">Browse all records from Brigham Young University-Hawaii</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University-Hawaii">Browse all records from Brigham Young University-Hawaii</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/MormonPacificHistoricalSociety.php">Mormon Pacific Historical Society</a></li>
-<li><a href = "../collections/BrighamYoungUniversityHawaiiCollection.php">Brigham Young University-Hawaii Collection</a></li>
-<li><a href = "../collections/FrankCallPhotographCollection19091911.php">Frank Call Photograph Collection 1909-1911</a></li>
-<li><a href = "../collections/LaiePlantationandCommunityPhotoCollection18791965.php">Laie Plantation and Community Photo Collection 1879-1965</a></li>
-<li><a href = "../collections/EdwardKBryantPhotoCollection19421945.php">Edward K. Bryant Photo Collection 1942-1945</a></li>
+<li><a href = "../collections/MormonPacificHistoricalSociety.php">MormonPacificHistoricalSociety</a></li>
+<li><a href = "../collections/BrighamYoungUniversityHawaiiCollection.php">BrighamYoungUniversityHawaiiCollection</a></li>
+<li><a href = "../collections/FrankCallPhotographCollection19091911.php">FrankCallPhotographCollection19091911</a></li>
+<li><a href = "../collections/LaiePlantationandCommunityPhotoCollection18791965.php">LaiePlantationandCommunityPhotoCollection18791965</a></li>
+<li><a href = "../collections/EdwardKBryantPhotoCollection19421945.php">EdwardKBryantPhotoCollection19421945</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

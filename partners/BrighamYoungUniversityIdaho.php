@@ -13,15 +13,15 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner108.jpg" alt="BYU Idaho" width="357" height="237"align="right" style="max-width:250px; height:auto; margin: 3%; display:block; ">
+<img src="../images/partner_images/partner108.jpg" alt=""width="357" height="237"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Brigham Young University-Idaho
+
 </div>
 <!-- Partner #108 -->
 <!-- Partner Name -->
 <h3>Brigham Young University-Idaho</h3>
 <!-- Website Link -->
-<h6><a href="http://www.byui.edu/" target="_blank">Brigham Young University-Idaho Website</a></h6>
+<h6>http://www.byui.edu/</h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,14 +31,13 @@ Brigham Young University-Idaho
 
 </p>
 <hr>
-<h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University-Idaho">Browse all records from Brigham Young University-Idaho</a></p></h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University-Idaho">Browse all records from Brigham Young University-Idaho</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BrighamYoungUniversityIdahoCampus.php">Brigham Young University-Idaho Campus</a></li>
-<li><a href = "../collections/UpperSnakeRiverValleyIdahoHistories.php">Upper Snake River Valley Idaho Histories</a></li>
-<li><a href = "../collections/EasternIdahoNewspapers.php">Eastern Idaho Newspapers</a></li>
-<li><a href = "../collections/BlackfootIDNewspapers.php">Blackfoot (ID) Newspapers</a></li>
-<li><a href = "../collections/ClarkCountyIDHistoricalPhotographs.php">Clark County (ID) Historical Photographs</a></li>
+<li><a href = "../collections/BrighamYoungUniversityIdahoCampus.php">BrighamYoungUniversityIdahoCampus</a></li>
+<li><a href = "../collections/UpperSnakeRiverValleyIdahoHistories.php">UpperSnakeRiverValleyIdahoHistories</a></li>
+<li><a href = "../collections/EasternIdahoNewspapers.php">EasternIdahoNewspapers</a></li>
+<li><a href = "../collections/BlackfootIDNewspapers.php">BlackfootIDNewspapers</a></li>
+<li><a href = "../collections/ClarkCountyIDHistoricalPhotographs.php">ClarkCountyIDHistoricalPhotographs</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>
