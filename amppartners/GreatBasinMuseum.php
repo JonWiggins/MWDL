@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Great Basin Museum</h3>
 <!-- Partner Website -->
-<h6>http://www.millardcounty.com/placestosee/greatbasinmuseum.htm</h6>
+<h6><a href="http://www.millardcounty.com/placestosee/greatbasinmuseum.htm">Great Basin Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner142.jpg alt="" width="384" height="288" layout = "responsive"></amp-img>

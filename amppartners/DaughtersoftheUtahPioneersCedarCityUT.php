@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Daughters of the Utah Pioneers, Cedar City (UT)</h3>
 <!-- Partner Website -->
-<h6>http://www.dupinternational.org/</h6>
+<h6><a href="http://www.dupinternational.org/">Daughters of the Utah Pioneers, Cedar City (UT) Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner217.jpg alt="" width="330" height="247" layout = "responsive"></amp-img>

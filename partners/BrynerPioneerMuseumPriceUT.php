@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Bryner Pioneer Museum (Price, UT)</h3>
 <!-- Website Link -->
-<h6>http://www.brynermuseum.com/</h6>
+<h6><a href="http://www.brynermuseum.com/">Bryner Pioneer Museum (Price, UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Bryner+Pioneer+Museum+(Price,+UT)">Browse all records from Bryner Pioneer Museum (Price, UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BrynerPioneerMuseumPriceUT.php">BrynerPioneerMuseumPriceUT</a></li>
+<li><a href = "../collections/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum, Price (UT)</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

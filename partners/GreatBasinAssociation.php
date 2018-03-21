@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Great Basin Association</h3>
 <!-- Website Link -->
-<h6>http://content.lib.utah.edu/cdm4/az_details.php?id=49</h6>
+<h6><a href="http://content.lib.utah.edu/cdm4/az_details.php?id=49">Great Basin Association Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,7 +31,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Great+Basin+Association">Browse all records from Great Basin Association</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/GreatBasinAssociationPhotographs.php">GreatBasinAssociationPhotographs</a></li>
+<li><a href = "../collections/GreatBasinAssociationPhotographs.php">Great Basin Association Photographs</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

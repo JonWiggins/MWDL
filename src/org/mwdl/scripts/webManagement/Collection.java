@@ -45,20 +45,15 @@ public class Collection {
                 .replace("(","")
                 .replace(")","");
 
-        this.urlTitle = title.replace(" ","")
-                .replace(".","")
-                .replace("-","")
-                .replace("(","")
-                .replace(")","")
-                .replace(",","")
-                .replace(":","")
-                .replace("/","")
+        this.urlTitle = title
                 //pretty sure these ones aren't even needed tbh
-                .replace("%comma%","")
-                .replace("</p>","")
-                .replace("<p>","")
-                .replace("<b>","")
-                .replace("</b>","");
+                .replaceAll("%comma%","")
+                .replaceAll("</p>","")
+                .replaceAll("<p>","")
+                .replaceAll("<b>","")
+                .replaceAll("</b>","");
+
+        urlTitle = urlTitle.replaceAll("[^a-zA-Z0-9]", "");
 
     }
 

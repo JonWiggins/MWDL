@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Uintah County (UT) Library</h3>
 <!-- Partner Website -->
-<h6>http://www.uintah.lib.ut.us/</h6>
+<h6><a href="http://www.uintah.lib.ut.us/">Uintah County (UT) Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner117.jpg alt="" width="365" height="242" layout = "responsive"></amp-img>

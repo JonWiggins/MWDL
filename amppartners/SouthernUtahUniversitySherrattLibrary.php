@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Southern Utah University - Sherratt Library</h3>
 <!-- Partner Website -->
-<h6>http://www.li.suu.edu/</h6>
+<h6><a href="http://www.li.suu.edu/">Southern Utah University - Sherratt Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner123.jpg alt="" width="341" height="245" layout = "responsive"></amp-img>

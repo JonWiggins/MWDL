@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Daughters of the Utah Pioneers, Springville (UT)</h3>
 <!-- Website Link -->
-<h6>http://www.springvillepioneermuseum.org/</h6>
+<h6><a href="http://www.springvillepioneermuseum.org/">Daughters of the Utah Pioneers, Springville (UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Daughters+of+the+Utah+Pioneers,+Springville+(UT)">Browse all records from Daughters of the Utah Pioneers, Springville (UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/DaughtersoftheUtahPioneersSpringvilleUT.php">DaughtersoftheUtahPioneersSpringvilleUT</a></li>
+<li><a href = "../collections/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

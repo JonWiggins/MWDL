@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Department of Heritage and Arts</h3>
 <!-- Partner Website -->
-<h6>http://history.utah.gov/</h6>
+<h6><a href="http://history.utah.gov/">Department of Heritage and Arts Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner119.jpg alt="" width="366" height="286" layout = "responsive"></amp-img>
@@ -31,7 +31,7 @@
 <li><a href = "../ampcollections/SaltLakeCityEngineersCollection.php">SaltLakeCityEngineersCollection</a></li>
 <li><a href = "../ampcollections/CivilianConservationCorpsinUtah.php">CivilianConservationCorpsinUtah</a></li>
 <li><a href = "../ampcollections/DepartmentofHeritageandArtsClassifiedPhotographCollection.php">DepartmentofHeritageandArtsClassifiedPhotographCollection</a></li>
-<li><a href = "../ampcollections/UtahGovernor'sOlympicCollection.php">UtahGovernor'sOlympicCollection</a></li>
+<li><a href = "../ampcollections/UtahGovernorsOlympicCollection.php">UtahGovernorsOlympicCollection</a></li>
 <li><a href = "../ampcollections/ShiplerCommercialPhotographers.php">ShiplerCommercialPhotographers</a></li>
 <li><a href = "../ampcollections/Utah2002OlympicLegacyCollection.php">Utah2002OlympicLegacyCollection</a></li>
 <li><a href = "../ampcollections/PhiloTFarnsworthTelevisionTubesCollection.php">PhiloTFarnsworthTelevisionTubesCollection</a></li>

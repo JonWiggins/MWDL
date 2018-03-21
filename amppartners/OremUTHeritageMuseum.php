@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Orem (UT) Heritage Museum</h3>
 <!-- Partner Website -->
-<h6>http://www.scera.org/contents/view/17/museum.html</h6>
+<h6><a href="http://www.scera.org/contents/view/17/museum.html">Orem (UT) Heritage Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner203.jpg alt="" width="310" height="370" layout = "responsive"></amp-img>

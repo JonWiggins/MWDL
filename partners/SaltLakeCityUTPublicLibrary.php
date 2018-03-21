@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Salt Lake City (UT) Public Library</h3>
 <!-- Website Link -->
-<h6>http://www.slcpl.lib.ut.us/</h6>
+<h6><a href="http://www.slcpl.lib.ut.us/">Salt Lake City (UT) Public Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -33,7 +33,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Salt+Lake+City+(UT)+Public+Library">Browse all records from Salt Lake City (UT) Public Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/SaltLakeCityPublicLibrarySpecialCollections.php">SaltLakeCityPublicLibrarySpecialCollections</a></li>
+<li><a href = "../collections/SaltLakeCityPublicLibrarySpecialCollections.php">Salt Lake City Public Library Special Collections</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

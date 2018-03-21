@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Provo (UT) City</h3>
 <!-- Partner Website -->
-<h6>http://www.provo.org/</h6>
+<h6><a href="http://www.provo.org/">Provo (UT) City Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner138.jpg alt="" width="354" height="265" layout = "responsive"></amp-img>

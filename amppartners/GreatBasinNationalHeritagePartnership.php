@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Great Basin National Heritage Partnership</h3>
 <!-- Partner Website -->
-<h6>http://www.greatbasinheritage.org/</h6>
+<h6><a href="http://www.greatbasinheritage.org/">Great Basin National Heritage Partnership Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner141.jpg alt="" width="200" height="217" layout = "responsive"></amp-img>

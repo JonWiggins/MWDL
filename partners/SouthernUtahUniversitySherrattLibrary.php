@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Southern Utah University - Sherratt Library</h3>
 <!-- Website Link -->
-<h6>http://www.li.suu.edu/</h6>
+<h6><a href="http://www.li.suu.edu/">Southern Utah University - Sherratt Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,32 +32,32 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Southern+Utah+University+-+Sherratt+Library">Browse all records from Southern Utah University - Sherratt Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BranchNormalSchoolPhotographs.php">BranchNormalSchoolPhotographs</a></li>
-<li><a href = "../collections/BeaverUTMurdockAcademyCollection.php">BeaverUTMurdockAcademyCollection</a></li>
-<li><a href = "../collections/BranchNormalSchoolCatalogs.php">BranchNormalSchoolCatalogs</a></li>
-<li><a href = "../collections/UtahParksCompanyEmployeePhotographs.php">UtahParksCompanyEmployeePhotographs</a></li>
-<li><a href = "../collections/IronMiningDistrictIronCountyUT.php">IronMiningDistrictIronCountyUT</a></li>
-<li><a href = "../collections/IronCountyUTHistoricalPhotographs.php">IronCountyUTHistoricalPhotographs</a></li>
-<li><a href = "../collections/SouthwestUtahLivestockAssociation.php">SouthwestUtahLivestockAssociation</a></li>
-<li><a href = "../collections/SocotwaGlenCanyonVoyage.php">SocotwaGlenCanyonVoyage</a></li>
-<li><a href = "../collections/BranchAgriculturalCollegePhotographs.php">BranchAgriculturalCollegePhotographs</a></li>
-<li><a href = "../collections/CrawfordFamilyZionNationalPark.php">CrawfordFamilyZionNationalPark</a></li>
-<li><a href = "../collections/WilliamRPalmerPhotographs.php">WilliamRPalmerPhotographs</a></li>
-<li><a href = "../collections/RDAdamsPhotographs.php">RDAdamsPhotographs</a></li>
-<li><a href = "../collections/HomerJonesPhotographs.php">HomerJonesPhotographs</a></li>
-<li><a href = "../collections/JohnSBoydenThreeScoreandTeninRetrospective.php">JohnSBoydenThreeScoreandTeninRetrospective</a></li>
-<li><a href = "../collections/EvelynandYorkJonesBooks.php">EvelynandYorkJonesBooks</a></li>
-<li><a href = "../collections/AllenLeighPhotographs.php">AllenLeighPhotographs</a></li>
-<li><a href = "../collections/SouthernUtahUniversityDramaPhotographs.php">SouthernUtahUniversityDramaPhotographs</a></li>
-<li><a href = "../collections/IronCountyUTExtensionOfficePhotographs.php">IronCountyUTExtensionOfficePhotographs</a></li>
-<li><a href = "../collections/SouthernUtahStateCollege.php">SouthernUtahStateCollege</a></li>
-<li><a href = "../collections/CollegeofSouthernUtahPhotographs.php">CollegeofSouthernUtahPhotographs</a></li>
-<li><a href = "../collections/JohnDavidMorrillPhotographs.php">JohnDavidMorrillPhotographs</a></li>
-<li><a href = "../collections/JohnWesleyWilliamsonPhotographs.php">JohnWesleyWilliamsonPhotographs</a></li>
-<li><a href = "../collections/MiltJolleyPhotographs.php">MiltJolleyPhotographs</a></li>
-<li><a href = "../collections/SouthernUtahUniversityScholarArchive.php">SouthernUtahUniversityScholarArchive</a></li>
-<li><a href = "../collections/CharlesFordPhotographs.php">CharlesFordPhotographs</a></li>
-<li><a href = "../collections/BrianHeadSkiResortPhotographs.php">BrianHeadSkiResortPhotographs</a></li>
+<li><a href = "../collections/BranchNormalSchoolPhotographs.php">Branch Normal School Photographs</a></li>
+<li><a href = "../collections/BeaverUTMurdockAcademyCollection.php">Beaver (UT) Murdock Academy Collection</a></li>
+<li><a href = "../collections/BranchNormalSchoolCatalogs.php">Branch Normal School Catalogs</a></li>
+<li><a href = "../collections/UtahParksCompanyEmployeePhotographs.php">Utah Parks Company Employee Photographs</a></li>
+<li><a href = "../collections/IronMiningDistrictIronCountyUT.php">Iron Mining District (Iron County, UT)</a></li>
+<li><a href = "../collections/IronCountyUTHistoricalPhotographs.php">Iron County (UT) Historical Photographs</a></li>
+<li><a href = "../collections/SouthwestUtahLivestockAssociation.php">Southwest Utah Livestock Association</a></li>
+<li><a href = "../collections/SocotwaGlenCanyonVoyage.php">Socotwa, Glen Canyon Voyage</a></li>
+<li><a href = "../collections/BranchAgriculturalCollegePhotographs.php">Branch Agricultural College Photographs</a></li>
+<li><a href = "../collections/CrawfordFamilyZionNationalPark.php">Crawford Family, Zion National Park</a></li>
+<li><a href = "../collections/WilliamRPalmerPhotographs.php">William R. Palmer Photographs</a></li>
+<li><a href = "../collections/RDAdamsPhotographs.php">R. D. Adams Photographs</a></li>
+<li><a href = "../collections/HomerJonesPhotographs.php">Homer Jones Photographs</a></li>
+<li><a href = "../collections/JohnSBoydenThreeScoreandTeninRetrospective.php">John S. Boyden: Three Score and Ten in Retrospective</a></li>
+<li><a href = "../collections/EvelynandYorkJonesBooks.php">Evelyn and York Jones Books</a></li>
+<li><a href = "../collections/AllenLeighPhotographs.php">Allen Leigh Photographs</a></li>
+<li><a href = "../collections/SouthernUtahUniversityDramaPhotographs.php">Southern Utah University Drama Photographs</a></li>
+<li><a href = "../collections/IronCountyUTExtensionOfficePhotographs.php">Iron County (UT) Extension Office Photographs</a></li>
+<li><a href = "../collections/SouthernUtahStateCollege.php">Southern Utah State College</a></li>
+<li><a href = "../collections/CollegeofSouthernUtahPhotographs.php">College of Southern Utah Photographs</a></li>
+<li><a href = "../collections/JohnDavidMorrillPhotographs.php">John David Morrill Photographs</a></li>
+<li><a href = "../collections/JohnWesleyWilliamsonPhotographs.php">John Wesley Williamson Photographs</a></li>
+<li><a href = "../collections/MiltJolleyPhotographs.php">Milt Jolley Photographs</a></li>
+<li><a href = "../collections/SouthernUtahUniversityScholarArchive.php">Southern Utah University Scholar Archive</a></li>
+<li><a href = "../collections/CharlesFordPhotographs.php">Charles Ford Photographs</a></li>
+<li><a href = "../collections/BrianHeadSkiResortPhotographs.php">Brian Head Ski Resort Photographs</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

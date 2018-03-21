@@ -42,9 +42,9 @@ public class PartnerPage {
         this.partnerNumber = number;
         this.isActive = isActive;
         this.note = note;
-        this.name = name;
+        this.name = name.replace("%comma%",",");
         this.link = link;
-        this.description = text;
+        this.description = text.replace("%comma%",",").replace("%newline%","\n");
         this.image = image;
         this.imageH = imageH;
         this.imageW = imageW;
@@ -58,20 +58,8 @@ public class PartnerPage {
 
         browseLink = getExlibirisLink();
 
-        this.urlName = name.replace(" ","")
-                .replace(".","")
-                .replace("-","")
-                .replace("(","")
-                .replace(")","")
-                .replace(",","")
-                .replace(":","")
-                .replace("/","")
-                //pretty sure these ones aren't even needed tbh
-                .replace("%comma%","")
-                .replace("</p>","")
-                .replace("<p>","")
-                .replace("<b>","")
-                .replace("</b>","");
+        urlName = name.replaceAll("%comma%","");
+        urlName = urlName.replaceAll("[^a-zA-Z0-9]", "");
     }
 
     /**
@@ -80,7 +68,6 @@ public class PartnerPage {
      * @return the Exlibirs browse link
      */
     public String getExlibirisLink(){
-        //TODO figure this out
         return "http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)="
                 + this.name.replace(" ", "+");
     }

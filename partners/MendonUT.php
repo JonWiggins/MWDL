@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Mendon (UT)</h3>
 <!-- Website Link -->
-<h6>http://www.mendonutah.net/</h6>
+<h6><a href="http://www.mendonutah.net/">Mendon (UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,7 +31,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Mendon+(UT)">Browse all records from Mendon (UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/MendonUTAPagefromthePast.php">MendonUTAPagefromthePast</a></li>
+<li><a href = "../collections/MendonUTAPagefromthePast.php">Mendon (UT): A Page from the Past</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

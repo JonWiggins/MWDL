@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah Territorial Statehouse State Park Museum</h3>
 <!-- Partner Website -->
-<h6>http://stateparks.utah.gov/park/territorial-statehouse-state-park-museum</h6>
+<h6><a href="http://stateparks.utah.gov/park/territorial-statehouse-state-park-museum">Utah Territorial Statehouse State Park Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner351.jpg alt="" width="" height="" layout = "responsive"></amp-img>

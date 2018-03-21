@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Department of Heritage and Arts</h3>
 <!-- Website Link -->
-<h6>http://history.utah.gov/</h6>
+<h6><a href="http://history.utah.gov/">Department of Heritage and Arts Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,26 +32,26 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Department+of+Heritage+and+Arts">Browse all records from Department of Heritage and Arts</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/SaltLakeCityEngineersCollection.php">SaltLakeCityEngineersCollection</a></li>
-<li><a href = "../collections/CivilianConservationCorpsinUtah.php">CivilianConservationCorpsinUtah</a></li>
-<li><a href = "../collections/DepartmentofHeritageandArtsClassifiedPhotographCollection.php">DepartmentofHeritageandArtsClassifiedPhotographCollection</a></li>
-<li><a href = "../collections/UtahGovernor'sOlympicCollection.php">UtahGovernor'sOlympicCollection</a></li>
-<li><a href = "../collections/ShiplerCommercialPhotographers.php">ShiplerCommercialPhotographers</a></li>
-<li><a href = "../collections/Utah2002OlympicLegacyCollection.php">Utah2002OlympicLegacyCollection</a></li>
-<li><a href = "../collections/PhiloTFarnsworthTelevisionTubesCollection.php">PhiloTFarnsworthTelevisionTubesCollection</a></li>
-<li><a href = "../collections/SchoolsoftheSaltLakeValleyUT.php">SchoolsoftheSaltLakeValleyUT</a></li>
-<li><a href = "../collections/WilliamEdwardHookGlassNegativeCollection.php">WilliamEdwardHookGlassNegativeCollection</a></li>
-<li><a href = "../collections/PeoplesofUtah.php">PeoplesofUtah</a></li>
-<li><a href = "../collections/CliffordBrayPhotographs.php">CliffordBrayPhotographs</a></li>
-<li><a href = "../collections/LarsonStudioNegativeCollection.php">LarsonStudioNegativeCollection</a></li>
-<li><a href = "../collections/TaylorWoolleyPhotographCollection.php">TaylorWoolleyPhotographCollection</a></li>
-<li><a href = "../collections/KUEDTopazRelocationCenterResidentsCollection.php">KUEDTopazRelocationCenterResidentsCollection</a></li>
-<li><a href = "../collections/AlMortonCollection1930s1950s.php">AlMortonCollection1930s1950s</a></li>
-<li><a href = "../collections/CarbonCountyCookbook.php">CarbonCountyCookbook</a></li>
-<li><a href = "../collections/OurDailyDiaryTopazWarRelocationCenter.php">OurDailyDiaryTopazWarRelocationCenter</a></li>
-<li><a href = "../collections/EllisReynoldsShippPapers.php">EllisReynoldsShippPapers</a></li>
-<li><a href = "../collections/WorksProgressAdministrationBiographySketchesCollection.php">WorksProgressAdministrationBiographySketchesCollection</a></li>
-<li><a href = "../collections/CharlesRaymondVarleySlides18681986.php">CharlesRaymondVarleySlides18681986</a></li>
+<li><a href = "../collections/SaltLakeCityEngineersCollection.php">Salt Lake City Engineers Collection</a></li>
+<li><a href = "../collections/CivilianConservationCorpsinUtah.php">Civilian Conservation Corps in Utah</a></li>
+<li><a href = "../collections/DepartmentofHeritageandArtsClassifiedPhotographCollection.php">Department of Heritage and Arts Classified Photograph Collection</a></li>
+<li><a href = "../collections/UtahGovernorsOlympicCollection.php">Utah Governor's Olympic Collection</a></li>
+<li><a href = "../collections/ShiplerCommercialPhotographers.php">Shipler Commercial Photographers</a></li>
+<li><a href = "../collections/Utah2002OlympicLegacyCollection.php">Utah 2002 Olympic Legacy Collection</a></li>
+<li><a href = "../collections/PhiloTFarnsworthTelevisionTubesCollection.php">Philo T. Farnsworth Television Tubes Collection</a></li>
+<li><a href = "../collections/SchoolsoftheSaltLakeValleyUT.php">Schools of the Salt Lake Valley (UT)</a></li>
+<li><a href = "../collections/WilliamEdwardHookGlassNegativeCollection.php">William Edward Hook Glass Negative Collection</a></li>
+<li><a href = "../collections/PeoplesofUtah.php">Peoples of Utah</a></li>
+<li><a href = "../collections/CliffordBrayPhotographs.php">Clifford Bray Photographs</a></li>
+<li><a href = "../collections/LarsonStudioNegativeCollection.php">Larson Studio Negative Collection</a></li>
+<li><a href = "../collections/TaylorWoolleyPhotographCollection.php">Taylor Woolley Photograph Collection</a></li>
+<li><a href = "../collections/KUEDTopazRelocationCenterResidentsCollection.php">KUED Topaz Relocation Center Residents Collection</a></li>
+<li><a href = "../collections/AlMortonCollection1930s1950s.php">Al Morton Collection 1930s-1950s</a></li>
+<li><a href = "../collections/CarbonCountyCookbook.php">Carbon County Cookbook</a></li>
+<li><a href = "../collections/OurDailyDiaryTopazWarRelocationCenter.php">Our Daily Diary, Topaz War Relocation Center</a></li>
+<li><a href = "../collections/EllisReynoldsShippPapers.php">Ellis Reynolds Shipp Papers</a></li>
+<li><a href = "../collections/WorksProgressAdministrationBiographySketchesCollection.php">Works Progress Administration Biography Sketches Collection</a></li>
+<li><a href = "../collections/CharlesRaymondVarleySlides18681986.php">Charles Raymond Varley Slides, 1868-1986</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

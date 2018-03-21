@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Run this to create all the Partner landing pages from the partnerData.csv in this dir
+ * Run this to create all the Partner landing pages from the newPartnerData.csv in this dir
  *
  * @author Jonathan Wiggins
  * @version 7/10/17

@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Brigham Young University-Hawaii</h3>
 <!-- Partner Website -->
-<h6>http://www.byuh.edu/</h6>
+<h6><a href="http://www.byuh.edu/">Brigham Young University-Hawaii Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner128.jpg alt="" width="250" height="" layout = "responsive"></amp-img>

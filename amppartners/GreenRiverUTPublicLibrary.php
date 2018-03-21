@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Green River (UT) Public Library</h3>
 <!-- Partner Website -->
-<h6>http://lib.emerycounty.com/green-river.html</h6>
+<h6><a href="http://lib.emerycounty.com/green-river.html">Green River (UT) Public Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner124.jpg alt="" width="374" height="248" layout = "responsive"></amp-img>

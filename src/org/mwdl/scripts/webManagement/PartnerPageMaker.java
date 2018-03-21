@@ -58,7 +58,7 @@ public class PartnerPageMaker {
 
             ArrayList<Collection> collections = toWrite.activeCollections;
             for(Collection collection : collections)
-                writer.println("<li><a href = \"../collections/"+collection.urlTitle + ".php\">" + collection.urlTitle.replace("%comma%","") +"</a></li>");
+                writer.println("<li><a href = \"../collections/"+collection.urlTitle + ".php\">" + collection.title.replace("%comma%","") +"</a></li>");
 
             writer.println("</div>");
             writer.println("</div>");

@@ -41,7 +41,7 @@ Daily Enquirer (Provo, UT) 2 collection
  
 <!-- Collection Description -->
 </p>
-This collection is #1 of 2 collections. For the rest of the issues, see the <a href="1546.php">Daily Enquirer (Provo, UT) 2 collection</a>.</p>
+This collection is #1 of 2 collections. For the rest of the issues, see the <a href="DailyEnquirerProvoUT2.php">Daily Enquirer (Provo, UT) 2 collection</a>.</p>
 One of the oldest Provo, Utah newspapers, published from 1889-1908, also known under the title Provo Daily Enquirer.</p>
  <a href="http://contentdm.lib.byu.edu/cdm/compoundobject/collection/DE1/id/220230" target="_blank">The Daily Enquirer Newspaper 1891-12-08 vol. 5 no. 7<br> </a>Brigham Young University - Harold B. Lee Library</p>
 </p>

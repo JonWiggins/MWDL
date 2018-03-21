@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Park City (UT) Historical Society & Museum</h3>
 <!-- Website Link -->
-<h6>http://www.parkcityhistory.org/</h6>
+<h6><a href="http://www.parkcityhistory.org/">Park City (UT) Historical Society & Museum Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p><p><a href="http://www.parkcityhistory.org/" target="_blank">Park City (UT) Historical Society & Museum Website</a></p>

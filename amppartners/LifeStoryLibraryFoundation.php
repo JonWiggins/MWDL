@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Life Story Library Foundation</h3>
 <!-- Partner Website -->
-<h6>http://www.lifestorylibrary.org/</h6>
+<h6><a href="http://www.lifestorylibrary.org/">Life Story Library Foundation Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner352.png alt="" width="" height="" layout = "responsive"></amp-img>

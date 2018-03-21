@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Buffalo Bill Center of the West, McCracken Research Library</h3>
 <!-- Partner Website -->
-<h6>https://centerofthewest.org/research/mccracken-research-library/</h6>
+<h6><a href="https://centerofthewest.org/research/mccracken-research-library/">Buffalo Bill Center of the West, McCracken Research Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner369.png alt="" width="250" height="" layout = "responsive"></amp-img>

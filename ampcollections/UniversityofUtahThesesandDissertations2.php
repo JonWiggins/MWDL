@@ -18,7 +18,7 @@
 University of Utah Theses and Dissertations 1
 <!-- Article Text -->
 </p>
-This collection is #2 of 3 collections. For the rest of the items, see <a href="1249.php">University of Utah Theses and Dissertations 1</a> or <a href="1617.php">University of Utah Theses and Dissertations 3</a></p>
+This collection is #2 of 3 collections. For the rest of the items, see <a href="UniversityofUtahThesesandDissertations1.php">University of Utah Theses and Dissertations 1</a> or <a href="UniversityofUtahThesesandDissertations3.php">University of Utah Theses and Dissertations 3</a></p>
 The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p>
  <a href="http://content.lib.utah.edu/cdm/ref/collection/etd2/id/3" target="_blank">Effect of singing and music on blood pressure of hypertensives<br> </a>University of Utah</p>
 </p>

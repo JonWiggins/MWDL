@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah Valley University Library</h3>
 <!-- Partner Website -->
-<h6>http://www.uvu.edu/library/</h6>
+<h6><a href="http://www.uvu.edu/library/">Utah Valley University Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner121.jpg alt="" width="361" height="240" layout = "responsive"></amp-img>
@@ -38,13 +38,16 @@
 <li><a href = "../ampcollections/BarryMaxfieldRailroadPhotographs.php">BarryMaxfieldRailroadPhotographs</a></li>
 <li><a href = "../ampcollections/VietnamEraOralHistoryProject.php">VietnamEraOralHistoryProject</a></li>
 <li><a href = "../ampcollections/UtahFireServiceHistoryDigitalArchive.php">UtahFireServiceHistoryDigitalArchive</a></li>
-<li><a href = "../ampcollections/Women'sWalkHonoringtheWomenofUtah.php">Women'sWalkHonoringtheWomenofUtah</a></li>
+<li><a href = "../ampcollections/WomensWalkHonoringtheWomenofUtah.php">WomensWalkHonoringtheWomenofUtah</a></li>
 <li><a href = "../ampcollections/UtahValleyUniversityStudentNewspapers.php">UtahValleyUniversityStudentNewspapers</a></li>
 <li><a href = "../ampcollections/PioneersInYourAtticfromUtahValleyUniversity.php">PioneersInYourAtticfromUtahValleyUniversity</a></li>
 <li><a href = "../ampcollections/VeteransofIraqandAfghanistanOralHistoryCollection.php">VeteransofIraqandAfghanistanOralHistoryCollection</a></li>
 <li><a href = "../ampcollections/UtahValleyUniversityCourseCatalogs.php">UtahValleyUniversityCourseCatalogs</a></li>
 <li><a href = "../ampcollections/JClaytonTullisUtahStateCapitolCollection.php">JClaytonTullisUtahStateCapitolCollection</a></li>
 <li><a href = "../ampcollections/HarryBolamSaltairPhotographs.php">HarryBolamSaltairPhotographs</a></li>
-<li><a href = "../ampcollections/UtahTechnicalCollegeWomen'sAssociationScrapbooks.php">UtahTechnicalCollegeWomen'sAssociationScrapbooks</a></li>
+<li><a href = "../ampcollections/UtahTechnicalCollegeWomensAssociationScrapbooks.php">UtahTechnicalCollegeWomensAssociationScrapbooks</a></li>
 <li><a href = "../ampcollections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">TellingOurStoryAnOralHistoryofUtahValleyUniversity</a></li>
+<li><a href = "../ampcollections/RootsofKnowledgeBehindtheScenes.php">RootsofKnowledgeBehindtheScenes</a></li>
+<li><a href = "../ampcollections/MapletonUtahHistoricalPhotographs.php">MapletonUtahHistoricalPhotographs</a></li>
+<li><a href = "../ampcollections/VonDelChamberlainCulturalAstronomyCollection.php">VonDelChamberlainCulturalAstronomyCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

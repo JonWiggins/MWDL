@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>North Bingham County (ID) District Library</h3>
 <!-- Website Link -->
-<h6>http://northbingham.lili.org/</h6>
+<h6><a href="http://northbingham.lili.org/">North Bingham County (ID) District Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=North+Bingham+County+(ID)+District+Library">Browse all records from North Bingham County (ID) District Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/HistoryofShelleyID.php">HistoryofShelleyID</a></li>
+<li><a href = "../collections/HistoryofShelleyID.php">History of Shelley (ID)</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

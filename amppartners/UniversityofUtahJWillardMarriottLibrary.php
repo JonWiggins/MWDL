@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>University of Utah - J. Willard Marriott Library</h3>
 <!-- Partner Website -->
-<h6>http://www.lib.utah.edu/</h6>
+<h6><a href="http://www.lib.utah.edu/">University of Utah - J. Willard Marriott Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner101.jpg alt="" width="364" height="190" layout = "responsive"></amp-img>
@@ -94,7 +94,7 @@
 <li><a href = "../ampcollections/EverettLCooleyOralHistoryProject.php">EverettLCooleyOralHistoryProject</a></li>
 <li><a href = "../ampcollections/GeorgeCannonYoungArchitecture.php">GeorgeCannonYoungArchitecture</a></li>
 <li><a href = "../ampcollections/JosephEllisJohnsonPapers.php">JosephEllisJohnsonPapers</a></li>
-<li><a href = "../ampcollections/ThomasJeffersonO'BrienJournals.php">ThomasJeffersonO'BrienJournals</a></li>
+<li><a href = "../ampcollections/ThomasJeffersonOBrienJournals.php">ThomasJeffersonOBrienJournals</a></li>
 <li><a href = "../ampcollections/GoldenSpikeOralHistoryPapers.php">GoldenSpikeOralHistoryPapers</a></li>
 <li><a href = "../ampcollections/UniversityofUtahDaughtersoftheAmericanRevolutionPapers.php">UniversityofUtahDaughtersoftheAmericanRevolutionPapers</a></li>
 <?php include("../includes/ampfooter.php");?>

@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>University of Nevada, Reno, University Libraries</h3>
 <!-- Partner Website -->
-<h6>http://www.knowledgecenter.unr.edu</h6>
+<h6><a href="http://www.knowledgecenter.unr.edu">University of Nevada, Reno, University Libraries Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner105.jpg alt="" width="351" height="239" layout = "responsive"></amp-img>
@@ -33,7 +33,7 @@
 <li><a href = "../ampcollections/BasquePosters.php">BasquePosters</a></li>
 <li><a href = "../ampcollections/UniversityofNevadaRenoCampusImages.php">UniversityofNevadaRenoCampusImages</a></li>
 <li><a href = "../ampcollections/NevadainMaps.php">NevadainMaps</a></li>
-<li><a href = "../ampcollections/JustPassin'ThroughTheLincolnandVictoryHighwaysinNevada.php">JustPassin'ThroughTheLincolnandVictoryHighwaysinNevada</a></li>
+<li><a href = "../ampcollections/JustPassinThroughTheLincolnandVictoryHighwaysinNevada.php">JustPassinThroughTheLincolnandVictoryHighwaysinNevada</a></li>
 <li><a href = "../ampcollections/TahoeResources.php">TahoeResources</a></li>
 <li><a href = "../ampcollections/NevadaAgriculturalPublications.php">NevadaAgriculturalPublications</a></li>
 <li><a href = "../ampcollections/OlgaReifschneiderBotanicalImagesofNorthernNevadaandtheLakeTahoeRegion.php">OlgaReifschneiderBotanicalImagesofNorthernNevadaandtheLakeTahoeRegion</a></li>

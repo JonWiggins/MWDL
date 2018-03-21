@@ -26,11 +26,28 @@ public class Test {
 
     public static void main(String[] args) {
         try {
-            for(Collection c : DataFetcher.getAllActiveCollectionsFromPartner("Brigham Young University"))
-                System.out.println(c.title);
+
+            ArrayList<Integer> asdf = new ArrayList<>();
+
+            asdf.add(1060);
+            asdf.add(1059);
+            asdf.add(1100);
+            asdf.add(1099);
+            asdf.add(1101);
+            asdf.add(1100);
+            asdf.add(1307);
+            asdf.add(1306);
+            asdf.add(1308);
+            asdf.add(1546);
+            asdf.add(1545);
+
+            for(int element : asdf){
+                System.out.println(element + " " + DataFetcher.fetchCollection(element).urlTitle);
+            }
 
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+       // System.out.println("Brigham Young University Master's Theses on Mormonism: ".replaceAll("[^a-zA-Z0-9]", ""));
     }
 }

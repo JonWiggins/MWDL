@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah Academic Library Consortium</h3>
 <!-- Partner Website -->
-<h6>http://www.ualc.net/</h6>
+<h6><a href="http://www.ualc.net/">Utah Academic Library Consortium Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner151.jpg alt="" width="136" height="144" layout = "responsive"></amp-img>

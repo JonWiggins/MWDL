@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Mendon (UT)</h3>
 <!-- Partner Website -->
-<h6>http://www.mendonutah.net/</h6>
+<h6><a href="http://www.mendonutah.net/">Mendon (UT) Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner146.jpg alt="" width="402" height="269" layout = "responsive"></amp-img>

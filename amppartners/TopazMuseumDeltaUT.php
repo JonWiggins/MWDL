@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Topaz Museum (Delta, UT)</h3>
 <!-- Partner Website -->
-<h6>http://www.topazmuseum.org/</h6>
+<h6><a href="http://www.topazmuseum.org/">Topaz Museum (Delta, UT) Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner116.jpg alt="" width="362" height="251" layout = "responsive"></amp-img>

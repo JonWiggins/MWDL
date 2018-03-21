@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Brigham Young University-Idaho</h3>
 <!-- Partner Website -->
-<h6>http://www.byui.edu/</h6>
+<h6><a href="http://www.byui.edu/">Brigham Young University-Idaho Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner108.jpg alt="" width="357" height="237" layout = "responsive"></amp-img>

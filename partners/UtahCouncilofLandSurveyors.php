@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Utah Council of Land Surveyors</h3>
 <!-- Website Link -->
-<h6>http://www.ucls.org/mc/page.do;jsessionid=F1D1D81758E0ABEBD46E77CEE29FCA58.mc0?sitePageId=25509</h6>
+<h6><a href="http://www.ucls.org/mc/page.do;jsessionid=F1D1D81758E0ABEBD46E77CEE29FCA58.mc0?sitePageId=25509">Utah Council of Land Surveyors Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Council+of+Land+Surveyors">Browse all records from Utah Council of Land Surveyors</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahCouncilofLandSurveyors.php">UtahCouncilofLandSurveyors</a></li>
+<li><a href = "../collections/UtahCouncilofLandSurveyors.php">Utah Council of Land Surveyors</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

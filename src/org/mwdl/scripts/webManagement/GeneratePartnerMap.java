@@ -12,7 +12,13 @@ import java.util.ArrayList;
  * @author Jonathan Wiggins
  * @version 9/15/17
  */
+
 public class GeneratePartnerMap {
+
+    //TODO if you are making this version of the map for the testing website, set this to false
+    // otherwise set it to true
+    private static boolean isForLiveSite = true;
+
 
     public static void main(String[] args) {
         try {
@@ -21,8 +27,13 @@ public class GeneratePartnerMap {
             String FileLocAndName = "partnerMapData.csv";
             PrintWriter csv = new PrintWriter(FileLocAndName,"UTF-8");
             csv.append("Partner Name, Partner Link \n");
+
             for(PartnerPage current : partners){
-                csv.append(current.name+ ",http://test.mwdl.org/NewSite/partners/"+current.urlName + ".php\n");
+                if(isForLiveSite)
+                    csv.append("\"" + current.name + "\"" + ",http://mwdl.org/partners/"+current.urlName + ".php\n");
+                else
+                    csv.append("\"" + current.name + "\"" + ",http://test.mwdl.org/partners/"+current.urlName + ".php\n");
+
             }
 
             csv.close();

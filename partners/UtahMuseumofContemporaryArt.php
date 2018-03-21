@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Utah Museum of Contemporary Art</h3>
 <!-- Website Link -->
-<h6>http://www.utahmoca.org</h6>
+<h6><a href="http://www.utahmoca.org">Utah Museum of Contemporary Art Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -33,7 +33,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Museum+of+Contemporary+Art">Browse all records from Utah Museum of Contemporary Art</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahMuseumofContemporaryArtCollection.php">UtahMuseumofContemporaryArtCollection</a></li>
+<li><a href = "../collections/UtahMuseumofContemporaryArtCollection.php">Utah Museum of Contemporary Art Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

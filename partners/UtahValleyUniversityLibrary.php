@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Utah Valley University Library</h3>
 <!-- Website Link -->
-<h6>http://www.uvu.edu/library/</h6>
+<h6><a href="http://www.uvu.edu/library/">Utah Valley University Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -33,24 +33,27 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+Library">Browse all records from Utah Valley University Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/UtahValleyUniversityDepartmentalPublications.php">UtahValleyUniversityDepartmentalPublications</a></li>
-<li><a href = "../collections/UtahValleyUniversityFacultyCollection.php">UtahValleyUniversityFacultyCollection</a></li>
-<li><a href = "../collections/UtahValleyUniversityLibraryCollection.php">UtahValleyUniversityLibraryCollection</a></li>
-<li><a href = "../collections/WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity.php">WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity</a></li>
-<li><a href = "../collections/UtahTechnicalCollegeYearbooks.php">UtahTechnicalCollegeYearbooks</a></li>
-<li><a href = "../collections/UtahPeaceActivistsOralHistory.php">UtahPeaceActivistsOralHistory</a></li>
-<li><a href = "../collections/BarryMaxfieldRailroadPhotographs.php">BarryMaxfieldRailroadPhotographs</a></li>
-<li><a href = "../collections/VietnamEraOralHistoryProject.php">VietnamEraOralHistoryProject</a></li>
-<li><a href = "../collections/UtahFireServiceHistoryDigitalArchive.php">UtahFireServiceHistoryDigitalArchive</a></li>
-<li><a href = "../collections/Women'sWalkHonoringtheWomenofUtah.php">Women'sWalkHonoringtheWomenofUtah</a></li>
-<li><a href = "../collections/UtahValleyUniversityStudentNewspapers.php">UtahValleyUniversityStudentNewspapers</a></li>
-<li><a href = "../collections/PioneersInYourAtticfromUtahValleyUniversity.php">PioneersInYourAtticfromUtahValleyUniversity</a></li>
-<li><a href = "../collections/VeteransofIraqandAfghanistanOralHistoryCollection.php">VeteransofIraqandAfghanistanOralHistoryCollection</a></li>
-<li><a href = "../collections/UtahValleyUniversityCourseCatalogs.php">UtahValleyUniversityCourseCatalogs</a></li>
-<li><a href = "../collections/JClaytonTullisUtahStateCapitolCollection.php">JClaytonTullisUtahStateCapitolCollection</a></li>
-<li><a href = "../collections/HarryBolamSaltairPhotographs.php">HarryBolamSaltairPhotographs</a></li>
-<li><a href = "../collections/UtahTechnicalCollegeWomen'sAssociationScrapbooks.php">UtahTechnicalCollegeWomen'sAssociationScrapbooks</a></li>
-<li><a href = "../collections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">TellingOurStoryAnOralHistoryofUtahValleyUniversity</a></li>
+<li><a href = "../collections/UtahValleyUniversityDepartmentalPublications.php">Utah Valley University Departmental Publications</a></li>
+<li><a href = "../collections/UtahValleyUniversityFacultyCollection.php">Utah Valley University Faculty Collection</a></li>
+<li><a href = "../collections/UtahValleyUniversityLibraryCollection.php">Utah Valley University Library Collection</a></li>
+<li><a href = "../collections/WilsonWSorensenCollectionofHistoricalPhotographsofUtahValleyUniversity.php">Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University</a></li>
+<li><a href = "../collections/UtahTechnicalCollegeYearbooks.php">Utah Technical College Yearbooks</a></li>
+<li><a href = "../collections/UtahPeaceActivistsOralHistory.php">Utah Peace Activists Oral History</a></li>
+<li><a href = "../collections/BarryMaxfieldRailroadPhotographs.php">Barry Maxfield Railroad Photographs</a></li>
+<li><a href = "../collections/VietnamEraOralHistoryProject.php">Vietnam Era Oral History Project</a></li>
+<li><a href = "../collections/UtahFireServiceHistoryDigitalArchive.php">Utah Fire Service History Digital Archive</a></li>
+<li><a href = "../collections/WomensWalkHonoringtheWomenofUtah.php">Women's Walk: Honoring the Women of Utah</a></li>
+<li><a href = "../collections/UtahValleyUniversityStudentNewspapers.php">Utah Valley University Student Newspapers</a></li>
+<li><a href = "../collections/PioneersInYourAtticfromUtahValleyUniversity.php">Pioneers In Your Attic from Utah Valley University</a></li>
+<li><a href = "../collections/VeteransofIraqandAfghanistanOralHistoryCollection.php">Veterans of Iraq and Afghanistan Oral History Collection</a></li>
+<li><a href = "../collections/UtahValleyUniversityCourseCatalogs.php">Utah Valley University Course Catalogs</a></li>
+<li><a href = "../collections/JClaytonTullisUtahStateCapitolCollection.php">J. Clayton Tullis Utah State Capitol Collection</a></li>
+<li><a href = "../collections/HarryBolamSaltairPhotographs.php">Harry Bolam Saltair Photographs</a></li>
+<li><a href = "../collections/UtahTechnicalCollegeWomensAssociationScrapbooks.php">Utah Technical College Women's Association Scrapbooks</a></li>
+<li><a href = "../collections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">Telling Our Story: An Oral History of Utah Valley University</a></li>
+<li><a href = "../collections/RootsofKnowledgeBehindtheScenes.php">Roots of Knowledge: Behind the Scenes</a></li>
+<li><a href = "../collections/MapletonUtahHistoricalPhotographs.php">Mapleton, Utah Historical Photographs</a></li>
+<li><a href = "../collections/VonDelChamberlainCulturalAstronomyCollection.php">Von Del Chamberlain Cultural Astronomy Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

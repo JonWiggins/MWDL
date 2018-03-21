@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Utah Valley University - Woodbury Art Museum</h3>
 <!-- Website Link -->
-<h6>http://www.uvu.edu/museum/</h6>
+<h6><a href="http://www.uvu.edu/museum/">Utah Valley University - Woodbury Art Museum Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,9 +32,10 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+-+Woodbury+Art+Museum">Browse all records from Utah Valley University - Woodbury Art Museum</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/HalWingPhotographyCollection.php">HalWingPhotographyCollection</a></li>
-<li><a href = "../collections/ClowardCollectionofWesternAmericanArt.php">ClowardCollectionofWesternAmericanArt</a></li>
-<li><a href = "../collections/MalanandLindaJacksonCollectionofMongolianArt.php">MalanandLindaJacksonCollectionofMongolianArt</a></li>
+<li><a href = "../collections/HalWingPhotographyCollection.php">Hal Wing Photography Collection</a></li>
+<li><a href = "../collections/ClowardCollectionofWesternAmericanArt.php">Cloward Collection of Western American Art</a></li>
+<li><a href = "../collections/MalanandLindaJacksonCollectionofMongolianArt.php">Malan and Linda Jackson Collection of Mongolian Art</a></li>
+<li><a href = "../collections/WoodburyArtMuseumPermanentCollection.php">Woodbury Art Museum Permanent Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

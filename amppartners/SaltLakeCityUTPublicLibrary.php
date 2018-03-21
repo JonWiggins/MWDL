@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Salt Lake City (UT) Public Library</h3>
 <!-- Partner Website -->
-<h6>http://www.slcpl.lib.ut.us/</h6>
+<h6><a href="http://www.slcpl.lib.ut.us/">Salt Lake City (UT) Public Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner353.jpg alt="" width="" height="" layout = "responsive"></amp-img>

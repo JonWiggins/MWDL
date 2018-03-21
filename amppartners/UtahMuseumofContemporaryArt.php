@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah Museum of Contemporary Art</h3>
 <!-- Partner Website -->
-<h6>http://www.utahmoca.org</h6>
+<h6><a href="http://www.utahmoca.org">Utah Museum of Contemporary Art Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner344.jpg alt="" width="300" height="" layout = "responsive"></amp-img>

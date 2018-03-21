@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Westminster College - Giovale Library</h3>
 <!-- Partner Website -->
-<h6>http://westminstercollege.edu/library/#page=catalog</h6>
+<h6><a href="http://westminstercollege.edu/library/#page=catalog">Westminster College - Giovale Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner122.jpg alt="" width="381" height="207" layout = "responsive"></amp-img>

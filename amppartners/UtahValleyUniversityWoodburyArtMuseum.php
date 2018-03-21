@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah Valley University - Woodbury Art Museum</h3>
 <!-- Partner Website -->
-<h6>http://www.uvu.edu/museum/</h6>
+<h6><a href="http://www.uvu.edu/museum/">Utah Valley University - Woodbury Art Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner331.jpg alt="" width="306" height="165" layout = "responsive"></amp-img>
@@ -31,4 +31,5 @@
 <li><a href = "../ampcollections/HalWingPhotographyCollection.php">HalWingPhotographyCollection</a></li>
 <li><a href = "../ampcollections/ClowardCollectionofWesternAmericanArt.php">ClowardCollectionofWesternAmericanArt</a></li>
 <li><a href = "../ampcollections/MalanandLindaJacksonCollectionofMongolianArt.php">MalanandLindaJacksonCollectionofMongolianArt</a></li>
+<li><a href = "../ampcollections/WoodburyArtMuseumPermanentCollection.php">WoodburyArtMuseumPermanentCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

@@ -16,16 +16,13 @@ import java.util.Scanner;
  * Though some just spit out info about the data.
  * Documented on the basis of this method names.
  * Most follow the general outline of running through each row in the partner and collection data files
- *  and adding each row that meats a certain condition to an arraylist.
+ * and adding each row that meats a certain condition to an ArrayList.
  *
  * @author Jonathan Wiggins
  * @version 6/28/17
  */
 
-
 public class DataFetcher {
-
-
 
     public static Collection fetchCollection(int collectionNumber) throws FileNotFoundException {
         Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
@@ -68,7 +65,7 @@ public class DataFetcher {
                     return new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, n.next(), n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next());
                 }
             } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
+                //System.err.println("DataFetcher Error: NoSuchElementException at fetchFromTitle");
             }
         }
         return null;
@@ -90,10 +87,10 @@ public class DataFetcher {
                 String publisher = n.next();
 
                 if (publisher.contains(String.valueOf(partner))) {
-                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, publisher,n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
+                    list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, cTitle, publisher, n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
                 }
             } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
+                System.err.println("DataFetcher Error: NoSuchElementException at getAllActiveCollectionsFromPartner");
             }
         }
         return list;
@@ -105,13 +102,13 @@ public class DataFetcher {
         Scanner collectionData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
         while (collectionData.hasNextLine()) {
 
-            Scanner currentLine = new Scanner(collectionData.nextLine().replace("%newline%","\n").replace("%return%","\r")).useDelimiter(",");
+            Scanner currentLine = new Scanner(collectionData.nextLine().replace("%newline%", "\n").replace("%return%", "\r")).useDelimiter(",");
             //Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Width, Image Description
             String count = getNextElement(currentLine);
             boolean isActive = Boolean.valueOf(getNextElement(currentLine));
             if (isActive) {
                 String note = getNextElement(currentLine);
-                if(note == null) note = " ";
+                if (note == null) note = " ";
                 String title = getNextElement(currentLine);
                 String pub = getNextElement(currentLine);
                 String text = getNextElement(currentLine);
@@ -119,23 +116,19 @@ public class DataFetcher {
                 String imgH = getNextElement(currentLine);
                 String imgW = getNextElement(currentLine);
                 String des = getNextElement(currentLine);
-                if(imgH.equals(""))
+                if (imgH.equals(""))
                     imgH = "250";
-                if(imgW.equals(""))
+                if (imgW.equals(""))
                     imgW = "250";
                 Collection toAdd = new Collection(Integer.parseInt(count), isActive, note, title, pub, text, img, Integer.parseInt(imgH), Integer.parseInt(imgW), des);
 
-                if(pub.contains(name))
+                if (pub.contains(name))
                     toReturn.add(toAdd);
-                System.out.println("Successfully Read Collection: " + toAdd.title);
             }
-            else
-                System.out.println("Skipping collection " + count +" as it is inactive");
 
         }
         return toReturn;
     }
-
 
 
     public static ArrayList<Collection> getAllActiveCollections() throws FileNotFoundException {
@@ -151,34 +144,45 @@ public class DataFetcher {
                     list.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), Integer.valueOf(n.next()), Integer.valueOf(n.next()), n.next()));
                 }
             } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
+                System.err.println("DataFetcher Error: NoSuchElementException at getAllActiveCollections");
             }
         }
         return list;
     }
-
 
 
     public static ArrayList<PartnerPage> getAllActivePartners() throws FileNotFoundException {
         ArrayList<PartnerPage> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
-        while (partnerData.hasNext()) {
-            try {
-                String currentDataLine = partnerData.next();
-                Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-                String currentDataNumber = n.next();
-                String isActive = n.next();
-                if (Boolean.valueOf(isActive)) {
-                    list.add(new PartnerPage(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next()));
+        Scanner partnerData = new Scanner(new File("newPartnerData.csv"));
+
+        partnerData.next(); //skip title line
+
+        while (partnerData.hasNextLine()) {
+
+            String currentDataLine = partnerData.nextLine();
+            Scanner currentLine = new Scanner(currentDataLine).useDelimiter(",");
+            String currentDataNumber = currentLine.next();
+            String isActive = currentLine.next();
+            if (Boolean.valueOf(isActive)) {
+                String note = currentLine.next();
+                String name = currentLine.next();
+                String link = currentLine.next();
+                String text = currentLine.next();
+                String imgName = currentLine.next();
+                String imgH = currentLine.next();
+                String imgW = currentLine.next();
+                String imgDes;
+                try {
+                    imgDes = currentLine.next();
+                } catch (NoSuchElementException e) {
+                    imgDes = "";
                 }
-            } catch (NoSuchElementException e) {
-                System.err.print("Error: Check DataFetcher");
+                list.add(new PartnerPage(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, name, link, text, imgName, imgH, imgW, imgDes));
             }
+
         }
         return list;
     }
-
-
 
     public static ArrayList<Integer> getInactiveCollectionsNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
@@ -193,14 +197,12 @@ public class DataFetcher {
                     list.add(Integer.valueOf(currentDataNumber));
                 }
             } catch (NoSuchElementException | NumberFormatException e) {
-                System.err.print("Error: Check DataFetcher");
+                System.err.println("DataFetcher Error: NoSuchElementException at getInactiveCollectionsNumbers ");
             }
 
         }
         return list;
     }
-
-
 
     public static ArrayList<Integer> getInactivePartnerNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
@@ -222,9 +224,6 @@ public class DataFetcher {
         return list;
     }
 
-
-
-
     public static ArrayList<String> getInactiveCollectionLines() throws FileNotFoundException {
         ArrayList<String> toReturn = new ArrayList<>();
         Scanner collections = new Scanner(new File("newCollectionData.csv"));
@@ -245,15 +244,15 @@ public class DataFetcher {
     }
 
 
-    public static ArrayList<Collection> createCollectionsFromLines(ArrayList<String> dataLines){
+    public static ArrayList<Collection> createCollectionsFromLines(ArrayList<String> dataLines) {
         ArrayList<Collection> toReturn = new ArrayList<>();
-        for(String s : dataLines){
+        for (String s : dataLines) {
             try {
                 Scanner line = new Scanner(s).useDelimiter(",");
                 String currentDataNumber = line.next();
                 String isActive = line.next();
                 toReturn.add(new Collection(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), line.next(), line.next(), line.next(), line.next(), line.next(), Integer.valueOf(line.next()), Integer.valueOf(line.next()), line.next()));
-            }catch (NoSuchElementException e){
+            } catch (NoSuchElementException e) {
                 continue; // for clean
             }
         }

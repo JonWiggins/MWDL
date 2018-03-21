@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Idaho Commission for Libraries</h3>
 <!-- Website Link -->
-<h6>http://libraries.idaho.gov/</h6>
+<h6><a href="http://libraries.idaho.gov/">Idaho Commission for Libraries Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -33,9 +33,9 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Idaho+Commission+for+Libraries">Browse all records from Idaho Commission for Libraries</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/StacksIdaho'sDigitalRepositoryAdditionalStateAgencies.php">StacksIdaho'sDigitalRepositoryAdditionalStateAgencies</a></li>
-<li><a href = "../collections/StacksIdaho'sDigitalRepositoryIdahoDepartmentofAdministration.php">StacksIdaho'sDigitalRepositoryIdahoDepartmentofAdministration</a></li>
-<li><a href = "../collections/StacksIdaho'sDigitalRepositoryIdahoDepartmentofFishandGame.php">StacksIdaho'sDigitalRepositoryIdahoDepartmentofFishandGame</a></li>
+<li><a href = "../collections/StacksIdahosDigitalRepositoryAdditionalStateAgencies.php">Stacks: Idaho's Digital Repository - Additional State Agencies</a></li>
+<li><a href = "../collections/StacksIdahosDigitalRepositoryIdahoDepartmentofAdministration.php">Stacks: Idaho's Digital Repository - Idaho Department of Administration</a></li>
+<li><a href = "../collections/StacksIdahosDigitalRepositoryIdahoDepartmentofFishandGame.php">Stacks: Idaho's Digital Repository - Idaho Department of Fish and Game</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

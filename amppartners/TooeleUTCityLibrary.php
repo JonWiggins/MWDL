@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Tooele (UT) City Library</h3>
 <!-- Partner Website -->
-<h6>http://www.tooelecity.org/tcl/library.html</h6>
+<h6><a href="http://www.tooelecity.org/tcl/library.html">Tooele (UT) City Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner215.jpg alt="" width="283" height="396" layout = "responsive"></amp-img>

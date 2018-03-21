@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>North Bingham County (ID) District Library</h3>
 <!-- Partner Website -->
-<h6>http://northbingham.lili.org/</h6>
+<h6><a href="http://northbingham.lili.org/">North Bingham County (ID) District Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner127.jpg alt="" width="180" height="135" layout = "responsive"></amp-img>

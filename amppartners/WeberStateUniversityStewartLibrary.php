@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Weber State University - Stewart Library</h3>
 <!-- Partner Website -->
-<h6>http://library.weber.edu/</h6>
+<h6><a href="http://library.weber.edu/">Weber State University - Stewart Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner106.jpg alt="" width="362" height="271" layout = "responsive"></amp-img>
@@ -48,7 +48,7 @@
 <li><a href = "../ampcollections/UtahConstructionCompanySpeechesbyEdmundWattisLittlefield.php">UtahConstructionCompanySpeechesbyEdmundWattisLittlefield</a></li>
 <li><a href = "../ampcollections/MarriottSlatervilleCityUTOralHistory.php">MarriottSlatervilleCityUTOralHistory</a></li>
 <li><a href = "../ampcollections/OgdenArchitectsHodgsonandPiers.php">OgdenArchitectsHodgsonandPiers</a></li>
-<li><a href = "../ampcollections/StBenedict'sSchoolofNursingOralHistoryProject.php">StBenedict'sSchoolofNursingOralHistoryProject</a></li>
+<li><a href = "../ampcollections/StBenedictsSchoolofNursingOralHistoryProject.php">StBenedictsSchoolofNursingOralHistoryProject</a></li>
 <li><a href = "../ampcollections/UtahConstructionCompanyFeatherRiverScrapbooks.php">UtahConstructionCompanyFeatherRiverScrapbooks</a></li>
 <li><a href = "../ampcollections/UtahConstructionCompanyMinutes.php">UtahConstructionCompanyMinutes</a></li>
 <li><a href = "../ampcollections/UtahConstructionCompanyMexicoProjects.php">UtahConstructionCompanyMexicoProjects</a></li>
@@ -56,15 +56,20 @@
 <li><a href = "../ampcollections/UtahInternationalGeneralElectricMergerDocuments.php">UtahInternationalGeneralElectricMergerDocuments</a></li>
 <li><a href = "../ampcollections/WeberStateHistoricalPublications.php">WeberStateHistoricalPublications</a></li>
 <li><a href = "../ampcollections/WeberStateOralHistoryProject.php">WeberStateOralHistoryProject</a></li>
-<li><a href = "../ampcollections/OgdenUTBuildingsbyStreet.php">OgdenUTBuildingsbyStreet</a></li>
+<li><a href = "../ampcollections/OgdenBuildingsbyStreet.php">OgdenBuildingsbyStreet</a></li>
 <li><a href = "../ampcollections/WeberStateWhipClubScrapbook.php">WeberStateWhipClubScrapbook</a></li>
 <li><a href = "../ampcollections/WeberandDavisCountiesCommunityOralHistoryProject.php">WeberandDavisCountiesCommunityOralHistoryProject</a></li>
 <li><a href = "../ampcollections/WeberStateStudentOralHistoryProjects.php">WeberStateStudentOralHistoryProjects</a></li>
-<li><a href = "../ampcollections/WeberStateUniversityStudentMaster'sTheses.php">WeberStateUniversityStudentMaster'sTheses</a></li>
+<li><a href = "../ampcollections/WeberStateUniversityStudentMastersTheses.php">WeberStateUniversityStudentMastersTheses</a></li>
 <li><a href = "../ampcollections/WeberStateBellTowerHistoryScrapbook.php">WeberStateBellTowerHistoryScrapbook</a></li>
 <li><a href = "../ampcollections/WeberStakeAcademyLiteraryMagazineTheAcorn19041916.php">WeberStakeAcademyLiteraryMagazineTheAcorn19041916</a></li>
 <li><a href = "../ampcollections/WeberStateCatalog1896toPresent.php">WeberStateCatalog1896toPresent</a></li>
 <li><a href = "../ampcollections/WeberStateLiteraryPublications1904to1980.php">WeberStateLiteraryPublications1904to1980</a></li>
 <li><a href = "../ampcollections/CivilianConservationCorpsCampPhotos.php">CivilianConservationCorpsCampPhotos</a></li>
 <li><a href = "../ampcollections/HistoryinYourAttic.php">HistoryinYourAttic</a></li>
+<li><a href = "../ampcollections/BenLomondHighSchoolScrapbooks.php">BenLomondHighSchoolScrapbooks</a></li>
+<li><a href = "../ampcollections/OgdenHighSchoolScrapbooks.php">OgdenHighSchoolScrapbooks</a></li>
+<li><a href = "../ampcollections/OgdenStockyardsPhotographsMemorabiliaandOralHIstories.php">OgdenStockyardsPhotographsMemorabiliaandOralHIstories</a></li>
+<li><a href = "../ampcollections/WeberCountyPolkDirectories.php">WeberCountyPolkDirectories</a></li>
+<li><a href = "../ampcollections/WeberStateHistoricalExhibits.php">WeberStateHistoricalExhibits</a></li>
 <?php include("../includes/ampfooter.php");?>

@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Utah State Library</h3>
 <!-- Partner Website -->
-<h6>http://library.utah.gov/</h6>
+<h6><a href="http://library.utah.gov/">Utah State Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner120.jpg alt="" width="383" height="233" layout = "responsive"></amp-img>

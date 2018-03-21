@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Frontier Homestead State Park (Cedar City, UT)</h3>
 <!-- Website Link -->
-<h6>http://stateparks.utah.gov/parks/frontier-homestead</h6>
+<h6><a href="http://stateparks.utah.gov/parks/frontier-homestead">Frontier Homestead State Park (Cedar City, UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Frontier+Homestead+State+Park+(Cedar+City,+UT)">Browse all records from Frontier Homestead State Park (Cedar City, UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/FrontierHomesteadStateParkCedarCityUTPhotographs.php">FrontierHomesteadStateParkCedarCityUTPhotographs</a></li>
+<li><a href = "../collections/FrontierHomesteadStateParkCedarCityUTPhotographs.php">Frontier Homestead State Park (Cedar City, UT) Photographs</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

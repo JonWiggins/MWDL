@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>University of Utah - College of Architecture and Planning</h3>
 <!-- Website Link -->
-<h6>http://www.arch.utah.edu/</h6>
+<h6><a href="http://www.arch.utah.edu/">University of Utah - College of Architecture and Planning Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>

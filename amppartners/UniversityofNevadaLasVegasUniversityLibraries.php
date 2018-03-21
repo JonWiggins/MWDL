@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>University of Nevada, Las Vegas, University Libraries</h3>
 <!-- Partner Website -->
-<h6>http://digital.library.unlv.edu/</h6>
+<h6><a href="http://digital.library.unlv.edu/">University of Nevada, Las Vegas, University Libraries Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner104.jpg alt="" width="371" height="212" layout = "responsive"></amp-img>
@@ -32,7 +32,7 @@
 <li><a href = "../ampcollections/SouthernNevadaandLasVegasHistoryinMaps.php">SouthernNevadaandLasVegasHistoryinMaps</a></li>
 <li><a href = "../ampcollections/LasVegasandWaterintheWest.php">LasVegasandWaterintheWest</a></li>
 <li><a href = "../ampcollections/NevadaTestSiteOralHistoryProject.php">NevadaTestSiteOralHistoryProject</a></li>
-<li><a href = "../ampcollections/WelcomeHomeHoward!HowardHughesPhotographCollection.php">WelcomeHomeHoward!HowardHughesPhotographCollection</a></li>
+<li><a href = "../ampcollections/WelcomeHomeHowardHowardHughesPhotographCollection.php">WelcomeHomeHowardHowardHughesPhotographCollection</a></li>
 <li><a href = "../ampcollections/SouthernNevadaBoomtownYears.php">SouthernNevadaBoomtownYears</a></li>
 <li><a href = "../ampcollections/MenusTheArtofDining.php">MenusTheArtofDining</a></li>
 <li><a href = "../ampcollections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment</a></li>

@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Green River (UT)</h3>
 <!-- Website Link -->
-<h6>http://content.lib.utah.edu/cdm4/az_details.php?id=51</h6>
+<h6><a href="http://content.lib.utah.edu/cdm4/az_details.php?id=51">Green River (UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,8 +32,8 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Green+River+(UT)">Browse all records from Green River (UT)</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/GreenRiverLaunchComplexUSAirForce.php">GreenRiverLaunchComplexUSAirForce</a></li>
-<li><a href = "../collections/PearlBiddlecombBakerCollection.php">PearlBiddlecombBakerCollection</a></li>
+<li><a href = "../collections/GreenRiverLaunchComplexUSAirForce.php">Green River Launch Complex, U.S. Air Force</a></li>
+<li><a href = "../collections/PearlBiddlecombBakerCollection.php">Pearl Biddlecomb Baker Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

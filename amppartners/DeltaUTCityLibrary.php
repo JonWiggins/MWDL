@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Delta (UT) City Library</h3>
 <!-- Partner Website -->
-<h6>http://stacksntracks.lib.ut.us/Delta%20City%20Library.htm</h6>
+<h6><a href="http://stacksntracks.lib.ut.us/Delta%20City%20Library.htm">Delta (UT) City Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner109.jpg alt="" width="386" height="193" layout = "responsive"></amp-img>

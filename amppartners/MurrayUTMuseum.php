@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Murray (UT) Museum</h3>
 <!-- Partner Website -->
-<h6>http://www.point1.us/T_UT_Murray_Museum/Index_MurrayMuseumTour.html</h6>
+<h6><a href="http://www.point1.us/T_UT_Murray_Museum/Index_MurrayMuseumTour.html">Murray (UT) Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner112.jpg alt="" width="379" height="232" layout = "responsive"></amp-img>

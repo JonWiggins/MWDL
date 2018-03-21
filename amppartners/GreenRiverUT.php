@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Green River (UT)</h3>
 <!-- Partner Website -->
-<h6>http://content.lib.utah.edu/cdm4/az_details.php?id=51</h6>
+<h6><a href="http://content.lib.utah.edu/cdm4/az_details.php?id=51">Green River (UT) Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner126.jpg alt="" width="325" height="224" layout = "responsive"></amp-img>

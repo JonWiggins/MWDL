@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>University of Utah - Utah Museum of Fine Arts</h3>
 <!-- Partner Website -->
-<h6>http://umfa.utah.edu/</h6>
+<h6><a href="http://umfa.utah.edu/">University of Utah - Utah Museum of Fine Arts Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner118.jpg alt="" width="259" height="194" layout = "responsive"></amp-img>

@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Morgan County (UT) Historical Society and Morgan County (UT) Public Library</h3>
 <!-- Partner Website -->
-<h6>http://www.morganhistoricalsociety.com/</h6>
+<h6><a href="http://www.morganhistoricalsociety.com/">Morgan County (UT) Historical Society and Morgan County (UT) Public Library Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner356.jpg alt="" width="250" height="" layout = "responsive"></amp-img>
@@ -29,5 +29,5 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Morgan+County+(UT)+Historical+Society+and+Morgan+County+(UT)+Public+Library">Browse all records from Morgan County (UT) Historical Society and Morgan County (UT) Public Library</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/ComoSpringsUTResort.php">ComoSpringsUTResort</a></li>
+<li><a href = "../ampcollections/MorganCountyHistoricalSocietyComoSpringsResort.php">MorganCountyHistoricalSocietyComoSpringsResort</a></li>
 <?php include("../includes/ampfooter.php");?>

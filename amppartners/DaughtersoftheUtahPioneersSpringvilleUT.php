@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Daughters of the Utah Pioneers, Springville (UT)</h3>
 <!-- Partner Website -->
-<h6>http://www.springvillepioneermuseum.org/</h6>
+<h6><a href="http://www.springvillepioneermuseum.org/">Daughters of the Utah Pioneers, Springville (UT) Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner201.jpg alt="" width="337" height="250" layout = "responsive"></amp-img>

@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>U.S. Forest Service, Dixie National Forest</h3>
 <!-- Partner Website -->
-<h6>http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110407&amp;navtype=BROWSEBYSUBJECT&amp;cid=FSE_003853&amp;navid=091000000000000&amp;pnavid=null&amp;position=BROWSEBYSUBJECT&amp;ttype=main&amp;pname=Dixie%20National%20Forest-%20Home/index.shtml</h6>
+<h6><a href="http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110407&amp;navtype=BROWSEBYSUBJECT&amp;cid=FSE_003853&amp;navid=091000000000000&amp;pnavid=null&amp;position=BROWSEBYSUBJECT&amp;ttype=main&amp;pname=Dixie%20National%20Forest-%20Home/index.shtml">U.S. Forest Service, Dixie National Forest Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner129.jpg alt="" width="356" height="233" layout = "responsive"></amp-img>

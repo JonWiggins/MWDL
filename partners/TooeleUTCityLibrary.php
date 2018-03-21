@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Tooele (UT) City Library</h3>
 <!-- Website Link -->
-<h6>http://www.tooelecity.org/tcl/library.html</h6>
+<h6><a href="http://www.tooelecity.org/tcl/library.html">Tooele (UT) City Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,7 +32,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Tooele+(UT)+City+Library">Browse all records from Tooele (UT) City Library</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/TooeleCountyUTHistories.php">TooeleCountyUTHistories</a></li>
+<li><a href = "../collections/TooeleCountyUTHistories.php">Tooele County (UT) Histories</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

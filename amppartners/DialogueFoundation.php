@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Dialogue Foundation</h3>
 <!-- Partner Website -->
-<h6>http://dialoguejournal.com/</h6>
+<h6><a href="http://dialoguejournal.com/">Dialogue Foundation Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner125.jpg alt="Journal of Mormom Thought" width="316" height="76" layout = "responsive"></amp-img>

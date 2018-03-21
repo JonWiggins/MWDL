@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Salt Lake Community College Libraries</h3>
 <!-- Website Link -->
-<h6>http://libweb.slcc.edu/</h6>
+<h6><a href="http://libweb.slcc.edu/">Salt Lake Community College Libraries Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -32,11 +32,11 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Salt+Lake+Community+College+Libraries">Browse all records from Salt Lake Community College Libraries</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/SaltLakeCommunityCollegePhotographArchives.php">SaltLakeCommunityCollegePhotographArchives</a></li>
-<li><a href = "../collections/SaltLakeCommunityCollegeScholarlyandCreativeWorks.php">SaltLakeCommunityCollegeScholarlyandCreativeWorks</a></li>
-<li><a href = "../collections/SaltLakeCommunityCollegeStudentNewspapers.php">SaltLakeCommunityCollegeStudentNewspapers</a></li>
-<li><a href = "../collections/SaltLakeCommunityCollegeCulinaryArtsProgramArchives.php">SaltLakeCommunityCollegeCulinaryArtsProgramArchives</a></li>
-<li><a href = "../collections/SaltLakeCommunityCollegeAudiovisualArchives.php">SaltLakeCommunityCollegeAudiovisualArchives</a></li>
+<li><a href = "../collections/SaltLakeCommunityCollegePhotographArchives.php">Salt Lake Community College Photograph Archives</a></li>
+<li><a href = "../collections/SaltLakeCommunityCollegeScholarlyandCreativeWorks.php">Salt Lake Community College Scholarly and Creative Works</a></li>
+<li><a href = "../collections/SaltLakeCommunityCollegeStudentNewspapers.php">Salt Lake Community College Student Newspapers</a></li>
+<li><a href = "../collections/SaltLakeCommunityCollegeCulinaryArtsProgramArchives.php">Salt Lake Community College Culinary Arts Program Archives</a></li>
+<li><a href = "../collections/SaltLakeCommunityCollegeAudiovisualArchives.php">Salt Lake Community College Audiovisual Archives</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

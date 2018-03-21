@@ -21,7 +21,7 @@
 <!-- Partner Name -->
 <h3>Emery County (UT) Archives</h3>
 <!-- Website Link -->
-<h6>http://www.emerycounty.com/archives/index.htm</h6>
+<h6><a href="http://www.emerycounty.com/archives/index.htm">Emery County (UT) Archives Website </a></h6>
 <p></p>
 <!-- Article Text -->
 <p>
@@ -31,8 +31,8 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Emery+County+(UT)+Archives">Browse all records from Emery County (UT) Archives</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/EmeryCountyUTHistoryPhotographs.php">EmeryCountyUTHistoryPhotographs</a></li>
-<li><a href = "../collections/DwellingsintheBosomofEmeryCountyUT.php">DwellingsintheBosomofEmeryCountyUT</a></li>
+<li><a href = "../collections/EmeryCountyUTHistoryPhotographs.php">Emery County (UT) History Photographs</a></li>
+<li><a href = "../collections/DwellingsintheBosomofEmeryCountyUT.php">Dwellings in the Bosom of Emery County (UT)</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

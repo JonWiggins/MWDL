@@ -9,7 +9,7 @@
 <!-- Partner Title -->
 <h3>Salt Lake Community College Libraries</h3>
 <!-- Partner Website -->
-<h6>http://libweb.slcc.edu/</h6>
+<h6><a href="http://libweb.slcc.edu/">Salt Lake Community College Libraries Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/partner_images/partner131.jpg alt="" width="383" height="237" layout = "responsive"></amp-img>
