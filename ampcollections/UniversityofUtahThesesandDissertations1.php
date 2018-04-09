@@ -20,7 +20,7 @@ University of Utah Theses and Dissertations 2
 </p>
 This collection is #1 of 3 collections. For the rest of the items, see <a href="UniversityofUtahThesesandDissertations2.php">University of Utah Theses and Dissertations 2</a> or <a href="UniversityofUtahThesesandDissertations3.php">University of Utah Theses and Dissertations 3</a></p>
 The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p>
- <a href="http://content.lib.utah.edu/cdm/ref/collection/etd1/id/1427" target="_blank">Effect of polymeric underplates on fracture fixation<br> </a>University of Utah</p>
+ <a href="http://collections.lib.utah.edu/cdm/ref/collection/etd1/id/1427" target="_blank">Effect of polymeric underplates on fracture fixation<br> </a>University of Utah</p>
 </p>
 <hr>
 <!-- Browse Collection -->

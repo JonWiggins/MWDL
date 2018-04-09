@@ -37,7 +37,7 @@
 <!-- Collection Title-->
 <h4>Dixie National Forest (UT) Photographs</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/USForestService,DixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
+<h6> Published by <a href="../partners/USForestServiceDixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
  
 <!-- Collection Description -->
 <p></p>

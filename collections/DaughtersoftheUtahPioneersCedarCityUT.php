@@ -37,7 +37,7 @@
 <!-- Collection Title-->
 <h4>Daughters of the Utah Pioneers, Cedar City (UT)</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers,CedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></h6>
  
 <!-- Collection Description -->
 <p></p>

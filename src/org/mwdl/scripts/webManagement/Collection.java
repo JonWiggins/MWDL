@@ -43,7 +43,8 @@ public class Collection {
                 .replace(".","")
                 .replace("-","")
                 .replace("(","")
-                .replace(")","");
+                .replace(")","")
+                .replace(",","");
 
         this.urlTitle = title
                 //pretty sure these ones aren't even needed tbh

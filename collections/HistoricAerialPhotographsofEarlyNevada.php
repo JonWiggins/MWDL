@@ -37,7 +37,7 @@ One of a series of aerial photos taken in 1938-39 for a forest and soil survey.
 <!-- Collection Title-->
 <h4>Historic Aerial Photographs of Early Nevada</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 <p></p>

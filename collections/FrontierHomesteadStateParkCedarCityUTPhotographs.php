@@ -37,7 +37,7 @@
 <!-- Collection Title-->
 <h4>Frontier Homestead State Park (Cedar City, UT) Photographs</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/FrontierHomesteadStateParkCedarCity,UT.php">Frontier Homestead State Park (Cedar City, UT)</a></h6>
+<h6> Published by <a href="../partners/FrontierHomesteadStateParkCedarCityUT.php">Frontier Homestead State Park (Cedar City, UT)</a></h6>
  
 <!-- Collection Description -->
 <p></p>

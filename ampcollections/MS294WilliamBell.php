@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 294 William Bell</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Poem written in the form of a letter by John Wallace "Captain Jack" Crawford to Leonard Cody Bell</em>"width="250" height ="250"  layout = "responsive"></amp-img>

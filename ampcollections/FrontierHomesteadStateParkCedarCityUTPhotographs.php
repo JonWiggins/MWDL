@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Frontier Homestead State Park (Cedar City, UT) Photographs</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/FrontierHomesteadStateParkCedarCity,UT.php">Frontier Homestead State Park (Cedar City, UT)</a></h6>
+<h6> Published by <a href="../partners/FrontierHomesteadStateParkCedarCityUT.php">Frontier Homestead State Park (Cedar City, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt=" Road east of Kanab"width="249" height ="366"  layout = "responsive"></amp-img>

@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Daughters of the Utah Pioneers, Cedar City (UT)</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers,CedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt=" Ada Wood Webster"width="220" height ="310"  layout = "responsive"></amp-img>

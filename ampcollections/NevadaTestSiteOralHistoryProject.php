@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Nevada Test Site Oral History Project</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Interview with Patricia George and Virginia Sanchez "width="272" height ="353"  layout = "responsive"></amp-img>

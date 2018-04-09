@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Hearing on Wild Free-Roaming Horses and Burros Act "width="292" height ="474"  layout = "responsive"></amp-img>

@@ -37,7 +37,7 @@ Utah Railway Company Semi-Monthly Time Book
 <!-- Collection Title-->
 <h4>Bryner Pioneer Museum, Price (UT)</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BrynerPioneerMuseumPrice,UT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
+<h6> Published by <a href="../partners/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
  
 <!-- Collection Description -->
 </p>

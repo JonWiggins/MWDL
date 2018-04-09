@@ -75,6 +75,7 @@
 <li><a href = "../collections/OgdenHighSchoolScrapbooks.php">Ogden High School Scrapbooks</a></li>
 <li><a href = "../collections/OgdenStockyardsPhotographsMemorabiliaandOralHIstories.php">Ogden Stockyards Photographs, Memorabilia and Oral HIstories</a></li>
 <li><a href = "../collections/WeberCountyPolkDirectories.php">Weber County Polk Directories</a></li>
+<li><a href = "../collections/HarrisvilleCityVirtualHistoryMuseum.php">Harrisville City Virtual History Museum</a></li>
 <li><a href = "../collections/WeberStateHistoricalExhibits.php">Weber State Historical Exhibits</a></li>
 </div>
 </div>

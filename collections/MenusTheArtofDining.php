@@ -37,7 +37,7 @@ The Fountain House, menu, pages 2-3
 <!-- Collection Title-->
 <h4>Menus: The Art of Dining</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p>

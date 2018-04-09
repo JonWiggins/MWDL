@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>MS 166 - William F. Cody Divorce Proceedings</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Deposition of Louisa Cody 1905 </em>"width="375" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Transcript of proceedings at the trial 1"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Deposition of Louisa Cody 1905 </em>
+Transcript of proceedings at the trial 1
 <!-- Article Text -->
-</p>
-Divorce proceedings and court records of Willam F. Cody</p>
-
+Legal documents from 1904-05 regarding the divorce of William F. Cody.
 <hr>
 <!-- Browse Collection -->
 <h6>

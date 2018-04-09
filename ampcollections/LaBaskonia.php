@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>La Baskonia</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="La Baskonia 1907 -- Issue no. 478 "width="281" height ="366"  layout = "responsive"></amp-img>

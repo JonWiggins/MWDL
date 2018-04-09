@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 247 Fred R. Meyer Photographs</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Native American girl on horse. Wagon on right</em>"width="250" height ="300"  layout = "responsive"></amp-img>

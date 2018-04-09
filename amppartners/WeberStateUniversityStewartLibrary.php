@@ -71,5 +71,6 @@
 <li><a href = "../ampcollections/OgdenHighSchoolScrapbooks.php">OgdenHighSchoolScrapbooks</a></li>
 <li><a href = "../ampcollections/OgdenStockyardsPhotographsMemorabiliaandOralHIstories.php">OgdenStockyardsPhotographsMemorabiliaandOralHIstories</a></li>
 <li><a href = "../ampcollections/WeberCountyPolkDirectories.php">WeberCountyPolkDirectories</a></li>
+<li><a href = "../ampcollections/HarrisvilleCityVirtualHistoryMuseum.php">HarrisvilleCityVirtualHistoryMuseum</a></li>
 <li><a href = "../ampcollections/WeberStateHistoricalExhibits.php">WeberStateHistoricalExhibits</a></li>
 <?php include("../includes/ampfooter.php");?>

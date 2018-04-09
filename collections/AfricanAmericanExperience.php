@@ -37,7 +37,7 @@ Film negatives of a talent show winner at the Carver House, April 4, 1962
 <!-- Collection Title-->
 <h4>African American Experience</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p>

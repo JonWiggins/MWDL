@@ -1,7 +1,7 @@
 package org.mwdl.scripts.webManagement;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
+//import org.jsoup.Jsoup;
+//import org.jsoup.nodes.Document;
 import org.mwdl.scripts.data.DataFetcher;
 
 import java.io.IOException;
@@ -25,7 +25,7 @@ public class FeatureUpdater {
 
         try {
 
-            Document doc = Jsoup.connect(homePageURL).get();
+            //Document doc = Jsoup.connect(homePageURL).get();
 
             //select collection
 

@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Maya Miller Papers</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada,Reno,UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>"width="409" height ="250"  layout = "responsive"></amp-img>

@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Daughters of the Utah Pioneers, Springville (UT)</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers,SpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Motto ""He Leadeth Me"" "width="369" height ="239"  layout = "responsive"></amp-img>

@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Bryner Pioneer Museum, Price (UT)</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BrynerPioneerMuseumPrice,UT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
+<h6> Published by <a href="../partners/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Utah Railway Company Semi-Monthly Time Book "width="262" height ="420"  layout = "responsive"></amp-img>

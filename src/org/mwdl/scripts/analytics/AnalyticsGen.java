@@ -171,7 +171,7 @@ public class AnalyticsGen {
         return null;
     }
 
-    
+
 
     public static int analyticsNumberExtractor(String line) throws NumberFormatException {
         Scanner r = new Scanner(line).useDelimiter(",");

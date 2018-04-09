@@ -37,7 +37,7 @@ Maps of flood-prone areas in Las Vegas
 <!-- Collection Title-->
 <h4>Southern Nevada and Las Vegas History in Maps</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p>

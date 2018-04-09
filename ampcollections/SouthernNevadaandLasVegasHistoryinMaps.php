@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Southern Nevada and Las Vegas History in Maps</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Maps of flood-prone areas in Las Vegas "width="287" height ="342"  layout = "responsive"></amp-img>

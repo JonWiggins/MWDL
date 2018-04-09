@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Topaz Museum Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/TopazMuseumDelta,UT.php">Topaz Museum (Delta, UT)</a></h6>
+<h6> Published by <a href="../partners/TopazMuseumDeltaUT.php">Topaz Museum (Delta, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Students signing 1945 yearbooks "width="369" height ="251"  layout = "responsive"></amp-img>

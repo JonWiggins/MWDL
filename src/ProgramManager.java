@@ -44,12 +44,12 @@ public class ProgramManager {
 
             String command = s.next();
             if (command.equals("1")) {
-                CollectionMaker.main(args);
+                //CollectionMaker.main(args);
             } else if (command.equals("2")) {
-                PartnerMaker.main(args);
+                //PartnerMaker.main(args);
             } else if (command.equals("3")) {
-                CollectionMaker.main(args);
-                PartnerMaker.main(args);
+                //CollectionMaker.main(args);
+                //PartnerMaker.main(args);
             } else if (command.equals("4")) {
                 WriteCollectionFromCSV.main(args);
             } else if (command.equals("5")) {
@@ -58,8 +58,8 @@ public class ProgramManager {
                 WriteCollectionFromCSV.main(args);
                 WritePartnerFromCSV.main(args);
             } else if (command.equals("7")) {
-                CollectionMaker.main(args);
-                PartnerMaker.main(args);
+                //CollectionMaker.main(args);
+                //PartnerMaker.main(args);
                 WriteCollectionFromCSV.main(args);
                 WritePartnerFromCSV.main(args);
             } else if (command.equals("8")) {

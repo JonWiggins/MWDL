@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Dixie National Forest (UT) Photographs</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/USForestService,DixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
+<h6> Published by <a href="../partners/USForestServiceDixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt=" Events: Fires -- Oak Creek fire"width="320" height ="233"  layout = "responsive"></amp-img>

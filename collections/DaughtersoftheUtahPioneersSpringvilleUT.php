@@ -37,7 +37,7 @@ Motto ""He Leadeth Me""
 <!-- Collection Title-->
 <h4>Daughters of the Utah Pioneers, Springville (UT)</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers,SpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
  
 <!-- Collection Description -->
 </p>

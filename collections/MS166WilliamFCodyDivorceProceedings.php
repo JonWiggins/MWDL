@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2336.png" alt="<em>Deposition of Louisa Cody 1905 </em>"width="375" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2336.png" alt="Transcript of proceedings at the trial 1"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Deposition of Louisa Cody 1905 </em>
+Transcript of proceedings at the trial 1
 </div>
 <!-- Collection Title-->
 <h4>MS 166 - William F. Cody Divorce Proceedings</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Divorce proceedings and court records of Willam F. Cody</p>
-
+Legal documents from 1904-05 regarding the divorce of William F. Cody.
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -37,7 +37,7 @@ The Entrance of the Royal Nevada (Las Vegas)
 <!-- Collection Title-->
 <h4>Dreaming the Skyline: Resort Architecture and the New Urban Space</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada,LasVegas,UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p>

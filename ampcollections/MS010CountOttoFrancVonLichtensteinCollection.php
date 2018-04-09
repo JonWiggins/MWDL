@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 010 Count Otto Franc Von Lichtenstein Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWest,McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>"width="409" height ="250"  layout = "responsive"></amp-img>
