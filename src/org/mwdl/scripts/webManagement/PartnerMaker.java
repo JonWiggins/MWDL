@@ -231,7 +231,7 @@
 //                        System.err.println(note);
 //                    }
 //                    if (image == null) {
-//                        // try one more time to capture the image
+//                        // try one more TODO to capture the image
 //                        try {
 //                            image = doc.body().select("img").last().removeAttr("border").toString().replace("</a>", "");
 //

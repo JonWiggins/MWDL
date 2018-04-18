@@ -37,7 +37,7 @@ public class AnalyticsGen {
 
     public static int count;
 
-    public static HashMap<String, String> hubidtoName = new HashMap<String, String>();
+    public static HashMap<String, String> hubidtoName = new HashMap<>();
 
     public static void main(String[] args) {
         count = 0;
@@ -47,7 +47,7 @@ public class AnalyticsGen {
         //FIXME add new month here
         months.add("January");
         months.add("February");
-        //months.add("March");
+        months.add("March");
         //months.add("April");
         //months.add("May");
         //months.add("June");
@@ -133,7 +133,7 @@ public class AnalyticsGen {
                                 //FIXME update months here
                                 if(month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
                                 else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
-                                //else if (month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
+                                else if (month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
                                 else {
                                     System.err.println("Error: Month not found. It was: " + month);
                                     System.exit(0);
@@ -149,7 +149,7 @@ public class AnalyticsGen {
                             System.out.println(currentLine);
                             if (month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
                             else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
-
+                            else if(month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
                             else {
                                 System.err.println("Error: Month not found. It was: " + month);
                                 System.exit(0);
@@ -239,13 +239,14 @@ public class AnalyticsGen {
                         //FIXME update months here
                         if (month.equalsIgnoreCase("January")) collections = p.JanCollections;
                         else if (month.equalsIgnoreCase("February")) collections = p.FebCollections;
-
+                        else if(month.equalsIgnoreCase("March")) collections = p.MarchCollections;
                         else {
                             System.err.println("Error: Month not found. It was: " + month);
                             System.exit(0);
                         }
                         System.out.println(" size: " + collections.size());
-                        for(String c : collections) writer.println(c);
+                        for(String c : collections)
+                            writer.println(c);
                     }
                 }
 

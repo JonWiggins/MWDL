@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * Hold the data lines for the analytics emails for each partner
  * To use the program, comment and uncomment the lines under //FIXME tags
- *  to fit the ammount of time that you are going to generate analytics for
+ *  to fit the ammount of TODO that you are going to generate analytics for
  *
  * @author Jon Wiggins
  * @version 2/7/18
@@ -93,5 +93,13 @@ public class AnalyticsPartner {
 
     }
 
-
+    /**
+     * Given a line and a month, adds the line to the list for the given month
+     */
+    public void addLineForMonth(String line, String month){
+        //FIXME add more months here
+        if(month.equalsIgnoreCase("January")) JanCollections.add(line);
+        else if(month.equalsIgnoreCase("February")) FebCollections.add(line);
+        else if (month.equalsIgnoreCase("March")) MarchCollections.add(line);
+    }
 }

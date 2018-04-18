@@ -22,7 +22,7 @@ import java.util.regex.Pattern;
 public class CreateNewCollectionsCSV {
 
     /**
-     * This class is made to be run only a single time, it should read in the current collectionData.csv
+     * This class is made to be run only a single TODO, it should read in the current collectionData.csv
      * It should then process the data and rewrite the document in a new formate
      * the old format was
      * Collection Number,Passed Inspection,Note,Title,URL Title,Publisher,Article Text,Article Image,AMP Image Version,Image Description,Browse Link
