@@ -17,9 +17,9 @@
 <!-- Image Description -->
 <em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>
 <!-- Article Text -->
-</p>
-The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as "mere men who make mistakes and who should be willing to admit these mistakes."</p>
-
+"</p>
+The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as ""mere men who make mistakes and who should be willing to admit these mistakes.""</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

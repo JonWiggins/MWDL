@@ -40,11 +40,11 @@ University of Utah Theses and Dissertations 1
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection is #3 of 3 collections. For the rest of the items, see <a href="UniversityofUtahThesesandDissertations1.php">University of Utah Theses and Dissertations 1</a> or <a href="UniversityofUtahThesesandDissertations2.php">University of Utah Theses and Dissertations 2</a></p>
+"</p>
+This collection is #3 of 3 collections. For the rest of the items, see <a href=""UniversityofUtahThesesandDissertations1.php"">University of Utah Theses and Dissertations 1</a> or <a href=""UniversityofUtahThesesandDissertations2.php"">University of Utah Theses and Dissertations 2</a></p>
 The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p>
- <a href="http://collections.lib.utah.edu/cdm/ref/collection/etd3/id/321" target="_blank">The role of the microprocessor in the end of the Cold War<br> </a>University of Utah</p>
-</p>
+ <a href=""http://collections.lib.utah.edu/cdm/ref/collection/etd3/id/321"" target=""_blank"">The role of the microprocessor in the end of the Cold War<br> </a>University of Utah</p>
+</p>"
 <hr>
 <h6>
 <!-- Browse Link -->

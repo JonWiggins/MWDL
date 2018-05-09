@@ -34,71 +34,7 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University">Browse all records from Brigham Young University</a>
 <!-- List all Active Collections -->
-<li><a href = "../collections/BensonInstituteTheses.php">Benson Institute Theses</a></li>
-<li><a href = "../collections/TrailsofHopeOverlandBiographies18461869.php">Trails of Hope: Overland Biographies 1846-1869</a></li>
-<li><a href = "../collections/BrighamYoungUniversityIdahoCampus.php">Brigham Young University-Idaho Campus</a></li>
-<li><a href = "../collections/BrighamYoungUniversityStudies.php">Brigham Young University Studies</a></li>
-<li><a href = "../collections/CharlesRSavagePhotographs1.php">Charles R. Savage Photographs 1</a></li>
-<li><a href = "../collections/CharlesRSavagePhotographs2.php">Charles R. Savage Photographs 2</a></li>
-<li><a href = "../collections/ChildrensBookandPlayReview.php">Children's Book and Play Review</a></li>
-<li><a href = "../collections/CivilizationHamblin.php">Civilization Hamblin</a></li>
-<li><a href = "../collections/CivilizationLearningObjectCollection.php">Civilization Learning Object Collection</a></li>
-<li><a href = "../collections/TrailsofHopeOverlandDiariesandLetters18461869.php">Trails of Hope: Overland Diaries and Letters 1846-1869</a></li>
-<li><a href = "../collections/EdithIrvine.php">Edith Irvine</a></li>
-<li><a href = "../collections/EisenhowerCommuniques.php">Eisenhower Communiques</a></li>
-<li><a href = "../collections/BrighamYoungUniversityThesesandDissertations.php">Brigham Young University Theses and Dissertations</a></li>
-<li><a href = "../collections/GeorgeEdwardAndersonPhotographs.php">George Edward Anderson Photographs</a></li>
-<li><a href = "../collections/BrighamYoungUniversityHistoricalPhotographsWalterMCampCollection.php">Brigham Young University Historical Photographs: Walter M. Camp Collection</a></li>
-<li><a href = "../collections/TrailsofHopeOverlandImages18461869.php">Trails of Hope: Overland Images 1846-1869</a></li>
-<li><a href = "../collections/JournalofDiscourses.php">Journal of Discourses</a></li>
-<li><a href = "../collections/JournalofEastAsianLibraries.php">Journal of East Asian Libraries</a></li>
-<li><a href = "../collections/JournalofMicrofinance.php">Journal of Microfinance</a></li>
-<li><a href = "../collections/TrailsofHopeOverlandMaps18461869.php">Trails of Hope: Overland Maps 1846-1869</a></li>
-<li><a href = "../collections/MarcusBach.php">Marcus Bach</a></li>
-<li><a href = "../collections/MarcusBachOutreach.php">Marcus Bach Outreach</a></li>
-<li><a href = "../collections/MarriageandFamilies.php">Marriage and Families</a></li>
-<li><a href = "../collections/MormonPacificHistoricalSociety.php">Mormon Pacific Historical Society</a></li>
-<li><a href = "../collections/BrighamYoungUniversityCampusPhotographs.php">Brigham Young University Campus Photographs</a></li>
-<li><a href = "../collections/ReligiousEducation.php">Religious Education</a></li>
-<li><a href = "../collections/ReligiousEducator.php">Religious Educator</a></li>
-<li><a href = "../collections/UpperSnakeRiverValleyIdahoHistories.php">Upper Snake River Valley Idaho Histories</a></li>
-<li><a href = "../collections/TESLReporter.php">TESL Reporter</a></li>
-<li><a href = "../collections/BrighamYoungUniversityFamilyHistorian.php">Brigham Young University Family Historian</a></li>
-<li><a href = "../collections/JohnDonneSermons.php">John Donne Sermons</a></li>
-<li><a href = "../collections/TrailsofHopeOverlandTrailGuides18461869.php">Trails of Hope: Overland Trail Guides 1846-1869</a></li>
-<li><a href = "../collections/WilliamHenryJackson.php">William Henry Jackson</a></li>
-<li><a href = "../collections/BrighamYoungUniversityMastersThesesonMormonismAF.php">Brigham Young University Master's Theses on Mormonism: A-F</a></li>
-<li><a href = "../collections/BrighamYoungUniversityMastersThesesonMormonismGM.php">Brigham Young University Master's Theses on Mormonism: G-M</a></li>
-<li><a href = "../collections/BrighamYoungUniversityMastersThesesonMormonismNZ.php">Brigham Young University Master's Theses on Mormonism: N-Z</a></li>
-<li><a href = "../collections/EncyclopediaofMormonism.php">Encyclopedia of Mormonism</a></li>
-<li><a href = "../collections/ReligiousStudiesCenter.php">Religious Studies Center</a></li>
-<li><a href = "../collections/AmericanTravelersinItaly.php">American Travelers in Italy</a></li>
-<li><a href = "../collections/SyriacStudiesReferenceLibrary.php">Syriac Studies Reference Library</a></li>
-<li><a href = "../collections/MormonMissionaryDiaries.php">Mormon Missionary Diaries</a></li>
-<li><a href = "../collections/PaulRCheesmanCollection.php">Paul R. Cheesman Collection</a></li>
-<li><a href = "../collections/BrighamYoungUniversityHawaiiCollection.php">Brigham Young University-Hawaii Collection</a></li>
-<li><a href = "../collections/GeorgeBeardCollection.php">George Beard Collection</a></li>
-<li><a href = "../collections/FrankCallPhotographCollection19091911.php">Frank Call Photograph Collection, 1909-1911</a></li>
-<li><a href = "../collections/LaiePlantationandCommunityPhotoCollection18791965.php">Laie Plantation and Community Photo Collection, 1879-1965</a></li>
-<li><a href = "../collections/EdwardKBryantPhotoCollection19421945.php">Edward K. Bryant Photo Collection, 1942-1945</a></li>
-<li><a href = "../collections/ProvoUTHistoricalImages.php">Provo (UT) Historical Images</a></li>
-<li><a href = "../collections/WorldWarIIPhotographsbyJMalanHeslop.php">World War II Photographs by J. Malan Heslop</a></li>
-<li><a href = "../collections/LettersofPhilipIIKingofSpain.php">Letters of Philip II, King of Spain</a></li>
-<li><a href = "../collections/FrenchPoliticalPamphlets.php">French Political Pamphlets</a></li>
-<li><a href = "../collections/DidymusPapyri.php">Didymus Papyri</a></li>
-<li><a href = "../collections/HuntingtonBagleyPhotographCollection.php">Huntington Bagley Photograph Collection</a></li>
-<li><a href = "../collections/MarcelSchwob.php">Marcel Schwob</a></li>
-<li><a href = "../collections/LatterDaySaintsMillennialStar.php">Latter-Day Saints' Millennial Star</a></li>
-<li><a href = "../collections/BrighamYoungUniversitySpecialCollectionsMiscellaneous.php">Brigham Young University Special Collections Miscellaneous</a></li>
 <li><a href = "../collections/TheWhiteandBlue.php">The White and Blue</a></li>
-<li><a href = "../collections/DailyEnquirerProvoUT1.php">Daily Enquirer (Provo, UT) 1</a></li>
-<li><a href = "../collections/HistoryofMonacoPrimaryDocuments.php">History of Monaco: Primary Documents</a></li>
-<li><a href = "../collections/BrighamYoungUniversityFamilyHistories.php">Brigham Young University Family Histories</a></li>
-<li><a href = "../collections/BrighamYoungUniversityScholarsArchiveFolkloreProjects.php">Brigham Young University Scholar's Archive - Folklore Projects</a></li>
-<li><a href = "../collections/FruitsoftheirLabors.php">Fruits of their Labors</a></li>
-<li><a href = "../collections/EasternIdahoNewspapers.php">Eastern Idaho Newspapers</a></li>
-<li><a href = "../collections/BlackfootIDNewspapers.php">Blackfoot (ID) Newspapers</a></li>
-<li><a href = "../collections/ClarkCountyIDHistoricalPhotographs.php">Clark County (ID) Historical Photographs</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

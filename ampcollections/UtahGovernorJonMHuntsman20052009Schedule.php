@@ -17,10 +17,10 @@
 <!-- Image Description -->
 Jon Huntsman's Schedule January 2005 
 <!-- Article Text -->
-</p>
-These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only "hardcopies" released publicly.</p>
+"</p>
+These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only ""hardcopies"" released publicly.</p>
 &nbsp;</p>
-
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

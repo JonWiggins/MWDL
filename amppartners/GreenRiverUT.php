@@ -29,5 +29,4 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/GreenRiverLaunchComplexUSAirForce.php">GreenRiverLaunchComplexUSAirForce</a></li>
-<li><a href = "../ampcollections/PearlBiddlecombBakerCollection.php">PearlBiddlecombBakerCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

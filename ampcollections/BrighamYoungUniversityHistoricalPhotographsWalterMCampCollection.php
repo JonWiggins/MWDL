@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Red Cloud" "width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Red Cloud "width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-"Red Cloud" 
+Red Cloud 
 <!-- Article Text -->
 </p>
 The Walter Mason Camp digital collection includes 86 photographic images, centering on Camp's interest in the Indian Wars of North America occurring between1865 and 1890. These images, from the larger collection of 218 photographs housed in the L. Tom Perry Special Collections, are a significant contribution to further study of Native American Wars.</p>

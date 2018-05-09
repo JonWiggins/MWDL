@@ -17,9 +17,9 @@
 <!-- Image Description -->
  Music Temple Visitors Register 2 
 <!-- Article Text -->
-</p>
-A spectacular grotto in Glen Canyon of the Colorado River, Music Temple was a popular stop for parties of tourists. As early as the 1930s someone began the tradition of leaving a metal box in the grotto where travelers could write their names on notebooks and pieces of paper, many of which are a "who's who" of early river runners.</p>
-
+"</p>
+A spectacular grotto in Glen Canyon of the Colorado River, Music Temple was a popular stop for parties of tourists. As early as the 1930s someone began the tradition of leaving a metal box in the grotto where travelers could write their names on notebooks and pieces of paper, many of which are a ""who's who"" of early river runners.</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

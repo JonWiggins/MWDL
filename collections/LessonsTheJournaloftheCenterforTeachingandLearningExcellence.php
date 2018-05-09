@@ -40,9 +40,9 @@ Lessons Volume Eight Number 1 Fall 2006
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains 10 back issues of the Lessons journal, beginning in 2001. The Center for Teaching & Learning Excellence (CTLE) was established at the University of Utah in the 1992 to "be a resource for all teachers on campus, a safe place for developing or improving teaching skills and responding to new demands of classes..." Its journal, Lessons, contains articles and how-to instructions intended to enhance classroom environments.</p>
-
+"</p>
+This collection contains 10 back issues of the Lessons journal, beginning in 2001. The Center for Teaching & Learning Excellence (CTLE) was established at the University of Utah in the 1992 to ""be a resource for all teachers on campus, a safe place for developing or improving teaching skills and responding to new demands of classes..."" Its journal, Lessons, contains articles and how-to instructions intended to enhance classroom environments.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -40,9 +40,9 @@ The Salt Lake Sanitarian
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Gawande's candid book about medicine exemplifies essay writing at its best and is Utah State University 's choice for the 2007 Common Literature Experience. Created to support reading and discussion of Complications, the digital collection Practicing Medicine: A Historical Glimpse at Utah and Beyond explores three centuries of medical practice and instruction, with particular focus on Utah. These historical materials take us back to the roots of medical practice and a time when remedies consisted of such easily recognized ingredients as "earth-worms, well washed." Perhaps they will lend perspective to, and renewed appreciation for, the unpronounceable medicines and modern treatments, however imperfect, that Dr. Gawande and his colleagues apply today.</p>
-
+"</p>
+Gawande's candid book about medicine exemplifies essay writing at its best and is Utah State University 's choice for the 2007 Common Literature Experience. Created to support reading and discussion of Complications, the digital collection Practicing Medicine: A Historical Glimpse at Utah and Beyond explores three centuries of medical practice and instruction, with particular focus on Utah. These historical materials take us back to the roots of medical practice and a time when remedies consisted of such easily recognized ingredients as ""earth-worms, well washed."" Perhaps they will lend perspective to, and renewed appreciation for, the unpronounceable medicines and modern treatments, however imperfect, that Dr. Gawande and his colleagues apply today.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

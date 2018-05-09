@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" 5 sets of twins born in North Logan on "Twin Street""width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="" 5 sets of twins born in North Logan on ""Twin Street""""width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- 5 sets of twins born in North Logan on "Twin Street"
+" 5 sets of twins born in North Logan on ""Twin Street"""
 <!-- Article Text -->
 </p>
 The North Logan City Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those with an interest in places and peoples past.</p>

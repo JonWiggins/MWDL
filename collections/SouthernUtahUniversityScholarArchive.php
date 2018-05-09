@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1868.gif" alt="Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons""width="326" height="423"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1868.gif" alt=""Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons""""width="326" height="423"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons"
+"Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons"""
 </div>
 <!-- Collection Title-->
 <h4>Southern Utah University Scholar Archive</h4>

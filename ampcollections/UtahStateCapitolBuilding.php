@@ -17,9 +17,9 @@
 <!-- Image Description -->
 <em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>
 <!-- Article Text -->
-</p>
-To pursue the legislative mandate to "erect a suitable building" to serve as the Utah state capitol, the Capitol Commission issued a call for construction bids to contractors and artisans. This series contains the bids submitted to the commission by those seeking employment. The collection includes bids for furnishings, heating and ventilating systems, elevators, vaults, cuspidors, lighting, and numerous others. The series also documents inquiries from contractors to the Capitol Commission regarding the bidding process, contracts, operational budgets, and contract decisions. The bids include information on Utah craftsmen, architects, and contractors, and significant information about construction techniques, planning, bidding processes, and labor and material costs from the period. </p>
-
+"</p>
+To pursue the legislative mandate to ""erect a suitable building"" to serve as the Utah state capitol, the Capitol Commission issued a call for construction bids to contractors and artisans. This series contains the bids submitted to the commission by those seeking employment. The collection includes bids for furnishings, heating and ventilating systems, elevators, vaults, cuspidors, lighting, and numerous others. The series also documents inquiries from contractors to the Capitol Commission regarding the bidding process, contracts, operational budgets, and contract decisions. The bids include information on Utah craftsmen, architects, and contractors, and significant information about construction techniques, planning, bidding processes, and labor and material costs from the period. </p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -40,9 +40,9 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-The "Book of the Pioneers" was created as a record of those who arrived in the Valley of the Great Salt Lake during 1847, including the names, ages, autographs, and places of residence of all known survivors on 24 July 1897, the year of the jubilee. </p>
-
+"</p>
+The ""Book of the Pioneers"" was created as a record of those who arrived in the Valley of the Great Salt Lake during 1847, including the names, ages, autographs, and places of residence of all known survivors on 24 July 1897, the year of the jubilee. </p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

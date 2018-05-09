@@ -28,5 +28,4 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/EmeryCountyUTHistoryPhotographs.php">EmeryCountyUTHistoryPhotographs</a></li>
-<li><a href = "../ampcollections/DwellingsintheBosomofEmeryCountyUT.php">DwellingsintheBosomofEmeryCountyUT</a></li>
 <?php include("../includes/ampfooter.php");?>

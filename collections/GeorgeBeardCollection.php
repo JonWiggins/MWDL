@@ -40,9 +40,9 @@ A man by a lake
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Landscape artist George Beard (1854-1944), was also an "artist with a camera." The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p>
-
+"</p>
+Landscape artist George Beard (1854-1944), was also an ""artist with a camera."" The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

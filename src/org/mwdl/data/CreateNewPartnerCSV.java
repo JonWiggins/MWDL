@@ -1,4 +1,4 @@
-package org.mwdl.scripts.data;
+package org.mwdl.data;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -17,6 +17,7 @@ import java.util.regex.Pattern;
  * @author Jonathan Wiggins
  * @version 3/5/18
  */
+@Deprecated
 public class CreateNewPartnerCSV {
 
     /**

@@ -40,9 +40,9 @@ Boy sand painting
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-In 1948 Bushnell Hospital in Brigham City, Utah was transformed into what would become the Intermountain Indian School, or, the "world's largest boarding school." The school opened its doors in January 1950 to five hundred Navajo students. Educational goals were to teach English and basic academic disciplines as well as vocational skills which, it was believed, would facilitate assimilation into mainstream America.</p>
-
+"</p>
+In 1948 Bushnell Hospital in Brigham City, Utah was transformed into what would become the Intermountain Indian School, or, the ""world's largest boarding school."" The school opened its doors in January 1950 to five hundred Navajo students. Educational goals were to teach English and basic academic disciplines as well as vocational skills which, it was believed, would facilitate assimilation into mainstream America.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

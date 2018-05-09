@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/SaltLakeCityUTPublicLibrary.php">Salt Lake City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Floaters on Great Salt Lake Utah. "Nothing Like It""width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="" Floaters on Great Salt Lake Utah. ""Nothing Like It""""width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Floaters on Great Salt Lake Utah. "Nothing Like It"
+" Floaters on Great Salt Lake Utah. ""Nothing Like It"""
 <!-- Article Text -->
 </p>
 This is a collection of unique historic souvenir images and the Official Coat of Arms of Salt Lake City. </p>

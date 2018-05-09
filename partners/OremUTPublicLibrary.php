@@ -33,6 +33,7 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Orem+(UT)+Public+Library">Browse all records from Orem (UT) Public Library</a>
 <!-- List all Active Collections -->
 <li><a href = "../collections/CityofOremUT.php">City of Orem (UT)</a></li>
+<li><a href = "../collections/OremUTSchoolYearbooks.php">Orem (UT) School Yearbooks</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

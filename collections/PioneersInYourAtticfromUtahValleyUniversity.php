@@ -40,9 +40,9 @@ Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wigh
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This is a portion of UVU's "Pioneers In Your Attic" contribution. It consists primarily of photographs and journal entries.</p>
-
+"</p>
+This is a portion of UVU's ""Pioneers In Your Attic"" contribution. It consists primarily of photographs and journal entries.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

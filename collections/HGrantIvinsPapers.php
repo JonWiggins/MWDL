@@ -40,9 +40,9 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as "mere men who make mistakes and who should be willing to admit these mistakes."</p>
-
+"</p>
+The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as ""mere men who make mistakes and who should be willing to admit these mistakes.""</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

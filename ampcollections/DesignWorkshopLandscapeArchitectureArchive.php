@@ -17,9 +17,9 @@
 <!-- Image Description -->
 Mountains in Kananaskis Country, Alberta 
 <!-- Article Text -->
-</p>
-Design Workshop®, a Denver-based landscape architecture firm, has been creating "sustainable places of timeless beauty" since 1969. The firm's numerous awards reflects its successful innovations in land planning and design. To mark its 40th anniversary in 2010, Design Workshop partnered with Utah State University to create the Design Workshop Landscape Architecture Archive which includes this digital collection as well as a physical archive housed in Merrill-Cazier Library's Special Collections and Archives</p>
-
+"</p>
+Design Workshop®, a Denver-based landscape architecture firm, has been creating ""sustainable places of timeless beauty"" since 1969. The firm's numerous awards reflects its successful innovations in land planning and design. To mark its 40th anniversary in 2010, Design Workshop partnered with Utah State University to create the Design Workshop Landscape Architecture Archive which includes this digital collection as well as a physical archive housed in Merrill-Cazier Library's Special Collections and Archives</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

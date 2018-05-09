@@ -28,5 +28,4 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Topaz+Museum+(Delta,+UT)">Browse all records from Topaz Museum (Delta, UT)</a>
 </h6>
 <!-- List all Active Collections -->
-<li><a href = "../ampcollections/TopazMuseumCollection.php">TopazMuseumCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

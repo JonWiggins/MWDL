@@ -52,7 +52,7 @@
 <li><a href = "../collections/UtahTechnicalCollegeWomensAssociationScrapbooks.php">Utah Technical College Women's Association Scrapbooks</a></li>
 <li><a href = "../collections/TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">Telling Our Story: An Oral History of Utah Valley University</a></li>
 <li><a href = "../collections/RootsofKnowledgeBehindtheScenes.php">Roots of Knowledge: Behind the Scenes</a></li>
-<li><a href = "../collections/MapletonUtahHistoricalPhotographs.php">Mapleton, Utah Historical Photographs</a></li>
+<li><a href = "../collections/MapletonUtahHistoricalPhotographs.php">Mapleton Utah Historical Photographs</a></li>
 <li><a href = "../collections/VonDelChamberlainCulturalAstronomyCollection.php">Von Del Chamberlain Cultural Astronomy Collection</a></li>
 </div>
 </div>

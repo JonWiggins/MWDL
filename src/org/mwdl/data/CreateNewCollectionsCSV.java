@@ -1,6 +1,4 @@
-package org.mwdl.scripts.data;
-
-import org.mwdl.scripts.webManagement.Collection;
+package org.mwdl.data;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -19,6 +17,7 @@ import java.util.regex.Pattern;
  * @author Jonathan Wiggins
  * @version 2/9/18
  */
+@Deprecated
 public class CreateNewCollectionsCSV {
 
     /**

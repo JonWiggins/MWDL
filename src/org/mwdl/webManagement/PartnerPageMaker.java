@@ -1,19 +1,43 @@
-package org.mwdl.scripts.webManagement;
+package org.mwdl.webManagement;
 
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 
 /**
- * Write the given partner's webpages
+ * Writes Partner Pages
  *
  * @author Jonathan Wiggins
- * @version 7/3/17
+ * @version 5/9/18
  */
 
 public class PartnerPageMaker {
 
-    public static void writeFullPartner(PartnerPage toWrite){
+    /**
+     * Creates regular and AMP page files for all of the given PartnerPage objects
+     * Also generates the partner map page file
+     *
+     * @param toWrite An ArrayList of PartnerPage objects to write
+     *                Assumes each is already filled with the required information
+     */
+    public static void writeGivenPartnerPages(ArrayList<PartnerPage> toWrite){
+        writePartnersMapPage();
+
+        for(PartnerPage element : toWrite){
+            writeAMPPartnerPage(element);
+            writeNormalPartnerPage(element);
+        }
+    }
+
+    /**
+     * Given a PartnerPage object holding the needed info to create a partner's landing page
+     *  Creates the Page by writing the needed html/php to a file titled after the given
+     *  PartnerPage objects urlName in the partners folder in the cwd
+     *
+     * @param toWrite a PartnerPage object to write
+     *                Assumes the object already holds the requisite information
+     */
+    private static void writeNormalPartnerPage(PartnerPage toWrite){
         String FileLocAndName = "partners/"+toWrite.urlName + ".php";
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -67,12 +91,17 @@ public class PartnerPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
-            System.err.println("Could not generate regular page for partner " + toWrite.name);
+            System.err.println("Could not generate regular page for partner " + toWrite.partnerNumber + ", " + toWrite.name);
         }
     }
 
-    public static void writeAMPPartner(PartnerPage toWrite){
+    /**
+     * Given a PartnerPage object, writes the AMP Page
+     *
+     * @param toWrite a PartnerPage to write
+     *                Assumes that ParterPage hold all the needed information
+     */
+    private static void writeAMPPartnerPage(PartnerPage toWrite){
         String FileLocAndName = "amppartners/"+toWrite.urlName + ".php";
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -92,7 +121,6 @@ public class PartnerPageMaker {
             writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<!-- Partner Image -->");
             writer.println("<div class=amp-img-fill>");
-            //<amp-img src="../images/partner_images/partner140.jpg" alt="American West Center" width="392" height="53" layout = "responsive"></amp-img>
             if (toWrite.image != null)
                 writer.println("<amp-img src=\"../images/partner_images/" +
                         toWrite.image +
@@ -126,13 +154,18 @@ public class PartnerPageMaker {
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
-            System.err.println("Could not generate amp page for partner number " + toWrite.partnerNumber + ", " + toWrite.name);
+            System.err.println("Could not generate amp page for partner " + toWrite.partnerNumber + ", " + toWrite.name);
 
         }
     }
 
-    public static void writePartnersPage(){
+    /**
+     * Write the partners map page
+     * Note that this method writes the same page every time, the page does not change when the website
+     *  is regenerated, however rewriting this page into the new partner folder means that you can simply
+     *  overwrite the old folder without worrying about losing this page.
+     */
+    private static void writePartnersMapPage(){
         String FileLocAndName = "partners/partners.php";
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -142,26 +175,25 @@ public class PartnerPageMaker {
             writer.println("<title>Partners</title>");
             writer.println("<?php include(\"../includes/plistmenuhead.php\");?>");
             writer.println("<h3>Mountain West Digital Library Partners</h3>");
+
+            //This is a static link to the custom google map, it is setup in the MWDL Google Drive
+            //If you are looking for it, it is in /MWDL/Technical/Website/MWDL Partner Map
+            // You cannot edit it here, you must open it through google.com/maps/d/ while logged into the MWDL
+            // google account
+            // I created it by using the GeneratePartnerMap class, and saving the output csv file onto the drive
+            // to a file named Partner Map Data
+            // You can then import the spreadsheet into the google map
             writer.println("<iframe src=\"https://www.google.com/maps/d/embed?mid=1XKbCNWPNF-r84SYoyhuiV2Y5s5Y\" height=\"700\" style=\"max-height:auto; max-width:auto;\"></iframe>");
+
             writer.println("</div>");
             writer.println("</div>");
             writer.println("<?php include(\"../includes/footer.php\");?>");
             //close writer
             writer.close();
         } catch (IOException e) {
-            // do something
-            System.err.println("Could not generate partners list page");
+            System.err.println("Could not generate partners map page");
         }
     }
 
-
-    public static String ellipsize(String input, int maxLength) {
-        String ellip = "...";
-        if (input == null || input.length() <= maxLength
-                || input.length() < ellip.length()) {
-            return input;
-        }
-        return input.substring(0, maxLength - ellip.length()).concat(ellip);
-    }
 
 }

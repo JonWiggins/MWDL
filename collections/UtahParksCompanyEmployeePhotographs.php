@@ -40,9 +40,9 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Utah Parks Company, a subsidiary of Union Pacific Railroad, employed thousands of college students to operate restaurants, lodging, and bus tours in Bryce, Zion, Grand Canyon and Cedar Breaks parks from 1923 to 1973. These photographs show them working, playing, and entertaining the "dudes." They were collected during a SUU oral history project with UPC employees.</p>
-</p>
+"<p></p>
+<p>The Utah Parks Company, a subsidiary of Union Pacific Railroad, employed thousands of college students to operate restaurants, lodging, and bus tours in Bryce, Zion, Grand Canyon and Cedar Breaks parks from 1923 to 1973. These photographs show them working, playing, and entertaining the ""dudes."" They were collected during a SUU oral history project with UPC employees.</p>
+</p>"
 <hr>
 <h6>
 <!-- Browse Link -->

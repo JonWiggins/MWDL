@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1071.jpg" alt=""Red Cloud" "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1071.jpg" alt="Red Cloud "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-"Red Cloud" 
+Red Cloud 
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Historical Photographs: Walter M. Camp Collection</h4>

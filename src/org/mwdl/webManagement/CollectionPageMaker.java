@@ -1,9 +1,6 @@
-package org.mwdl.scripts.webManagement;
+package org.mwdl.webManagement;
 
 
-import org.mwdl.scripts.data.DataFetcher;
-
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -12,7 +9,7 @@ import java.util.HashMap;
 import static java.util.Collections.sort;
 
 /**
- * Given a collection object, writes a collection landing page
+ * Writes Collection Pages
  *
  * @author Jonathan Wiggins
  * @version 7/13/17
@@ -20,7 +17,31 @@ import static java.util.Collections.sort;
 
 public class CollectionPageMaker {
 
-    public static void writeFullCollection(Collection toWrite) {
+    /**
+     * Given an ArrayList of Collections, writes the Collection List pages
+     *  As well was full and AMP pages for each individual collections
+     *
+     * @param toWrite
+     */
+    public static void writeGivenCollectionPages(ArrayList<Collection> toWrite){
+
+        writeAlphabeticalCollectionPage(toWrite);
+        writeInitialCollectionPage(toWrite);
+        writeParnterSortedCollectionPage(toWrite);
+
+        for (Collection element : toWrite){
+            writeFullCollection(element);
+            writeAMPCollection(element);
+        }
+    }
+
+
+    /**
+     * Writes a the given collection page
+     *
+     * @param toWrite a Collection to write
+     */
+    private static void writeFullCollection(Collection toWrite) {
         String FileLocAndName = "collections/" + toWrite.urlTitle + ".php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -97,7 +118,12 @@ public class CollectionPageMaker {
         }
     }
 
-    public static void writeAMPCollection(Collection toWrite) {
+    /**
+     * Writes the given collection as an AMP page
+     *
+     * @param toWrite a Collection to write
+     */
+    private static void writeAMPCollection(Collection toWrite) {
         String FileLocAndName = "ampcollections/" + toWrite.urlTitle + ".php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -145,13 +171,14 @@ public class CollectionPageMaker {
         }
     }
 
-    public static void writeCollectionsPage(ArrayList<Collection> collectionsToWrite){
-        writeAlphaCPage(collectionsToWrite);
-        writeInitPage(collectionsToWrite);
-        writePCPage(collectionsToWrite);
-    }
-
-    public static void writeInitPage(ArrayList<Collection> collections) {
+    /**
+     * Write the initial collections page, wherein the collections are sorted in the order they are given in
+     *   the collection data csv file
+     * Saves the files as collections.php
+     *
+     * @param collections an ArrayList of all the active collections
+     */
+    private static void writeInitialCollectionPage(ArrayList<Collection> collections) {
         String FileLocAndName = "collections/collections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -200,8 +227,13 @@ public class CollectionPageMaker {
         }
     }
 
-
-    public static void writeAlphaCPage(ArrayList<Collection> collections){
+    /**
+     * Write the Collections page that sorts the collections by their names Alphabetically
+     * Saves the file to aCollections.php
+     *
+     * @param collections An ArrayList of all the active collections
+     */
+    private static void writeAlphabeticalCollectionPage(ArrayList<Collection> collections){
         String FileLocAndName = "collections/aCollections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -268,7 +300,13 @@ public class CollectionPageMaker {
         }
     }
 
-    public static void writePCPage(ArrayList<Collection> collections){
+    /**
+     * Writes the Collections page wherein the collections are sorted by their Partner
+     * Saves the files as pCollections.php
+     *
+     * @param collections An ArrayList of all the active collections
+     */
+    private static void writeParnterSortedCollectionPage(ArrayList<Collection> collections){
         String FileLocAndName = "collections/pCollections.php";
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
@@ -338,7 +376,14 @@ public class CollectionPageMaker {
         }
     }
 
-    public static String ellipsize(String input, int maxLength) {
+    /**
+     * Ellipsize a string after a certain length
+     *
+     * @param input a String to ellipsize
+     * @param maxLength the maximum length of the string
+     * @return the String ellipsized to maxLength
+     */
+    private static String ellipsize(String input, int maxLength) {
         String ellip = "...";
         if (input == null || input.length() <= maxLength
                 || input.length() < ellip.length()) {

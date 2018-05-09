@@ -40,9 +40,9 @@ Wasatch School
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: "State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah."</p>
-
+"</p>
+Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: ""State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah.""</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

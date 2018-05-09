@@ -17,12 +17,12 @@
 <!-- Image Description -->
 EuroDocs: Online Sources for European History
 <!-- Article Text -->
-</p>
-History of Monaco: Primary Documents is part of Brigham Young University Harold B. Lee Library's <a href="http://eudocs.lib.byu.edu/index.php/Main_Page">EuroDocs: Online Sources for European History</a> collection, which provides access to historical documents from Western Europe that are transcribed, reproduced in facsimile, or translated. Most are primary documents that shed light on key historical happenings within the respective countries. Includes documents on Medieval and Renaissance Europe and on Europe as a supranational region. Offers access to documents on Andorra, Iceland, Denmark, Finland, France, Germany, and other countries. Links to a citation guide and to the Western European Specialist Section of the Association of College and Research Libraries (ACRL). Subject Headings: History materials; Archival resources; Online databases; Web sites.</p>
+"</p>
+History of Monaco: Primary Documents is part of Brigham Young University Harold B. Lee Library's <a href=""http://eudocs.lib.byu.edu/index.php/Main_Page"">EuroDocs: Online Sources for European History</a> collection, which provides access to historical documents from Western Europe that are transcribed, reproduced in facsimile, or translated. Most are primary documents that shed light on key historical happenings within the respective countries. Includes documents on Medieval and Renaissance Europe and on Europe as a supranational region. Offers access to documents on Andorra, Iceland, Denmark, Finland, France, Germany, and other countries. Links to a citation guide and to the Western European Specialist Section of the Association of College and Research Libraries (ACRL). Subject Headings: History materials; Archival resources; Online databases; Web sites.</p>
 &nbsp;</p>
 &nbsp;</p>
-<a href="http://contentdm.lib.byu.edu/cdm/ref/collection/EuroDocs/id/317" target="_blank">Monaco festante: Nell'arrivo dell'Altezza Serenissima di Lodovico Grimaldi, principe di Monaco, duca del Valentinese, etc. 1662</a></p>
-</p>
+<a href=""http://contentdm.lib.byu.edu/cdm/ref/collection/EuroDocs/id/317"" target=""_blank"">Monaco festante: Nell'arrivo dell'Altezza Serenissima di Lodovico Grimaldi, principe di Monaco, duca del Valentinese, etc. 1662</a></p>
+</p>"
 <hr>
 <!-- Browse Collection -->
 <h6>

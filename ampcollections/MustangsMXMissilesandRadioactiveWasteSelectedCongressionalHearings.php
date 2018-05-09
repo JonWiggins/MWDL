@@ -17,9 +17,9 @@
 <!-- Image Description -->
 Hearing on Wild Free-Roaming Horses and Burros Act 
 <!-- Article Text -->
-</p>
-"Mustangs, MX Missiles and Radioactive Waste" is a collection of 36 U.S. Congressional hearings from the University of Nevada Reno's federal depository library collection. </p>
-
+"</p>
+""Mustangs, MX Missiles and Radioactive Waste"" is a collection of 36 U.S. Congressional hearings from the University of Nevada Reno's federal depository library collection. </p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

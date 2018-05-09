@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2079.jpg" alt="A Residence for Dr. G. Gill Richards on "A" Street and 7th Ave"width="375" height="246"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2079.jpg" alt=""A Residence for Dr. G. Gill Richards on ""A"" Street and 7th Ave""width="375" height="246"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A Residence for Dr. G. Gill Richards on "A" Street and 7th Ave
+"A Residence for Dr. G. Gill Richards on ""A"" Street and 7th Ave"
 </div>
 <!-- Collection Title-->
 <h4>Richard Wright Young Papers</h4>

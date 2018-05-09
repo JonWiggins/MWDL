@@ -38,13 +38,14 @@
 <li><a href = "../collections/KathleenKittyGurnsey.php">Kathleen (Kitty) Gurnsey</a></li>
 <li><a href = "../collections/LenJordanCollection.php">Len Jordan Collection</a></li>
 <li><a href = "../collections/LymanWilburAfghanistan.php">Lyman Wilbur Afghanistan</a></li>
-<li><a href = "../collections/NoOnOneCoalition.php">No On One Coalition</a></li>
 <li><a href = "../collections/PeterBeemerMusicManuscripts.php">Peter Beemer Music Manuscripts</a></li>
 <li><a href = "../collections/WesternWritersSeriesDigitalEditions.php">Western Writers Series Digital Editions</a></li>
 <li><a href = "../collections/BannerMiningandMillingCompany.php">Banner Mining and Milling Company</a></li>
 <li><a href = "../collections/CecilDAndrus.php">Cecil D. Andrus</a></li>
 <li><a href = "../collections/GracieBPfost.php">Gracie B. Pfost</a></li>
 <li><a href = "../collections/EdwardFRhodenbaugh.php">Edward F. Rhodenbaugh</a></li>
+<li><a href = "../collections/FrankandBethineChurchCollection.php">Frank and Bethine Church Collection</a></li>
+<li><a href = "../collections/PeteCennarusaCollection.php">Pete Cennarusa Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

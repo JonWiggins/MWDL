@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1541.jpg" alt="Motto ""He Leadeth Me"" "width="369" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1541.jpg" alt=""Motto """"He Leadeth Me"""" ""width="369" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Motto ""He Leadeth Me"" 
+"Motto """"He Leadeth Me"""" "
 </div>
 <!-- Collection Title-->
 <h4>Daughters of the Utah Pioneers, Springville (UT)</h4>

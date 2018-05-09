@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1068.jpg" alt=""Great Elm" on Dairy Hill "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1068.jpg" alt="Great Elm on Dairy Hill "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-"Great Elm" on Dairy Hill 
+Great Elm on Dairy Hill 
 </div>
 <!-- Collection Title-->
 <h4>George Edward Anderson Photographs</h4>

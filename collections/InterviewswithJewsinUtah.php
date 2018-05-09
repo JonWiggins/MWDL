@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2202.jpg" alt="<em>I. J. "Izzie" Wagner, Interviews with Jews in Utah, Accn 998</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2202.jpg" alt=""<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>""width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>I. J. "Izzie" Wagner, Interviews with Jews in Utah, Accn 998</em>
+"<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>"
 </div>
 <!-- Collection Title-->
 <h4>Interviews with Jews in Utah</h4>

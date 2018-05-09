@@ -40,9 +40,9 @@
 <h6> Published by <a href="../partners/EmeryCountyUTArchives.php">Emery County (UT) Archives</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Emery County Archives Collection includes photos representing the history of Castle Valley: the towns, the people, coal mining, the uranium boom, ranching, rock art and other evidence of the Fremont and Archaic Cultures, dinosaur fossils, the Huntington wooly mammoth discovery, and unique geologic formations and history of the San Rafael Swell. This collection contains private collections from individuals such as Elmo Geary's history of drama and theater in Castle Valley, John Niebergall's "Then and Now" pictures of the Manti-LaSal Forest and other areas of Emery County, and many others that showcase the history of the area.</p>
-</p>
+"<p></p>
+<p>The Emery County Archives Collection includes photos representing the history of Castle Valley: the towns, the people, coal mining, the uranium boom, ranching, rock art and other evidence of the Fremont and Archaic Cultures, dinosaur fossils, the Huntington wooly mammoth discovery, and unique geologic formations and history of the San Rafael Swell. This collection contains private collections from individuals such as Elmo Geary's history of drama and theater in Castle Valley, John Niebergall's ""Then and Now"" pictures of the Manti-LaSal Forest and other areas of Emery County, and many others that showcase the history of the area.</p>
+</p>"
 <hr>
 <h6>
 <!-- Browse Link -->

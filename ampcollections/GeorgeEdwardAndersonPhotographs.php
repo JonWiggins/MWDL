@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Great Elm" on Dairy Hill "width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Great Elm on Dairy Hill "width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-"Great Elm" on Dairy Hill 
+Great Elm on Dairy Hill 
 <!-- Article Text -->
 </p>
 14,020 images taken ca. 1878-1928, which includes studio and environmental portraits, mostly of Utah residents; Utah railroad and mining history (including the 1900 Scofield mine disaster); and Mormon (LDS) Church historic sites.</p>

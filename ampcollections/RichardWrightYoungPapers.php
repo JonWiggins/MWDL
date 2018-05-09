@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A Residence for Dr. G. Gill Richards on "A" Street and 7th Ave"width="375" height ="246"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""A Residence for Dr. G. Gill Richards on ""A"" Street and 7th Ave""width="375" height ="246"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-A Residence for Dr. G. Gill Richards on "A" Street and 7th Ave
+"A Residence for Dr. G. Gill Richards on ""A"" Street and 7th Ave"
 <!-- Article Text -->
 </p>
 The collection is composed of the papers and architectural drawings of Richard Wright Young.</p>

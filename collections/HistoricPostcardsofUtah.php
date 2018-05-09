@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2029.jpg" alt="Postcard of "Utah - The Beehive State""width="370" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2029.jpg" alt=""Postcard of ""Utah - The Beehive State""""width="370" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Postcard of "Utah - The Beehive State"
+"Postcard of ""Utah - The Beehive State"""
 </div>
 <!-- Collection Title-->
 <h4>Historic Postcards of Utah</h4>

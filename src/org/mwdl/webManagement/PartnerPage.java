@@ -1,8 +1,7 @@
-package org.mwdl.scripts.webManagement;
+package org.mwdl.webManagement;
 
-import org.mwdl.scripts.data.DataFetcher;
+import org.mwdl.data.DataFetcher;
 
-import javax.xml.crypto.Data;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
@@ -50,11 +49,9 @@ public class PartnerPage {
         this.imageW = imageW;
         this.imageDes = imageDes;
 
-        try {
-            activeCollections = DataFetcher.getAllActiveCollectionsFromPartner(name);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
+
+        activeCollections = DataFetcher.getAllActiveCollectionsFromPartner(name);
+
 
         browseLink = getExlibirisLink();
 

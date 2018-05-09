@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2166.jpg" alt=" 5 sets of twins born in North Logan on "Twin Street""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2166.jpg" alt="" 5 sets of twins born in North Logan on ""Twin Street""""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- 5 sets of twins born in North Logan on "Twin Street"
+" 5 sets of twins born in North Logan on ""Twin Street"""
 </div>
 <!-- Collection Title-->
 <h4>North Logan (UT) History Collection</h4>

@@ -52,7 +52,7 @@
 <li><a href = "../collections/WesternWatersTreatiesandCompacts.php">Western Waters: Treaties and Compacts</a></li>
 <li><a href = "../collections/WesternWatersPhotographCollection.php">Western Waters: Photograph Collection</a></li>
 <li><a href = "../collections/FrankLloydWrightWasmuthPortfolio.php">Frank Lloyd Wright: Wasmuth Portfolio</a></li>
-<li><a href = "../collections/ArabicPapyrusParchmentandPaperCollection.php">Arabic Papyrus, Parchment, and Paper Collection</a></li>
+<li><a href = "../collections/ArabicPapyrusParchmentandPaperCollection.php">Arabic Papyrus Parchment and Paper Collection</a></li>
 <li><a href = "../collections/DeNaturaeSimia.php">De Naturae Simia</a></li>
 <li><a href = "../collections/EuropeanPerformanceArts16001899.php">European Performance Arts (1600-1899)</a></li>
 <li><a href = "../collections/JohnWFitzgeraldCollection.php">John W. Fitzgerald Collection</a></li>
@@ -78,7 +78,7 @@
 <li><a href = "../collections/UniversityofUtahMarriottLibraryPermanentArtCollection.php">University of Utah Marriott Library Permanent Art Collection</a></li>
 <li><a href = "../collections/CyclingUtah.php">Cycling Utah</a></li>
 <li><a href = "../collections/JohnMillsWhitakerPapers.php">John Mills Whitaker Papers</a></li>
-<li><a href = "../collections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies</a></li>
+<li><a href = "../collections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">Daughters of the Utah Pioneers Kaysville (UT) - Phillips Camp Biographies</a></li>
 <li><a href = "../collections/HiramBClawsonPapers.php">Hiram B. Clawson Papers</a></li>
 <li><a href = "../collections/JohnHamiltonMorganPapers.php">John Hamilton Morgan Papers</a></li>
 <li><a href = "../collections/TaylorAWoolleyPapers.php">Taylor A. Woolley Papers</a></li>

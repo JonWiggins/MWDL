@@ -29,4 +29,5 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/CityofOremUT.php">CityofOremUT</a></li>
+<li><a href = "../ampcollections/OremUTSchoolYearbooks.php">OremUTSchoolYearbooks</a></li>
 <?php include("../includes/ampfooter.php");?>

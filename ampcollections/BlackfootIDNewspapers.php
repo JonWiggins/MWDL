@@ -17,10 +17,10 @@
 <!-- Image Description -->
 The Blackfoot Register, Volume 1, Number 1, July 10, 1880
 <!-- Article Text -->
-</p>
-The Blackfoot, Idaho newspapers, including "The Blackfoot Register," ran in the late 1800's. Includes publications from 1880-1902. </p>
+"</p>
+The Blackfoot, Idaho newspapers, including ""The Blackfoot Register,"" ran in the late 1800's. Includes publications from 1880-1902. </p>
 &nbsp;</p>
-
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

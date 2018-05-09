@@ -1,7 +1,7 @@
-package org.mwdl.scripts.analytics;
+package org.mwdl.analytics;
 
-import org.mwdl.scripts.data.DataFetcher;
-import org.mwdl.scripts.webManagement.Collection;
+import org.mwdl.data.DataFetcher;
+import org.mwdl.webManagement.Collection;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -14,6 +14,12 @@ import java.util.Scanner;
 
 
 /**
+ * Note: This Analytics Generator is Deprecated, because it creates Analytics spreadsheets for partners
+ *  based on the format of the old website, wherein collection pages were stored as php files
+ *  identified based on their collection id numbers.
+ * For the new website, wherein collection pages are stored as php files based on an adapted form of their
+ *  collection name, use this version.
+ *
  * How to do Analytics for a new Month:
  * 1. Add the new Analytics Data to /MasterLists/
  * 2. Name it %monthName%.csv
@@ -23,7 +29,7 @@ import java.util.Scanner;
  * 6. Run this class's main method
  *
  *
- * At this point there should be a folder in the cwd titled GeneratedAnalytics which holds csv files for each hub
+ * At this point there should be a folder in the cwd titled GeneratedAnalytics which holds csv files for each hubID
  * Now open up VS and run the MWDLAnalyticsEmails program. It will generated all of the emails you need to send out
  *  and save them into the PhpStorm project folder for MWDL.org
  * Note: If you are not me the directories will be broken and you will need to fix them for your computer
@@ -39,6 +45,10 @@ public class AnalyticsGen {
 
     public static HashMap<String, String> hubidtoName = new HashMap<>();
 
+    /**
+     * This Analytics Generate only works for the old website pages
+     */
+    @Deprecated
     public static void main(String[] args) {
         count = 0;
 
@@ -130,14 +140,7 @@ public class AnalyticsGen {
                             if (p.name.equalsIgnoreCase(publisher)) {
                                 isAlreadyListed = true;
 
-                                //FIXME update months here
-                                if(month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
-                                else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
-                                else if (month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
-                                else {
-                                    System.err.println("Error: Month not found. It was: " + month);
-                                    System.exit(0);
-                                }
+                                p.addLineForMonth(currentLine, month);
 
                             }
                         }
@@ -145,15 +148,7 @@ public class AnalyticsGen {
                         if (!isAlreadyListed) {
                             AnalyticsPartner p = new AnalyticsPartner(publisher);
 
-                            //FIXME update months here
-                            System.out.println(currentLine);
-                            if (month.equalsIgnoreCase("January")) p.JanCollections.add(currentLine);
-                            else if(month.equalsIgnoreCase("February")) p.FebCollections.add(currentLine);
-                            else if(month.equalsIgnoreCase("March")) p.MarchCollections.add(currentLine);
-                            else {
-                                System.err.println("Error: Month not found. It was: " + month);
-                                System.exit(0);
-                            }
+                            p.addLineForMonth(currentLine, month);
                             partners.add(p);
                         }
 
@@ -216,13 +211,13 @@ public class AnalyticsGen {
         System.out.println("Beginning Data export");
         ArrayList<String> hubs = new ArrayList<>();
         for(AnalyticsPartner p : partners){
-            if(!hubs.contains(p.hub)) hubs.add(p.hub);
+            if(!hubs.contains(p.hubID)) hubs.add(p.hubID);
         }
 
         for (String hub : hubs) {
             String hubName = hub.replace("%comma%", "").replace("&amp;", "");
             if (hubName.equalsIgnoreCase("")) hubName = "unpublished";
-            System.out.println("==== Now exporting hub: " + hub+ "====");
+            System.out.println("==== Now exporting hubID: " + hub+ "====");
             String FileLocAndName = "GeneratedAnalytics/" + hubidtoName.get(hubName)+ " Analytics.csv";
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
             for (String month : months) {
@@ -230,20 +225,13 @@ public class AnalyticsGen {
                 writer.println("Stats for " + month + " 2018");
                 count++;
                 for(AnalyticsPartner p : partners) {
-                    if(p.hub != null && p.hub.equals(hub)) {
+                    if(p.hubID != null && p.hubID.equals(hub)) {
                         System.out.print("- " + p.name + " ");
                         writer.println(p.name);
                         writer.println("Collection Title,Page,Pageviews,Unique Pageviews,Avg. Time on Page,Entrances,Bounce Rate,% Exit");
-                        ArrayList<String> collections = new ArrayList<>();
 
-                        //FIXME update months here
-                        if (month.equalsIgnoreCase("January")) collections = p.JanCollections;
-                        else if (month.equalsIgnoreCase("February")) collections = p.FebCollections;
-                        else if(month.equalsIgnoreCase("March")) collections = p.MarchCollections;
-                        else {
-                            System.err.println("Error: Month not found. It was: " + month);
-                            System.exit(0);
-                        }
+                        ArrayList<String> collections = p.getMonthLines(month);
+
                         System.out.println(" size: " + collections.size());
                         for(String c : collections)
                             writer.println(c);

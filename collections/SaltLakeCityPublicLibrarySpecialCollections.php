@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2146.jpg" alt=" Floaters on Great Salt Lake Utah. "Nothing Like It""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2146.jpg" alt="" Floaters on Great Salt Lake Utah. ""Nothing Like It""""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Floaters on Great Salt Lake Utah. "Nothing Like It"
+" Floaters on Great Salt Lake Utah. ""Nothing Like It"""
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake City Public Library Special Collections</h4>

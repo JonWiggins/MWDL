@@ -1,4 +1,4 @@
-package org.mwdl.scripts.webManagement;
+package org.mwdl.webManagement;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -8,8 +8,10 @@ import java.util.Scanner;
 /**
  * Run this to create all the Partner landing pages from the newPartnerData.csv in this dir
  *
+ * It will write all of the Partner landing pages into partners/ and amppartners/
+ *
  * @author Jonathan Wiggins
- * @version 7/10/17
+ * @version 5/9/18
  */
 
 public class WritePartnerFromCSV {
@@ -20,7 +22,8 @@ public class WritePartnerFromCSV {
 
     public static void main(String[] args) {
         importData();
-        exportData();
+
+        PartnerPageMaker.writeGivenPartnerPages(partnerArrayList);
     }
 
     public static void importData() {
@@ -59,16 +62,6 @@ public class WritePartnerFromCSV {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-
-    }
-
-    public static void exportData() {
-        for (PartnerPage p : partnerArrayList) {
-            PartnerPageMaker.writeFullPartner(p);
-            PartnerPageMaker.writeAMPPartner(p);
-        }
-        PartnerPageMaker.writePartnersPage();
-        System.out.println("Finished");
 
     }
 

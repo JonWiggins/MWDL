@@ -40,9 +40,9 @@ Cache National Forest Grazing survey camp
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p> On May 29, 1903, President Theodore Roosevelt signed a proclamation creating the Logan Forest Reserve. During the decade following the creation of the Logan Forest Reserve (later renamed Cache National Forest), forest managers and settlers worked to restore, or "re-green" Cache Valley and the Bear River Range.</p>
-</p>
+"<p></p>
+<p> On May 29, 1903, President Theodore Roosevelt signed a proclamation creating the Logan Forest Reserve. During the decade following the creation of the Logan Forest Reserve (later renamed Cache National Forest), forest managers and settlers worked to restore, or ""re-green"" Cache Valley and the Bear River Range.</p>
+</p>"
 <hr>
 <h6>
 <!-- Browse Link -->

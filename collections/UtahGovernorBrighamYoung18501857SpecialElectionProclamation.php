@@ -40,9 +40,9 @@ Proclamation
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a "councellor" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
-
+"</p>
+This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

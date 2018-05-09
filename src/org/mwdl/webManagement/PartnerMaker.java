@@ -9,7 +9,7 @@
 //import org.jsoup.Jsoup;
 //import org.jsoup.nodes.Document;
 //import org.jsoup.nodes.Element;
-//import org.mwdl.scripts.data.DataFetcher;
+//import DataFetcher;
 //
 ///**
 // * Used to strip the information off of the old MWDL website and store it in a spreadsheet

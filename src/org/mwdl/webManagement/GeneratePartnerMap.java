@@ -1,5 +1,5 @@
-package org.mwdl.scripts.webManagement;
-import org.mwdl.scripts.data.DataFetcher;
+package org.mwdl.webManagement;
+import org.mwdl.data.DataFetcher;
 
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;

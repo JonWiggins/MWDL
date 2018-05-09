@@ -40,9 +40,9 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Weber's current student newspaper, the Signpost, first appeared on September 29, 1937. For two years prior to that time, campus news was disseminated via announcements posted on a bulletin board known as the "Signpost". As a result, the masthead of the first issue of the paper itself featured a rudimentary wooden sign with the title spelled out in rustic-looking letters. Over the years the paper has been published continuously, though the look, size and style has changed several times. </p>
-
+"</p>
+Weber's current student newspaper, the Signpost, first appeared on September 29, 1937. For two years prior to that time, campus news was disseminated via announcements posted on a bulletin board known as the ""Signpost"". As a result, the masthead of the first issue of the paper itself featured a rudimentary wooden sign with the title spelled out in rustic-looking letters. Over the years the paper has been published continuously, though the look, size and style has changed several times. </p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

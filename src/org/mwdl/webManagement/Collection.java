@@ -1,4 +1,4 @@
-package org.mwdl.scripts.webManagement;
+package org.mwdl.webManagement;
 
 /**
  * Represents a collection landing pages, by holding all the info needed to create one
@@ -25,6 +25,20 @@ public class Collection {
     public int imgW;
 
 
+    /**
+     * Create a new Collection
+     *
+     * @param collectionNumber Collection number as an int
+     * @param isActive is active boolean
+     * @param note Notes about the collection
+     * @param title The Title of the collection
+     * @param publisher The collection's publisher
+     * @param text The Article Text of the collection
+     * @param img The name of the image typically following the format: collection%collectionNumber%.jpg
+     * @param height The height of the image as an int, can be 0
+     * @param width The width of the image as an int, can be 0
+     * @param des A description of the image
+     */
     public Collection(int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des){
         this.collectionNumber = collectionNumber;
         this.isActive = isActive;
@@ -58,6 +72,9 @@ public class Collection {
 
     }
 
+    /**
+     * Just used to print out Collection objects with a bit of formatting for debugging
+     */
     public String toString(){
         return "Number: "+collectionNumber +"\nisActive: " + isActive + "\nNote: "+ note + "\nTitle: "+ title +"\nURLTitle: " +urlTitle +"\nPublisher: "+ publisherLink + "\nText: " + text + "\nImage: " + img + "\nDescription: " + des;
     }

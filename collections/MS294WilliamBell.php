@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2283.jpg" alt="<em>Poem written in the form of a letter by John Wallace "Captain Jack" Crawford to Leonard Cody Bell</em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2283.jpg" alt=""<em>Poem written in the form of a letter by John Wallace ""Captain Jack"" Crawford to Leonard Cody Bell</em>""width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Poem written in the form of a letter by John Wallace "Captain Jack" Crawford to Leonard Cody Bell</em>
+"<em>Poem written in the form of a letter by John Wallace ""Captain Jack"" Crawford to Leonard Cody Bell</em>"
 </div>
 <!-- Collection Title-->
 <h4>MS 294 William Bell</h4>

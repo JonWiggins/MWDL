@@ -1,4 +1,5 @@
-Oregon Partner Page
-Oregon Collection Page
-New Analytics Generator
-Education Pages
+New DataFetcher backing that uses Regular Expressions
+
+Reformat CollectionPageMaker and WriteCollectionFromCSV to follow partner one
+
+Generally add documentation

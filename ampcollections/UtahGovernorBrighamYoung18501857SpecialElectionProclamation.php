@@ -17,9 +17,9 @@
 <!-- Image Description -->
 Proclamation 
 <!-- Article Text -->
-</p>
-This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a "councellor" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
-
+"</p>
+This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

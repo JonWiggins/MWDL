@@ -34,11 +34,12 @@
 <li><a href = "../ampcollections/KathleenKittyGurnsey.php">KathleenKittyGurnsey</a></li>
 <li><a href = "../ampcollections/LenJordanCollection.php">LenJordanCollection</a></li>
 <li><a href = "../ampcollections/LymanWilburAfghanistan.php">LymanWilburAfghanistan</a></li>
-<li><a href = "../ampcollections/NoOnOneCoalition.php">NoOnOneCoalition</a></li>
 <li><a href = "../ampcollections/PeterBeemerMusicManuscripts.php">PeterBeemerMusicManuscripts</a></li>
 <li><a href = "../ampcollections/WesternWritersSeriesDigitalEditions.php">WesternWritersSeriesDigitalEditions</a></li>
 <li><a href = "../ampcollections/BannerMiningandMillingCompany.php">BannerMiningandMillingCompany</a></li>
 <li><a href = "../ampcollections/CecilDAndrus.php">CecilDAndrus</a></li>
 <li><a href = "../ampcollections/GracieBPfost.php">GracieBPfost</a></li>
 <li><a href = "../ampcollections/EdwardFRhodenbaugh.php">EdwardFRhodenbaugh</a></li>
+<li><a href = "../ampcollections/FrankandBethineChurchCollection.php">FrankandBethineChurchCollection</a></li>
+<li><a href = "../ampcollections/PeteCennarusaCollection.php">PeteCennarusaCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

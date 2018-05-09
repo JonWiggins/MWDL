@@ -40,8 +40,8 @@
 <li><a href = "../collections/DeathValleyRegionPhotographCollection.php">Death Valley Region Photograph Collection</a></li>
 <li><a href = "../collections/UtahsMostElusiveHardtoFindGovernmentandScientificReports.php">Utah's Most Elusive: Hard-to-Find Government and Scientific Reports</a></li>
 <li><a href = "../collections/FacingtheColorLineRaceandEthnicityinCacheValley.php">Facing the Color Line: Race and Ethnicity in Cache Valley</a></li>
-<li><a href = "../collections/GrouseCreekCulturalSurveyMormonBuckarooTerritory1985.php">Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985</a></li>
-<li><a href = "../collections/TheRidgwayBrothersExplorersScientistsandIllustrators.php">The Ridgway Brothers: Explorers, Scientists, and Illustrators</a></li>
+<li><a href = "../collections/GrouseCreekCulturalSurveyMormonBuckarooTerritory1985.php">Grouse Creek Cultural Survey: Mormon Buckaroo Territory 1985</a></li>
+<li><a href = "../collections/TheRidgwayBrothersExplorersScientistsandIllustrators.php">The Ridgway Brothers: Explorers Scientists and Illustrators</a></li>
 <li><a href = "../collections/PracticingMedicineAHistoricalGlimpseatUtahandBeyond.php">Practicing Medicine: A Historical Glimpse at Utah and Beyond</a></li>
 <li><a href = "../collections/HistoryofScience.php">History of Science</a></li>
 <li><a href = "../collections/LatinoVoicesofCacheValley.php">Latino Voices of Cache Valley</a></li>
@@ -53,13 +53,13 @@
 <li><a href = "../collections/FolkBistro.php">FolkBistro</a></li>
 <li><a href = "../collections/OldEphraim.php">Old Ephraim</a></li>
 <li><a href = "../collections/SinginSamAginsCollection.php">Singin' Sam Agins Collection</a></li>
-<li><a href = "../collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php">Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</a></li>
-<li><a href = "../collections/BellsConnectingAnimalsPeopleandLand.php">Bells: Connecting Animals, People, and Land</a></li>
+<li><a href = "../collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php">Extension Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</a></li>
+<li><a href = "../collections/BellsConnectingAnimalsPeopleandLand.php">Bells: Connecting Animals People and Land</a></li>
 <li><a href = "../collections/UtahFolkloristsImageCollection.php">Utah Folklorists Image Collection</a></li>
 <li><a href = "../collections/DesignWorkshopLandscapeArchitectureArchive.php">Design Workshop Landscape Architecture Archive</a></li>
 <li><a href = "../collections/IntermountainIndianSchool.php">Intermountain Indian School</a></li>
-<li><a href = "../collections/PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch.php">Paul Jones, the Portal, and the Building of St. John's Episcopal Church</a></li>
-<li><a href = "../collections/LincolnEllisonUSForestService.php">Lincoln Ellison, U.S. Forest Service</a></li>
+<li><a href = "../collections/PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch.php">Paul Jones the Portal and the Building of St. John's Episcopal Church</a></li>
+<li><a href = "../collections/LincolnEllisonUSForestService.php">Lincoln Ellison U.S. Forest Service</a></li>
 <li><a href = "../collections/WilliamDHurstPapers.php">William D. Hurst Papers</a></li>
 <li><a href = "../collections/ForestRangerDaybooksofAaronPChristiansen.php">Forest Ranger Daybooks of Aaron P. Christiansen</a></li>
 <li><a href = "../collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a></li>
@@ -82,6 +82,16 @@
 <li><a href = "../collections/AgriculturalCollegeofUtahCyanotypeCollection.php">Agricultural College of Utah Cyanotype Collection</a></li>
 <li><a href = "../collections/CacheValleyChurches.php">Cache Valley Churches</a></li>
 <li><a href = "../collections/CacheValleyDrugCourtOralHistoryProject.php">Cache Valley Drug Court Oral History Project</a></li>
+<li><a href = "../collections/CacheValleyDrugCourtOralHistoryProject.php">Cache Valley Drug Court Oral History Project</a></li>
+<li><a href = "../collections/AmericanFolkloreSocietyPapers.php">American Folklore Society Papers</a></li>
+<li><a href = "../collections/CacheDaughtersofUtahPioneersMuseumCollection.php">Cache Daughters of Utah Pioneers Museum Collection</a></li>
+<li><a href = "../collections/ElectionReflectionsSocialMediaProject.php">Election Reflections Social Media Project</a></li>
+<li><a href = "../collections/JacksonHoleDudeRanchingTraditionTriangleX2017.php">Jackson Hole Dude Ranching Tradition: Triangle X 2017</a></li>
+<li><a href = "../collections/OrsonFWhitneyDiaries.php">Orson F. Whitney Diaries</a></li>
+<li><a href = "../collections/SwanerLegacyOralHistoryProject.php">Swaner Legacy - Oral History Project</a></li>
+<li><a href = "../collections/UtahFederalResettlementProjectOralHistories.php">Utah Federal Resettlement Project Oral Histories</a></li>
+<li><a href = "../collections/UtahStateUniversityStatesmanPhotographCollection.php">Utah State University Statesman Photograph Collection</a></li>
+<li><a href = "../collections/WilliamOttogaryCollection.php">William Ottogary Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

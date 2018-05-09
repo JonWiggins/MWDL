@@ -17,10 +17,10 @@
 <!-- Image Description -->
  Horse Teams working on the old reservoir (1871-1946)
 <!-- Article Text -->
-</p>
-"The stalwart pioneers of this community have set up an achievement that entitles them to be rated with the 'Builders of the West.' It is an accomplishment that should not fade from our memory." This quote is from Amos Ruben Griffin and appeared in a history of Newton written by Eugenia Alvis.</p>
+"</p>
+""The stalwart pioneers of this community have set up an achievement that entitles them to be rated with the 'Builders of the West.' It is an accomplishment that should not fade from our memory."" This quote is from Amos Ruben Griffin and appeared in a history of Newton written by Eugenia Alvis.</p>
 The Newton Town Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those wanting to explore times gone by.</p>
-
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

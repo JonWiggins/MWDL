@@ -40,9 +40,9 @@ No. 22 Mormon Pacific Historical Society
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Mormon Pacific Historical Society was founded in 1978 by Lance D. Chase and Kenneth W. Baldridge at Brigham Young University-Hawaii to foster the study and recording of LDS Church history in Hawaii and the Pacific Islands. Annual meetings were held at various locations and papers were presented, displays prepared, and local folks "talk story" about events in local LDS history. All of these were then transcribed and/or published in the organization's Proceedings.</p>
-
+"</p>
+The Mormon Pacific Historical Society was founded in 1978 by Lance D. Chase and Kenneth W. Baldridge at Brigham Young University-Hawaii to foster the study and recording of LDS Church history in Hawaii and the Pacific Islands. Annual meetings were held at various locations and papers were presented, displays prepared, and local folks ""talk story"" about events in local LDS history. All of these were then transcribed and/or published in the organization's Proceedings.</p>
+"
 <hr>
 <h6>
 <!-- Browse Link -->

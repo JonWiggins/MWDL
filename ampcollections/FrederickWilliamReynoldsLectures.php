@@ -17,9 +17,9 @@
 <!-- Image Description -->
 The Copts and Christian Civilization 
 <!-- Article Text -->
-</p>
-The annual F.W. Reynolds Lectureships at the University of Utah serve a double purpose. First, through a distinguished member of its faculty, the University presents an important yearly offering to the public. Second, the Lectureship commemorates in a fitting way the unique service of Professor Reynolds to the institution and to the State. The selection committee acts upon recommendations of the Deans who are made responsible for nominating faculty members of outstanding accomplishments in their schools. The University presents the lecture through the medium of its Extension Division. Tthe Reynolds Lectureship has now become firmly established as a University function " promoted and administered by the University.</p>
-
+"</p>
+The annual F.W. Reynolds Lectureships at the University of Utah serve a double purpose. First, through a distinguished member of its faculty, the University presents an important yearly offering to the public. Second, the Lectureship commemorates in a fitting way the unique service of Professor Reynolds to the institution and to the State. The selection committee acts upon recommendations of the Deans who are made responsible for nominating faculty members of outstanding accomplishments in their schools. The University presents the lecture through the medium of its Extension Division. Tthe Reynolds Lectureship has now become firmly established as a University function "" promoted and administered by the University.</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

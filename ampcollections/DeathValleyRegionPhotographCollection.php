@@ -17,9 +17,9 @@
 <!-- Image Description -->
 Twenty-mule train near Calico, California, 1905 
 <!-- Article Text -->
-</p>
-This small collection of black and white photographs of the Death Valley area of Nevada and California was taken mainly in the late 1920s by "Shorty" Harris or one of his associates. Featuring buildings, a hearse, a gravestone, and other scenes from the ghost towns of Rhyolite, Aurora, and Calico, the Death Valley Region Photograph Collection consists of eleven silver gelatin POP prints purchased from Amalgre Books of Bloomington, Indiana in April of 1997.</p>
-
+"</p>
+This small collection of black and white photographs of the Death Valley area of Nevada and California was taken mainly in the late 1920s by ""Shorty"" Harris or one of his associates. Featuring buildings, a hearse, a gravestone, and other scenes from the ghost towns of Rhyolite, Aurora, and Calico, the Death Valley Region Photograph Collection consists of eleven silver gelatin POP prints purchased from Amalgre Books of Bloomington, Indiana in April of 1997.</p>
+"
 <hr>
 <!-- Browse Collection -->
 <h6>

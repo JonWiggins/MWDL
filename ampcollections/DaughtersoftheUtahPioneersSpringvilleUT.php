@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Motto ""He Leadeth Me"" "width="369" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""Motto """"He Leadeth Me"""" ""width="369" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Motto ""He Leadeth Me"" 
+"Motto """"He Leadeth Me"""" "
 <!-- Article Text -->
 </p>
 In 1920, women in the Springville Utah area realized the importance of preserving our community's heritage. They began gathering artifacts, histories, photographs and documents of the area. Those interested in learning about the heritage of the area are invited to visit us at the old Carnegie Library on Main Street in Springville, where you can do personal research, and enjoy hands on activities and games with the family. The Museum is run by volunteers.</p>

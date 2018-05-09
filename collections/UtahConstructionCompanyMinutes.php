@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1850.jpg" alt="1904 "width="340" height="438"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1850.jpg" alt="1904"width="340" height="438"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1904 
+1904
 </div>
 <!-- Collection Title-->
 <h4>Utah Construction Company: Minutes</h4>

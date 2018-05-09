@@ -78,4 +78,14 @@
 <li><a href = "../ampcollections/AgriculturalCollegeofUtahCyanotypeCollection.php">AgriculturalCollegeofUtahCyanotypeCollection</a></li>
 <li><a href = "../ampcollections/CacheValleyChurches.php">CacheValleyChurches</a></li>
 <li><a href = "../ampcollections/CacheValleyDrugCourtOralHistoryProject.php">CacheValleyDrugCourtOralHistoryProject</a></li>
+<li><a href = "../ampcollections/CacheValleyDrugCourtOralHistoryProject.php">CacheValleyDrugCourtOralHistoryProject</a></li>
+<li><a href = "../ampcollections/AmericanFolkloreSocietyPapers.php">AmericanFolkloreSocietyPapers</a></li>
+<li><a href = "../ampcollections/CacheDaughtersofUtahPioneersMuseumCollection.php">CacheDaughtersofUtahPioneersMuseumCollection</a></li>
+<li><a href = "../ampcollections/ElectionReflectionsSocialMediaProject.php">ElectionReflectionsSocialMediaProject</a></li>
+<li><a href = "../ampcollections/JacksonHoleDudeRanchingTraditionTriangleX2017.php">JacksonHoleDudeRanchingTraditionTriangleX2017</a></li>
+<li><a href = "../ampcollections/OrsonFWhitneyDiaries.php">OrsonFWhitneyDiaries</a></li>
+<li><a href = "../ampcollections/SwanerLegacyOralHistoryProject.php">SwanerLegacyOralHistoryProject</a></li>
+<li><a href = "../ampcollections/UtahFederalResettlementProjectOralHistories.php">UtahFederalResettlementProjectOralHistories</a></li>
+<li><a href = "../ampcollections/UtahStateUniversityStatesmanPhotographCollection.php">UtahStateUniversityStatesmanPhotographCollection</a></li>
+<li><a href = "../ampcollections/WilliamOttogaryCollection.php">WilliamOttogaryCollection</a></li>
 <?php include("../includes/ampfooter.php");?>

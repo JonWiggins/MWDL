@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons""width="326" height ="423"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons""""width="326" height ="423"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Thesis from Southern Utah University Scholar Archive: "Ubuntu: A person is a person through other persons"
+"Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons"""
 <!-- Article Text -->
 <p></p>
 <p>Theses submitted to Southern Utah University in partial fulfillment of the requirement of a master's degree in Professional Communication, Education, or Arts Administration.</p>
