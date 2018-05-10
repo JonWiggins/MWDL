@@ -74,7 +74,7 @@ public class PartnerPageMaker {
             writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<p></p>");
             writer.println("<!-- Article Text -->");
-            writer.println("<p>" + toWrite.description + "</p>");
+            writer.println("<p>" + toWrite.article + "</p>");
             writer.println("<hr>");
             if (toWrite.browseLink != null)
                 writer.println("<a href=\"" + toWrite.browseLink + "\">Browse all records from " + toWrite.name + "</a>");
@@ -135,8 +135,8 @@ public class PartnerPageMaker {
             if (toWrite.imageDes != null)
                 writer.println(toWrite.imageDes);
             writer.println("<!-- Article Text -->");
-            if (toWrite.description != null)
-                writer.println(toWrite.description);
+            if (toWrite.article != null)
+                writer.println(toWrite.article);
             writer.println("<hr>");
             writer.println("<!-- Browse Collections -->");
             writer.println("<h6>");

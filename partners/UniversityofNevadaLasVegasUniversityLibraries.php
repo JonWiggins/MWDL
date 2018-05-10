@@ -32,6 +32,17 @@
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Nevada,+Las+Vegas,+University+Libraries">Browse all records from University of Nevada, Las Vegas, University Libraries</a>
 <!-- List all Active Collections -->
+<li><a href = "../collections/ShowgirlsCollection.php">Showgirls Collection</a></li>
+<li><a href = "../collections/SouthernNevadaandLasVegasHistoryinMaps.php">Southern Nevada and Las Vegas History in Maps</a></li>
+<li><a href = "../collections/LasVegasandWaterintheWest.php">Las Vegas and Water in the West</a></li>
+<li><a href = "../collections/NevadaTestSiteOralHistoryProject.php">Nevada Test Site Oral History Project</a></li>
+<li><a href = "../collections/WelcomeHomeHowardHowardHughesPhotographCollection.php">Welcome Home Howard! (Howard Hughes Photograph Collection)</a></li>
+<li><a href = "../collections/SouthernNevadaBoomtownYears.php">Southern Nevada Boomtown Years</a></li>
+<li><a href = "../collections/MenusTheArtofDining.php">Menus: The Art of Dining</a></li>
+<li><a href = "../collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">Historic Landscape of Nevada: Development Water and the Natural Environment</a></li>
+<li><a href = "../collections/DreamingtheSkylineResortArchitectureandtheNewUrbanSpace.php">Dreaming the Skyline: Resort Architecture and the New Urban Space</a></li>
+<li><a href = "../collections/CharlesSaladinoLandscapeArchitectureCollection.php">Charles Saladino Landscape Architecture Collection</a></li>
+<li><a href = "../collections/AfricanAmericanExperience.php">African American Experience</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

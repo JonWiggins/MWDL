@@ -27,7 +27,7 @@ import java.util.regex.Pattern;
 public class DataFetcher {
 
     /**
-     * Gets all of the Active Collections
+     * Gets all of the Active Collections from the Collection Data csv
      *
      * @return an ArrayList of Collections
      */
@@ -40,13 +40,9 @@ public class DataFetcher {
             ArrayList<String> toParse = new ArrayList<>();
 
             while (collectionData.hasNextLine()) {
-                toParse.add(collectionData.nextLine());
-            }
 
-
-            for (String line : toParse) {
                 Pattern pattern = Pattern.compile("([0-9]{4}),[Tt][Rr][Uu][Ee],(.*),(.*),(.*),(.*),(collection[0-9]{4}.*),([0-9]*),([0-9]*),(.*)");
-                Matcher matcher = pattern.matcher(line);
+                Matcher matcher = pattern.matcher(collectionData.nextLine());
                 if (matcher.find()) {
                     //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des
                     int collectionNumber = Integer.valueOf(matcher.group(1));
@@ -83,6 +79,62 @@ public class DataFetcher {
         return toReturn;
     }
 
+    /**
+     * Get all the active partners from the Partner Data csv
+     *
+     * @return an ArrayList of PartnerPages
+     */
+    public static ArrayList<PartnerPage> getAllActivePartners() {
+        ArrayList<PartnerPage> toReturn = new ArrayList<>();
+
+        try {
+            Scanner data = new Scanner(new File("newPartnerData.csv"));
+
+            while (data.hasNextLine()) {
+
+                Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*),(.*),(http:.*),(.*),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
+                Matcher matcher = pattern.matcher(data.nextLine());
+
+                if(matcher.find()){
+                    //Partner Number, Passed Inspection, Note, Name, Link, Text, Image Name, Image Height, Image Length, Image Description
+                    int partnerNumber = Integer.parseInt(matcher.group(1));
+                    boolean isActive = true;
+                    String note = matcher.group(2);
+                    String name = matcher.group(3);
+                    String link = matcher.group(4);
+                    String text = matcher.group(5);
+                    String img = matcher.group(6);
+                    String rawImgH = matcher.group(7);
+                    String rawImgW = matcher.group(8);
+                    String des = matcher.group(9);
+
+                    int imgH;
+                    int imgW;
+
+                    if(rawImgH.equalsIgnoreCase(""))
+                        imgH = 0;
+                    else
+                        imgH = Integer.valueOf(rawImgH);
+
+                    if(rawImgW.equalsIgnoreCase(""))
+                        imgW = 0;
+                    else
+                        imgW = Integer.valueOf(rawImgW);
+
+                    toReturn.add(new PartnerPage(partnerNumber, true, note, name, link, text, img, imgH, imgW, des));
+                }
+
+            }
+
+        } catch (FileNotFoundException e) {
+            System.err.println("Could not access the Partner Data csv file at DataFetcher.getAllActivePartners");
+            System.exit(1);
+        }
+
+
+        return toReturn;
+    }
+
 
     /**
      * Fetches the Collection object with the given collectionNumber
@@ -100,15 +152,10 @@ public class DataFetcher {
         return null;
     }
 
-    public static PartnerPage fetchPartner(int partnerNumber) throws FileNotFoundException {
-        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
-        while (partnerData.hasNext()) {
-            String currentDataLine = partnerData.next();
-            Scanner n = new Scanner(currentDataLine).useDelimiter(",");
-            String currentDataNumber = n.next();
-            if (currentDataNumber.contains(String.valueOf(partnerNumber))) {
-                return new PartnerPage(partnerNumber, Boolean.valueOf(n.next()), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next(), n.next());
-            }
+    public static PartnerPage fetchPartner(int partnerNumber){
+        for(PartnerPage element : getAllActivePartners()){
+            if (element.partnerNumber == partnerNumber)
+                return element;
         }
         return null;
     }
@@ -138,41 +185,6 @@ public class DataFetcher {
         }
         return toReturn;
     }
-
-
-    public static ArrayList<PartnerPage> getAllActivePartners() throws FileNotFoundException {
-        ArrayList<PartnerPage> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("newPartnerData.csv"));
-
-        partnerData.next(); //skip title line
-
-        while (partnerData.hasNextLine()) {
-
-            String currentDataLine = partnerData.nextLine();
-            Scanner currentLine = new Scanner(currentDataLine).useDelimiter(",");
-            String currentDataNumber = currentLine.next();
-            String isActive = currentLine.next();
-            if (Boolean.valueOf(isActive)) {
-                String note = currentLine.next();
-                String name = currentLine.next();
-                String link = currentLine.next();
-                String text = currentLine.next();
-                String imgName = currentLine.next();
-                String imgH = currentLine.next();
-                String imgW = currentLine.next();
-                String imgDes;
-                try {
-                    imgDes = currentLine.next();
-                } catch (NoSuchElementException e) {
-                    imgDes = "";
-                }
-                list.add(new PartnerPage(Integer.valueOf(currentDataNumber), Boolean.valueOf(isActive), note, name, link, text, imgName, imgH, imgW, imgDes));
-            }
-
-        }
-        return list;
-    }
-
 
     public static ArrayList<Integer> getInactiveCollectionsNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();

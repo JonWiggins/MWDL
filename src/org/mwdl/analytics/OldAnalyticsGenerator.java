@@ -39,7 +39,7 @@ import java.util.Scanner;
  * @version 2/7/18
  */
 
-public class AnalyticsGen {
+public class OldAnalyticsGenerator {
 
     public static int count;
 

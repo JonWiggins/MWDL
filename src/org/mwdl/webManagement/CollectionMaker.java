@@ -144,7 +144,7 @@
 //                            try {
 //                                image = borderRemover.select("img").removeAttr("border").toString().replace(">","").replace("></a>","");
 //                                if(!(image == null)) {
-//                                    //grab the description
+//                                    //grab the article
 //                                    try {
 //                                        imageDes = borderRemover.select("a").last().removeAttr("a").removeAttr("ref").toString();
 //                                    } catch (NullPointerException e) {
@@ -169,7 +169,7 @@
 //                                //System.out.println("Image & Link: " + image);
 //                                //System.out.println("AMP Image & Link: " + ampImage);
 //                            } catch (IndexOutOfBoundsException e) {
-//                                System.err.println("Does Article " + count + " not have an image or description?");
+//                                System.err.println("Does Article " + count + " not have an image or article?");
 //                            }
 //                        }else if(articleContents[i].contains("all records")){
 //                            //browse all link selected
@@ -263,8 +263,8 @@
 //                    }
 //                    if(imageDes == null){
 //                        // this page is removed
-//                        if(note == null) note = count + ".php has been marked for review (Null image description)";
-//                        else note = note.concat(" (Null image description)");
+//                        if(note == null) note = count + ".php has been marked for review (Null image article)";
+//                        else note = note.concat(" (Null image article)");
 //                        System.err.println(note);
 //                        isActive = false;
 //                    }

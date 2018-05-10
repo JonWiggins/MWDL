@@ -37,7 +37,7 @@ public class Collection {
      * @param img The name of the image typically following the format: collection%collectionNumber%.jpg
      * @param height The height of the image as an int, can be 0
      * @param width The width of the image as an int, can be 0
-     * @param des A description of the image
+     * @param des A article of the image
      */
     public Collection(int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des){
         this.collectionNumber = collectionNumber;
@@ -46,11 +46,13 @@ public class Collection {
         this.title = title;
         this.publisher= publisher;
         this.publisherLink = publisher;
-        this.text = text;
         this.img= img;
         this.imgH = height;
         this.imgW = width;
         this.des= des;
+
+        //Normalize the article text by removing the special markers
+        this.text = text.replace("%comma%",",").replace("%newline%","\n");
 
         refinedPublisher = publisher
                 .replace(" ","")
@@ -60,6 +62,8 @@ public class Collection {
                 .replace(")","")
                 .replace(",","");
 
+        //Removes any special things from the title
+        // I don't think any titles have <p> or <b>, but just to be sure
         this.urlTitle = title
                 //pretty sure these ones aren't even needed tbh
                 .replaceAll("%comma%","")
@@ -68,6 +72,8 @@ public class Collection {
                 .replaceAll("<b>","")
                 .replaceAll("</b>","");
 
+        //Remove any character that is not a letter or number
+        // This normalizes the tile to just raw text for the title
         urlTitle = urlTitle.replaceAll("[^a-zA-Z0-9]", "");
 
     }

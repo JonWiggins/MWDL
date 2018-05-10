@@ -12,7 +12,7 @@
 <h6><a href="http://libraries.idaho.gov/">Idaho Commission for Libraries Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner341.jpg alt="" width="" height="" layout = "responsive"></amp-img>
+<amp-img src="../images/partner_images/partner341.jpg alt="" width="0" height="0" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

@@ -2,7 +2,6 @@ package org.mwdl.webManagement;
 
 import org.mwdl.data.DataFetcher;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 /**
@@ -19,15 +18,14 @@ public class PartnerPage {
     public String name;
     public ArrayList<Collection> activeCollections;
     public String link;
-    public String description;
+    public String article;
     public String image;
-    public String imageH;
-    public String imageW;
+    public int imageH;
+    public int imageW;
     public String imageDes;
     public int partnerNumber;
     public boolean isActive;
     public String note;
-
     public String urlName;
     public String browseLink;
 
@@ -37,13 +35,13 @@ public class PartnerPage {
      * Should be read in from newPartnerData.csv which is in the following format
      *  Partner Number, Passed Inspection, Note, Name, Link, Text, Image Name, Image Height, Image Length, Image Description
      */
-    public PartnerPage(int number, boolean isActive, String note, String name, String link, String text, String image, String imageH, String imageW, String imageDes){
+    public PartnerPage(int number, boolean isActive, String note, String name, String link, String text, String image, int imageH, int imageW, String imageDes){
         this.partnerNumber = number;
         this.isActive = isActive;
         this.note = note;
         this.name = name.replace("%comma%",",");
         this.link = link;
-        this.description = text.replace("%comma%",",").replace("%newline%","\n");
+        this.article = text.replace("%comma%",",").replace("%newline%","\n");
         this.image = image;
         this.imageH = imageH;
         this.imageW = imageW;
@@ -55,7 +53,9 @@ public class PartnerPage {
 
         browseLink = getExlibirisLink();
 
+        //Normalize the name of the partner for storage in a url
         urlName = name.replaceAll("%comma%","");
+        //removes all characters from the String other than a-z and 0-9
         urlName = urlName.replaceAll("[^a-zA-Z0-9]", "");
     }
 

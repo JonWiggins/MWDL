@@ -151,7 +151,7 @@
 //                            try {
 //                                image = borderRemover.select("img").removeAttr("border").toString().replace(">", "").replace("></a>", "");
 //                                if (!(image == null)) {
-//                                    //grab the description
+//                                    //grab the article
 //                                    try {
 //                                        int a = 2;
 //                                        imageDes = borderRemover.select("a").last().removeAttr("a").removeAttr("ref").toString();
@@ -178,7 +178,7 @@
 //                                System.out.println("Image & Link: " + image);
 //                                System.out.println("AMP Image & Link: " + ampImage);
 //                            } catch (IndexOutOfBoundsException e) {
-//                                System.err.println("Does Partner " + count + " not have an image or description?");
+//                                System.err.println("Does Partner " + count + " not have an image or article?");
 //                            }
 //                        } else if (articleContents[i].contains("all records")) {
 //                            //browse all link selected
@@ -206,7 +206,7 @@
 //                        articleText = tempText.replace("<p>Search within the records from this partner:</p>", "");
 //
 //                        //refine the article text, remove the "search within" stuff
-//                        //and the image description, marked by the <strong> tag
+//                        //and the image article, marked by the <strong> tag
 //
 //                        if (articleText.contains("<strong>")) {
 //                            Element desGrabber = Jsoup.parseBodyFragment(articleText);
@@ -281,8 +281,8 @@
 //                        } catch (NullPointerException e) {
 //
 //                            // this page is removed
-//                            if (note == null) note = count + ".php has been marked for review (Null image description)";
-//                            else note = note.concat(" (Null image description)");
+//                            if (note == null) note = count + ".php has been marked for review (Null image article)";
+//                            else note = note.concat(" (Null image article)");
 //                            System.err.println(note);
 //                            isActive = false;
 //                        }

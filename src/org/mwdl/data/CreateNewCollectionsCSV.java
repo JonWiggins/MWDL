@@ -158,7 +158,7 @@ public class CreateNewCollectionsCSV {
             //skip amp version
             s.next();
 
-            //image description
+            //image article
             String imgDes = s.next().replace("<br>","");
             Pattern imgDesPattern = Pattern.compile("<a\\b[^>]*>(.*?)<\\/a>");
             Matcher imgDesMatcher = imgDesPattern.matcher(imgDes);

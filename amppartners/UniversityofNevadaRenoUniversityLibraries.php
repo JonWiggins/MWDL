@@ -27,4 +27,29 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Nevada,+Reno,+University+Libraries">Browse all records from University of Nevada, Reno, University Libraries</a>
 </h6>
 <!-- List all Active Collections -->
+<li><a href = "../ampcollections/ImagesofLakeTahoe.php">ImagesofLakeTahoe</a></li>
+<li><a href = "../ampcollections/SagebrushVernacularRuralArchitectureinNevada.php">SagebrushVernacularRuralArchitectureinNevada</a></li>
+<li><a href = "../ampcollections/HistoricAerialPhotographsofEarlyNevada.php">HistoricAerialPhotographsofEarlyNevada</a></li>
+<li><a href = "../ampcollections/BasquePosters.php">BasquePosters</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoCampusImages.php">UniversityofNevadaRenoCampusImages</a></li>
+<li><a href = "../ampcollections/NevadainMaps.php">NevadainMaps</a></li>
+<li><a href = "../ampcollections/JustPassinThroughTheLincolnandVictoryHighwaysinNevada.php">JustPassinThroughTheLincolnandVictoryHighwaysinNevada</a></li>
+<li><a href = "../ampcollections/TahoeResources.php">TahoeResources</a></li>
+<li><a href = "../ampcollections/NevadaAgriculturalPublications.php">NevadaAgriculturalPublications</a></li>
+<li><a href = "../ampcollections/OlgaReifschneiderBotanicalImagesofNorthernNevadaandtheLakeTahoeRegion.php">OlgaReifschneiderBotanicalImagesofNorthernNevadaandtheLakeTahoeRegion</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoSpecialCollectionsPhotographs.php">UniversityofNevadaRenoSpecialCollectionsPhotographs</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoArtCollection.php">UniversityofNevadaRenoArtCollection</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoArchivesDocuments.php">UniversityofNevadaRenoArchivesDocuments</a></li>
+<li><a href = "../ampcollections/GreatBasinHistoryofMedicinePhotographArchives.php">GreatBasinHistoryofMedicinePhotographArchives</a></li>
+<li><a href = "../ampcollections/BasqueDigitalCollection.php">BasqueDigitalCollection</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoPosters.php">UniversityofNevadaRenoPosters</a></li>
+<li><a href = "../ampcollections/ArborglyphsonPeavine.php">ArborglyphsonPeavine</a></li>
+<li><a href = "../ampcollections/UniversityofNevadaRenoBookArtsCollection.php">UniversityofNevadaRenoBookArtsCollection</a></li>
+<li><a href = "../ampcollections/LaBaskonia.php">LaBaskonia</a></li>
+<li><a href = "../ampcollections/MargaretMWheatCollection.php">MargaretMWheatCollection</a></li>
+<li><a href = "../ampcollections/MustangsMXMissilesandRadioactiveWasteSelectedCongressionalHearings.php">MustangsMXMissilesandRadioactiveWasteSelectedCongressionalHearings</a></li>
+<li><a href = "../ampcollections/SheepIndustryofNorthernNevada.php">SheepIndustryofNorthernNevada</a></li>
+<li><a href = "../ampcollections/WesternShoshoneDefenseProject.php">WesternShoshoneDefenseProject</a></li>
+<li><a href = "../ampcollections/MayaMillerPapers.php">MayaMillerPapers</a></li>
+<li><a href = "../ampcollections/PaulLaxaltandRonaldReagan.php">PaulLaxaltandRonaldReagan</a></li>
 <?php include("../includes/ampfooter.php");?>

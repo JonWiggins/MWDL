@@ -28,4 +28,15 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Nevada,+Las+Vegas,+University+Libraries">Browse all records from University of Nevada, Las Vegas, University Libraries</a>
 </h6>
 <!-- List all Active Collections -->
+<li><a href = "../ampcollections/ShowgirlsCollection.php">ShowgirlsCollection</a></li>
+<li><a href = "../ampcollections/SouthernNevadaandLasVegasHistoryinMaps.php">SouthernNevadaandLasVegasHistoryinMaps</a></li>
+<li><a href = "../ampcollections/LasVegasandWaterintheWest.php">LasVegasandWaterintheWest</a></li>
+<li><a href = "../ampcollections/NevadaTestSiteOralHistoryProject.php">NevadaTestSiteOralHistoryProject</a></li>
+<li><a href = "../ampcollections/WelcomeHomeHowardHowardHughesPhotographCollection.php">WelcomeHomeHowardHowardHughesPhotographCollection</a></li>
+<li><a href = "../ampcollections/SouthernNevadaBoomtownYears.php">SouthernNevadaBoomtownYears</a></li>
+<li><a href = "../ampcollections/MenusTheArtofDining.php">MenusTheArtofDining</a></li>
+<li><a href = "../ampcollections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment</a></li>
+<li><a href = "../ampcollections/DreamingtheSkylineResortArchitectureandtheNewUrbanSpace.php">DreamingtheSkylineResortArchitectureandtheNewUrbanSpace</a></li>
+<li><a href = "../ampcollections/CharlesSaladinoLandscapeArchitectureCollection.php">CharlesSaladinoLandscapeArchitectureCollection</a></li>
+<li><a href = "../ampcollections/AfricanAmericanExperience.php">AfricanAmericanExperience</a></li>
 <?php include("../includes/ampfooter.php");?>
