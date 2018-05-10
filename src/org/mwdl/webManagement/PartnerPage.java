@@ -57,6 +57,12 @@ public class PartnerPage {
         urlName = name.replaceAll("%comma%","");
         //removes all characters from the String other than a-z and 0-9
         urlName = urlName.replaceAll("[^a-zA-Z0-9]", "");
+
+        //ensure that the image size is not 0
+        if(imageH == 0)
+            this.imageH = 250;
+        if(imageW == 0)
+            this.imageW = 250;
     }
 
     /**

@@ -12,7 +12,7 @@
 <h6><a href="http://www.utahmoca.org">Utah Museum of Contemporary Art Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner344.jpg alt="" width="300" height="0" layout = "responsive"></amp-img>
+<amp-img src="../images/partner_images/partner344.jpg alt="" width="300" height="250" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

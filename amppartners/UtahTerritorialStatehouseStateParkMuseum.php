@@ -12,7 +12,7 @@
 <h6><a href="http://stateparks.utah.gov/park/territorial-statehouse-state-park-museum">Utah Territorial Statehouse State Park Museum Website </a></h6>
 <!-- Partner Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner351.jpg alt="" width="0" height="0" layout = "responsive"></amp-img>
+<amp-img src="../images/partner_images/partner351.jpg alt="" width="250" height="250" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

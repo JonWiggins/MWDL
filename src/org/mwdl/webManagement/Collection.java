@@ -76,6 +76,11 @@ public class Collection {
         // This normalizes the tile to just raw text for the title
         urlTitle = urlTitle.replaceAll("[^a-zA-Z0-9]", "");
 
+        //ensure that the image size is not 0
+        if(imgH == 0)
+            this.imgH = 250;
+        if(imgW == 0)
+            this.imgW = 250;
     }
 
     /**
