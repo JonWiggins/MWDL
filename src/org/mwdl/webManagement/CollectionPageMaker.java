@@ -72,15 +72,15 @@ public class CollectionPageMaker {
             writer.println("<!-- Share Links -->");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/" + toWrite.urlTitle + ".php&t=" + toWrite.title + "\"\n" +
-                    "                                  target=\"_blank\"><imageName src=\"../images/facebook.png\" alt=\"facebook\"\n" +
+                    "                                  target=\"_blank\"><img src=\"../images/facebook.png\" alt=\"facebook\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Facebook</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.twitter.com/intent/tweet?url=mwdl.org/collections/" + toWrite.urlTitle + ".php&via=@MountainWestDL&text=" + toWrite.title + "\"\n" +
-                    "                                  target=\"_blank\"><imageName src=\"../images/twitter.png\" alt=\"twitter\"\n" +
+                    "                                  target=\"_blank\"><img src=\"../images/twitter.png\" alt=\"twitter\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Twitter</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.tumblr.com/share/link?url=mwdl.org/collections/" + toWrite.urlTitle + ".php\"\n" +
-                    "                                  target=\"_blank\"><imageName src=\"../images/tumblr.png\"\n" +
+                    "                                  target=\"_blank\"><img src=\"../images/tumblr.png\"\n" +
                     "                                                       alt=\"tumblr\" height=\"20\" width=\"20\"> Tumblr</a></li>");
             writer.println("</ul>");
             writer.println("</div>");
@@ -89,7 +89,7 @@ public class CollectionPageMaker {
             writer.println("<!-- Image (if any)-->");
             if (toWrite.imageName != null)
                 writer.println(
-                        "<imageName src=\"../images/collection_images/" +
+                        "<img src=\"../images/collection_images/" +
                                 toWrite.imageName +
                         "\" alt=\"" + toWrite.des + "\""+
                         "width=\"" + toWrite.imageWidth + "\" height=\"" + toWrite.imageHeight +"\""
@@ -152,13 +152,13 @@ public class CollectionPageMaker {
             writer.println("<!-- Collection Publisher -->");
             writer.println("<h6> Published by <a href=\"../partners/" + toWrite.refinedPublisher + ".php\">"+ toWrite.publisher +"</a></h6>");
             writer.println("<!-- Collection Image -->");
-            writer.println("<div class=amp-imageName-fill>");
+            writer.println("<div class=amp-img-fill>");
             if (toWrite.imageName != null)
                 writer.println(
-                        "<amp-imageName src=\"../images/collection_images/" +
+                        "<amp-img src=\"../images/collection_images/" +
                         "alt=\"" + toWrite.des +"\"" +
                         "width=\"" + toWrite.imageWidth + "\" height =\"" + toWrite.imageHeight +"\" " +
-                        " layout = \"responsive\"></amp-imageName>"
+                        " layout = \"responsive\"></amp-img>"
                 );
             writer.println("</div>");
             writer.println("<!-- Image Description -->");

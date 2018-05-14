@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.utah.edu/">University of Utah Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner205.jpg alt="" width="357" height="243" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner205.jpg alt="" width="357" height="243" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

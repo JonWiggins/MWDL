@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://library.utah.gov/">Utah State Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner120.jpg alt="" width="383" height="233" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner120.jpg alt="" width="383" height="233" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

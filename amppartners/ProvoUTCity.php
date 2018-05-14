@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.provo.org/">Provo (UT) City Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner138.jpg alt="" width="354" height="265" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner138.jpg alt="" width="354" height="265" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

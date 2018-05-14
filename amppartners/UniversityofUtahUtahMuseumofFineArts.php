@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://umfa.utah.edu/">University of Utah - Utah Museum of Fine Arts Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner118.jpg alt="" width="259" height="194" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner118.jpg alt="" width="259" height="194" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

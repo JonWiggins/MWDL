@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.millardcounty.com/placestosee/greatbasinmuseum.htm">Great Basin Museum Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner142.jpg alt="" width="384" height="288" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner142.jpg alt="" width="384" height="288" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

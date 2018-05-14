@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://content.lib.utah.edu/cdm4/az_details.php?id=49">Great Basin Association Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner111.jpg alt="" width="317" height="218" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner111.jpg alt="" width="317" height="218" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.lewiston-ut.org/Library.html">Lewiston City (UT) Public Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner361.jpg alt="" width="250" height="250" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner361.jpg alt="" width="250" height="250" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

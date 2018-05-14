@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://home.comcast.net/~newtonlib/">Newton Town (UT) Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner362.jpg alt="" width="250" height="250" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner362.jpg alt="" width="250" height="250" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

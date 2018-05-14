@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://history.utah.gov/">Department of Heritage and Arts Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner119.jpg alt="" width="366" height="286" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner119.jpg alt="" width="366" height="286" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

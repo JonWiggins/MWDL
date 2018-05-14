@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://stateparks.utah.gov/parks/frontier-homestead">Frontier Homestead State Park (Cedar City, UT) Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner207.jpg alt="" width="288" height="284" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner207.jpg alt="" width="288" height="284" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

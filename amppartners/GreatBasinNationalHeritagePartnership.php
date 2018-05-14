@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.greatbasinheritage.org/">Great Basin National Heritage Partnership Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner141.jpg alt="" width="200" height="217" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner141.jpg alt="" width="200" height="217" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

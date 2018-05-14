@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.uvu.edu/museum/">Utah Valley University - Woodbury Art Museum Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner331.jpg alt="" width="306" height="165" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner331.jpg alt="" width="306" height="165" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

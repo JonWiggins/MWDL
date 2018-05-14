@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://libweb.slcc.edu/">Salt Lake Community College Libraries Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner131.jpg alt="" width="383" height="237" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner131.jpg alt="" width="383" height="237" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

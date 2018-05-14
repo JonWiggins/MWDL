@@ -13,7 +13,7 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<imageName src="../images/partner_images/partner125.jpg" alt="Journal of Mormom Thought"width="316" height="76"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/partner_images/partner125.jpg" alt="Journal of Mormom Thought"width="316" height="76"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
 Journal of Mormom Thought
 </div>

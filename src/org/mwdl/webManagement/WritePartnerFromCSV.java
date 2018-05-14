@@ -22,7 +22,7 @@ public class WritePartnerFromCSV {
 
         ArrayList<Partner> toWrite = DataFetcher.getAllActivePartners();
 
-        System.out.println("Found" + toWrite.size() + " active partners in the Partner Data CSV file");
+        System.out.println("Found " + toWrite.size() + " active partners in the Partner Data CSV file");
         PartnerPageMaker.writeGivenPartnerPages(toWrite);
         System.out.println("Completed writing Partners");
     }

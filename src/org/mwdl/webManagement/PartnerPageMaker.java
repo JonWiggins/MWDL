@@ -64,7 +64,7 @@ public class PartnerPageMaker {
             writer.println("<!-- Image -->");
             if (toWrite.imageName != null)
                 writer.println(
-                        "<imageName src=\"../images/partner_images/" +
+                        "<img src=\"../images/partner_images/" +
                                 toWrite.imageName +
                                 "\" alt=\"" + toWrite.imageDes + "\""+
                                 "width=\"" + toWrite.imageWidth + "\" height=\"" + toWrite.imageHeight +"\""
@@ -130,14 +130,14 @@ public class PartnerPageMaker {
             writer.println("<!-- Partner Website -->");
             writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<!-- Partner Image -->");
-            writer.println("<div class=amp-imageName-fill>");
+            writer.println("<div class=amp-img-fill>");
             if (toWrite.imageName != null)
-                writer.println("<amp-imageName src=\"../images/partner_images/" +
+                writer.println("<amp-img src=\"../images/partner_images/" +
                         toWrite.imageName +
                         " alt=\"" + toWrite.imageDes +"\"" +
                         " width=\"" + toWrite.imageWidth + "\"" +
                         " height=\""+ toWrite.imageHeight +"\"" +
-                        " layout = \"responsive\"></amp-imageName>"
+                        " layout = \"responsive\"></amp-img>"
 
                 );
             writer.println("</div>");

@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.arch.utah.edu/">University of Utah - College of Architecture and Planning Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner149.jpg alt="" width="321" height="211" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner149.jpg alt="" width="321" height="211" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

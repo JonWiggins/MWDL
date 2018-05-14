@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.li.suu.edu/">Southern Utah University - Sherratt Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-imageName-fill>
-<amp-imageName src="../images/partner_images/partner123.jpg alt="" width="341" height="245" layout = "responsive"></amp-imageName>
+<div class=amp-img-fill>
+<amp-img src="../images/partner_images/partner123.jpg alt="" width="341" height="245" layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 
