@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.emerycounty.com/archives/index.htm">Emery County (UT) Archives Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner135.jpg alt="" width="339" height="154" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner135.jpg alt="" width="339" height="154" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

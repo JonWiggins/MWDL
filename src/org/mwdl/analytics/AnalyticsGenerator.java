@@ -1,6 +1,7 @@
 package org.mwdl.analytics;
 
 import org.mwdl.data.DataFetcher;
+import org.mwdl.data.ProjectConstants;
 import org.mwdl.webManagement.Collection;
 
 import java.io.File;
@@ -102,7 +103,7 @@ public class AnalyticsGenerator {
         //This will populate the partners ArrayList with all of the lines
         for(String month : months){
             try {
-                Scanner currentFile = new Scanner(new File("MasterLists/" + month + ".csv"));
+                Scanner currentFile = new Scanner(new File(ProjectConstants.MasterListDirectory + month + ".csv"));
                 parseFileAndAddLines(currentFile, month);
             } catch (FileNotFoundException e) {
                 System.err.println("Could not Read File for month" + month);
@@ -129,7 +130,7 @@ public class AnalyticsGenerator {
 
             for (String currentHub : hubidtoName.keySet()) {
 
-                String FileLocAndName = "GeneratedAnalytics/" + hubidtoName.get(currentHub) + " Analytics.csv";
+                String FileLocAndName = ProjectConstants.GeneratedAnalyticsDirectory + hubidtoName.get(currentHub) + " Analytics.csv";
                 PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
                 writer.println(hubidtoName.get(currentHub));
 

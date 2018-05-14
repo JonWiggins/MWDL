@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.brynermuseum.com/">Bryner Pioneer Museum (Price, UT) Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner206.jpg alt="" width="353" height="238" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner206.jpg alt="" width="353" height="238" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

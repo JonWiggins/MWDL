@@ -19,7 +19,7 @@
 // *
 // * pls no use
 // *
-// * Large parts of this program had to be commented out b/c of changes to the PartnerPage class after it was Deprecated
+// * Large parts of this program had to be commented out b/c of changes to the Partner class after it was Deprecated
 // * I should probably just delete this so 10 years from now no one can find it and use how bad it is to blackmail me
 // *
 // * @author Jonathan Wiggins
@@ -30,7 +30,7 @@
 //@Deprecated //okay but actually please don't use this
 //public class PartnerMaker {
 //
-//    private static ArrayList<PartnerPage> partnerArrayList;
+//    private static ArrayList<Partner> partnerArrayList;
 //    private static PrintWriter csv;
 //    private static PrintWriter mapCSV;
 //
@@ -89,7 +89,7 @@
 //        while (stopNumber >= count) {
 //            try {
 //                boolean isActive = true;
-//                String note = null, image = null, ampImage = null, imageDes = null, browseLink = null;
+//                String note = null, imageName = null, ampImage = null, imageDes = null, browseLink = null;
 //                Document doc = Jsoup.connect("http://mwdl.org/partners/" + count + ".php").get();
 //
 //                //get the title => search for title tag, store contents
@@ -127,7 +127,7 @@
 //                            .replace("</p>", "");
 //                }
 //                System.out.println("Link to partner Page: " + currentLink);
-//                //get accompanying text => everything between here and an image tag
+//                //get accompanying text => everything between here and an imageName tag
 //                String currentText = doc.select("p").toString()
 //                        .replace("&amp;", "&")
 //                        .replace(currentLink, "")
@@ -143,14 +143,14 @@
 //                    String tempText = "";
 //                    for (int i = 0; i < articleContents.length; i++) {
 //                        articleContents[i] = articleContents[i].concat("</p>");
-//                        if (articleContents[i].contains("img src")) {
-//                            //this is the articles image
+//                        if (articleContents[i].contains("imageName src")) {
+//                            //this is the articles imageName
 //                            //remove the border, and save this and the amp version
 //                            Element borderRemover = Jsoup.parseBodyFragment(articleContents[i]);
 //
 //                            try {
-//                                image = borderRemover.select("img").removeAttr("border").toString().replace(">", "").replace("></a>", "");
-//                                if (!(image == null)) {
+//                                imageName = borderRemover.select("imageName").removeAttr("border").toString().replace(">", "").replace("></a>", "");
+//                                if (!(imageName == null)) {
 //                                    //grab the article
 //                                    try {
 //                                        int a = 2;
@@ -160,25 +160,25 @@
 //                                    }
 //                                    System.out.println("Image Description: " + imageDes);
 //
-//                                    if(!image.contains("height")){
-//                                        image = image.concat(" height =\"250\"");
+//                                    if(!imageName.contains("height")){
+//                                        imageName = imageName.concat(" height =\"250\"");
 //                                    }
-//                                    if(!image.contains("width")){
-//                                        image = image.concat(" width=\"250\"");
+//                                    if(!imageName.contains("width")){
+//                                        imageName = imageName.concat(" width=\"250\"");
 //                                    }
 //
-//                                    ampImage = image
-//                                            .replace("img", "amp-img")
+//                                    ampImage = imageName
+//                                            .replace("imageName", "amp-imageName")
 //                                            .replace("<p>", "")
 //                                            .replace("border=\"2\"", "")
 //                                            .replace("../images", "../images")
-//                                            .concat(" layout = \"responsive\"></amp-img></a>");
-//                                    image = image.concat("align=\"right\" style=\"max-width:250px; height:auto; margin: 3%; display:block; \">");
+//                                            .concat(" layout = \"responsive\"></amp-imageName></a>");
+//                                    imageName = imageName.concat("align=\"right\" style=\"max-width:250px; height:auto; margin: 3%; display:block; \">");
 //                                }
-//                                System.out.println("Image & Link: " + image);
+//                                System.out.println("Image & Link: " + imageName);
 //                                System.out.println("AMP Image & Link: " + ampImage);
 //                            } catch (IndexOutOfBoundsException e) {
-//                                System.err.println("Does Partner " + count + " not have an image or article?");
+//                                System.err.println("Does Partner " + count + " not have an imageName or article?");
 //                            }
 //                        } else if (articleContents[i].contains("all records")) {
 //                            //browse all link selected
@@ -188,13 +188,13 @@
 //                            //it is the search bar
 //                            //ignore it
 //                        } else {
-//                            //it is not an image, a des, a browse, or a search bar
+//                            //it is not an imageName, a des, a browse, or a search bar
 //                            //it must be part of the text
 //                            tempText = tempText.concat(articleContents[i]);
 //                        }
 //                    }
 //
-//                    //test to see if the article text contain the image des, if it does, remove it
+//                    //test to see if the article text contain the imageName des, if it does, remove it
 //                    if (tempText.contains("<a href")) {
 //                        //its does
 //                        Element desGrabber = Jsoup.parseBodyFragment(tempText);
@@ -206,7 +206,7 @@
 //                        articleText = tempText.replace("<p>Search within the records from this partner:</p>", "");
 //
 //                        //refine the article text, remove the "search within" stuff
-//                        //and the image article, marked by the <strong> tag
+//                        //and the imageName article, marked by the <strong> tag
 //
 //                        if (articleText.contains("<strong>")) {
 //                            Element desGrabber = Jsoup.parseBodyFragment(articleText);
@@ -230,43 +230,43 @@
 //                        else note = note.concat(" (Null Partner)");
 //                        System.err.println(note);
 //                    }
-//                    if (image == null) {
-//                        // try one more TODO to capture the image
+//                    if (imageName == null) {
+//                        // try one more TODO to capture the imageName
 //                        try {
-//                            image = doc.body().select("img").last().removeAttr("border").toString().replace("</a>", "");
+//                            imageName = doc.body().select("imageName").last().removeAttr("border").toString().replace("</a>", "");
 //
-//                            if(!image.contains("height")){
-//                                image = image.concat(" height =\"250\"");
+//                            if(!imageName.contains("height")){
+//                                imageName = imageName.concat(" height =\"250\"");
 //                            }
-//                            if(!image.contains("width")){
-//                                image = image.concat(" width=\"250\"");
+//                            if(!imageName.contains("width")){
+//                                imageName = imageName.concat(" width=\"250\"");
 //                            }
 //
-//                            ampImage = image
-//                                    .replace("img", "amp-img")
+//                            ampImage = imageName
+//                                    .replace("imageName", "amp-imageName")
 //                                    .replace("<p>", "")
 //                                    .replace("border=\"2\"", "")
 //                                    .replace("../images", "../images")
-//                                    .concat(" layout = \"responsive\"></amp-img>");
-//                            image = image.concat("align=\"right\" style=\"max-width:250px; height:auto; margin: 3%; display:block; \">");
+//                                    .concat(" layout = \"responsive\"></amp-imageName>");
+//                            imageName = imageName.concat("align=\"right\" style=\"max-width:250px; height:auto; margin: 3%; display:block; \">");
 //
-//                            System.out.println("Image & Link: " + image);
+//                            System.out.println("Image & Link: " + imageName);
 //                            System.out.println("AMP Image & Link: " + ampImage);
 //
 //
 //                        } catch (Exception e) {
-//                            note = count + ".php has been marked for review (Null image)";
+//                            note = count + ".php has been marked for review (Null imageName)";
 //                            System.err.println(note);
 //                            isActive = false;
 //                        }
 //
 //                    }
-//                    if (image.contains("mountainWestDigitalLibrary-mainLogo.png")) {
-//                        //the image captured is the Logo
-//                        image = null;
+//                    if (imageName.contains("mountainWestDigitalLibrary-mainLogo.png")) {
+//                        //the imageName captured is the Logo
+//                        imageName = null;
 //                        ampImage = null;
-//                        if (note == null) note = count + ".php has been marked for review (Null image)";
-//                        else note = note.concat(" (Null image)");
+//                        if (note == null) note = count + ".php has been marked for review (Null imageName)";
+//                        else note = note.concat(" (Null imageName)");
 //                        System.err.println(note);
 //                        isActive = false;
 //
@@ -281,8 +281,8 @@
 //                        } catch (NullPointerException e) {
 //
 //                            // this page is removed
-//                            if (note == null) note = count + ".php has been marked for review (Null image article)";
-//                            else note = note.concat(" (Null image article)");
+//                            if (note == null) note = count + ".php has been marked for review (Null imageName article)";
+//                            else note = note.concat(" (Null imageName article)");
 //                            System.err.println(note);
 //                            isActive = false;
 //                        }
@@ -330,7 +330,7 @@
 ////                    }
 //
 //                    //Now that you have the info needed, write it all to a new html doc, and then to a new amphtml doc
-//                    //partnerArrayList.add(new PartnerPage(count, isActive, note, partnerName, urlPartnerName, currentLink, articleText, image, ampImage, imageDes, browseLink));
+//                    //partnerArrayList.add(new Partner(count, isActive, note, partnerName, urlPartnerName, currentLink, articleText, imageName, ampImage, imageDes, browseLink));
 //
 //                } else {
 //                    note = "Partner " + count + " has too few elements to be parsed.";
@@ -348,7 +348,7 @@
 //
 //            count++;
 //        }
-//        for (PartnerPage a : partnerArrayList) {
+//        for (Partner a : partnerArrayList) {
 //            //writeCSV(a);
 //            //writeMapCSV(a);
 //        }
@@ -356,7 +356,7 @@
 //        mapCSV.close();
 //    }
 //
-////    public static void writeMapCSV(PartnerPage toWrite){
+////    public static void writeMapCSV(Partner toWrite){
 ////        //if(toWrite.isActive() && !toWrite.getName().contains("- Partner") && toWrite.getName() != null) {
 ////        //    mapCSV.append(toWrite.getName().replace("%comma%",","));
 ////            mapCSV.append(",");
@@ -365,7 +365,7 @@
 ////        }
 ////    }
 //
-////    public static void writeCSV(PartnerPage toWrite) {
+////    public static void writeCSV(Partner toWrite) {
 //
 //       // csv.append(String.valueOf(toWrite.getPartnerNumber())).append(",");
 //        //csv.append(String.valueOf(toWrite.isActive())).append(",");

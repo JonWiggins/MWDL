@@ -1,7 +1,7 @@
 package org.mwdl.data;
 
 import org.mwdl.webManagement.Collection;
-import org.mwdl.webManagement.PartnerPage;
+import org.mwdl.webManagement.Partner;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -36,7 +36,7 @@ public class DataFetcher {
         ArrayList<Collection> toReturn = new ArrayList<>();
         try {
 
-            Scanner collectionData = new Scanner(new File("newCollectionData.csv"));
+            Scanner collectionData = new Scanner(new File(ProjectConstants.CollectionDataCSV));
             ArrayList<String> toParse = new ArrayList<>();
 
             while (collectionData.hasNextLine()) {
@@ -44,7 +44,7 @@ public class DataFetcher {
                 Pattern pattern = Pattern.compile("([0-9]{4}),[Tt][Rr][Uu][Ee],(.*),(.*),(.*),(.*),(collection[0-9]{4}.*),([0-9]*),([0-9]*),(.*)");
                 Matcher matcher = pattern.matcher(collectionData.nextLine());
                 if (matcher.find()) {
-                    //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des
+                    //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String imageName, int height, int width, String des
                     int collectionNumber = Integer.valueOf(matcher.group(1));
                     String note = matcher.group(2);
                     String title = matcher.group(3);
@@ -84,11 +84,11 @@ public class DataFetcher {
      *
      * @return an ArrayList of PartnerPages
      */
-    public static ArrayList<PartnerPage> getAllActivePartners() {
-        ArrayList<PartnerPage> toReturn = new ArrayList<>();
+    public static ArrayList<Partner> getAllActivePartners() {
+        ArrayList<Partner> toReturn = new ArrayList<>();
 
         try {
-            Scanner data = new Scanner(new File("newPartnerData.csv"));
+            Scanner data = new Scanner(new File(ProjectConstants.PartnerDataCSV));
 
             while (data.hasNextLine()) {
 
@@ -121,7 +121,7 @@ public class DataFetcher {
                     else
                         imgW = Integer.valueOf(rawImgW);
 
-                    toReturn.add(new PartnerPage(partnerNumber, true, note, name, link, text, img, imgH, imgW, des));
+                    toReturn.add(new Partner(partnerNumber, true, note, name, link, text, img, imgH, imgW, des));
                 }
 
             }
@@ -152,8 +152,8 @@ public class DataFetcher {
         return null;
     }
 
-    public static PartnerPage fetchPartner(int partnerNumber){
-        for(PartnerPage element : getAllActivePartners()){
+    public static Partner fetchPartner(int partnerNumber){
+        for(Partner element : getAllActivePartners()){
             if (element.partnerNumber == partnerNumber)
                 return element;
         }
@@ -188,7 +188,7 @@ public class DataFetcher {
 
     public static ArrayList<Integer> getInactiveCollectionsNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("newCollectionData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File(ProjectConstants.CollectionDataCSV)).useDelimiter("\n");
         while (partnerData.hasNext()) {
             try {
                 String currentDataLine = partnerData.next();
@@ -209,7 +209,7 @@ public class DataFetcher {
 
     public static ArrayList<Integer> getInactivePartnerNumbers() throws FileNotFoundException {
         ArrayList<Integer> list = new ArrayList<>();
-        Scanner partnerData = new Scanner(new File("newPartnerData.csv")).useDelimiter("\n");
+        Scanner partnerData = new Scanner(new File(ProjectConstants.PartnerDataCSV)).useDelimiter("\n");
         while (partnerData.hasNext()) {
             try {
                 String currentDataLine = partnerData.next();
@@ -230,7 +230,7 @@ public class DataFetcher {
 
     public static ArrayList<String> getInactiveCollectionLines() throws FileNotFoundException {
         ArrayList<String> toReturn = new ArrayList<>();
-        Scanner collections = new Scanner(new File("newCollectionData.csv"));
+        Scanner collections = new Scanner(new File(ProjectConstants.CollectionDataCSV));
         //skip the titles line
         collections.nextLine();
 

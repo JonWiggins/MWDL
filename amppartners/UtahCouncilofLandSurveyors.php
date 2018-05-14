@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.ucls.org/mc/page.do;jsessionid=F1D1D81758E0ABEBD46E77CEE29FCA58.mc0?sitePageId=25509">Utah Council of Land Surveyors Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner137.jpg alt="" width="226" height="228" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner137.jpg alt="" width="226" height="228" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

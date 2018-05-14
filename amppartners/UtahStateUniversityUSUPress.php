@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.usu.edu/usupress/">Utah State University - USU Press Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner218.jpg alt="" width="100" height="169" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner218.jpg alt="" width="100" height="169" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://library.weber.edu/">Weber State University - Stewart Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner106.jpg alt="" width="362" height="271" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner106.jpg alt="" width="362" height="271" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

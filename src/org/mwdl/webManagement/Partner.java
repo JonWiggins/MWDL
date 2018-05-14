@@ -7,21 +7,19 @@ import java.util.ArrayList;
 /**
  * Represents a partner landing page by holding all the info needed to create one
  *
- * oop ftw amirite?
- *
  * @author Jonathan Wiggins
  * @version 6/23/17
  */
 
-public class PartnerPage {
+public class Partner {
 
     public String name;
     public ArrayList<Collection> activeCollections;
     public String link;
     public String article;
-    public String image;
-    public int imageH;
-    public int imageW;
+    public String imageName;
+    public int imageHeight;
+    public int imageWidth;
     public String imageDes;
     public int partnerNumber;
     public boolean isActive;
@@ -32,19 +30,22 @@ public class PartnerPage {
     /**
      * Holds the information needed to make a landing page for a partner
      *
+     * Note that if imageWidth is 0, it will be set to 250
+     * Note that if imageHeight is 0, it will be set to 250
+     *
      * Should be read in from newPartnerData.csv which is in the following format
      *  Partner Number, Passed Inspection, Note, Name, Link, Text, Image Name, Image Height, Image Length, Image Description
      */
-    public PartnerPage(int number, boolean isActive, String note, String name, String link, String text, String image, int imageH, int imageW, String imageDes){
+    public Partner(int number, boolean isActive, String note, String name, String link, String text, String image, int imageH, int imageW, String imageDes){
         this.partnerNumber = number;
         this.isActive = isActive;
         this.note = note;
         this.name = name.replace("%comma%",",");
         this.link = link;
         this.article = text.replace("%comma%",",").replace("%newline%","\n");
-        this.image = image;
-        this.imageH = imageH;
-        this.imageW = imageW;
+        this.imageName = image;
+        this.imageHeight = imageH;
+        this.imageWidth = imageW;
         this.imageDes = imageDes;
 
 
@@ -58,11 +59,11 @@ public class PartnerPage {
         //removes all characters from the String other than a-z and 0-9
         urlName = urlName.replaceAll("[^a-zA-Z0-9]", "");
 
-        //ensure that the image size is not 0
+        //ensure that the imageName size is not 0
         if(imageH == 0)
-            this.imageH = 250;
+            this.imageHeight = 250;
         if(imageW == 0)
-            this.imageW = 250;
+            this.imageWidth = 250;
     }
 
     /**

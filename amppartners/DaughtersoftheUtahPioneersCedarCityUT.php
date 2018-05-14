@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.dupinternational.org/">Daughters of the Utah Pioneers, Cedar City (UT) Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner217.jpg alt="" width="330" height="247" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner217.jpg alt="" width="330" height="247" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

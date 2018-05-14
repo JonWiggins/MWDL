@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.topazmuseum.org/">Topaz Museum (Delta, UT) Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner116.jpg alt="" width="362" height="251" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner116.jpg alt="" width="362" height="251" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

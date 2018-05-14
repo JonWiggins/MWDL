@@ -15,29 +15,24 @@ public class Collection {
     public String publisherLink;
     public String publisher;
     public String text;
-    public String img;
+    public String imageName;
     public String des;
     public String browse;
     public boolean isActive;
     public String note;
     public String refinedPublisher;
-    public int imgH;
-    public int imgW;
+    public int imageHeight;
+    public int imageWidth;
 
 
     /**
-     * Create a new Collection
+     * This object holds all of the information needed to create a collection landing page
      *
-     * @param collectionNumber Collection number as an int
-     * @param isActive is active boolean
-     * @param note Notes about the collection
-     * @param title The Title of the collection
-     * @param publisher The collection's publisher
-     * @param text The Article Text of the collection
-     * @param img The name of the image typically following the format: collection%collectionNumber%.jpg
-     * @param height The height of the image as an int, can be 0
-     * @param width The width of the image as an int, can be 0
-     * @param des A article of the image
+     * Note that if imageWidth is 0, it will be set to 250
+     * Note that if imageHeight is 0, it will be set to 250
+     *
+     * Should be read from newCollectionData.csv which stores the data in the following format
+     *  Collection Number, Passed Inspection, Note, Title, Publisher, Article Text, Article Image, Image Height, Image Length, Image Description
      */
     public Collection(int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String img, int height, int width, String des){
         this.collectionNumber = collectionNumber;
@@ -46,9 +41,9 @@ public class Collection {
         this.title = title;
         this.publisher= publisher;
         this.publisherLink = publisher;
-        this.img= img;
-        this.imgH = height;
-        this.imgW = width;
+        this.imageName = img;
+        this.imageHeight = height;
+        this.imageWidth = width;
         this.des= des;
 
         //Normalize the article text by removing the special markers
@@ -76,18 +71,18 @@ public class Collection {
         // This normalizes the tile to just raw text for the title
         urlTitle = urlTitle.replaceAll("[^a-zA-Z0-9]", "");
 
-        //ensure that the image size is not 0
-        if(imgH == 0)
-            this.imgH = 250;
-        if(imgW == 0)
-            this.imgW = 250;
+        //ensure that the imageName size is not 0
+        if(imageHeight == 0)
+            this.imageHeight = 250;
+        if(imageWidth == 0)
+            this.imageWidth = 250;
     }
 
     /**
      * Just used to print out Collection objects with a bit of formatting for debugging
      */
     public String toString(){
-        return "Number: "+collectionNumber +"\nisActive: " + isActive + "\nNote: "+ note + "\nTitle: "+ title +"\nURLTitle: " +urlTitle +"\nPublisher: "+ publisherLink + "\nText: " + text + "\nImage: " + img + "\nDescription: " + des;
+        return "Number: "+collectionNumber +"\nisActive: " + isActive + "\nNote: "+ note + "\nTitle: "+ title +"\nURLTitle: " +urlTitle +"\nPublisher: "+ publisherLink + "\nText: " + text + "\nImage: " + imageName + "\nDescription: " + des;
     }
 
     /**

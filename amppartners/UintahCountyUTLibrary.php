@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.uintah.lib.ut.us/">Uintah County (UT) Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner117.jpg alt="" width="365" height="242" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner117.jpg alt="" width="365" height="242" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

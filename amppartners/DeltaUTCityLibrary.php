@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://stacksntracks.lib.ut.us/Delta%20City%20Library.htm">Delta (UT) City Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner109.jpg alt="" width="386" height="193" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner109.jpg alt="" width="386" height="193" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

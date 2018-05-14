@@ -103,6 +103,10 @@ public class OldAnalyticsGenerator {
         }
     }
 
+    /**
+     * Given all the months, returns a List of Analytics Partner objects that are filled
+     *  with the data read from the Master Lists from those months
+     */
     public static ArrayList<AnalyticsPartner> getPartnersForMonths(ArrayList<String> months){
         try {
             ArrayList<AnalyticsPartner> partners = new ArrayList<>();
@@ -167,7 +171,9 @@ public class OldAnalyticsGenerator {
     }
 
 
-
+    /**
+     * Given a line from an Analytics Master List, returns the collection number of the page of the line
+     */
     public static int analyticsNumberExtractor(String line) throws NumberFormatException {
         Scanner r = new Scanner(line).useDelimiter(",");
         return Integer.valueOf(r.next()
@@ -177,6 +183,9 @@ public class OldAnalyticsGenerator {
                 .replace(".php", ""));
     }
 
+    /**
+     * Given a line from an Analytics Master list, tries to figure out the publisher of that collection
+     */
     public static String publisherExtractor(String line) {
         Scanner pubextract = new Scanner(line).useDelimiter(",");
         String number = pubextract.next();
@@ -206,6 +215,9 @@ public class OldAnalyticsGenerator {
         return refinedPublisher;
     }
 
+    /**
+     * Exports the data to a separate CSV file for each hub
+     */
     public static void exportData(ArrayList<AnalyticsPartner> partners, ArrayList<String> months) throws FileNotFoundException, UnsupportedEncodingException {
         //create a list of all the hubs
         System.out.println("Beginning Data export");

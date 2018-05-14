@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://digital.library.unlv.edu/">University of Nevada, Las Vegas, University Libraries Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner104.jpg alt="" width="371" height="212" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner104.jpg alt="" width="371" height="212" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

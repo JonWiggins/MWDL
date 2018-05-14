@@ -13,7 +13,7 @@
 <?php include("../includes/partnermenuhead.php");?>
 <div class="imageAndDes">
 <!-- Image -->
-<img src="../images/partner_images/partner205.jpg" alt=""width="357" height="243"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<imageName src="../images/partner_images/partner205.jpg" alt=""width="357" height="243"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
 
 </div>

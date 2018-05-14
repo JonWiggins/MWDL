@@ -22,13 +22,13 @@ public class GeneratePartnerMap {
 
     public static void main(String[] args) {
         try {
-            ArrayList<PartnerPage> partners = DataFetcher.getAllActivePartners();
+            ArrayList<Partner> partners = DataFetcher.getAllActivePartners();
 
             String FileLocAndName = "partnerMapData.csv";
             PrintWriter csv = new PrintWriter(FileLocAndName,"UTF-8");
             csv.append("Partner Name, Partner Link \n");
 
-            for(PartnerPage current : partners){
+            for(Partner current : partners){
                 if(isForLiveSite)
                     csv.append("\"" + current.name + "\"" + ",http://mwdl.org/partners/"+current.urlName + ".php\n");
                 else

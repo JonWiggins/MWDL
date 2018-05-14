@@ -1,6 +1,8 @@
 package org.mwdl.webManagement;
 
 
+import org.mwdl.data.ProjectConstants;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -21,18 +23,20 @@ public class CollectionPageMaker {
      * Given an ArrayList of Collections, writes the Collection List pages
      *  As well was full and AMP pages for each individual collections
      *
-     * @param toWrite
+     * @param toWrite an ArrayList of Collections to write
+     *                Assumes that each Collection is already filled with the required information
      */
     public static void writeGivenCollectionPages(ArrayList<Collection> toWrite){
 
         writeAlphabeticalCollectionPage(toWrite);
         writeInitialCollectionPage(toWrite);
-        writeParnterSortedCollectionPage(toWrite);
+        writePartnerSortedCollectionPage(toWrite);
 
         for (Collection element : toWrite){
             writeFullCollection(element);
             writeAMPCollection(element);
         }
+
     }
 
 
@@ -42,8 +46,11 @@ public class CollectionPageMaker {
      * @param toWrite a Collection to write
      */
     private static void writeFullCollection(Collection toWrite) {
-        String FileLocAndName = "collections/" + toWrite.urlTitle + ".php";
+
+        String FileLocAndName = ProjectConstants.CollectionPageDirectory + toWrite.urlTitle + ".php";
+
         try {
+
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
@@ -65,27 +72,27 @@ public class CollectionPageMaker {
             writer.println("<!-- Share Links -->");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/" + toWrite.urlTitle + ".php&t=" + toWrite.title + "\"\n" +
-                    "                                  target=\"_blank\"><img src=\"../images/facebook.png\" alt=\"facebook\"\n" +
+                    "                                  target=\"_blank\"><imageName src=\"../images/facebook.png\" alt=\"facebook\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Facebook</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.twitter.com/intent/tweet?url=mwdl.org/collections/" + toWrite.urlTitle + ".php&via=@MountainWestDL&text=" + toWrite.title + "\"\n" +
-                    "                                  target=\"_blank\"><img src=\"../images/twitter.png\" alt=\"twitter\"\n" +
+                    "                                  target=\"_blank\"><imageName src=\"../images/twitter.png\" alt=\"twitter\"\n" +
                     "                                                       height=\"20\" width=\"20\"> Twitter</a></li>");
             writer.println("<li class=\"mdl-menu__item\"><a class=\"mdl-navigation__link\"\n" +
                     "                                  href=\"http://www.tumblr.com/share/link?url=mwdl.org/collections/" + toWrite.urlTitle + ".php\"\n" +
-                    "                                  target=\"_blank\"><img src=\"../images/tumblr.png\"\n" +
+                    "                                  target=\"_blank\"><imageName src=\"../images/tumblr.png\"\n" +
                     "                                                       alt=\"tumblr\" height=\"20\" width=\"20\"> Tumblr</a></li>");
             writer.println("</ul>");
             writer.println("</div>");
 
             writer.println("<div class=\"imageAndDes\">");
             writer.println("<!-- Image (if any)-->");
-            if (toWrite.img != null)
+            if (toWrite.imageName != null)
                 writer.println(
-                        "<img src=\"../images/collection_images/" +
-                                toWrite.img +
+                        "<imageName src=\"../images/collection_images/" +
+                                toWrite.imageName +
                         "\" alt=\"" + toWrite.des + "\""+
-                        "width=\"" + toWrite.imgW + "\" height=\"" + toWrite.imgH +"\""
+                        "width=\"" + toWrite.imageWidth + "\" height=\"" + toWrite.imageHeight +"\""
                          + "align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">"
                 );
 
@@ -112,10 +119,12 @@ public class CollectionPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate regular page for collection number " + toWrite.collectionNumber + ", " + toWrite.title);
             e.printStackTrace();
         }
+
     }
 
     /**
@@ -124,7 +133,9 @@ public class CollectionPageMaker {
      * @param toWrite a Collection to write
      */
     private static void writeAMPCollection(Collection toWrite) {
-        String FileLocAndName = "ampcollections/" + toWrite.urlTitle + ".php";
+
+        String FileLocAndName = ProjectConstants.AMPCollectionPageDirectory + toWrite.urlTitle + ".php";
+
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -141,13 +152,13 @@ public class CollectionPageMaker {
             writer.println("<!-- Collection Publisher -->");
             writer.println("<h6> Published by <a href=\"../partners/" + toWrite.refinedPublisher + ".php\">"+ toWrite.publisher +"</a></h6>");
             writer.println("<!-- Collection Image -->");
-            writer.println("<div class=amp-img-fill>");
-            if (toWrite.img != null)
+            writer.println("<div class=amp-imageName-fill>");
+            if (toWrite.imageName != null)
                 writer.println(
-                        "<amp-img src=\"../images/collection_images/" +
+                        "<amp-imageName src=\"../images/collection_images/" +
                         "alt=\"" + toWrite.des +"\"" +
-                        "width=\"" + toWrite.imgW + "\" height =\"" + toWrite.imgH +"\" " +
-                        " layout = \"responsive\"></amp-img>"
+                        "width=\"" + toWrite.imageWidth + "\" height =\"" + toWrite.imageHeight +"\" " +
+                        " layout = \"responsive\"></amp-imageName>"
                 );
             writer.println("</div>");
             writer.println("<!-- Image Description -->");
@@ -164,11 +175,13 @@ public class CollectionPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate amp page for collection number " + toWrite.collectionNumber + ", " + toWrite.title);
             e.printStackTrace();
 
         }
+
     }
 
     /**
@@ -179,7 +192,9 @@ public class CollectionPageMaker {
      * @param collections an ArrayList of all the active collections
      */
     private static void writeInitialCollectionPage(ArrayList<Collection> collections) {
-        String FileLocAndName = "collections/collections.php";
+
+        String FileLocAndName = ProjectConstants.CollectionPageDirectory + "collections.php";
+
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -222,9 +237,11 @@ public class CollectionPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate collections list page");
         }
+
     }
 
     /**
@@ -234,7 +251,9 @@ public class CollectionPageMaker {
      * @param collections An ArrayList of all the active collections
      */
     private static void writeAlphabeticalCollectionPage(ArrayList<Collection> collections){
-        String FileLocAndName = "collections/aCollections.php";
+
+        String FileLocAndName =  ProjectConstants.CollectionPageDirectory + "aCollections.php";
+
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -267,6 +286,7 @@ public class CollectionPageMaker {
                 nameToCollection.put(c.title, c);
                 collectionNames.add(c.title);
             }
+
             sort(collectionNames);
 
             ArrayList<Collection> sorted = new ArrayList<>();
@@ -295,9 +315,11 @@ public class CollectionPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate collections list page");
         }
+
     }
 
     /**
@@ -306,8 +328,10 @@ public class CollectionPageMaker {
      *
      * @param collections An ArrayList of all the active collections
      */
-    private static void writeParnterSortedCollectionPage(ArrayList<Collection> collections){
-        String FileLocAndName = "collections/pCollections.php";
+    private static void writePartnerSortedCollectionPage(ArrayList<Collection> collections){
+
+        String FileLocAndName =  ProjectConstants.CollectionPageDirectory + "pCollections.php";
+
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -371,9 +395,11 @@ public class CollectionPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate collections list page");
         }
+
     }
 
     /**
@@ -384,12 +410,14 @@ public class CollectionPageMaker {
      * @return the String ellipsized to maxLength
      */
     private static String ellipsize(String input, int maxLength) {
+
         String ellip = "...";
         if (input == null || input.length() <= maxLength
                 || input.length() < ellip.length()) {
             return input;
         }
         return input.substring(0, maxLength - ellip.length()).concat(ellip);
+
     }
 
 }

@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://www.scera.org/contents/view/17/museum.html">Orem (UT) Heritage Museum Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner203.jpg alt="" width="310" height="370" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner203.jpg alt="" width="310" height="370" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

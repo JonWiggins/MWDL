@@ -1,5 +1,7 @@
 package org.mwdl.webManagement;
 
+import org.mwdl.data.ProjectConstants;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -14,31 +16,35 @@ import java.util.ArrayList;
 public class PartnerPageMaker {
 
     /**
-     * Creates regular and AMP page files for all of the given PartnerPage objects
+     * Creates regular and AMP page files for all of the given Partner objects
      * Also generates the partner map page file
      *
-     * @param toWrite An ArrayList of PartnerPage objects to write
+     * @param toWrite An ArrayList of Partner objects to write
      *                Assumes each is already filled with the required information
      */
-    public static void writeGivenPartnerPages(ArrayList<PartnerPage> toWrite){
+    public static void writeGivenPartnerPages(ArrayList<Partner> toWrite){
+
         writePartnersMapPage();
 
-        for(PartnerPage element : toWrite){
+        for(Partner element : toWrite){
             writeAMPPartnerPage(element);
             writeNormalPartnerPage(element);
         }
+
     }
 
     /**
-     * Given a PartnerPage object holding the needed info to create a partner's landing page
+     * Given a Partner object holding the needed info to create a partner's landing page
      *  Creates the Page by writing the needed html/php to a file titled after the given
-     *  PartnerPage objects urlName in the partners folder in the cwd
+     *  Partner objects urlName in the partners folder in the cwd
      *
-     * @param toWrite a PartnerPage object to write
+     * @param toWrite a Partner object to write
      *                Assumes the object already holds the requisite information
      */
-    private static void writeNormalPartnerPage(PartnerPage toWrite){
-        String FileLocAndName = "partners/"+toWrite.urlName + ".php";
+    private static void writeNormalPartnerPage(Partner toWrite){
+
+        String FileLocAndName = ProjectConstants.PartnerPageDirectory + toWrite.urlName + ".php";
+
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
             writer.println("<?php include(\"../includes/header.php\"); ?>");
@@ -56,12 +62,12 @@ public class PartnerPageMaker {
             writer.println("<?php include(\"../includes/partnermenuhead.php\");?>");
             writer.println("<div class=\"imageAndDes\">");
             writer.println("<!-- Image -->");
-            if (toWrite.image != null)
+            if (toWrite.imageName != null)
                 writer.println(
-                        "<img src=\"../images/partner_images/" +
-                                toWrite.image +
+                        "<imageName src=\"../images/partner_images/" +
+                                toWrite.imageName +
                                 "\" alt=\"" + toWrite.imageDes + "\""+
-                                "width=\"" + toWrite.imageW + "\" height=\"" + toWrite.imageH +"\""
+                                "width=\"" + toWrite.imageWidth + "\" height=\"" + toWrite.imageHeight +"\""
                                 + "align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">"
                 );
             writer.println("<!-- Image Description -->");
@@ -90,19 +96,23 @@ public class PartnerPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate regular page for partner " + toWrite.partnerNumber + ", " + toWrite.name);
         }
+
     }
 
     /**
-     * Given a PartnerPage object, writes the AMP Page
+     * Given a Partner object, writes the AMP Page
      *
-     * @param toWrite a PartnerPage to write
+     * @param toWrite a Partner to write
      *                Assumes that ParterPage hold all the needed information
      */
-    private static void writeAMPPartnerPage(PartnerPage toWrite){
-        String FileLocAndName = "amppartners/"+toWrite.urlName + ".php";
+    private static void writeAMPPartnerPage(Partner toWrite){
+
+        String FileLocAndName = ProjectConstants.AMPPartnerPageDirectory + toWrite.urlName + ".php";
+
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -120,14 +130,14 @@ public class PartnerPageMaker {
             writer.println("<!-- Partner Website -->");
             writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
             writer.println("<!-- Partner Image -->");
-            writer.println("<div class=amp-img-fill>");
-            if (toWrite.image != null)
-                writer.println("<amp-img src=\"../images/partner_images/" +
-                        toWrite.image +
+            writer.println("<div class=amp-imageName-fill>");
+            if (toWrite.imageName != null)
+                writer.println("<amp-imageName src=\"../images/partner_images/" +
+                        toWrite.imageName +
                         " alt=\"" + toWrite.imageDes +"\"" +
-                        " width=\"" + toWrite.imageW + "\"" +
-                        " height=\""+ toWrite.imageH +"\"" +
-                        " layout = \"responsive\"></amp-img>"
+                        " width=\"" + toWrite.imageWidth + "\"" +
+                        " height=\""+ toWrite.imageHeight +"\"" +
+                        " layout = \"responsive\"></amp-imageName>"
 
                 );
             writer.println("</div>");
@@ -153,10 +163,12 @@ public class PartnerPageMaker {
 
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate amp page for partner " + toWrite.partnerNumber + ", " + toWrite.name);
 
         }
+
     }
 
     /**
@@ -166,7 +178,9 @@ public class PartnerPageMaker {
      *  overwrite the old folder without worrying about losing this page.
      */
     private static void writePartnersMapPage(){
-        String FileLocAndName = "partners/partners.php";
+
+        String FileLocAndName = ProjectConstants.PartnerPageDirectory + "partners.php";
+
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -190,9 +204,11 @@ public class PartnerPageMaker {
             writer.println("<?php include(\"../includes/footer.php\");?>");
             //close writer
             writer.close();
+
         } catch (IOException e) {
             System.err.println("Could not generate partners map page");
         }
+
     }
 
 

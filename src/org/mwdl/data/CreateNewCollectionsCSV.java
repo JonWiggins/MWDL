@@ -30,8 +30,8 @@ public class CreateNewCollectionsCSV {
      * the title was stored redundantly alongside the URL Title
      * The Publisher was stored as an old link to the publishers page
      * The article text was stored in html form
-     * the image was stored as a directly html <img> tag
-     * the amp img, literally just a processed version of the <img> tag was stored redundantly
+     * the imageName was stored as a directly html <imageName> tag
+     * the amp imageName, literally just a processed version of the <imageName> tag was stored redundantly
      * the browse link was stored in its entirety for not reason, as it can be generated from a generic search
      * link with the name of the collection attached to the end
      * <p>
@@ -41,8 +41,8 @@ public class CreateNewCollectionsCSV {
      * <p>
      * Wherein:
      * The Title will now be stored in plain text, and the urlTitle will be generated as needed rather than stored
-     * The image will be stored as the file name in /images/collectionImages/collection"collectNumber.extension"
-     * The image size as an int will be stored
+     * The imageName will be stored as the file name in /images/collectionImages/collection"collectNumber.extension"
+     * The imageName size as an int will be stored
      *
      * @param args
      */
@@ -136,19 +136,19 @@ public class CreateNewCollectionsCSV {
             String imageTag = s.next();
             Pattern imgNamePattern = Pattern.compile("\\/images\\/collection_images\\/(collection[0-9]{4}.\\S{3})");
             Matcher imgNameMatcher = imgNamePattern.matcher(imageTag);
-            //capture image name in /image/collection_images/collection"number.extension"
+            //capture imageName name in /imageName/collection_images/collection"number.extension"
             if(imgNameMatcher.find())
                 toReturn = toReturn.concat(imgNameMatcher.group(1));
             toReturn = toReturn.concat(",");
 
-            //capture image height
+            //capture imageName height
             Pattern imgHPattern = Pattern.compile("height=\\\"([0-9]{1,})\\\"");
             Matcher imgHMatcher = imgHPattern.matcher(imageTag);
             if(imgHMatcher.find())
                 toReturn = toReturn.concat(imgHMatcher.group(1));
             toReturn = toReturn.concat(",");
 
-            //capture image width
+            //capture imageName width
             Pattern imgWPattern = Pattern.compile("width=\\\"([0-9]{1,})\\\"");
             Matcher imgWMatcher = imgWPattern.matcher(imageTag);
             if(imgWMatcher.find())
@@ -158,7 +158,7 @@ public class CreateNewCollectionsCSV {
             //skip amp version
             s.next();
 
-            //image article
+            //imageName article
             String imgDes = s.next().replace("<br>","");
             Pattern imgDesPattern = Pattern.compile("<a\\b[^>]*>(.*?)<\\/a>");
             Matcher imgDesMatcher = imgDesPattern.matcher(imgDes);

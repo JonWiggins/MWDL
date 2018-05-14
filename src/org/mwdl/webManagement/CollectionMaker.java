@@ -81,13 +81,13 @@
 //            // - title of collection
 //            // - publisher
 //            // - accompanying text
-//            // - size of image (gotten from image (gotten from collection id number)
-//            // - Description of the image
+//            // - size of imageName (gotten from imageName (gotten from collection id number)
+//            // - Description of the imageName
 //            // - link to browse the collection
 //
 //            try {
 //                boolean isActive = true;
-//                String note = null, image = null, ampImage = null, imageDes = null, browseLink = null;
+//                String note = null, imageName = null, ampImage = null, imageDes = null, browseLink = null;
 //                Document doc = Jsoup.connect("http://mwdl.org/collections/" + count + ".php").get();
 //
 //                //get the title => search for title tag, store contents
@@ -125,7 +125,7 @@
 //                            .replace("</p>", "");
 //                }
 //                //System.out.println("Link to partner Page: " + currentPublisher);
-//                //get accompanying text => everything between here and an image tag
+//                //get accompanying text => everything between here and an imageName tag
 //                String currentText = doc.select("p").toString()
 //                        .replace(currentPublisher, "")
 //                        .replace("<p>Search within the collection:</p>", "")
@@ -136,14 +136,14 @@
 //                    String tempText = "";
 //                    for (int i = 0; i < articleContents.length; i++) {
 //                        articleContents[i] = articleContents[i].concat("</p>");
-//                        if(articleContents[i].contains("img src")){
-//                            //this is the articles image
+//                        if(articleContents[i].contains("imageName src")){
+//                            //this is the articles imageName
 //                            //remove the border, and save this and the amp version
 //                            Element borderRemover = Jsoup.parseBodyFragment(articleContents[i]);
 //
 //                            try {
-//                                image = borderRemover.select("img").removeAttr("border").toString().replace(">","").replace("></a>","");
-//                                if(!(image == null)) {
+//                                imageName = borderRemover.select("imageName").removeAttr("border").toString().replace(">","").replace("></a>","");
+//                                if(!(imageName == null)) {
 //                                    //grab the article
 //                                    try {
 //                                        imageDes = borderRemover.select("a").last().removeAttr("a").removeAttr("ref").toString();
@@ -152,24 +152,24 @@
 //                                    }
 //                                    //System.out.println("Image Description: " + imageDes);
 //
-//                                    if(!image.contains("height")){
-//                                        image = image.concat(" height =\"250\"");
+//                                    if(!imageName.contains("height")){
+//                                        imageName = imageName.concat(" height =\"250\"");
 //                                    }
-//                                    if(!image.contains("width")){
-//                                        image = image.concat(" width=\"250\"");
+//                                    if(!imageName.contains("width")){
+//                                        imageName = imageName.concat(" width=\"250\"");
 //                                    }
-//                                    ampImage = image
-//                                            .replace("img", "amp-img")
+//                                    ampImage = imageName
+//                                            .replace("imageName", "amp-imageName")
 //                                            .replace("<p>", "")
 //                                            .replace("border=\"2\"", "")
 //                                            .replace("../images", "../images")
-//                                            .concat(" layout = \"responsive\"></amp-img>");
-//                                    image = image.concat(" align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">");
+//                                            .concat(" layout = \"responsive\"></amp-imageName>");
+//                                    imageName = imageName.concat(" align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">");
 //                                }
-//                                //System.out.println("Image & Link: " + image);
+//                                //System.out.println("Image & Link: " + imageName);
 //                                //System.out.println("AMP Image & Link: " + ampImage);
 //                            } catch (IndexOutOfBoundsException e) {
-//                                System.err.println("Does Article " + count + " not have an image or article?");
+//                                System.err.println("Does Article " + count + " not have an imageName or article?");
 //                            }
 //                        }else if(articleContents[i].contains("all records")){
 //                            //browse all link selected
@@ -179,13 +179,13 @@
 //                            //it is the search bar
 //                            //ignore it
 //                        }else{
-//                            //it is not an image, a des, a browse, or a search bar
+//                            //it is not an imageName, a des, a browse, or a search bar
 //                            //it must be part of the text
 //                            tempText = tempText.concat(articleContents[i]);
 //                        }
 //                    }
 //
-//                    //test to see if the article text contain the image des, if it does, remove it
+//                    //test to see if the article text contain the imageName des, if it does, remove it
 //                    if(tempText.contains("<a href")){
 //                        //it does
 //                        Element desGrabber = Jsoup.parseBodyFragment(tempText);
@@ -220,51 +220,51 @@
 //                    }
 //
 //
-//                    if(image == null){
-//                        // try one more TODO to capture the image
+//                    if(imageName == null){
+//                        // try one more TODO to capture the imageName
 //                        try {
-//                            image = doc.body().select("img").last().removeAttr("border").toString().replace("</a>","");
+//                            imageName = doc.body().select("imageName").last().removeAttr("border").toString().replace("</a>","");
 //
-//                            if(!image.contains("height")){
-//                                image = image.concat(" height =\"250\"");
+//                            if(!imageName.contains("height")){
+//                                imageName = imageName.concat(" height =\"250\"");
 //                            }
-//                            if(!image.contains("width")){
-//                                image = image.concat(" width=\"250\"");
+//                            if(!imageName.contains("width")){
+//                                imageName = imageName.concat(" width=\"250\"");
 //                            }
-//                            ampImage = image
-//                                    .replace("img", "amp-img")
+//                            ampImage = imageName
+//                                    .replace("imageName", "amp-imageName")
 //                                    .replace("<p>", "")
 //                                    .replace("border=\"2\"", "")
 //                                    .replace("../images", "../images")
-//                                    .concat(" layout = \"responsive\"></amp-img>");
-//                            image = image.concat(" align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">");
+//                                    .concat(" layout = \"responsive\"></amp-imageName>");
+//                            imageName = imageName.concat(" align= \"right\" style=\"max-width: 250px; height: auto; margin: 1%; display: block; \">");
 //
-//                            //System.out.println("Image & Link: " + image);
+//                            //System.out.println("Image & Link: " + imageName);
 //                            //System.out.println("AMP Image & Link: " + ampImage);
 //
 //
 //                        }catch(Exception e){
-//                            note = count + ".php has been marked for review (Null image)";
+//                            note = count + ".php has been marked for review (Null imageName)";
 //                            System.err.println(note);
 //                            isActive = false;
 //                        }
 //
 //                    }
 //
-//                    if(image.contains("mountainWestDigitalLibrary-mainLogo.png")){
-//                        //the image captured is the Logo
-//                        image = null;
+//                    if(imageName.contains("mountainWestDigitalLibrary-mainLogo.png")){
+//                        //the imageName captured is the Logo
+//                        imageName = null;
 //                        ampImage = null;
-//                        if(note == null) note = count + ".php has been marked for review (Null image)";
-//                        else note = note.concat(" (Null image)");
+//                        if(note == null) note = count + ".php has been marked for review (Null imageName)";
+//                        else note = note.concat(" (Null imageName)");
 //                        System.err.println(note);
 //                        isActive = false;
 //
 //                    }
 //                    if(imageDes == null){
 //                        // this page is removed
-//                        if(note == null) note = count + ".php has been marked for review (Null image article)";
-//                        else note = note.concat(" (Null image article)");
+//                        if(note == null) note = count + ".php has been marked for review (Null imageName article)";
+//                        else note = note.concat(" (Null imageName article)");
 //                        System.err.println(note);
 //                        isActive = false;
 //                    }
@@ -283,7 +283,7 @@
 //                    }
 //
 //                    //Now that you have the info needed, write it all to a new html doc, and then to a new amphtml doc
-//                    //collectionArrayList.add(new Collection(count, isActive, note, currentTitle, urlTitle, currentPublisher, articleText, image, ampImage, imageDes, browseLink));
+//                    //collectionArrayList.add(new Collection(count, isActive, note, currentTitle, urlTitle, currentPublisher, articleText, imageName, ampImage, imageDes, browseLink));
 //
 //                }else{
 //                    note = "Article " + count +" has too few elements to be parsed.";
@@ -343,7 +343,7 @@
 //        csv.append(",");
 //
 //        try{
-//        csv.append(toWrite.img.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
+//        csv.append(toWrite.imageName.replace("\n", "%newline%").replace("\r", "%return%").replace(",","%comma%"));
 //        }catch(NullPointerException e){}
 //
 //        csv.append(",");

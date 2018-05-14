@@ -113,19 +113,19 @@ public class CreateNewPartnerCSV {
             String imageTag = s.next();
             Pattern imgNamePattern = Pattern.compile("\\/images\\/partner_images\\/(partner[0-9]{3}.\\S{3})");
             Matcher imgNameMatcher = imgNamePattern.matcher(imageTag);
-            //capture image name in /image/collection_images/collection"number.extension"
+            //capture imageName name in /imageName/collection_images/collection"number.extension"
             if(imgNameMatcher.find())
                 toReturn = toReturn.concat(imgNameMatcher.group(1));
             toReturn = toReturn.concat(",");
 
-            //capture image height
+            //capture imageName height
             Pattern imgHPattern = Pattern.compile("height=\\\"([0-9]{1,})\\\"");
             Matcher imgHMatcher = imgHPattern.matcher(imageTag);
             if(imgHMatcher.find())
                 toReturn = toReturn.concat(imgHMatcher.group(1));
             toReturn = toReturn.concat(",");
 
-            //capture image width
+            //capture imageName width
             Pattern imgWPattern = Pattern.compile("width=\\\"([0-9]{1,})\\\"");
             Matcher imgWMatcher = imgWPattern.matcher(imageTag);
             if(imgWMatcher.find())
@@ -135,7 +135,7 @@ public class CreateNewPartnerCSV {
             //skip amp version
             s.next();
 
-            //image article
+            //imageName article
             String imgDes = s.next().replace("<br>","");
             Pattern imgDesPattern = Pattern.compile("alt=\"(.*?)\" ");
             Matcher imgDesMatcher = imgDesPattern.matcher(imgDes);

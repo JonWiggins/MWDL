@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://library.usu.edu//">Utah State University - Merrill-Cazier Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner103.jpg alt="" width="384" height="267" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner103.jpg alt="" width="384" height="267" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

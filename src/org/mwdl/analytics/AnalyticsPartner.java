@@ -1,5 +1,7 @@
 package org.mwdl.analytics;
 
+import org.mwdl.data.ProjectConstants;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
@@ -33,6 +35,7 @@ public class AnalyticsPartner {
      * @param name the name of the partner as a String
      */
     public AnalyticsPartner(String name){
+
         this.name = name.replace("&amp;", "&");
 
         if(name.equals("")) this.name = "unpublished";
@@ -45,6 +48,7 @@ public class AnalyticsPartner {
         }
 
         monthToLinesForMonth = new HashMap<>();
+
     }
 
 
@@ -56,6 +60,7 @@ public class AnalyticsPartner {
      * @throws FileNotFoundException If the HubPartnerMap.csv cannot be found
      */
     private void setHubName() throws FileNotFoundException {
+
         HashMap<String, String> hubidtoName = new HashMap<>();
 
         hubidtoName.put("bcc","Buffalo Bill Center");
@@ -79,7 +84,7 @@ public class AnalyticsPartner {
         hubidtoName.put("unpublished","unpublished");
 
 
-        Scanner s = new Scanner(new File("HubPartnerMap.csv"));
+        Scanner s = new Scanner(new File(ProjectConstants.HubPartnerMapCSV));
         while(s.hasNextLine()){
             String currentLine = s.nextLine();
             if(currentLine.contains(name)){
@@ -118,6 +123,7 @@ public class AnalyticsPartner {
      * @param month the name of the month
      */
     public void addLineForMonth(String line, String month){
+
         //normalize the month name just because I am not sure if I capitalize or not everywhere
         month = month.toUpperCase();
 
@@ -143,6 +149,7 @@ public class AnalyticsPartner {
      *          Note that if the month name is invalid, an empty ArrayList is returned
      */
     public ArrayList<String> getMonthLines(String month){
+
         //normalize the month name just because I am not sure if I capitalize or not everywhere
         month = month.toUpperCase();
 

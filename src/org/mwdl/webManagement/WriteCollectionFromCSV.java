@@ -19,7 +19,12 @@ public class WriteCollectionFromCSV {
 
 
     public static void main(String[] args) {
-        CollectionPageMaker.writeGivenCollectionPages(DataFetcher.getAllActiveCollections());
+
+        ArrayList<Collection> toWrite = DataFetcher.getAllActiveCollections();
+
+        System.out.println("Found " + toWrite.size() + " active collections in the Collections Data CSV file.");
+        CollectionPageMaker.writeGivenCollectionPages(toWrite);
+        System.out.println("Completed writing collections");
     }
 
 }

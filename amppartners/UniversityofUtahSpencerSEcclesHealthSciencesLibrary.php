@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://library.med.utah.edu/">University of Utah - Spencer S. Eccles Health Sciences Library Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner110.jpg alt="" width="377" height="242" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner110.jpg alt="" width="377" height="242" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 

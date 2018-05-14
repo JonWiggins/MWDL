@@ -11,8 +11,8 @@
 <!-- Partner Website -->
 <h6><a href="http://dialoguejournal.com/">Dialogue Foundation Website </a></h6>
 <!-- Partner Image -->
-<div class=amp-img-fill>
-<amp-img src="../images/partner_images/partner125.jpg alt="Journal of Mormom Thought" width="316" height="76" layout = "responsive"></amp-img>
+<div class=amp-imageName-fill>
+<amp-imageName src="../images/partner_images/partner125.jpg alt="Journal of Mormom Thought" width="316" height="76" layout = "responsive"></amp-imageName>
 </div>
 <!-- Image Description -->
 Journal of Mormom Thought
