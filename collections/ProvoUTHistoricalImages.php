@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1314.jpg" alt="1st West and Center "width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1314.jpg" alt=""width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1st West and Center 
+
 </div>
 <!-- Collection Title-->
 <h4>Provo (UT) Historical Images</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Featuring more than 800 views of Provo City and the vicinity, Provo Historical Images captures the growth and change of Provo from the 1870s through the 1990s. Photos included in this online collection were selected from multiple photograph collections from the L. Tom Perry Special Collections.</p>
-
+</p><br/>Featuring more than 800 views of Provo City and the vicinity, Provo Historical Images captures the growth and change of Provo from the 1870s through the 1990s. Photos included in this online collection were selected from multiple photograph collections from the L. Tom Perry Special Collections.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

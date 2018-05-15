@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2164.jpg" alt=" Horse Teams working on the old reservoir (1871-1946)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2164.jpg" alt="Horse Teams working on the old reservoir (1871-1946)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Horse Teams working on the old reservoir (1871-1946)
+Horse Teams working on the old reservoir (1871-1946)
 </div>
 <!-- Collection Title-->
 <h4>Newton and Cache Junction (UT) Historical Collection</h4>
@@ -40,10 +40,7 @@
 <h6> Published by <a href="../partners/NewtonTownUTLibrary.php">Newton Town (UT) Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-""The stalwart pioneers of this community have set up an achievement that entitles them to be rated with the 'Builders of the West.' It is an accomplishment that should not fade from our memory."" This quote is from Amos Ruben Griffin and appeared in a history of Newton written by Eugenia Alvis.</p>
-The Newton Town Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those wanting to explore times gone by.</p>
-"
+"</p><br/>""The stalwart pioneers of this community have set up an achievement that entitles them to be rated with the 'Builders of the West.' It is an accomplishment that should not fade from our memory."" This quote is from Amos Ruben Griffin and appeared in a history of Newton written by Eugenia Alvis.</p><br/>The Newton Town Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those wanting to explore times gone by.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

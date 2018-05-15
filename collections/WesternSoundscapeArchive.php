@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1280b.jp" alt="Thunder 2 at Nye Beach "width="175" height="132"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1280b.jp" alt=""width="175" height="132"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Thunder 2 at Nye Beach 
+
 </div>
 <!-- Collection Title-->
 <h4>Western Soundscape Archive</h4>
@@ -40,9 +40,7 @@ Thunder 2 at Nye Beach
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p>
-
+</p><br/>The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

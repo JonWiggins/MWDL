@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1921 The Acorn Souvenir "width="332" height ="246"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Hoover Dam Project Scrapbook Vol. 2"width="332" height ="246"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1921 The Acorn Souvenir 
+Hoover Dam Project Scrapbook Vol. 2
 <!-- Article Text -->
-</p>
-This is a collection of yearbooks from 1919 to 1923. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses. </p>
-
+</p><br/>This is a collection of yearbooks from 1919 to 1923. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

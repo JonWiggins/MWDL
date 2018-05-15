@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1827.jpg" alt="La Baskonia 1907 -- Issue no. 478 "width="281" height="366"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1827.jpg" alt="La Baskonia 1907 -- Issue no. 478"width="281" height="366"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-La Baskonia 1907 -- Issue no. 478 
+La Baskonia 1907 -- Issue no. 478
 </div>
 <!-- Collection Title-->
 <h4>La Baskonia</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-La Baskonia or La Vasconia was a Spanish language journal published from 1893 until 1943, that depicted the vitality and creativity of the Basque community in Argentina during the late 19th and early 20th centuries. </p>
-
+</p><br/>La Baskonia or La Vasconia was a Spanish language journal published from 1893 until 1943, that depicted the vitality and creativity of the Basque community in Argentina during the late 19th and early 20th centuries. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

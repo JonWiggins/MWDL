@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Uintah Chapter, Daughters of the American Revolution, archives</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Uintah Chapter, Daughters of the American Revolution, archives</em>
+<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>
 <!-- Article Text -->
-</p>
-The Daughters of the American Revolution Papers includes advertising pamphlets; scrapbooks containing organizational records including clippings, programs, announcements, correspondence, awards, photographs, and obituaries; publications of the NSDAR.</p>
-
+</p><br/>The Daughters of the American Revolution Papers includes advertising pamphlets, scrapbooks containing organizational records including clippings, programs, announcements, correspondence, awards, photographs, and obituaries, publications of the NSDAR.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

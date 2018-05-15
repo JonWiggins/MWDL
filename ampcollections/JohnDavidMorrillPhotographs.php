@@ -17,9 +17,7 @@
 <!-- Image Description -->
 John David Morrill
 <!-- Article Text -->
-<p></p>
-<p>John David Morrill was a home builder, fish hatchery manager, game warden, and photographer. These photos of family, work and Panguitch scenery were taken before his untimely death in 1916.</p>
-</p>
+<p></p><br/><p>John David Morrill was a home builder, fish hatchery manager, game warden, and photographer. These photos of family, work and Panguitch scenery were taken before his untimely death in 1916.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

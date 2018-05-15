@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/ProvoUTCityLibrary.php">Provo (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Wheelbarrow Race "width="356" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="356" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Wheelbarrow Race 
-<!-- Article Text -->
-</p>
-Digitized historic photographs of the buildings, people, and history of Provo.</p>
 
+<!-- Article Text -->
+</p><br/>Digitized historic photographs of the buildings, people, and history of Provo.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

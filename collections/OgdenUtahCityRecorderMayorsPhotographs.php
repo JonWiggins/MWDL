@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-Photographs of Ogden, UT Mayors from the Ogden City Recorder Collections.</p>
-
+</p><br/>Photographs of Ogden, UT Mayors from the Ogden City Recorder Collections.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

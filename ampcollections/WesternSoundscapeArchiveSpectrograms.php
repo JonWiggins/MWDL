@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Yellowstone National Park "width="331" height ="278"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Yellowstone National Park"width="331" height ="278"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Yellowstone National Park 
+Yellowstone National Park
 <!-- Article Text -->
-</p>
-The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p>
-
+</p><br/>The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

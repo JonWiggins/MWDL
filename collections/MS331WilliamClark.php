@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 331 William Clark</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of a legal transcript from a court case involving property loss in 1817 Territorial Missouri.</p>
-
+</p><br/>This collection consists of a legal transcript from a court case involving property loss in 1817 Territorial Missouri.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

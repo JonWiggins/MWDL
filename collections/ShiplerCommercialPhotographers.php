@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1040.jpg" alt="Accident at Capitol Building "width="270" height="215"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1040.jpg" alt="Accident at Capitol Building"width="270" height="215"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Accident at Capitol Building 
+Accident at Capitol Building
 </div>
 <!-- Collection Title-->
 <h4>Shipler Commercial Photographers</h4>
@@ -40,9 +40,7 @@ Accident at Capitol Building
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Shiplers had a photography business, but they also loved to take photographs of their own interests, including sports, travel, and such leisure activities as fishing, biking, and auto racing. Most of these images were digitized through a grant from the National Endowment for the Humanities, and some through an LSTA grant from the Utah State Library Division.</p>
-
+</p><br/>The Shiplers had a photography business, but they also loved to take photographs of their own interests, including sports, travel, and such leisure activities as fishing, biking, and auto racing. Most of these images were digitized through a grant from the National Endowment for the Humanities, and some through an LSTA grant from the Utah State Library Division.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

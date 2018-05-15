@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ranchers sitting on a fence "width="381" height ="297"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Ranchers sitting on a fence"width="381" height ="297"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Ranchers sitting on a fence 
+Ranchers sitting on a fence
 <!-- Article Text -->
-<p></p>
-<p>The Milt Jolley collection includes photographs of Cedar City (UT) people and places that he used in promoting tourism in southern Utah.</p>
-</p>
+<p></p><br/><p>The Milt Jolley collection includes photographs of Cedar City (UT) people and places that he used in promoting tourism in southern Utah.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

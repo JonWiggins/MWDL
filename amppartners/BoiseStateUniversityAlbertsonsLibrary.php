@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>&nbsp;</p>
-
-
+<br/><p>&nbsp;</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -28,6 +25,9 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/HistoricBoiseStateCollection.php">HistoricBoiseStateCollection</a></li>
+<li><a href = "../ampcollections/RobertWLimbertCollection.php">RobertWLimbertCollection</a></li>
+<li><a href = "../ampcollections/NellShipmanCollection.php">NellShipmanCollection</a></li>
+<li><a href = "../ampcollections/BoiseIDDevelopmentCollection.php">BoiseIDDevelopmentCollection</a></li>
 <li><a href = "../ampcollections/DocRoachFire.php">DocRoachFire</a></li>
 <li><a href = "../ampcollections/WilliamEBorah.php">WilliamEBorah</a></li>
 <li><a href = "../ampcollections/IdahoWilderness.php">IdahoWilderness</a></li>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1956.jpg" alt="Tradewinds, November 16, 1973"width="172" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1956.jpg" alt="Tradewinds%comma% November 16%comma% 1973"width="172" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Tradewinds, November 16, 1973
+Tradewinds%comma% November 16%comma% 1973
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Student Newspapers</h4>
@@ -40,10 +40,7 @@ Tradewinds, November 16, 1973
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p>
-&nbsp;</p>
-
+</p><br/>This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

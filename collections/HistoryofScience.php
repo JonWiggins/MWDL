@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1228.jpg" alt="Wild Flowers of Great Britain "width="203" height="308"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1228.jpg" alt="Thunder 2 at Nye Beach"width="203" height="308"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Wild Flowers of Great Britain 
+Thunder 2 at Nye Beach
 </div>
 <!-- Collection Title-->
 <h4>History of Science</h4>
@@ -40,9 +40,7 @@ Wild Flowers of Great Britain
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The History of Science Digital Collection presents some of Utah State University's most beautiful and significant scientific treasures, many of them from the Merrill-Cazier Library's recently acquired Peter W. van der Pas history of science collection, a treasure-trove of titles showing the development of scientific thought.</p>
-
+</p><br/>The History of Science Digital Collection presents some of Utah State University's most beautiful and significant scientific treasures, many of them from the Merrill-Cazier Library's recently acquired Peter W. van der Pas history of science collection, a treasure-trove of titles showing the development of scientific thought.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" 1878 by John R. Winder (duplicate)"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="1878 by John R. Winder (duplicate)"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- 1878 by John R. Winder (duplicate)
+1878 by John R. Winder (duplicate)
 <!-- Article Text -->
-</p>
-This collection of Salt Lake City Tax Assessment Rolls covers the years 1856-1878. </p>
-
+</p><br/>This collection of Salt Lake City Tax Assessment Rolls covers the years 1856-1878. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

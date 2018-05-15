@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Folksong & Music "width="159" height ="94"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Utah Department of Heritage and Arts"width="159" height ="94"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Folksong & Music 
+Utah Department of Heritage and Arts
 <!-- Article Text -->
-</p>
-FolkBistro is a series of podcasts exploring folklore topics. These engaging, short recordings feature interviews with visiting scholars as well as selections from the Fife Folklore Archives and folklore pedagogy. FolkBistro is a production of Utah State University's Merrill-Cazier Library in partnership with the USU Folklore Program. The host of FolkBistro is Randy Williams.</p>
-
+</p><br/>FolkBistro is a series of podcasts exploring folklore topics. These engaging, short recordings feature interviews with visiting scholars as well as selections from the Fife Folklore Archives and folklore pedagogy. FolkBistro is a production of Utah State University's Merrill-Cazier Library in partnership with the USU Folklore Program. The host of FolkBistro is Randy Williams.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

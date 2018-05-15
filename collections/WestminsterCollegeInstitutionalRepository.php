@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1313.jpg" alt="Because the Bible Tells Me So "width="384" height="503"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1313.jpg" alt=""width="384" height="503"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Because the Bible Tells Me So 
+
 </div>
 <!-- Collection Title-->
 <h4>Westminster College Institutional Repository</h4>
@@ -40,9 +40,7 @@ Because the Bible Tells Me So
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Westminster College Institutional Repository is the home for the scholarly and creative content produced by the University. The IR makes research, publications, and data produced by Westminster College faculty and students available worldwide</p>
-
+</p><br/>The Westminster College Institutional Repository is the home for the scholarly and creative content produced by the University. The IR makes research, publications, and data produced by Westminster College faculty and students available worldwide</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

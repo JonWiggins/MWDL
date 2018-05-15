@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1102.jpg" alt=" First business graduates of the Branch Normal School"width="400" height="323"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1102.jpg" alt="First business graduates of the Branch Normal School"width="400" height="323"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- First business graduates of the Branch Normal School
+First business graduates of the Branch Normal School
 </div>
 <!-- Collection Title-->
 <h4>Branch Normal School Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Southern Utah University was founded in 1897 as the Southern Branch of the State Normal School, but was called simply the Branch Normal School (BNS). The photographs in this collection represent the early history of the institution, 1897 to 1913.</p>
-</p>
+<p></p><br/><p>Southern Utah University was founded in 1897 as the Southern Branch of the State Normal School, but was called simply the Branch Normal School (BNS). The photographs in this collection represent the early history of the institution, 1897 to 1913.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

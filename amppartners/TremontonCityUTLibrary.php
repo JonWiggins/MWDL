@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Tremonton City Library serves the community of Tremonton, Utah, and was dedicated in 1930.</p>
-
-
-
+<br/><p>The Tremonton City Library serves the community of Tremonton, Utah, and was dedicated in 1930.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

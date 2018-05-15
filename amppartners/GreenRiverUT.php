@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Green River Launch Complex sits near Green River, a small community in central Utah. Built in 1964, by the US Air Force, the complex was used to test various missile and projectile weapons.</p>
-
-
-
+<br/><p>The Green River Launch Complex sits near Green River, a small community in central Utah. Built in 1964, by the US Air Force, the complex was used to test various missile and projectile weapons.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

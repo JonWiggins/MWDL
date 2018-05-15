@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Niagara Falls "width="349" height ="275"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Niagara Falls"width="349" height ="275"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Niagara Falls 
+Niagara Falls
 <!-- Article Text -->
-</p>
-Karl Bodmer created over 150 watercolors during the 1832 -1834 expedition through the American west by Prince Maximilian zu Wied. For more than a century, Bodmer's aquatints have remained a major source of information regarding Plains Indian culture. These works of art were also instrumental in creating the romantic perceptions and misconceptions of these peoples, which endure to this day in art, film, and literature.</p>
-
+</p><br/>Karl Bodmer created over 150 watercolors during the 1832 -1834 expedition through the American west by Prince Maximilian zu Wied. For more than a century, Bodmer's aquatints have remained a major source of information regarding Plains Indian culture. These works of art were also instrumental in creating the romantic perceptions and misconceptions of these peoples, which endure to this day in art, film, and literature.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

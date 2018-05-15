@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" John Boyden"width="157" height ="137"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="John Boyden"width="157" height ="137"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- John Boyden
+John Boyden
 <!-- Article Text -->
-<p></p>
-<p>Life story of John S. Boyden, including his experiences in Coalville, Utah, law practice, participation in the Utah Democratic Party, family life, church involvement, and advocacy for Indians.</p>
-</p>
+<p></p><br/><p>Life story of John S. Boyden, including his experiences in Coalville, Utah, law practice, participation in the Utah Democratic Party, family life, church involvement, and advocacy for Indians.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

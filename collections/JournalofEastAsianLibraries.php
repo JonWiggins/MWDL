@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1074.jpg" alt="No. 134 Journal of East Asian Libraries "width="309" height="414"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1074.jpg" alt="No. 134 Journal of East Asian Libraries"width="309" height="414"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-No. 134 Journal of East Asian Libraries 
+No. 134 Journal of East Asian Libraries
 </div>
 <!-- Collection Title-->
 <h4>Journal of East Asian Libraries</h4>
@@ -40,9 +40,7 @@ No. 134 Journal of East Asian Libraries
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Journal of East Asian Libraries is published twice a year by the Council on East Asian Libraries of the Association for Asian Studies. It publishes reports and scholarly articles related to East Asian libraries and to the history and profession of East Asian librarianship. The February issue is made up of reports; the October issue is made up of peer-reviewed journal articles.</p>
-
+</p><br/>The Journal of East Asian Libraries is published twice a year by the Council on East Asian Libraries of the Association for Asian Studies. It publishes reports and scholarly articles related to East Asian libraries and to the history and profession of East Asian librarianship. The February issue is made up of reports, the October issue is made up of peer-reviewed journal articles.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

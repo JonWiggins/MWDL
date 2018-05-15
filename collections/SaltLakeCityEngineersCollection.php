@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1036.jpg" alt="Mountain Dell Dam Construction "width="292" height="231"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1036.jpg" alt="Mountain Dell Dam Construction"width="292" height="231"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Mountain Dell Dam Construction 
+Mountain Dell Dam Construction
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake City Engineers Collection</h4>
@@ -40,9 +40,7 @@ Mountain Dell Dam Construction
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Salt Lake City Engineers Photograph Collection provides an excellent look at how Salt Lake City developed between 1902 and 1932. The collection documents the construction of the infrastructure in Salt Lake City and surrounding areas, including roads, sewers, irrigation systems, curb and gutters, street lighting, street repairs, comfort stations, mills, dams, reservoirs, bridges, etc. </p>
-
+</p><br/>The Salt Lake City Engineers Photograph Collection provides an excellent look at how Salt Lake City developed between 1902 and 1932. The collection documents the construction of the infrastructure in Salt Lake City and surrounding areas, including roads, sewers, irrigation systems, curb and gutters, street lighting, street repairs, comfort stations, mills, dams, reservoirs, bridges, etc. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

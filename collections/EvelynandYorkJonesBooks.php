@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1200.jpg" alt=" Mayors of Cedar City"width="157" height="137"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1200.jpg" alt="Mayors of Cedar City"width="157" height="137"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Mayors of Cedar City
+Mayors of Cedar City
 </div>
 <!-- Collection Title-->
 <h4>Evelyn and York Jones Books</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>This collection contains the three books published by Evelyn and York Jones. Henry Lunt: Biography - a biography of Cedar City founder Henry Lunt. Lehi Willard Jones: Biography - life of Lehi Willard Jones, civi leader and livestockman in Cedar City, Utah, 1854-1947. Mayors of Cedar City - includes biographies of the mayors of Cedar City and examples from the city minutes for each administration. </p>
-</p>
+<p></p><br/><p>This collection contains the three books published by Evelyn and York Jones. Henry Lunt: Biography - a biography of Cedar City founder Henry Lunt. Lehi Willard Jones: Biography - life of Lehi Willard Jones, civi leader and livestockman in Cedar City, Utah, 1854-1947. Mayors of Cedar City - includes biographies of the mayors of Cedar City and examples from the city minutes for each administration. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mountain Dell Dam Construction "width="292" height ="231"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Mountain Dell Dam Construction"width="292" height ="231"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Mountain Dell Dam Construction 
+Mountain Dell Dam Construction
 <!-- Article Text -->
-</p>
-The Salt Lake City Engineers Photograph Collection provides an excellent look at how Salt Lake City developed between 1902 and 1932. The collection documents the construction of the infrastructure in Salt Lake City and surrounding areas, including roads, sewers, irrigation systems, curb and gutters, street lighting, street repairs, comfort stations, mills, dams, reservoirs, bridges, etc. </p>
-
+</p><br/>The Salt Lake City Engineers Photograph Collection provides an excellent look at how Salt Lake City developed between 1902 and 1932. The collection documents the construction of the infrastructure in Salt Lake City and surrounding areas, including roads, sewers, irrigation systems, curb and gutters, street lighting, street repairs, comfort stations, mills, dams, reservoirs, bridges, etc. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1612.jpg" alt="Boy sand painting "width="333" height="292"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1612.jpg" alt="Boy sand painting"width="333" height="292"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Boy sand painting 
+Boy sand painting
 </div>
 <!-- Collection Title-->
 <h4>Intermountain Indian School</h4>
@@ -40,9 +40,7 @@ Boy sand painting
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-In 1948 Bushnell Hospital in Brigham City, Utah was transformed into what would become the Intermountain Indian School, or, the ""world's largest boarding school."" The school opened its doors in January 1950 to five hundred Navajo students. Educational goals were to teach English and basic academic disciplines as well as vocational skills which, it was believed, would facilitate assimilation into mainstream America.</p>
-"
+"</p><br/>In 1948 Bushnell Hospital in Brigham City, Utah was transformed into what would become the Intermountain Indian School, or, the ""world's largest boarding school."" The school opened its doors in January 1950 to five hundred Navajo students. Educational goals were to teach English and basic academic disciplines as well as vocational skills which, it was believed, would facilitate assimilation into mainstream America.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

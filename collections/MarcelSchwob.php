@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1323.jpg" alt="1882-05-04 À sa mère To his mother "width="359" height="194"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1323.jpg" alt=""width="359" height="194"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1882-05-04 À sa mère To his mother 
+
 </div>
 <!-- Collection Title-->
 <h4>Marcel Schwob</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Marcel Schwob Digital Collection is a digital publication of 72 previously unpublished letters. The collection also includes a digital version of Marcel Schwob: Correspondance Inédite (Droz 1985), edited by former BYU Professor and Schwob scholar John Alden Green.</p>
-
+</p><br/>The Marcel Schwob Digital Collection is a digital publication of 72 previously unpublished letters. The collection also includes a digital version of Marcel Schwob: Correspondance Inédite (Droz 1985), edited by former BYU Professor and Schwob scholar John Alden Green.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

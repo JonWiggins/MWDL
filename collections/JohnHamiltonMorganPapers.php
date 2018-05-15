@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1901.jpg" alt="Miscellaneous biography research material about John Hamilton Morgan, Part 2"width="186" height="284"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1901.jpg" alt="Miscellaneous biography research material about John Hamilton Morgan%comma% Part 2"width="186" height="284"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Miscellaneous biography research material about John Hamilton Morgan, Part 2
+Miscellaneous biography research material about John Hamilton Morgan%comma% Part 2
 </div>
 <!-- Collection Title-->
 <h4>John Hamilton Morgan Papers</h4>
@@ -40,10 +40,7 @@ Miscellaneous biography research material about John Hamilton Morgan, Part 2
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Papers detailing the personal, professional, and religious activities of John Hamilton Morgan. Includes a typescript of his diary (1875-1892) and original and typescript correspondence (1875-1894); records of the Southern States Mission and the San Luis Valley, Colorado, settlement; biographical and religious articles written by and about John Morgan. Also included are collections of his inspirational stories, tributes to his memory, and a biography.</p>
-&nbsp;</p>
-
+</p><br/>Papers detailing the personal, professional, and religious activities of John Hamilton Morgan. Includes a typescript of his diary (1875-1892) and original and typescript correspondence (1875-1894), records of the Southern States Mission and the San Luis Valley, Colorado, settlement, biographical and religious articles written by and about John Morgan. Also included are collections of his inspirational stories, tributes to his memory, and a biography.</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

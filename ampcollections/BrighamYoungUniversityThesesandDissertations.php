@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Resurrecting Lope's Autos "width="203" height ="388"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Resurrecting Lope's Autos"width="203" height ="388"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Resurrecting Lope's Autos 
+Resurrecting Lope's Autos
 <!-- Article Text -->
-</p>
-Electronic versions of works submitted to the BYU School of Graduate Studies.</p>
-
+</p><br/>Electronic versions of works submitted to the BYU School of Graduate Studies.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1630.jpg" alt="Fitts Park channel "width="376" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1630.jpg" alt="Fitts Park channel"width="376" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Fitts Park channel 
+Fitts Park channel
 </div>
 <!-- Collection Title-->
 <h4>Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water</h4>
@@ -40,9 +40,7 @@ Fitts Park channel
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Hidden Water unveils surface water systems on the east side of Salt Lake Valley, both culinary and irrigation. The web site follows the seven major streams of the Wasatch Front, plus minor ones, and tracks that water from headwaters to the Jordan River and then Great Salt Lake. It intermixes contemporary photographs with historical photographs from several archives showing earlier uses and diversions of water.</p>
-
+</p><br/>Hidden Water unveils surface water systems on the east side of Salt Lake Valley, both culinary and irrigation. The web site follows the seven major streams of the Wasatch Front, plus minor ones, and tracks that water from headwaters to the Jordan River and then Great Salt Lake. It intermixes contemporary photographs with historical photographs from several archives showing earlier uses and diversions of water.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

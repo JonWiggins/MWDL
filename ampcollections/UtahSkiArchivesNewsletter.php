@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Ski Archives Newsletter "width="354" height ="453"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Utah Ski Archives Newsletter"width="354" height ="453"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Ski Archives Newsletter 
+Utah Ski Archives Newsletter
 <!-- Article Text -->
-</p>
-This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p>
-
+</p><br/>This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="La Danse "width="286" height ="412"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="La Danse"width="286" height ="412"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-La Danse 
+La Danse
 <!-- Article Text -->
-</p>
-Drawing on early-modern documents preserved in the Marriott Library, this collection represents an intersection of theater, dance, music, visual, and print culture between 1600 and 1850. The collection focus is upon dance in this period, but includes music, noted images of Shakespeare's plays, lesser known works, and images and biographies of some of the better known French theater personalities.</p>
-
+</p><br/>Drawing on early-modern documents preserved in the Marriott Library, this collection represents an intersection of theater, dance, music, visual, and print culture between 1600 and 1850. The collection focus is upon dance in this period, but includes music, noted images of Shakespeare's plays, lesser known works, and images and biographies of some of the better known French theater personalities.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

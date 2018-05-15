@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2113.jpg" alt=" Julie Orser: Doublespeak, Film Still 01"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2113.jpg" alt="Julie Orser: Doublespeak%comma% Film Still 01"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Julie Orser: Doublespeak, Film Still 01
+Julie Orser: Doublespeak%comma% Film Still 01
 </div>
 <!-- Collection Title-->
 <h4>Utah Museum of Contemporary Art Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahMuseumofContemporaryArt.php">Utah Museum of Contemporary Art</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection includes documentation of exhibitions, installations, artwork and other related materials from the Utah Museum of Contempory Art in Salt Lake City, Utah.</p>
-
+</p><br/>This collection includes documentation of exhibitions, installations, artwork and other related materials from the Utah Museum of Contempory Art in Salt Lake City, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

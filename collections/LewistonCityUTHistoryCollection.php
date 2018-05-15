@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2163.jpg" alt=" Fourth of July celebration, Lewiston (Utah) "width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2163.jpg" alt="Fourth of July celebration%comma% Lewiston (Utah)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Fourth of July celebration, Lewiston (Utah) 
+Fourth of July celebration%comma% Lewiston (Utah)
 </div>
 <!-- Collection Title-->
 <h4>Lewiston City (UT) History Collection</h4>
@@ -40,10 +40,7 @@
 <h6> Published by <a href="../partners/LewistonCityUTPublicLibrary.php">Lewiston City (UT) Public Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Lewiston City History Collection, developed by the Lewiston City Public Library, is a collection of photographs and text that document the history of Lewiston City in northern Utah. Here you will find photographs of the town and the people who developed the community.</p>
-This collection was digitized as part of the of the Digital Public LIbrary of America's Public Library Partnership Project and the Mountain West Digital Library Digital Services grants.</p>
-
+</p><br/>The Lewiston City History Collection, developed by the Lewiston City Public Library, is a collection of photographs and text that document the history of Lewiston City in northern Utah. Here you will find photographs of the town and the people who developed the community.</p><br/>This collection was digitized as part of the of the Digital Public LIbrary of America's Public Library Partnership Project and the Mountain West Digital Library Digital Services grants.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

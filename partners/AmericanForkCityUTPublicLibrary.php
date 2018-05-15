@@ -24,11 +24,7 @@
 <h6><a href="http://afcity.org/Departments/Library/tabid/166/Default.aspx">American Fork City (UT) Public Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The mission of the American Fork Library is threefold: to meet the information needs of our citizens, to provide a rich environment to encourage reading in our children and to improve the quality of life with recreational reading materials.</p>
-
-
-</p>
+<p><br/><p>The mission of the American Fork Library is threefold: to meet the information needs of our citizens, to provide a rich environment to encourage reading in our children and to improve the quality of life with recreational reading materials.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=American+Fork+City+(UT)+Public+Library">Browse all records from American Fork City (UT) Public Library</a>
 <!-- List all Active Collections -->

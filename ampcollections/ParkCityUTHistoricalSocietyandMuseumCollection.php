@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>Park City (UT) Historical Society and Museum Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp;Museum.php">Park City (UT) Historical Society &amp; Museum</a></h6>
+<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp.php">Park City (UT) Historical Society &amp</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="American Flag Mine "width="270" height ="305"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="American Flag Mine"width="270" height ="305"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-American Flag Mine 
+American Flag Mine
 <!-- Article Text -->
-</p>
-The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p>
-
+ Museum,</p><br/>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

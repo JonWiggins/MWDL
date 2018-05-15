@@ -24,18 +24,16 @@
 <h6><a href="http://www.archives.state.ut.us/">Utah State Archives Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Utah State Archives and Records Service is a state government agency that works with records created by other state and local governmental entities in Utah. Records of historical value are housed in our permanent collections and are available for research. We also facilitate good records management practices within agencies.</p>
-
-
-</p>
+<p><br/><p>The Utah State Archives and Records Service is a state government agency that works with records created by other state and local governmental entities in Utah. Records of historical value are housed in our permanent collections and are available for research. We also facilitate good records management practices within agencies.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+Archives">Browse all records from Utah State Archives</a>
 <!-- List all Active Collections -->
+<li><a href = "../collections/UtahGovernorsExecutiveOrdersandProclamations.php">Utah Governors Executive Orders and Proclamations</a></li>
 <li><a href = "../collections/UtahDivisionofCorporationsincorporationcasefilesindex1981.php">Utah Division of Corporations incorporation case files index 1981</a></li>
 <li><a href = "../collections/UtahDivisionofAnimalIndustryBrandBooks.php">Utah Division of Animal Industry Brand Books</a></li>
 <li><a href = "../collections/UtahBoardofPardonsPrisonerPardonApplicationCaseFiles.php">Utah Board of Pardons: Prisoner Pardon Application Case Files</a></li>
 <li><a href = "../collections/UtahFifthDistrictBeaverCountyCaseIndexes.php">Utah Fifth District: Beaver County Case Indexes</a></li>
+<li><a href = "../collections/UtahDivisionofStateArchivesSeriesInventories.php">Utah Division of State Archives Series Inventories</a></li>
 <li><a href = "../collections/UtahDivisionofStateArchivesOathsofOffice.php">Utah Division of State Archives Oaths of Office</a></li>
 <li><a href = "../collections/UtahRevisedStatutes1933.php">Utah Revised Statutes 1933</a></li>
 <li><a href = "../collections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php">Utah Office of Vital Records and Statistics. Death Certificates 1905-1958</a></li>
@@ -58,6 +56,7 @@
 <li><a href = "../collections/UtahConventiontoRatifythe21stAmendment1933AdministrativeRecords.php">Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</a></li>
 <li><a href = "../collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php">Utah Legislature. House of Representatives Working Bills 1896-1989</a></li>
 <li><a href = "../collections/SaltLakeCityUTTaxAssessmentRolls.php">Salt Lake City (UT) Tax Assessment Rolls</a></li>
+<li><a href = "../collections/CedarCityUtahCityandCemeteryMap.php">Cedar City (Utah) City and Cemetery Map</a></li>
 <li><a href = "../collections/UtahSemiCentennialCommissionBookofthePioneers.php">Utah Semi-Centennial Commission Book of the Pioneers</a></li>
 <li><a href = "../collections/UtahTerritorialSecretaryTerritorialExecutivePapers.php">Utah Territorial Secretary Territorial Executive Papers</a></li>
 <li><a href = "../collections/UtahThirdDistrictCaseFileIndex.php">Utah Third District Case File Index</a></li>

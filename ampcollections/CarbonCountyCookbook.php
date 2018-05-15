@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Carbon County Community Cookbook</em>
 <!-- Article Text -->
-</p>
-Community cookbook with contributions from local Carbon County residents. Individuals from cities such as Helper, Kenilworth, Sunnyside, Hiawatha, Cameron, Castle Gate, and even other Utah cities such as Logan and Provo, provided recipes for the cookbook.</p>
-
+</p><br/>Community cookbook with contributions from local Carbon County residents. Individuals from cities such as Helper, Kenilworth, Sunnyside, Hiawatha, Cameron, Castle Gate, and even other Utah cities such as Logan and Provo, provided recipes for the cookbook.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

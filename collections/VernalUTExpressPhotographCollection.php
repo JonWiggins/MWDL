@@ -40,9 +40,7 @@ Buildings and equipment display evidence of a once-active Dyer Mine operation
 <h6> Published by <a href="../partners/UintahCountyUTLibrary.php">Uintah County (UT) Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Regional History Center is dedicated to collecting, preserving and making available biographies, histories, county records, newspapers, maps, and photographs of the Uinta Basin Region. The Regional History Center is a one of a kind center in the state of Utah and the western states region. The Regional History Center has three photo collections. The Regional History Collection is made up of photos given to the center by various donors, the Vernal Express Collection is photographs that were in the local newspaper, and the Thorne Collection is a large collection from early photographer Leo Thorne.</p>
-</p>
+<p></p><br/><p>The Regional History Center is dedicated to collecting, preserving and making available biographies, histories, county records, newspapers, maps, and photographs of the Uinta Basin Region. The Regional History Center is a one of a kind center in the state of Utah and the western states region. The Regional History Center has three photo collections. The Regional History Collection is made up of photos given to the center by various donors, the Vernal Express Collection is photographs that were in the local newspaper, and the Thorne Collection is a large collection from early photographer Leo Thorne.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

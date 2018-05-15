@@ -24,10 +24,7 @@
 <h6><a href="http://library.weber.edu/">Weber State University - Stewart Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>Weber State University was founded in Ogden, Utah as Weber Stake Academy in 1889. Like Weber County and the Weber River, the school was named after John Henry Weber, an early fur trader. In 1933, the academy was made a state junior college. Following World War II, the college outgrew its downtown campus and moved to the present site on the foothills of the Wasatch Mountains overlooking Ogden and the Great Salt Lake. Our growing collection includes 458,115 bound volumes and 190,628 electronic resources. Students, staff and faculty have remote access to the library; some classes are taught in the library, and the honors program is housed there.</p>
-
-</p>
+<p><br/><p>Weber State University was founded in Ogden, Utah as Weber Stake Academy in 1889. Like Weber County and the Weber River, the school was named after John Henry Weber, an early fur trader. In 1933, the academy was made a state junior college. Following World War II, the college outgrew its downtown campus and moved to the present site on the foothills of the Wasatch Mountains overlooking Ogden and the Great Salt Lake. Our growing collection includes 458,115 bound volumes and 190,628 electronic resources. Students, staff and faculty have remote access to the library; some classes are taught in the library, and the honors program is housed there.</p><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Weber+State+University+-+Stewart+Library">Browse all records from Weber State University - Stewart Library</a>
 <!-- List all Active Collections -->
@@ -58,8 +55,11 @@
 <li><a href = "../collections/UtahConstructionCompanyMexicoProjects.php">Utah Construction Company Mexico Projects</a></li>
 <li><a href = "../collections/UtahConstructionCompanyStockholderLedgers.php">Utah Construction Company: Stockholder Ledgers</a></li>
 <li><a href = "../collections/UtahInternationalGeneralElectricMergerDocuments.php">Utah International - General Electric Merger Documents</a></li>
+<li><a href = "../collections/WorldWarIServiceCards.php">World War I Service Cards</a></li>
 <li><a href = "../collections/WeberStateHistoricalPublications.php">Weber State Historical Publications</a></li>
 <li><a href = "../collections/WeberStateOralHistoryProject.php">Weber State Oral History Project</a></li>
+<li><a href = "../collections/UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory.php">Utah Construction-Utah International Symposium Speeches Ephemera Oral History</a></li>
+<li><a href = "../collections/WorldWarIEdmondTedLittlefield.php">World War I Edmond (Ted) Littlefield</a></li>
 <li><a href = "../collections/OgdenBuildingsbyStreet.php">Ogden Buildings by Street</a></li>
 <li><a href = "../collections/WeberStateWhipClubScrapbook.php">Weber State Whip Club Scrapbook</a></li>
 <li><a href = "../collections/WeberandDavisCountiesCommunityOralHistoryProject.php">Weber and Davis Counties Community Oral History Project</a></li>

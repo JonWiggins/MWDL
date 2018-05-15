@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1867.jpg" alt="Cache National Forest Grazing survey camp "width="362" height="209"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1867.jpg" alt="Cache National Forest Grazing survey camp"width="362" height="209"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Cache National Forest Grazing survey camp 
+Cache National Forest Grazing survey camp
 </div>
 <!-- Collection Title-->
 <h4>Regreening of Cache Valley</h4>
@@ -40,9 +40,7 @@ Cache National Forest Grazing survey camp
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-"<p></p>
-<p> On May 29, 1903, President Theodore Roosevelt signed a proclamation creating the Logan Forest Reserve. During the decade following the creation of the Logan Forest Reserve (later renamed Cache National Forest), forest managers and settlers worked to restore, or ""re-green"" Cache Valley and the Bear River Range.</p>
-</p>"
+"<p></p><br/><p> On May 29, 1903, President Theodore Roosevelt signed a proclamation creating the Logan Forest Reserve. During the decade following the creation of the Logan Forest Reserve (later renamed Cache National Forest), forest managers and settlers worked to restore, or ""re-green"" Cache Valley and the Bear River Range.</p><br/></p>"
 <hr>
 <h6>
 <!-- Browse Link -->

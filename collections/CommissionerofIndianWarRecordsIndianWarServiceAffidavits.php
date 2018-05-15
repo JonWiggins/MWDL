@@ -40,9 +40,7 @@ Affidavit Concerning Service in Indian Wars
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>In 1909 the legislature passed a law creating a Board of Commissioners of Indian War Records. Their duties were to ascertain the names of the persons who were members of any organization performing military duties during Indian wars or expeditions against the Indians during territorial years. Veterans completed affidavits of service; two witnesses also completed affidavits supporting the facts. The affidavits were then filed in the office of the chairman of the board, the Adjutant General of the State.</p>
-</p>
+<p></p><br/><p>In 1909 the legislature passed a law creating a Board of Commissioners of Indian War Records. Their duties were to ascertain the names of the persons who were members of any organization performing military duties during Indian wars or expeditions against the Indians during territorial years. Veterans completed affidavits of service, two witnesses also completed affidavits supporting the facts. The affidavits were then filed in the office of the chairman of the board, the Adjutant General of the State.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

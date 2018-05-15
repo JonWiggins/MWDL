@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1079.jpg" alt="No. 12 (Spring 2004) Marriage & Families "width="263" height="340"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1079.jpg" alt="No. 12 (Spring 2004) Marriage & Families"width="263" height="340"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-No. 12 (Spring 2004) Marriage & Families 
+No. 12 (Spring 2004) Marriage & Families
 </div>
 <!-- Collection Title-->
 <h4>Marriage and Families</h4>
@@ -40,9 +40,7 @@ No. 12 (Spring 2004) Marriage & Families
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Marriage & Families is a journal for young couples, husbands & wives, parents, and professionals including educators, counselors, therapists, psychologists, physicians, social workers, nurses, public health people, teachers, clergy, experts in family law, and everyone interested in marriage and families. This periodical was published from 1999-2006 by the School of Family Life at Brigham Young University. The last issue of Marriage & Families was Vol. 18, No. 1 (2006).</p>
-
+</p><br/>Marriage & Families is a journal for young couples, husbands & wives, parents, and professionals including educators, counselors, therapists, psychologists, physicians, social workers, nurses, public health people, teachers, clergy, experts in family law, and everyone interested in marriage and families. This periodical was published from 1999-2006 by the School of Family Life at Brigham Young University. The last issue of Marriage & Families was Vol. 18, No. 1 (2006).</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

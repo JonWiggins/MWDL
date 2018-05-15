@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Located in the center of the Brigham Young University campus, The Harold B. Lee Library (HBLL) collection numbers over eight million volumes. The library's Digital Initiatives program constantly adds new online content to its collections. The Web-based catalog contains numerous full-text databases and many electronic indexes to other sources. The library provides thousands of seats for research at tables, on soft chairs, and in group study.</p>
-
-
-
+<br/><p>Located in the center of the Brigham Young University campus, The Harold B. Lee Library (HBLL) collection numbers over eight million volumes. The library's Digital Initiatives program constantly adds new online content to its collections. The Web-based catalog contains numerous full-text databases and many electronic indexes to other sources. The library provides thousands of seats for research at tables, on soft chairs, and in group study.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -50,9 +46,11 @@
 <li><a href = "../ampcollections/MarcusBach.php">MarcusBach</a></li>
 <li><a href = "../ampcollections/MarcusBachOutreach.php">MarcusBachOutreach</a></li>
 <li><a href = "../ampcollections/MarriageandFamilies.php">MarriageandFamilies</a></li>
+<li><a href = "../ampcollections/MormonPublications19thand20thCenturies.php">MormonPublications19thand20thCenturies</a></li>
 <li><a href = "../ampcollections/BrighamYoungUniversityCampusPhotographs.php">BrighamYoungUniversityCampusPhotographs</a></li>
 <li><a href = "../ampcollections/ReligiousEducation.php">ReligiousEducation</a></li>
 <li><a href = "../ampcollections/ReligiousEducator.php">ReligiousEducator</a></li>
+<li><a href = "../ampcollections/SudanStudies.php">SudanStudies</a></li>
 <li><a href = "../ampcollections/TESLReporter.php">TESLReporter</a></li>
 <li><a href = "../ampcollections/BrighamYoungUniversityFamilyHistorian.php">BrighamYoungUniversityFamilyHistorian</a></li>
 <li><a href = "../ampcollections/JohnDonneSermons.php">JohnDonneSermons</a></li>
@@ -68,6 +66,7 @@
 <li><a href = "../ampcollections/MormonMissionaryDiaries.php">MormonMissionaryDiaries</a></li>
 <li><a href = "../ampcollections/PaulRCheesmanCollection.php">PaulRCheesmanCollection</a></li>
 <li><a href = "../ampcollections/GeorgeBeardCollection.php">GeorgeBeardCollection</a></li>
+<li><a href = "../ampcollections/MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids.php">MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids</a></li>
 <li><a href = "../ampcollections/ProvoUTHistoricalImages.php">ProvoUTHistoricalImages</a></li>
 <li><a href = "../ampcollections/WorldWarIIPhotographsbyJMalanHeslop.php">WorldWarIIPhotographsbyJMalanHeslop</a></li>
 <li><a href = "../ampcollections/LettersofPhilipIIKingofSpain.php">LettersofPhilipIIKingofSpain</a></li>
@@ -78,6 +77,7 @@
 <li><a href = "../ampcollections/LatterDaySaintsMillennialStar.php">LatterDaySaintsMillennialStar</a></li>
 <li><a href = "../ampcollections/BrighamYoungUniversitySpecialCollectionsMiscellaneous.php">BrighamYoungUniversitySpecialCollectionsMiscellaneous</a></li>
 <li><a href = "../ampcollections/DailyEnquirerProvoUT1.php">DailyEnquirerProvoUT1</a></li>
+<li><a href = "../ampcollections/BrighamYoungUniversityFindingAids.php">BrighamYoungUniversityFindingAids</a></li>
 <li><a href = "../ampcollections/HistoryofMonacoPrimaryDocuments.php">HistoryofMonacoPrimaryDocuments</a></li>
 <li><a href = "../ampcollections/BrighamYoungUniversityFamilyHistories.php">BrighamYoungUniversityFamilyHistories</a></li>
 <li><a href = "../ampcollections/BrighamYoungUniversityScholarsArchiveFolkloreProjects.php">BrighamYoungUniversityScholarsArchiveFolkloreProjects</a></li>

@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>In 1920, women in the Springville Utah area realized the importance of preserving our community's heritage. They began gathering artifacts, histories, photographs and documents of the area. Those interested in learning about the heritage of the area are invited to visit us at the old Carnegie Library on Main Street in Springville, where you can do personal research, and enjoy hands on activities and games with the family. The Museum is run by volunteers.</p>
-
-
-
+<br/><p>In 1920, women in the Springville Utah area realized the importance of preserving our community's heritage. They began gathering artifacts, histories, photographs and documents of the area. Those interested in learning about the heritage of the area are invited to visit us at the old Carnegie Library on Main Street in Springville, where you can do personal research, and enjoy hands on activities and games with the family. The Museum is run by volunteers.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

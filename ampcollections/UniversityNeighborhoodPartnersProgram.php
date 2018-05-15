@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Growing up in Salt Lake City "width="380" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The Spectrum 1971 Yearbook"width="380" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Growing up in Salt Lake City 
+The Spectrum 1971 Yearbook
 <!-- Article Text -->
-</p>
-This collection contains various administrative documents of the University Neighborhood Partners program. The UNP brings together University and west side resources for reciprocal learning, action, and benefit. Its goals include increasing opportunities for youth education and success, building the capacity of neighborhoods in the areas of health, housing, employment, business, safety, and the environment, and creating initiatives to empower and expand community leadership.</p>
-
+</p><br/>This collection contains various administrative documents of the University Neighborhood Partners program. The UNP brings together University and west side resources for reciprocal learning, action, and benefit. Its goals include increasing opportunities for youth education and success, building the capacity of neighborhoods in the areas of health, housing, employment, business, safety, and the environment, and creating initiatives to empower and expand community leadership.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

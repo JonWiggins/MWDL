@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1257.jpg" alt=" Picnic at Navajo Lake"width="367" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1257.jpg" alt="University of Utah Finding Aids"width="367" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Picnic at Navajo Lake
+University of Utah Finding Aids
 </div>
 <!-- Collection Title-->
 <h4>Allen Leigh Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Allen Leigh Photograph Collection contains images of scenery and life in Southern Utah. Ashdown Gorge, Brian Head, Cedar Breaks, and Navaho Lake are featured. His photographs also show the activities of Utah Parks Company employees.</p>
-</p>
+<p></p><br/><p>The Allen Leigh Photograph Collection contains images of scenery and life in Southern Utah. Ashdown Gorge, Brian Head, Cedar Breaks, and Navaho Lake are featured. His photographs also show the activities of Utah Parks Company employees.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

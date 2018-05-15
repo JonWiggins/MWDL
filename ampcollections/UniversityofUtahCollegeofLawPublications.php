@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Transparency and Privacy: Clashing Paradigms in a Web 2.0 World</em>
 <!-- Article Text -->
-<p></p>
-<p>A collection of faculty publications, historical photographs, and other materials related to the S.J. Quinney College of Law.</p>
-</p>
+<p></p><br/><p>A collection of faculty publications, historical photographs, and other materials related to the S.J. Quinney College of Law.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

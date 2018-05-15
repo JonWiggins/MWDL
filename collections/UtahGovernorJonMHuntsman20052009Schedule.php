@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1625.jpg" alt="Jon Huntsman's Schedule January 2005 "width="334" height="448"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1625.jpg" alt="Jon Huntsman's Schedule January 2005"width="334" height="448"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Jon Huntsman's Schedule January 2005 
+Jon Huntsman's Schedule January 2005
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor Jon M. Huntsman (2005-2009). Schedule</h4>
@@ -40,10 +40,7 @@ Jon Huntsman's Schedule January 2005
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-"</p>
-These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only ""hardcopies"" released publicly.</p>
-&nbsp;</p>
-"
+"</p><br/>These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only ""hardcopies"" released publicly.</p><br/>&nbsp;</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

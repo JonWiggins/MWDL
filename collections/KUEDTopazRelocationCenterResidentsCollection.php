@@ -40,9 +40,7 @@ Tofu Factory Worker
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of images of Japanese Americans before and during internment at the Topaz Internment Camp in Delta, Utah.</p>
-
+</p><br/>This collection consists of images of Japanese Americans before and during internment at the Topaz Internment Camp in Delta, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

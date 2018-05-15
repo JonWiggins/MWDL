@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Violinist, Japan, 1961-62, By Eugene W. Smith"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Violinist%comma% Japan%comma% 1961-62%comma% By Eugene W. Smith"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Violinist, Japan, 1961-62, By Eugene W. Smith
+Violinist%comma% Japan%comma% 1961-62%comma% By Eugene W. Smith
 <!-- Article Text -->
-</p>
-The Hal Wing Photography Collection is comprised of photographs by Josef Sudek, W. Eugene Smith, Aaron Siskind, and Paul Caponigro, all significant 20th Century photographers. The collection was donated to the Woodbury Museum in 2002.</p>
-
+</p><br/>The Hal Wing Photography Collection is comprised of photographs by Josef Sudek, W. Eugene Smith, Aaron Siskind, and Paul Caponigro, all significant 20th Century photographers. The collection was donated to the Woodbury Museum in 2002.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

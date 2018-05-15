@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial view of Autobahn "width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Aerial view of Autobahn 
-<!-- Article Text -->
-</p>
-More than 1,350 images scanned from negatives, original prints, and slides. Heslop served in the U.S. Army and documented the final months of World War II in Austria, Belgium, France, Luxembourg, and Germany.</p>
 
+<!-- Article Text -->
+</p><br/>More than 1,350 images scanned from negatives, original prints, and slides. Heslop served in the U.S. Army and documented the final months of World War II in Austria, Belgium, France, Luxembourg, and Germany.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/HealthEducationAssetsLibrary.php">Health Education Assets Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Chronic Myelogenous Leukemia (annotated)"width="364" height ="238"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="364" height ="238"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Chronic Myelogenous Leukemia (annotated)
-<!-- Article Text -->
-<p></p>
-<p>The Health Education Assets Library (HEAL) is a digital library of multimedia teaching resources for the health sciences. HEAL provides access to tens of thousands of images, videoclips, animations, presentations, and audio files that support healthcare education.</p>
 
-<p>Browse within HEAL Sub-Collections:</p>
+<!-- Article Text -->
+<p></p><br/><p>The Health Education Assets Library (HEAL) is a digital library of multimedia teaching resources for the health sciences. HEAL provides access to tens of thousands of images, videoclips, animations, presentations, and audio files that support healthcare education.</p><br/><br/><p>Browse within HEAL Sub-Collections:</p>
 <hr>
 <!-- Browse Collection -->
 <h6>

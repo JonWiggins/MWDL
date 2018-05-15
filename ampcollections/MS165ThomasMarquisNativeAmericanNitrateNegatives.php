@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 165 Thomas Marquis Native American Nitrate Negatives</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Richard Wooden Leg sitting with boy</em>"width="250" height ="300"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Richard Wooden Leg sitting with boy</em>
 <!-- Article Text -->
-</p>
-These photographs were created by photographer Dr. Thomas Marquis, a physician and author, who lived on the Northern Cheyenne Indian Reservation in the early 20th century.</p>
-
+</p><br/>These photographs were created by photographer Dr. Thomas Marquis, a physician and author, who lived on the Northern Cheyenne Indian Reservation in the early 20th century.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1227.jpg" alt="Interview with Patricia George and Virginia Sanchez "width="272" height="353"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1227.jpg" alt="San Rafael Swell -- Mining -- Uranium"width="272" height="353"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Interview with Patricia George and Virginia Sanchez 
+San Rafael Swell -- Mining -- Uranium
 </div>
 <!-- Collection Title-->
 <h4>Nevada Test Site Oral History Project</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Nevada Test Site Oral History Project at the University of Nevada, Las Vegas is a comprehensive program dedicated to documenting, preserving and disseminating the remembered past of persons affiliated with and affected by the Nevada Test Site during the era of Cold War nuclear testing. From September 2003 through January 2008 a wide range of oral history narrators participated in the project including: national laboratory scientists & engineers; labor trades and support personnel; cabinet-level officials, military personnel & corporate executives; Native American tribal & spiritual leaders; peace activists and protesters; Nevada ranchers, families & communities downwind of the test site.</p>
-
+</p><br/>The Nevada Test Site Oral History Project at the University of Nevada, Las Vegas is a comprehensive program dedicated to documenting, preserving and disseminating the remembered past of persons affiliated with and affected by the Nevada Test Site during the era of Cold War nuclear testing. From September 2003 through January 2008 a wide range of oral history narrators participated in the project including: national laboratory scientists & engineers, labor trades and support personnel, cabinet-level officials, military personnel & corporate executives, Native American tribal & spiritual leaders, peace activists and protesters, Nevada ranchers, families & communities downwind of the test site.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

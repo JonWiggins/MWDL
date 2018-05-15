@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="E.B. Olesen Photograph Collection- Skiers "width="337" height ="299"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="E.B. Olesen Photograph Collection- Skiers"width="337" height ="299"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-E.B. Olesen Photograph Collection- Skiers 
+E.B. Olesen Photograph Collection- Skiers
 <!-- Article Text -->
-</p>
-The materials housed by the Special Collections & Archives have been collected for the benefit of the public and are available for use by researchers. Historically, however, the public has not been aware of the research possibilities of archival material. Making digitized collections available through our website publicizes the many opportunities for use of our materials. Many of the materials in Special Collections are too fragile to allow repeated close examination. With digital technology we are able to provide access to these documents over the internet and to avoid inevitable wear and tear on these fragile resources.</p>
-
+</p><br/>The materials housed by the Special Collections & Archives have been collected for the benefit of the public and are available for use by researchers. Historically, however, the public has not been aware of the research possibilities of archival material. Making digitized collections available through our website publicizes the many opportunities for use of our materials. Many of the materials in Special Collections are too fragile to allow repeated close examination. With digital technology we are able to provide access to these documents over the internet and to avoid inevitable wear and tear on these fragile resources.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1232.jpg" alt="Drought happens: get used to it! "width="353" height="263"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1232.jpg" alt="U-News & Views June 2007"width="353" height="263"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Drought happens: get used to it! 
+U-News & Views June 2007
 </div>
 <!-- Collection Title-->
 <h4>Water Wise Utah</h4>
@@ -40,9 +40,7 @@ Drought happens: get used to it!
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Water Wise Utah is a collaborative University of Utah project led by the Utah Education Network (UEN) in partnership with KUER, KUED, the Utah Museum of Natural History, and the J. W. Marriott Library. Its goal is to raise awareness of critical water issues and encourage water conservation throughout Utah. Water Wise Utah will offer TV documentaries, K-12 educational events, a museum exhibit, and a Web site linking to the Western Waters Digital Library, and will collaborate with Utah water agencies and community organizations to target Utah communities with high rates of water consumption.</p>
-
+</p><br/>Water Wise Utah is a collaborative University of Utah project led by the Utah Education Network (UEN) in partnership with KUER, KUED, the Utah Museum of Natural History, and the J. W. Marriott Library. Its goal is to raise awareness of critical water issues and encourage water conservation throughout Utah. Water Wise Utah will offer TV documentaries, K-12 educational events, a museum exhibit, and a Web site linking to the Western Waters Digital Library, and will collaborate with Utah water agencies and community organizations to target Utah communities with high rates of water consumption.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

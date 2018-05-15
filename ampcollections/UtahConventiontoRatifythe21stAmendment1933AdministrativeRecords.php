@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Proceedings reports "width="307" height ="399"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Proceedings reports"width="307" height ="399"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Proceedings reports 
+Proceedings reports
 <!-- Article Text -->
-<p></p>
-<p>The 72nd Congress of the United States proposed the 21st amendment to the U.S. Constitution, repealing the 18th amendment and once again legalizing the manufacture and use of liquor. On October 10, 1933, Governor Henry H. Blood called for the election of delegates to a constitutional convention for the purpose of ratifying or rejecting the 21st amendment. The election was held on November 7, and the elected delegates met December 5. The amendment became effective with the ratification of 36 states; Utah was the 36th state to ratify. These records document the activities of the convention.</p>
-</p>
+<p></p><br/><p>The 72nd Congress of the United States proposed the 21st amendment to the U.S. Constitution, repealing the 18th amendment and once again legalizing the manufacture and use of liquor. On October 10, 1933, Governor Henry H. Blood called for the election of delegates to a constitutional convention for the purpose of ratifying or rejecting the 21st amendment. The election was held on November 7, and the elected delegates met December 5. The amendment became effective with the ratification of 36 states, Utah was the 36th state to ratify. These records document the activities of the convention.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

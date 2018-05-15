@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1058.jpg" alt="Vol. 035 No. 4 BYU Studies (1995-1996) "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1058.jpg" alt="Vol. 035 No. 4 BYU Studies (1995-1996)"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Vol. 035 No. 4 BYU Studies (1995-1996) 
+Vol. 035 No. 4 BYU Studies (1995-1996)
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Studies</h4>
@@ -40,9 +40,7 @@ Vol. 035 No. 4 BYU Studies (1995-1996)
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-BYU Studies is dedicated to publishing scholarly religious literature in the form of books, journals, and dissertations that is qualified, significant, and inspiring. We want to share these publications to help promote faith, continued learning, and further interest in our LDS history with those in the world who have a positive interest in this work.</p>
-
+</p><br/>BYU Studies is dedicated to publishing scholarly religious literature in the form of books, journals, and dissertations that is qualified, significant, and inspiring. We want to share these publications to help promote faith, continued learning, and further interest in our LDS history with those in the world who have a positive interest in this work.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

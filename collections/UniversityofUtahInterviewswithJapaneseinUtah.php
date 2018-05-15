@@ -40,9 +40,7 @@ Interviews with Japanese in Utah: Saige Aramaki
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The interviews with Japanese Americans in Utah (1984-1988) consists of transcripts of a series of interviews conducted with members of the Japanese community between 1984 and 1988. Common themes within the interviews are family life, work, religion, immigration experiences, discrimination, and relations with the Mormon establishment in Utah.</p>
-
+</p><br/>The interviews with Japanese Americans in Utah (1984-1988) consists of transcripts of a series of interviews conducted with members of the Japanese community between 1984 and 1988. Common themes within the interviews are family life, work, religion, immigration experiences, discrimination, and relations with the Mormon establishment in Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1038.jpg" alt="Union Pacific Railroad P. 60 "width="324" height="255"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1038.jpg" alt="Union Pacific Railroad P. 60"width="324" height="255"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Union Pacific Railroad P. 60 
+Union Pacific Railroad P. 60
 </div>
 <!-- Collection Title-->
 <h4>Department of Heritage and Arts Classified Photograph Collection</h4>
@@ -40,9 +40,7 @@ Union Pacific Railroad P. 60
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-A self-indexing, self-service, collection of the best photographs from the Society's collections. Consists of mounted prints made from original photographs taken from other collections, plus some originals.</p>
-
+</p><br/>A self-indexing, self-service, collection of the best photographs from the Society's collections. Consists of mounted prints made from original photographs taken from other collections, plus some originals.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

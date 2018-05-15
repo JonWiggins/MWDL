@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Comprehensive Growth Policy Study "width="337" height ="296"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Comprehensive Growth Policy Study"width="337" height ="296"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Comprehensive Growth Policy Study 
+Comprehensive Growth Policy Study
 <!-- Article Text -->
-</p>
-Integrated land use-transportation scenario planning employs a range of possible future scenarios to facilitate public decision-making on land use policies and transportation investments. This collection includes summary documents from the leading scenario planning projects in U.S. metropolitan areas between 1988 and 2003.</p>
-
+</p><br/>Integrated land use-transportation scenario planning employs a range of possible future scenarios to facilitate public decision-making on land use policies and transportation investments. This collection includes summary documents from the leading scenario planning projects in U.S. metropolitan areas between 1988 and 2003.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

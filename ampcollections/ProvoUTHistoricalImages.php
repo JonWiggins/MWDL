@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1st West and Center "width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1st West and Center 
-<!-- Article Text -->
-</p>
-Featuring more than 800 views of Provo City and the vicinity, Provo Historical Images captures the growth and change of Provo from the 1870s through the 1990s. Photos included in this online collection were selected from multiple photograph collections from the L. Tom Perry Special Collections.</p>
 
+<!-- Article Text -->
+</p><br/>Featuring more than 800 views of Provo City and the vicinity, Provo Historical Images captures the growth and change of Provo from the 1870s through the 1990s. Photos included in this online collection were selected from multiple photograph collections from the L. Tom Perry Special Collections.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

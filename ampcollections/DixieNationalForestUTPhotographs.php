@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>Dixie National Forest (UT) Photographs</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/USForestServiceDixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
+<h6> Published by <a href="../partners/USForestService%comma%DixieNationalForest.php">U.S. Forest Service%comma% Dixie National Forest</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Events: Fires -- Oak Creek fire"width="320" height ="233"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Events: Fires -- Oak Creek fire"width="320" height ="233"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Events: Fires -- Oak Creek fire
+Events: Fires -- Oak Creek fire
 <!-- Article Text -->
-<p></p>
-<p>The Dixie National Forest Photograph Collection contains over 8,000 photographs taken during the 20th Century on and near the largest national forest in Utah.</p>
-</p>
+<p></p><br/><p>The Dixie National Forest Photograph Collection contains over 8,000 photographs taken during the 20th Century on and near the largest national forest in Utah.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

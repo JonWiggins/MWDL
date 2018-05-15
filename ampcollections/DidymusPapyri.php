@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Didymus, the Blind, ca. 313-ca. 398 "width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Didymus, the Blind, ca. 313-ca. 398 
-<!-- Article Text -->
-</p>
-A portion of Didymus the Blind's (AD 313 – 398) Commentary on the Psalms.</p>
 
+<!-- Article Text -->
+</p><br/>A portion of Didymus the Blind's (AD 313 – 398) Commentary on the Psalms.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

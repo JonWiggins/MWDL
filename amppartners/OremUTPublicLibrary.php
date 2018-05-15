@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Orem Public Library houses more than 280,000 items in 62,939 square feet, including books and non-print titles. It is one of the busiest single-branch libraries in the State of Utah, with 1.4 million items checked out annually. The Main Library is located at 58 North State Street in Orem, Utah at the north end of the City Center Complex (on the northeast corner of State and Center Streets).</p>
-
-
-
+<br/><p>The Orem Public Library houses more than 280,000 items in 62,939 square feet, including books and non-print titles. It is one of the busiest single-branch libraries in the State of Utah, with 1.4 million items checked out annually. The Main Library is located at 58 North State Street in Orem, Utah at the north end of the City Center Complex (on the northeast corner of State and Center Streets).</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

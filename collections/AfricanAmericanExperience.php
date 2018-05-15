@@ -30,22 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1941.jpg" alt="Film negatives of a talent show winner at the Carver House, April 4, 1962 "width="289" height="285"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1941.jpg" alt="Film negatives of a talent show winner at the Carver House%comma% April 4%comma% 1962"width="289" height="285"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Film negatives of a talent show winner at the Carver House, April 4, 1962 
+Film negatives of a talent show winner at the Carver House%comma% April 4%comma% 1962
 </div>
 <!-- Collection Title-->
 <h4>African American Experience</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The African American Experience collection at UNLV documents the history of African Americans in Las Vegas. This collection preserve the heritage of the Las Vegas black community—its businesses, schools, churches, social and political organizations, publications, and entertainment -- through photographs, images, video, oral histories, and historical records.</p>
-&nbsp;</p>
-&nbsp;</p>
-&nbsp;</p>
-</p>
+</p><br/>The African American Experience collection at UNLV documents the history of African Americans in Las Vegas. This collection preserve the heritage of the Las Vegas black community—its businesses, schools, churches, social and political organizations, publications, and entertainment -- through photographs, images, video, oral histories, and historical records.</p><br/>&nbsp,</p><br/>&nbsp,</p><br/>&nbsp,</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

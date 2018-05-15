@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 007 George Armstrong Custer Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>"width="409" height ="250"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>
 <!-- Article Text -->
-</p>
-This collection contains various documents concerning the Battle of the Little Big Horn. Most prominent are two original reports of General Alfred H. Terry to General George Crook, the first official reports of the defeat of Custer at the Little Big Horn battlefield. Other documents in the collection include reminiscences of Wilmot Sanford on the battle, a letter from General E. S. Godfrey to E.S. Paxson about the battle, as well as a letter from William F. Cody to Elizabeth Custer regarding a statue of her husband.</p>
-
+</p><br/>This collection contains various documents concerning the Battle of the Little Big Horn. Most prominent are two original reports of General Alfred H. Terry to General George Crook, the first official reports of the defeat of Custer at the Little Big Horn battlefield. Other documents in the collection include reminiscences of Wilmot Sanford on the battle, a letter from General E. S. Godfrey to E.S. Paxson about the battle, as well as a letter from William F. Cody to Elizabeth Custer regarding a statue of her husband.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

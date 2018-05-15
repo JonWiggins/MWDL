@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Westminster College's digital collections contain photos and textual works regarding the history of the college and early religious movements in the area.</p>
-
-
-
+<br/><p>Westminster College's digital collections contain photos and textual works regarding the history of the college and early religious movements in the area.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -31,4 +27,5 @@
 <li><a href = "../ampcollections/WestminsterCollegePhotographCollection.php">WestminsterCollegePhotographCollection</a></li>
 <li><a href = "../ampcollections/WestminsterCollegeTextualWorksCollection.php">WestminsterCollegeTextualWorksCollection</a></li>
 <li><a href = "../ampcollections/WestminsterCollegeInstitutionalRepository.php">WestminsterCollegeInstitutionalRepository</a></li>
+<li><a href = "../ampcollections/WestminsterCollegeFindingAidsEAD.php">WestminsterCollegeFindingAidsEAD</a></li>
 <?php include("../includes/ampfooter.php");?>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1790.jpg" alt="Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972"width="320" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1790.jpg" alt="Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972"width="320" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972
+Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972
 </div>
 <!-- Collection Title-->
 <h4>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</h4>
@@ -40,9 +40,7 @@ Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The J. Bracken Lee collection contains photographs, newspaper articles, campaign ephemera, transcripts, correspondence, and audio recordings that span Lee's entire life, from birth to retirement. While these papers are physically housed at the Utah State University-Eastern in Price, Utah, you can sample some of the most significant documents and recordings from the former governor's remarkable career in this online J. Bracken Lee digital exhibit. </p>
-</p>
+<p></p><br/><p>The J. Bracken Lee collection contains photographs, newspaper articles, campaign ephemera, transcripts, correspondence, and audio recordings that span Lee's entire life, from birth to retirement. While these papers are physically housed at the Utah State University-Eastern in Price, Utah, you can sample some of the most significant documents and recordings from the former governor's remarkable career in this online J. Bracken Lee digital exhibit. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

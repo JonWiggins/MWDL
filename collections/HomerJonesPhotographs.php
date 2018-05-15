@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1164.jpg" alt=" Bryce Canyon"width="367" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1164.jpg" alt="Bryce Canyon"width="367" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Bryce Canyon
+Bryce Canyon
 </div>
 <!-- Collection Title-->
 <h4>Homer Jones Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Homer Jones grew up helping his father, Randall L. Jones, photograph and promote the scenic beauty of Utah's national parks. He married Belle Macfarlane, and they established Zion Photo Shop on Cedar's Main Street, where they did studio photography for over fifty years. The studio images are available in Special Collections in the Southern Utah University Library. The images searchable here represent the scenery he learned to love from his father and events in the schools and communities of southern Utah.</p>
-</p>
+<p></p><br/><p>Homer Jones grew up helping his father, Randall L. Jones, photograph and promote the scenic beauty of Utah's national parks. He married Belle Macfarlane, and they established Zion Photo Shop on Cedar's Main Street, where they did studio photography for over fifty years. The studio images are available in Special Collections in the Southern Utah University Library. The images searchable here represent the scenery he learned to love from his father and events in the schools and communities of southern Utah.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol. 01 No. 1 Journal of Microfinance "width="256" height ="412"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Vol. 01 No. 1 Journal of Microfinance"width="256" height ="412"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Vol. 01 No. 1 Journal of Microfinance 
+Vol. 01 No. 1 Journal of Microfinance
 <!-- Article Text -->
-</p>
-The Journal of Microfinance, which has transitioned to the ESR Review, is an exciting forum for practitioners and researchers interested in microfinance and other topics relating to economic development principles. The Journal's purpose is to help shape and advance the field by presenting articles on innovative approaches, lessons learned, empirical studies, and essays that represent the broad spectrum of views the field of economic self-reliance in the United States and abroad.</p>
-
+</p><br/>The Journal of Microfinance, which has transitioned to the ESR Review, is an exciting forum for practitioners and researchers interested in microfinance and other topics relating to economic development principles. The Journal's purpose is to help shape and advance the field by presenting articles on innovative approaches, lessons learned, empirical studies, and essays that represent the broad spectrum of views the field of economic self-reliance in the United States and abroad.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

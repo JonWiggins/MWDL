@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1844.jpg" alt="Autobiography of Ida Marriot Kyle "width="333" height="430"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1844.jpg" alt="Autobiography of Ida Marriot Kyle"width="333" height="430"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Autobiography of Ida Marriot Kyle 
+Autobiography of Ida Marriot Kyle
 </div>
 <!-- Collection Title-->
 <h4>Marriott-Slaterville City (UT) Oral History</h4>
@@ -40,9 +40,7 @@ Autobiography of Ida Marriot Kyle
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Marriott-Slaterville City Collection was created by the residents of the town to document their history. The collection includes the Town History, Autobiographies, and other General Incorporation Records.</p>
-</p>
+<p></p><br/><p>The Marriott-Slaterville City Collection was created by the residents of the town to document their history. The collection includes the Town History, Autobiographies, and other General Incorporation Records.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

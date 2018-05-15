@@ -12,16 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Revised Statutes "width="90" height ="120"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="90" height ="120"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Revised Statutes 
-<!-- Article Text -->
-</p>
-This collection consists of one item from the Legislature's House Working bill files that contains a draft of the Revised Statutes completed and published in 1933.</p>
-&nbsp;</p>
-</p>
 
+<!-- Article Text -->
+</p><br/>This collection consists of one item from the Legislature's House Working bill files that contains a draft of the Revised Statutes completed and published in 1933.</p><br/>&nbsp,</p><br/></p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

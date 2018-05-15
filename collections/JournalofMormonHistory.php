@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1649.jpg" alt="Journal of Mormon History, Volume 07, 1980 "width="258" height="397"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1649.jpg" alt="Journal of Mormon History%comma% Volume 07%comma% 1980"width="258" height="397"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Journal of Mormon History, Volume 07, 1980 
+Journal of Mormon History%comma% Volume 07%comma% 1980
 </div>
 <!-- Collection Title-->
 <h4>Journal of Mormon History</h4>
@@ -40,9 +40,7 @@ Journal of Mormon History, Volume 07, 1980
 <h6> Published by <a href="../partners/MormonHistoryAssociation.php">Mormon History Association</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Journal of Mormon History fosters scholarly research and publication in the field of Mormon history. Manuscripts dealing with all aspects of Mormon history are incorporated, including twentieth-century history, regional and local history, women's history, and ethnic/minorities history.</p>
-
+</p><br/>The Journal of Mormon History fosters scholarly research and publication in the field of Mormon history. Manuscripts dealing with all aspects of Mormon history are incorporated, including twentieth-century history, regional and local history, women's history, and ethnic/minorities history.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

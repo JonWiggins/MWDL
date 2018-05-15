@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1273.jpg" alt="Crescat Scientia Journal of History Cover Page "width="254" height="391"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1273.jpg" alt="Pottery-Tesuque- water god"width="254" height="391"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Crescat Scientia Journal of History Cover Page 
+Pottery-Tesuque- water god
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Departmental Publications</h4>
@@ -40,9 +40,7 @@ Crescat Scientia Journal of History Cover Page
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of scholarly articles by UVU faculty, students, and alumni. </p>
-
+</p><br/>A collection of scholarly articles by UVU faculty, students, and alumni. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

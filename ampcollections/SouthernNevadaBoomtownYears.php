@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>Southern Nevada Boomtown Years</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Two Men on Porch with Hound Dogs "width="287" height ="342"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Two Men on Porch with Hound Dogs"width="287" height ="342"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Two Men on Porch with Hound Dogs 
+Two Men on Porch with Hound Dogs
 <!-- Article Text -->
-</p>
-Southern Nevada: The Boomtown Years brings together a wide range of original source materials found in widely diverse collections, mostly housed in UNLV Libraries Special Collections. The Nevada State Museum and Historical Society in Las Vegas and the Clark County Heritage Museum have also contributed collections for this project. The project contains over 1500 items.</p>
-
+</p><br/>Southern Nevada: The Boomtown Years brings together a wide range of original source materials found in widely diverse collections, mostly housed in UNLV Libraries Special Collections. The Nevada State Museum and Historical Society in Las Vegas and the Clark County Heritage Museum have also contributed collections for this project. The project contains over 1500 items.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

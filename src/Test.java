@@ -14,9 +14,7 @@ import org.mwdl.webManagement.Collection;
 public class Test {
 
     public static void main(String[] args) {
-
-        for(Collection c : DataFetcher.getAllActiveCollections()){
-            System.out.println(c);
-        }
+        //also 1955
+        System.out.println(DataFetcher.fetchCollection(1924));
     }
 }

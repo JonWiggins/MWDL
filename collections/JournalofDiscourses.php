@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1073.jpg" alt="Vol. 22 Journal of Discourses "width="326" height="528"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1073.jpg" alt="Vol. 22 Journal of Discourses"width="326" height="528"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Vol. 22 Journal of Discourses 
+Vol. 22 Journal of Discourses
 </div>
 <!-- Collection Title-->
 <h4>Journal of Discourses</h4>
@@ -40,9 +40,7 @@ Vol. 22 Journal of Discourses
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Published from 1853 to 1886, this periodical contains stenographic reports of sermons of the LDS Church authorities. The discourses cover all aspects of Mormon life, although most are doctrinal in nature.</p>
-
+</p><br/>Published from 1853 to 1886, this periodical contains stenographic reports of sermons of the LDS Church authorities. The discourses cover all aspects of Mormon life, although most are doctrinal in nature.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

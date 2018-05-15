@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ptolemy's view of the universe "width="233" height ="370"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Ptolemy's view of the universe"width="233" height ="370"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Ptolemy's view of the universe 
+Ptolemy's view of the universe
 <!-- Article Text -->
-</p>
-Harmonia Macrocosmica, by Andreas Cellarius, was first printed in 1660. The University of Utah copy is from the 1661 edition. Along with accompanying text in Latin, Harmonia contains double-folio hand-painted color plates depicting cosmographic theories of astronomers such as Aratus (315 bce – 240 bce), Ptolemy (90 – 168), Nicolaus Copernicus (1473-1543), Tycho Brahe (1546-1601), and others.</p>
-
+</p><br/>Harmonia Macrocosmica, by Andreas Cellarius, was first printed in 1660. The University of Utah copy is from the 1661 edition. Along with accompanying text in Latin, Harmonia contains double-folio hand-painted color plates depicting cosmographic theories of astronomers such as Aratus (315 bce – 240 bce), Ptolemy (90 – 168), Nicolaus Copernicus (1473-1543), Tycho Brahe (1546-1601), and others.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

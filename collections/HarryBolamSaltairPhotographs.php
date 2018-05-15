@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2159.jpg" alt=" Souvenir stand and arcade, remnant of 'Saltair Land.'"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2159.jpg" alt="Souvenir stand and arcade%comma% remnant of 'Saltair Land.'"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Souvenir stand and arcade, remnant of 'Saltair Land.'
+Souvenir stand and arcade%comma% remnant of 'Saltair Land.'
 </div>
 <!-- Collection Title-->
 <h4>Harry Bolam Saltair Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Harry Bolam Saltair Photographs collection consists of nine photographs taken of the old Saltair resort on the shores of the Great Salt Lake by Harry Bolam. The photographs were taken in approximately 1965, when the resort was abandoned and delapidated, but before it finally burned to the ground in an arson fire in 1970. </p>
-
+</p><br/>The Harry Bolam Saltair Photographs collection consists of nine photographs taken of the old Saltair resort on the shores of the Great Salt Lake by Harry Bolam. The photographs were taken in approximately 1965, when the resort was abandoned and delapidated, but before it finally burned to the ground in an arson fire in 1970. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

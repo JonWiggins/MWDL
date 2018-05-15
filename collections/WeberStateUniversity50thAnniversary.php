@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1156.jpg" alt="1954 Coed Advertisement "width="363" height="319"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1156.jpg" alt="1954 Coed Advertisement"width="363" height="319"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1954 Coed Advertisement 
+1954 Coed Advertisement
 </div>
 <!-- Collection Title-->
 <h4>Weber State University 50th Anniversary</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This is a collection of projects representing the history of Weber State University. The WSC 50th Anniversary Collection documents the moving of Weber College from downtown Ogden to Harrison Boulevard in 1954.</p>
-
+</p><br/>This is a collection of projects representing the history of Weber State University. The WSC 50th Anniversary Collection documents the moving of Weber College from downtown Ogden to Harrison Boulevard in 1954.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

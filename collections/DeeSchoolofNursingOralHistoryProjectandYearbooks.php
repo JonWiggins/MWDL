@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1212.jpg" alt="1929 The Dee Annual "width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1212.jpg" alt="1929 The Dee Annual"width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1929 The Dee Annual 
+1929 The Dee Annual
 </div>
 <!-- Collection Title-->
 <h4>Dee School of Nursing: Oral History Project and Yearbooks</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of student yearbooks from the Dee School of Nursing from 1927 to 1941. Included in the yearbook are photographs of students, faculty, and departments within the Dee Hospital. The Dee School of Nurses, Oral history project was created to capture the memories of the school's alumni. </p>
-
+</p><br/>A collection of student yearbooks from the Dee School of Nursing from 1927 to 1941. Included in the yearbook are photographs of students, faculty, and departments within the Dee Hospital. The Dee School of Nurses, Oral history project was created to capture the memories of the school's alumni. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

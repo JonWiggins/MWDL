@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1611.jpg" alt="Mountains in Kananaskis Country, Alberta "width="357" height="272"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1611.jpg" alt="Mountains in Kananaskis Country%comma% Alberta"width="357" height="272"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Mountains in Kananaskis Country, Alberta 
+Mountains in Kananaskis Country%comma% Alberta
 </div>
 <!-- Collection Title-->
 <h4>Design Workshop Landscape Architecture Archive</h4>
@@ -40,9 +40,7 @@ Mountains in Kananaskis Country, Alberta
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-Design Workshop®, a Denver-based landscape architecture firm, has been creating ""sustainable places of timeless beauty"" since 1969. The firm's numerous awards reflects its successful innovations in land planning and design. To mark its 40th anniversary in 2010, Design Workshop partnered with Utah State University to create the Design Workshop Landscape Architecture Archive which includes this digital collection as well as a physical archive housed in Merrill-Cazier Library's Special Collections and Archives</p>
-"
+"</p><br/>Design Workshop®, a Denver-based landscape architecture firm, has been creating ""sustainable places of timeless beauty"" since 1969. The firm's numerous awards reflects its successful innovations in land planning and design. To mark its 40th anniversary in 2010, Design Workshop partnered with Utah State University to create the Design Workshop Landscape Architecture Archive which includes this digital collection as well as a physical archive housed in Merrill-Cazier Library's Special Collections and Archives</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

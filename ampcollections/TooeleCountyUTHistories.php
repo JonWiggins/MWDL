@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/TooeleUTCityLibrary.php">Tooele (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Early Tooele A Documented Chronology "width="286" height ="419"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Early Tooele A Documented Chronology"width="286" height ="419"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Early Tooele A Documented Chronology 
+Early Tooele A Documented Chronology
 <!-- Article Text -->
-</p>
-A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p>
-
+</p><br/>A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

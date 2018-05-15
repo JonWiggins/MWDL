@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Affidavit Concerning Service in Indian Wars
 <!-- Article Text -->
-<p></p>
-<p>In 1909 the legislature passed a law creating a Board of Commissioners of Indian War Records. Their duties were to ascertain the names of the persons who were members of any organization performing military duties during Indian wars or expeditions against the Indians during territorial years. Veterans completed affidavits of service; two witnesses also completed affidavits supporting the facts. The affidavits were then filed in the office of the chairman of the board, the Adjutant General of the State.</p>
-</p>
+<p></p><br/><p>In 1909 the legislature passed a law creating a Board of Commissioners of Indian War Records. Their duties were to ascertain the names of the persons who were members of any organization performing military duties during Indian wars or expeditions against the Indians during territorial years. Veterans completed affidavits of service, two witnesses also completed affidavits supporting the facts. The affidavits were then filed in the office of the chairman of the board, the Adjutant General of the State.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

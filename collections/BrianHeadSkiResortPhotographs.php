@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2176.jpg" alt=" Skier"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2176.jpg" alt="Skier"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Skier
+Skier
 </div>
 <!-- Collection Title-->
 <h4>Brian Head Ski Resort Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Brian Head Ski Resort was established in 1964, and opened as a one chairlift resort. Currently the resort has 8 chairlifts, 71 runs, and over 650 skiable acres. Brian Head is located 2.5 hours north of Las Vegas, Nevada and four hours south of Salt Lake City, Utah. The resort is Utah's highest elevation ski resort. Photographs from this collection show the ski resort as it was expanding and developing in the 1970's. Also included in the collection are photographs from the community of Parowan, Utah, gateway city to Brian Head Ski Resort.</p>
-
+</p><br/>Brian Head Ski Resort was established in 1964, and opened as a one chairlift resort. Currently the resort has 8 chairlifts, 71 runs, and over 650 skiable acres. Brian Head is located 2.5 hours north of Las Vegas, Nevada and four hours south of Salt Lake City, Utah. The resort is Utah's highest elevation ski resort. Photographs from this collection show the ski resort as it was expanding and developing in the 1970's. Also included in the collection are photographs from the community of Parowan, Utah, gateway city to Brian Head Ski Resort.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

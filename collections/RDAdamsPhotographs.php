@@ -40,9 +40,7 @@ Aerial view of farm
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>R. D. Adams was one of the early photographers of Southern Utah and Nevada. For five decades, he took pictures of individuals, families, street scenes, parades, celebrations, and school children. His photographs of Bryce Canyon, Zion, and Cedar Breaks became some of the first postcards sent from these national parks.</p>
-</p>
+<p></p><br/><p>R. D. Adams was one of the early photographers of Southern Utah and Nevada. For five decades, he took pictures of individuals, families, street scenes, parades, celebrations, and school children. His photographs of Bryce Canyon, Zion, and Cedar Breaks became some of the first postcards sent from these national parks.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

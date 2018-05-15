@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1561.jpg" alt="Craig Miller "width="365" height="334"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1561.jpg" alt="Craig Miller"width="365" height="334"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Craig Miller 
+Craig Miller
 </div>
 <!-- Collection Title-->
 <h4>Utah Folklorists Image Collection</h4>
@@ -40,9 +40,7 @@ Craig Miller
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Austin and Alta Fife, Wayland D. Hand, William A. Wilson, Hal Cannon, Carol Edison, Wallace Stegner and Juanita Brooks are just some of the prominent Utah folklorists pictured in this collection of photographs from the 1930s to the present. Digitized from originals housed at the Utah Folk Arts Program in Salt Lake City, many of these images also appear in David Stanely's Folklore in Utah: A History and Guide to Resources (Utah State University Press, 2004).</p>
-
+</p><br/>Austin and Alta Fife, Wayland D. Hand, William A. Wilson, Hal Cannon, Carol Edison, Wallace Stegner and Juanita Brooks are just some of the prominent Utah folklorists pictured in this collection of photographs from the 1930s to the present. Digitized from originals housed at the Utah Folk Arts Program in Salt Lake City, many of these images also appear in David Stanely's Folklore in Utah: A History and Guide to Resources (Utah State University Press, 2004).</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>Arborglyphs on Peavine</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Carving on a Tree "width="358" height ="242"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Carving on a Tree"width="358" height ="242"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Carving on a Tree 
+Carving on a Tree
 <!-- Article Text -->
-</p>
-This database, created by arborglyph researcher Joxe Mallea-Olaetxe, documents and interprets 514 arborglyphs carved by 108 sheepherders in five aspen groves on Peavine Mountain in Reno and includes photographs and/or video clips for about half the trees. </p>
-
+</p><br/>This database, created by arborglyph researcher Joxe Mallea-Olaetxe, documents and interprets 514 arborglyphs carved by 108 sheepherders in five aspen groves on Peavine Mountain in Reno and includes photographs and/or video clips for about half the trees. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

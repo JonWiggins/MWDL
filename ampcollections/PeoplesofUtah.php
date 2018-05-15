@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Greeks in Utah "width="335" height ="267"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Aerial view of Autobahn"width="335" height ="267"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Greeks in Utah 
+Aerial view of Autobahn
 <!-- Article Text -->
-</p>
-The Peoples of Utah collection contains images that show some of Utah's great diversity. Helen Papanikolas collected and donated these photographs.</p>
-
+</p><br/>The Peoples of Utah collection contains images that show some of Utah's great diversity. Helen Papanikolas collected and donated these photographs.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

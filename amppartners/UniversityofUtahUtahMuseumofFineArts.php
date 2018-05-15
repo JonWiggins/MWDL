@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Utah Museum of Fine Arts is located on the campus of the University of Utah. In total the museum holds over 17,000 objects including paintings, drawings, etchings, photography, and mixed media materials from acclaimed artists around the world.</p>
-
-
-
+<br/><p>The Utah Museum of Fine Arts is located on the campus of the University of Utah. In total the museum holds over 17,000 objects including paintings, drawings, etchings, photography, and mixed media materials from acclaimed artists around the world.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

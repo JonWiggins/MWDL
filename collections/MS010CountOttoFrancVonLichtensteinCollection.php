@@ -37,14 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 010 Count Otto Franc Von Lichtenstein Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Collection consists of four journals by Count Otto Franc von Liechtenstein relating daily activities as he ran the Pitchfork Ranch on the upper Greybull River west of present day Meeteetse, Wyoming. Typed transcripts are present for the first two journals.</p>
-Born in Germany in 1846, Count Otto Franc von Liechtenstein came to America in 1866. He first traveled to Wyoming in 1878. In 1879 he set up his first cattle operation in the Meeteetse area with cattle that he brought in from Montana. Pitchfork Ranch was the first cattle ranch in the Greybull River valley, and its success led Franc to become a major Wyoming cattle baron.</p>
-Later in life, in the 1890s Franc served as a Big Horn County justice of the peace. He is remembered for sentencing Butch Cassidy to the Wyoming state prison for two years for horse theft. Franc died in 1903.</p>
-
+</p><br/>Collection consists of four journals by Count Otto Franc von Liechtenstein relating daily activities as he ran the Pitchfork Ranch on the upper Greybull River west of present day Meeteetse, Wyoming. Typed transcripts are present for the first two journals.</p><br/>Born in Germany in 1846, Count Otto Franc von Liechtenstein came to America in 1866. He first traveled to Wyoming in 1878. In 1879 he set up his first cattle operation in the Meeteetse area with cattle that he brought in from Montana. Pitchfork Ranch was the first cattle ranch in the Greybull River valley, and its success led Franc to become a major Wyoming cattle baron.</p><br/>Later in life, in the 1890s Franc served as a Big Horn County justice of the peace. He is remembered for sentencing Butch Cassidy to the Wyoming state prison for two years for horse theft. Franc died in 1903.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

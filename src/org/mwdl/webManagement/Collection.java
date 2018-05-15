@@ -47,7 +47,7 @@ public class Collection {
         this.des= des;
 
         //Normalize the article text by removing the special markers
-        this.text = text.replace("%comma%",",").replace("%newline%","\n");
+        this.text = text.replace("%comma%",",").replace("%newline%","<br/>");
 
         refinedPublisher = publisher
                 .replace(" ","")
@@ -82,7 +82,17 @@ public class Collection {
      * Just used to print out Collection objects with a bit of formatting for debugging
      */
     public String toString(){
-        return "Number: "+collectionNumber +"\nisActive: " + isActive + "\nNote: "+ note + "\nTitle: "+ title +"\nURLTitle: " +urlTitle +"\nPublisher: "+ publisherLink + "\nText: " + text + "\nImage: " + imageName + "\nDescription: " + des;
+        return "Number: "+collectionNumber +
+                "\nisActive: " + isActive +
+                "\nNote: " + note +
+                "\nTitle: " + title +
+                "\nURLTitle: " + urlTitle +
+                "\nPublisher: " + publisherLink +
+                "\nText: " + text +
+                "\nImage: " + imageName +
+                "\nImage Height: " + imageHeight +
+                "\nImage Width: " + imageWidth +
+                "\nDescription: " + des;
     }
 
     /**

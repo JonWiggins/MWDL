@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1825.jpg" alt="Carving on a Tree "width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1825.jpg" alt="Carving on a Tree"width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Carving on a Tree 
+Carving on a Tree
 </div>
 <!-- Collection Title-->
 <h4>Arborglyphs on Peavine</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-This database, created by arborglyph researcher Joxe Mallea-Olaetxe, documents and interprets 514 arborglyphs carved by 108 sheepherders in five aspen groves on Peavine Mountain in Reno and includes photographs and/or video clips for about half the trees. </p>
-
+</p><br/>This database, created by arborglyph researcher Joxe Mallea-Olaetxe, documents and interprets 514 arborglyphs carved by 108 sheepherders in five aspen groves on Peavine Mountain in Reno and includes photographs and/or video clips for about half the trees. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

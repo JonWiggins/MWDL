@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Jon Huntsman's Schedule January 2005 "width="334" height ="448"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Jon Huntsman's Schedule January 2005"width="334" height ="448"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Jon Huntsman's Schedule January 2005 
+Jon Huntsman's Schedule January 2005
 <!-- Article Text -->
-"</p>
-These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only ""hardcopies"" released publicly.</p>
-&nbsp;</p>
-"
+"</p><br/>These are the daily schedules of Jon M. Huntsman, Jr. They were created to coordinate his activities and obligations efficiently. Each day's schedule records date, times, type of activity, often with notations, names of persons or groups with whom he would be meeting, and staff involved. Activities include business meetings, speeches, special events and trips. The schedules were created and kept electronically using a computer program created by the Governor's information technology staff, though archival holdings include only ""hardcopies"" released publicly.</p><br/>&nbsp;</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

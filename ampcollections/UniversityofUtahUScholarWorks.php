@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="100 electrode intracortical array: structural variability "width="317" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Map of Great Basin National Heritage Area"width="317" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-100 electrode intracortical array: structural variability 
+Map of Great Basin National Heritage Area
 <!-- Article Text -->
-</p>
-U Scholar Works contains peer-reviewed materials from the University of Utah as well as other scholarly works and data that might otherwise not be published, preserved, or accessible to the general public.</p>
-
+</p><br/>U Scholar Works contains peer-reviewed materials from the University of Utah as well as other scholarly works and data that might otherwise not be published, preserved, or accessible to the general public.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

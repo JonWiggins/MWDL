@@ -24,10 +24,7 @@
 <h6><a href="http://www.millardcounty.com/placestosee/greatbasinmuseum.htm">Great Basin Museum Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Great Basin Museum grew out of interest created by local history programs of the Great Basin Historical Society. The Society was formed during the fall and winter of 1987-88 to tell the unique story of the West Millard County area.</p>
-
-</p>
+<p><br/><p>The Great Basin Museum grew out of interest created by local history programs of the Great Basin Historical Society. The Society was formed during the fall and winter of 1987-88 to tell the unique story of the West Millard County area.</p><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Great+Basin+Museum">Browse all records from Great Basin Museum</a>
 <!-- List all Active Collections -->

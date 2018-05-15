@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1004.jpg" alt="United States, Complainant vs. the State of Utah, 1931 "width="301" height="433"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1004.jpg" alt="United States%comma% Complainant vs. the State of Utah%comma% 1931"width="301" height="433"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-United States, Complainant vs. the State of Utah, 1931 
+United States%comma% Complainant vs. the State of Utah%comma% 1931
 </div>
 <!-- Collection Title-->
 <h4>Colorado Riverbed Case</h4>
@@ -40,9 +40,7 @@ United States, Complainant vs. the State of Utah, 1931
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Transcripts of the Colorado Riverbed Case. This case grew out of a desire by the State of Utah to determine who owned the bed of the Colorado River. Utah wanted to drill for oil and for other economic purposes in the bed of the river, but it first had to be determined who owned it, Utah or the United States. This hinged on whether the Colorado could be declared a navigable or a non-navigable river. The U.S. Supreme Court began acquiring testimony in October 1929. The final decree was issued in 1931, giving possession of the riverbed to the United States in non-navigable sections of the river in Utah. Possession of the riverbed in navigable sections of the basin was given to the State of Utah.</p>
-
+</p><br/>Transcripts of the Colorado Riverbed Case. This case grew out of a desire by the State of Utah to determine who owned the bed of the Colorado River. Utah wanted to drill for oil and for other economic purposes in the bed of the river, but it first had to be determined who owned it, Utah or the United States. This hinged on whether the Colorado could be declared a navigable or a non-navigable river. The U.S. Supreme Court began acquiring testimony in October 1929. The final decree was issued in 1931, giving possession of the riverbed to the United States in non-navigable sections of the river in Utah. Possession of the riverbed in navigable sections of the basin was given to the State of Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

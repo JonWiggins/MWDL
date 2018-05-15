@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol. 22 Journal of Discourses "width="326" height ="528"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Vol. 22 Journal of Discourses"width="326" height ="528"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Vol. 22 Journal of Discourses 
+Vol. 22 Journal of Discourses
 <!-- Article Text -->
-</p>
-Published from 1853 to 1886, this periodical contains stenographic reports of sermons of the LDS Church authorities. The discourses cover all aspects of Mormon life, although most are doctrinal in nature.</p>
-
+</p><br/>Published from 1853 to 1886, this periodical contains stenographic reports of sermons of the LDS Church authorities. The discourses cover all aspects of Mormon life, although most are doctrinal in nature.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

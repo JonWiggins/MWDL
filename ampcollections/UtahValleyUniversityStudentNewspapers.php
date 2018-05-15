@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Tradewinds, November 16, 1973"width="172" height ="224"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Tradewinds%comma% November 16%comma% 1973"width="172" height ="224"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Tradewinds, November 16, 1973
+Tradewinds%comma% November 16%comma% 1973
 <!-- Article Text -->
-</p>
-This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p>
-&nbsp;</p>
-
+</p><br/>This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p><br/>&nbsp,</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

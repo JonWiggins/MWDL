@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Transition - From Sagebrush to Satellite "width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Transition - From Sagebrush to Satellite"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Transition - From Sagebrush to Satellite 
+Transition - From Sagebrush to Satellite
 <!-- Article Text -->
-</p>
-Fitzgerald Famly Stories; An autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p>
-
+</p><br/>Fitzgerald Famly Stories, An autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

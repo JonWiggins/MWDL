@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Westminster College Football Squad "width="361" height ="270"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Westminster College Football Squad"width="361" height ="270"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Westminster College Football Squad 
+Westminster College Football Squad
 <!-- Article Text -->
-</p>
-These collections consist of digitized photographs relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p>
-
+</p><br/>These collections consist of digitized photographs relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

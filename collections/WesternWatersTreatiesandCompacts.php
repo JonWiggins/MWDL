@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1045.jpg" alt="Interstate Compacts: A Compilation of Articles from Various Sources "width="270" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1045.jpg" alt="Interstate Compacts: A Compilation of Articles from Various Sources"width="270" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Interstate Compacts: A Compilation of Articles from Various Sources 
+Interstate Compacts: A Compilation of Articles from Various Sources
 </div>
 <!-- Collection Title-->
 <h4>Western Waters: Treaties and Compacts</h4>
@@ -40,9 +40,7 @@ Interstate Compacts: A Compilation of Articles from Various Sources
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p>
-
+</p><br/>The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

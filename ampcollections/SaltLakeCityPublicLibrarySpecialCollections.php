@@ -17,9 +17,7 @@
 <!-- Image Description -->
 " Floaters on Great Salt Lake Utah. ""Nothing Like It"""
 <!-- Article Text -->
-</p>
-This is a collection of unique historic souvenir images and the Official Coat of Arms of Salt Lake City. </p>
-
+</p><br/>This is a collection of unique historic souvenir images and the Official Coat of Arms of Salt Lake City. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

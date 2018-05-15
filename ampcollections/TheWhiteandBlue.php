@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversity.php">Brigham Young University</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="White and Blue 1919-01-15 vol. 22 no. 3 "width="322" height ="457"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="White and Blue 1919-01-15 vol. 22 no. 3"width="322" height ="457"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-White and Blue 1919-01-15 vol. 22 no. 3 
+White and Blue 1919-01-15 vol. 22 no. 3
 <!-- Article Text -->
-</p>
-Started during President George Brimhall's administration, The White and Blue was the students' voice on campus in the early 19th century.</p>
-
+</p><br/>Started during President George Brimhall's administration, The White and Blue was the students' voice on campus in the early 19th century.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Anderson Hotel
 <!-- Article Text -->
-</p>
-This collection features a variety of historic buildings photographs from Emery County, Utah.</p>
-
+</p><br/>This collection features a variety of historic buildings photographs from Emery County, Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

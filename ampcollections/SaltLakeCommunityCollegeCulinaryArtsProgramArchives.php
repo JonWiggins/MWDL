@@ -17,9 +17,7 @@
 <!-- Image Description -->
 The Old Salt City Jail Dinner Menu
 <!-- Article Text -->
-</p>
-This collection contains materials which have been gathered over the years, developed for the Culinary Arts Program at Salt Lake Community College. </p>
-
+</p><br/>This collection contains materials which have been gathered over the years, developed for the Culinary Arts Program at Salt Lake Community College. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

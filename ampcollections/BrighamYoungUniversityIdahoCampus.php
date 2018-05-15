@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Girl in flood water "width="352" height ="252"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Girl in flood water"width="352" height ="252"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Girl in flood water 
+Girl in flood water
 <!-- Article Text -->
-</p>
-Historically significant photographs of students, faculty and buildings at BYU Idaho</p>
-
+</p><br/>Historically significant photographs of students, faculty and buildings at BYU Idaho</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

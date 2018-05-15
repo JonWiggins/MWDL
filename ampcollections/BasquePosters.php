@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Basque Posters</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Hendaye Poster"width="182" height ="120"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Hendaye Poster
 <!-- Article Text -->
-<p></p>
-<p>A sampling of 41 colorful and interesting posters advertising festivals in the Basque Country and the United States, as well as art exhibits and conferences. Several of the posters depict Basque clothing and customs; all display the creativity and vigorous spirit of Euskaldunak, the Basque people.</p>
-</p>
+<p></p><br/><p>A sampling of 41 colorful and interesting posters advertising festivals in the Basque Country and the United States, as well as art exhibits and conferences. Several of the posters depict Basque clothing and customs, all display the creativity and vigorous spirit of Euskaldunak, the Basque people.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

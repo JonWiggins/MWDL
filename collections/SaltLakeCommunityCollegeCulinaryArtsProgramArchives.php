@@ -40,9 +40,7 @@ The Old Salt City Jail Dinner Menu
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains materials which have been gathered over the years, developed for the Culinary Arts Program at Salt Lake Community College. </p>
-
+</p><br/>This collection contains materials which have been gathered over the years, developed for the Culinary Arts Program at Salt Lake Community College. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2156.jpg" alt=" Main Street, Tremonton, Utah "width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2156.jpg" alt="Main Street%comma% Tremonton%comma% Utah"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Main Street, Tremonton, Utah 
+Main Street%comma% Tremonton%comma% Utah
 </div>
 <!-- Collection Title-->
 <h4>Tremonton Historical Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/TremontonCityUTLibrary.php">Tremonton City (UT) Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Collection consists of 12 photographs of The Tremonton City anonymously donated ot the Tremonton City Library. </p>
-
+</p><br/>Collection consists of 12 photographs of The Tremonton City anonymously donated ot the Tremonton City Library. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

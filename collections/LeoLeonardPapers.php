@@ -40,9 +40,7 @@ Two worlds atlas : East vs. West
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Leo Leonard papers (1900-1975) contain correspondence, programs and announcements, traveling brochures, awards and certificates, newspaper clippings, books, maps, and other documents related to Leo Bradford Leonard's life and his career in the United States Army.</p>
-
+</p><br/>The Leo Leonard papers (1900-1975) contain correspondence, programs and announcements, traveling brochures, awards and certificates, newspaper clippings, books, maps, and other documents related to Leo Bradford Leonard's life and his career in the United States Army.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

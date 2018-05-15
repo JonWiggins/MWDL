@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1259.jpg" alt=" Garden beans"width="370" height="199"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1259.jpg" alt="Andantino pour harpe ou piano-forte"width="370" height="199"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Garden beans
+Andantino pour harpe ou piano-forte
 </div>
 <!-- Collection Title-->
 <h4>Iron County (UT) Extension Office Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Iron County Extension Office is a cooperative program between Iron County, Utah State University, and the United States Department of Agriculture. Photographs from this collection are taken from the annual reports submitted by the Agricultural Agent of Iron County during the years 1916-1948.</p>
-</p>
+<p></p><br/><p>The Iron County Extension Office is a cooperative program between Iron County, Utah State University, and the United States Department of Agriculture. Photographs from this collection are taken from the annual reports submitted by the Agricultural Agent of Iron County during the years 1916-1948.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

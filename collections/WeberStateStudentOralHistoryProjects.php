@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2018.jpg" alt=" Seshachari, Candadai"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2018.jpg" alt="Seshachari%comma% Candadai"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Seshachari, Candadai
+Seshachari%comma% Candadai
 </div>
 <!-- Collection Title-->
 <h4>Weber State Student Oral History Projects</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Weber State College/University Student Projects have been created by students working with several different professors on the Weber State campus. The topics are varied and based on the student's interest or task for a specific assignment. These oral history assignments were created to help Weber State students learn the value and importance of recording public history and to benefit the expansion of the Weber State oral history collections.</p>
-
+</p><br/>The Weber State College/University Student Projects have been created by students working with several different professors on the Weber State campus. The topics are varied and based on the student's interest or task for a specific assignment. These oral history assignments were created to help Weber State students learn the value and importance of recording public history and to benefit the expansion of the Weber State oral history collections.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

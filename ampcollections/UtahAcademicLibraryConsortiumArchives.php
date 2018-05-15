@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahAcademicLibraryConsortium.php">Utah Academic Library Consortium</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Annual Report. Utah College Library Council. 1983-1984 "width="375" height ="596"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Annual Report. Utah College Library Council. 1983-1984"width="375" height ="596"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Annual Report. Utah College Library Council. 1983-1984 
+Annual Report. Utah College Library Council. 1983-1984
 <!-- Article Text -->
-</p>
-The Utah Academic Library Consortium (UALC) was established in 1971 and consists of all public and private academic libraries in accredited institutions of higher education in the State of Utah. The purpose of UALC is to cooperate in continually improving the availability and delivery of library and information services to the higher education community, to the State of Utah, and to partner libraries in Nevada.</p>
-
+</p><br/>The Utah Academic Library Consortium (UALC) was established in 1971 and consists of all public and private academic libraries in accredited institutions of higher education in the State of Utah. The purpose of UALC is to cooperate in continually improving the availability and delivery of library and information services to the higher education community, to the State of Utah, and to partner libraries in Nevada.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

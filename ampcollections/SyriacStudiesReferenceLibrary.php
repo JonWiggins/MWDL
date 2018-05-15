@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Clementis Romani Recognitiones syriace "width="275" height ="432"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Clementis Romani Recognitiones syriace"width="275" height ="432"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Clementis Romani Recognitiones syriace 
+Clementis Romani Recognitiones syriace
 <!-- Article Text -->
-</p>
-The Syriac Studies Reference Library is a collection of rare and out-of-print titles that are of vital importance for Syriac studies. It is especially rich in early manuscript catalogs, dictionaries, and grammars, and contains many of the indispensable editions of Syriac texts that were produced in the 18th, 19th, and early 20th centuries.</p>
-
+</p><br/>The Syriac Studies Reference Library is a collection of rare and out-of-print titles that are of vital importance for Syriac studies. It is especially rich in early manuscript catalogs, dictionaries, and grammars, and contains many of the indispensable editions of Syriac texts that were produced in the 18th, 19th, and early 20th centuries.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

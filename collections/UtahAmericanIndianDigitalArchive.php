@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1519.jpg" alt="Pottery-Tesuque- water god"width="252" height="334"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1519.jpg" alt=""width="252" height="334"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Pottery-Tesuque- water god
+
 </div>
 <!-- Collection Title-->
 <h4>Utah American Indian Digital Archive</h4>
@@ -40,11 +40,7 @@ Pottery-Tesuque- water god
 <h6> Published by <a href="../partners/UniversityofUtahAmericanWestCenter.php">University of Utah - American West Center</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Utah American Indian Digital Archive (UAIDA) is a gateway to the best resources regarding Utah's Indian tribes. With articles, books, government documents, tribal documents, oral histories, photographs, and maps pertaining to the Northwestern Shoshone, Goshute, Paiute, Utah Navajo, White Mesa, and Ute Indians, this unique archive captures the complicated history of Utah's tribes from multiple perspectives. The project, which stems from forty years of research conducted by the University of Utah's American West Center on behalf of Utah's Indians, offers tribal members, students, and researchers unprecedented access to information about the rich history and culture of Utah's native peoples. </p>
-UAIDA is a joint venture between the American West Center and the J. Willard Marriott Library’s Special Collections Department at the University of Utah, with generous support from the State of Utah’s Division of Indian Affairs and Department of Heritage and Arts.</p>
-&nbsp;</p>
-</p>
+</p><br/>The Utah American Indian Digital Archive (UAIDA) is a gateway to the best resources regarding Utah's Indian tribes. With articles, books, government documents, tribal documents, oral histories, photographs, and maps pertaining to the Northwestern Shoshone, Goshute, Paiute, Utah Navajo, White Mesa, and Ute Indians, this unique archive captures the complicated history of Utah's tribes from multiple perspectives. The project, which stems from forty years of research conducted by the University of Utah's American West Center on behalf of Utah's Indians, offers tribal members, students, and researchers unprecedented access to information about the rich history and culture of Utah's native peoples. </p><br/>UAIDA is a joint venture between the American West Center and the J. Willard Marriott Library’s Special Collections Department at the University of Utah, with generous support from the State of Utah’s Division of Indian Affairs and Department of Heritage and Arts.</p><br/>&nbsp,</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

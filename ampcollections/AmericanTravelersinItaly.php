@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Harriet Beecher Stowe : the story of her life "width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Harriet Beecher Stowe : the story of her life"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Harriet Beecher Stowe : the story of her life 
+Harriet Beecher Stowe : the story of her life
 <!-- Article Text -->
-</p>
-The Italian Travel Literature collection makes a number of titles available in full-text-searchable format for students, faculty, and others interested in Italian Studies.</p>
-
+</p><br/>The Italian Travel Literature collection makes a number of titles available in full-text-searchable format for students, faculty, and others interested in Italian Studies.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Buzzer 1948 "width="280" height ="365"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Jon Huntsman's Oath of Office for Governor"width="280" height ="365"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Buzzer 1948 
+Jon Huntsman's Oath of Office for Governor
 <!-- Article Text -->
-</p>
-Continually published from 1909 to 1971, Utah State University's yearbook, the Buzzer, captures in its pages a rich history of small-town college life in Logan, Utah.</p>
-
+</p><br/>Continually published from 1909 to 1971, Utah State University's yearbook, the Buzzer, captures in its pages a rich history of small-town college life in Logan, Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

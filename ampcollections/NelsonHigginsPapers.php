@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Message from Brigham Young dated 25 July 1872 regarding upcoming election for Congressional delegate</em>
 <!-- Article Text -->
-</p>
-The Nelson Higgins papers contain personal, professional and family materials. The majority of the documents pertain to his military appointments and service.</p>
-
+</p><br/>The Nelson Higgins papers contain personal, professional and family materials. The majority of the documents pertain to his military appointments and service.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

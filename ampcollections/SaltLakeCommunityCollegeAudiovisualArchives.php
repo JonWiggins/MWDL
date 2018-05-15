@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Promotional Video for Utah Technical College
 <!-- Article Text -->
-</p>
-The Audiovisual Archives provides access to digitized archival materials related to the history of the College from its inception in 1949 as well as newer digital-born audiovisual resources. Tune in here to view contemporary digital stories, graduation ceremonies, convocations, promotional materials, special guest speakers, and other intriguing audiovisual resources. You can also listen to advertisements, talk radio shows, graduation ceremonies, convocations, special guest speakers, and other intriguing audio recordings about social concerns.</p>
-
+</p><br/>The Audiovisual Archives provides access to digitized archival materials related to the history of the College from its inception in 1949 as well as newer digital-born audiovisual resources. Tune in here to view contemporary digital stories, graduation ceremonies, convocations, promotional materials, special guest speakers, and other intriguing audiovisual resources. You can also listen to advertisements, talk radio shows, graduation ceremonies, convocations, special guest speakers, and other intriguing audio recordings about social concerns.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

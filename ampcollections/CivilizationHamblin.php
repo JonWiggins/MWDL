@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Adoration of the Magi "width="337" height ="301"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Adoration of the Magi"width="337" height ="301"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Adoration of the Magi 
+Adoration of the Magi
 <!-- Article Text -->
-</p>
-The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein.</p>
-
+</p><br/>The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

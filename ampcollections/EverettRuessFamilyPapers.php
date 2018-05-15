@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Everett Ruess 1932 diary</em>
 <!-- Article Text -->
-</p>
-Collection contains diaries, correspondence, postcards, school work and original writings, and other documents related to Everett Ruess and his family.</p>
-
+</p><br/>Collection contains diaries, correspondence, postcards, school work and original writings, and other documents related to Everett Ruess and his family.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

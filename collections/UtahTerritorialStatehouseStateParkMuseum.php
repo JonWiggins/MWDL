@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2145.jpg" alt=" Territorial Statehouse Building Looking East "width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2145.jpg" alt="Territorial Statehouse Building Looking East"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Territorial Statehouse Building Looking East 
+Territorial Statehouse Building Looking East
 </div>
 <!-- Collection Title-->
 <h4>Utah Territorial Statehouse State Park Museum</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahTerritorialStatehouseStateParkMuseum.php">Utah Territorial Statehouse State Park Museum</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Utah Territorial Statehouse State Park collection features over 900 photographs, letters, and ephemera from the museum's almost 5,000-object collection. Photographs are largely from family albums and were taken in the late 19th century, while others depict events, residents, and homes in the Fillmore area in the early- to mid-1900s.</p>
-
+</p><br/>The Utah Territorial Statehouse State Park collection features over 900 photographs, letters, and ephemera from the museum's almost 5,000-object collection. Photographs are largely from family albums and were taken in the late 19th century, while others depict events, residents, and homes in the Fillmore area in the early- to mid-1900s.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

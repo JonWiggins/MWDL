@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Emery County Archives is dedicated to obtaining and preserving donations of family, organization, and agency documents and artifacts. In this aspect, the Archives will be a major resource for research and documentation of the history, life, and culture of the people of the Castle Valley region.</p>
-
-
+<br/><p>Emery County Archives is dedicated to obtaining and preserving donations of family, organization, and agency documents and artifacts. In this aspect, the Archives will be a major resource for research and documentation of the history, life, and culture of the people of the Castle Valley region.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

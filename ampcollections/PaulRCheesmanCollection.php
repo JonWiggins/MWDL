@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ball Court "width="328" height ="321"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Ball Court"width="328" height ="321"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Ball Court 
+Ball Court
 <!-- Article Text -->
-</p>
-Dr. Paul Robert Cheesman (1921-1991) is well known for his study of ancient American archaeology and ancient scripture. More than 500 photographic images in this collection have been digitized for the online collection showing a variety of buildings, landscapes, and artifacts from Mesoamerican archaeological sites in Mexico, Central America, and Peru.</p>
-
+</p><br/>Dr. Paul Robert Cheesman (1921-1991) is well known for his study of ancient American archaeology and ancient scripture. More than 500 photographic images in this collection have been digitized for the online collection showing a variety of buildings, landscapes, and artifacts from Mesoamerican archaeological sites in Mexico, Central America, and Peru.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

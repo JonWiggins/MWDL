@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1005.jpg" alt="Papermaking By Hand In America "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1005.jpg" alt="Papermaking By Hand In America"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Papermaking By Hand In America 
+Papermaking By Hand In America
 </div>
 <!-- Collection Title-->
 <h4>Dard Hunter Book Collection</h4>
@@ -40,9 +40,7 @@ Papermaking By Hand In America
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Dard Hunter (1883-1966) dedicated his life to researching, collecting, and writing books on papermaking throughout the world. He also published his own exquisite handmade books on the subject. This digital presentation is drawn from the holdings of the Marriott Library, which has one of the largest Dard Hunter collections in the world.</p>
-
+</p><br/>Dard Hunter (1883-1966) dedicated his life to researching, collecting, and writing books on papermaking throughout the world. He also published his own exquisite handmade books on the subject. This digital presentation is drawn from the holdings of the Marriott Library, which has one of the largest Dard Hunter collections in the world.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -24,11 +24,7 @@
 <h6><a href="http://library.utah.gov/">Utah State Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Utah State Library, created in 1957, works to develop, advance, and promote library services and equal access to information and library resources to all Utah residents.</p>
-
-
-</p>
+<p><br/><p>The Utah State Library, created in 1957, works to develop, advance, and promote library services and equal access to information and library resources to all Utah residents.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+Library">Browse all records from Utah State Library</a>
 <!-- List all Active Collections -->

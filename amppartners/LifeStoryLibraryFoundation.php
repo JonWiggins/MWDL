@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Life Story Library Foundation is dedicated to preserving the stories of our times as valuable recorded history.</p>
-<p>Mission:&nbsp;Promote widespread awareness, build partnerships, encourage reflection, and provide accessible options for saving and sharing life stories.</p>
-
-
-
+<br/><p>The Life Story Library Foundation is dedicated to preserving the stories of our times as valuable recorded history.</p><br/><p>Mission:&nbsp;Promote widespread awareness, build partnerships, encourage reflection, and provide accessible options for saving and sharing life stories.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

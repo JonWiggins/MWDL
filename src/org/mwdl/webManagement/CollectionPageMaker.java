@@ -28,14 +28,16 @@ public class CollectionPageMaker {
      */
     public static void writeGivenCollectionPages(ArrayList<Collection> toWrite){
 
-        writeAlphabeticalCollectionPage(toWrite);
-        writeInitialCollectionPage(toWrite);
-        writePartnerSortedCollectionPage(toWrite);
-
         for (Collection element : toWrite){
             writeFullCollection(element);
             writeAMPCollection(element);
         }
+
+        //Note that writing the partner sorted collections involved removing them from the List
+        // so it is important that it is run last
+        writeAlphabeticalCollectionPage(toWrite);
+        writeInitialCollectionPage(toWrite);
+        writePartnerSortedCollectionPage(toWrite);
 
     }
 
@@ -325,6 +327,10 @@ public class CollectionPageMaker {
     /**
      * Writes the Collections page wherein the collections are sorted by their Partner
      * Saves the files as pCollections.php
+     *
+     * Note that this method will remove elements from the given ArrayList object
+     *  as it writes them to the file, so it is important that this is the last method
+     *  to use the List
      *
      * @param collections An ArrayList of all the active collections
      */

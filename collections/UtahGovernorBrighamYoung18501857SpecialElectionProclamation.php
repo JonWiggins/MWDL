@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1835.jpg" alt="Proclamation "width="332" height="412"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1835.jpg" alt="Proclamation"width="332" height="412"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Proclamation 
+Proclamation
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor Brigham Young (1850-1857) Special Election Proclamation</h4>
@@ -40,9 +40,7 @@ Proclamation
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
-"
+"</p><br/>This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

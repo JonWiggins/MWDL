@@ -40,9 +40,7 @@ Beaver Murdock Academy Drama Cast
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Originally the Beaver Branch of Brigham Young University, the school became independent in 1908 and was renamed Murdock Academy. Housed in the buildings of Fort Cameron, a former military base outside of Beaver, Utah, it offered a 4 year high school program. This privately owned school closed in 1922 when the new public Beaver High School was opened.</p>
-</p>
+<p></p><br/><p>Originally the Beaver Branch of Brigham Young University, the school became independent in 1908 and was renamed Murdock Academy. Housed in the buildings of Fort Cameron, a former military base outside of Beaver, Utah, it offered a 4 year high school program. This privately owned school closed in 1922 when the new public Beaver High School was opened.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -41,7 +41,7 @@ public class DataFetcher {
 
             while (collectionData.hasNextLine()) {
 
-                Pattern pattern = Pattern.compile("([0-9]{4}),[Tt][Rr][Uu][Ee],(.*),(.*),(.*),(.*),(collection[0-9]{4}.*),([0-9]*),([0-9]*),(.*)");
+                Pattern pattern = Pattern.compile("([0-9]{4}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(.*?),(.+),(collection[0-9]{4}.{2,4}),([0-9]*),([0-9]*),(.*)");
                 Matcher matcher = pattern.matcher(collectionData.nextLine());
                 if (matcher.find()) {
                     //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String imageName, int height, int width, String des
@@ -65,6 +65,16 @@ public class DataFetcher {
                         imgW = 0;
                     else
                         imgW = Integer.valueOf(imgWRaw);
+
+
+                    //remove excess commas from the image des
+                    // often times when the csv is opened in excel, it will be saved with about 10 extra commas
+                    // on the end
+                    //Keep removing the last character from the string until it no longer ends with ,
+                    //No description should ever end with a , anyways
+                    while(des.endsWith(",")){
+                        des = des.substring(0, des.length() - 1);
+                    }
 
                     toReturn.add(new Collection(collectionNumber, true, note, title, pub, text, img, imgH, imgW, des));
 
@@ -92,7 +102,7 @@ public class DataFetcher {
 
             while (data.hasNextLine()) {
 
-                Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*),(.*),(http:.*),(.*),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
+                Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(http:.*?),(.+),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
                 Matcher matcher = pattern.matcher(data.nextLine());
 
                 if(matcher.find()){

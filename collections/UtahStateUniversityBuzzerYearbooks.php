@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1241.jpg" alt="Buzzer 1948 "width="280" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1241.jpg" alt="Jon Huntsman's Oath of Office for Governor"width="280" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Buzzer 1948 
+Jon Huntsman's Oath of Office for Governor
 </div>
 <!-- Collection Title-->
 <h4>Utah State University Buzzer Yearbooks</h4>
@@ -40,9 +40,7 @@ Buzzer 1948
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Continually published from 1909 to 1971, Utah State University's yearbook, the Buzzer, captures in its pages a rich history of small-town college life in Logan, Utah.</p>
-
+</p><br/>Continually published from 1909 to 1971, Utah State University's yearbook, the Buzzer, captures in its pages a rich history of small-town college life in Logan, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

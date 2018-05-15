@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Wasatch School "width="356" height ="209"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Wasatch School"width="356" height ="209"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Wasatch School 
+Wasatch School
 <!-- Article Text -->
-"</p>
-Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: ""State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah.""</p>
-"
+"</p><br/>Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: ""State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah.""</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

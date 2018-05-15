@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Meeting Booklet_16 December 1976 "width="375" height ="466"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Meeting Booklet_16 December 1976"width="375" height ="466"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Meeting Booklet_16 December 1976 
+Meeting Booklet_16 December 1976
 <!-- Article Text -->
-<p></p>
-<p>This collection includes the minutes of the stockholders' meetings with both Utah International and General Electric, correspondence, a reel-to-reel tape of the merger meeting and the official merger documents. </p>
-</p>
+<p></p><br/><p>This collection includes the minutes of the stockholders' meetings with both Utah International and General Electric, correspondence, a reel-to-reel tape of the merger meeting and the official merger documents. </p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

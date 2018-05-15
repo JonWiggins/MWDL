@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Territorial Statehouse in Fillmore is Utah's oldest existing governmental building. In anticipation of Utah's statehood, early pioneer Brigham Young directed construction of the building as the state's capitol. Only the south wing was ever completed. The existing portion was finished in time for the December 1855 meeting of the Territorial Legislature, which was the only full session held in the old statehouse. In December 1858, the seat of government was returned to Salt Lake City.</p>
-
-
-
+<br/><p>Territorial Statehouse in Fillmore is Utah's oldest existing governmental building. In anticipation of Utah's statehood, early pioneer Brigham Young directed construction of the building as the state's capitol. Only the south wing was ever completed. The existing portion was finished in time for the December 1855 meeting of the Territorial Legislature, which was the only full session held in the old statehouse. In December 1858, the seat of government was returned to Salt Lake City.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

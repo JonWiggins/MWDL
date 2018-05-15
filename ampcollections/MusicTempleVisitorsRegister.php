@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Music Temple Visitors Register 2 "width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Music Temple Visitors Register 2"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Music Temple Visitors Register 2 
+Music Temple Visitors Register 2
 <!-- Article Text -->
-"</p>
-A spectacular grotto in Glen Canyon of the Colorado River, Music Temple was a popular stop for parties of tourists. As early as the 1930s someone began the tradition of leaving a metal box in the grotto where travelers could write their names on notebooks and pieces of paper, many of which are a ""who's who"" of early river runners.</p>
-"
+"</p><br/>A spectacular grotto in Glen Canyon of the Colorado River, Music Temple was a popular stop for parties of tourists. As early as the 1930s someone began the tradition of leaving a metal box in the grotto where travelers could write their names on notebooks and pieces of paper, many of which are a ""who's who"" of early river runners.</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

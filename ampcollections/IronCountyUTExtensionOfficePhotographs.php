@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Garden beans"width="370" height ="199"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Andantino pour harpe ou piano-forte"width="370" height ="199"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Garden beans
+Andantino pour harpe ou piano-forte
 <!-- Article Text -->
-<p></p>
-<p>The Iron County Extension Office is a cooperative program between Iron County, Utah State University, and the United States Department of Agriculture. Photographs from this collection are taken from the annual reports submitted by the Agricultural Agent of Iron County during the years 1916-1948.</p>
-</p>
+<p></p><br/><p>The Iron County Extension Office is a cooperative program between Iron County, Utah State University, and the United States Department of Agriculture. Photographs from this collection are taken from the annual reports submitted by the Agricultural Agent of Iron County during the years 1916-1948.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

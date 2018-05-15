@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1169.jpg" alt="De Naturae Simia "width="309" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1169.jpg" alt="De Naturae Simia"width="309" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-De Naturae Simia 
+De Naturae Simia
 </div>
 <!-- Collection Title-->
 <h4>De Naturae Simia</h4>
@@ -40,9 +40,7 @@ De Naturae Simia
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Robert Fludd, a prominent 17th century doctor, wrote <em>De Naturae Simia</em>, which was released around 1626. This book, which forms part of the encyclopedic series issued over 9 years to 1626 called 'Utriusque Cosmi Maioris Scilicet et Minores Metaphysica, Physica Atque Technica Historia'. This portion contains interesting sketches and diagrams of various innovations and ideas.</p>
-
+</p><br/>Robert Fludd, a prominent 17th century doctor, wrote <em>De Naturae Simia</em>, which was released around 1626. This book, which forms part of the encyclopedic series issued over 9 years to 1626 called 'Utriusque Cosmi Maioris Scilicet et Minores Metaphysica, Physica Atque Technica Historia'. This portion contains interesting sketches and diagrams of various innovations and ideas.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

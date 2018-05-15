@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" 1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- 1965-1966 Utah Trade Technical Institute Course Catalog
+1965-1966 Utah Trade Technical Institute Course Catalog
 <!-- Article Text -->
-</p>
-The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005.&nbsp; It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p>
-
+</p><br/>The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005.&nbsp, It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

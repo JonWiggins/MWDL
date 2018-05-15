@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="First Faculty for CCH "width="374" height ="277"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="First Faculty for CCH"width="374" height ="277"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-First Faculty for CCH 
+First Faculty for CCH
 <!-- Article Text -->
-</p>
-This collection is a variety of photographs including images during WWII soldiers in Laie, the Polynesian Cultural Center, and campus construction of BYU Hawaii.</p>
-
+</p><br/>This collection is a variety of photographs including images during WWII soldiers in Laie, the Polynesian Cultural Center, and campus construction of BYU Hawaii.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/OurDailyDiaryTopazWarRelocationCenter.php">
 <!-- Collection #2303 -->
 <!-- Collection Title -->
-<title>Our Daily Diary, Topaz War Relocation Center</title>
+<title>Our Daily Diary%comma% Topaz War Relocation Center</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/OurDailyDiaryTopazWarRelocationCenter.php&t=Our Daily Diary, Topaz War Relocation Center"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/OurDailyDiaryTopazWarRelocationCenter.php&t=Our Daily Diary%comma% Topaz War Relocation Center"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/OurDailyDiaryTopazWarRelocationCenter.php&via=@MountainWestDL&text=Our Daily Diary, Topaz War Relocation Center"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/OurDailyDiaryTopazWarRelocationCenter.php&via=@MountainWestDL&text=Our Daily Diary%comma% Topaz War Relocation Center"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,18 +35,16 @@
 <em>Our Daily Diary</em>
 </div>
 <!-- Collection Title-->
-<h4>Our Daily Diary, Topaz War Relocation Center</h4>
+<h4>Our Daily Diary%comma% Topaz War Relocation Center</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-Our Daily Diary, a diary kept by third graders at Mountain View School at the Topaz Relocation Center from March 8 - August 12, 1943.</p>
-
+</p><br/>Our Daily Diary, a diary kept by third graders at Mountain View School at the Topaz Relocation Center from March 8 - August 12, 1943.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2303&indx=1&bulkSize=50">Browse all record in Our Daily Diary, Topaz War Relocation Center</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2303&indx=1&bulkSize=50">Browse all record in Our Daily Diary%comma% Topaz War Relocation Center</a>
 </h6>
 <p></p>
 </div>

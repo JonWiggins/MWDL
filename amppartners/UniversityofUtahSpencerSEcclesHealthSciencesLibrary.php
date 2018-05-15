@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The mission of the Spencer S. Eccles Health Sciences Library is to advance education, research, and health care through information access, service and innovation. The library serves the educational, research, and clinical needs of health professionals, students and researchers at the Health Sciences Center, the University of Utah, the State of Utah and of the Internet.</p>
-
-
-
+<br/><p>The mission of the Spencer S. Eccles Health Sciences Library is to advance education, research, and health care through information access, service and innovation. The library serves the educational, research, and clinical needs of health professionals, students and researchers at the Health Sciences Center, the University of Utah, the State of Utah and of the Internet.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -40,6 +36,7 @@
 <li><a href = "../ampcollections/NeuroOphthalmologyVirtualEducationLibraryNOVEL.php">NeuroOphthalmologyVirtualEducationLibraryNOVEL</a></li>
 <li><a href = "../ampcollections/NeuroOphthalmologyRandyHKardonCollection.php">NeuroOphthalmologyRandyHKardonCollection</a></li>
 <li><a href = "../ampcollections/UniversityofUtahHealthSciencesPhotographCollection.php">UniversityofUtahHealthSciencesPhotographCollection</a></li>
+<li><a href = "../ampcollections/UtahHealthSciencesLibraryConsortium.php">UtahHealthSciencesLibraryConsortium</a></li>
 <li><a href = "../ampcollections/NeuroOphthalmologyRobertBDaroffCollection.php">NeuroOphthalmologyRobertBDaroffCollection</a></li>
 <li><a href = "../ampcollections/NeuroOphthalmologyJournalofNeuroOphthalmology.php">NeuroOphthalmologyJournalofNeuroOphthalmology</a></li>
 <li><a href = "../ampcollections/NeuroOphthalmologyAlfredoASadunCollection.php">NeuroOphthalmologyAlfredoASadunCollection</a></li>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1609.png" alt="Ogden City Birth Record "width="311" height="311"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1609.png" alt="Ogden City Birth Record"width="311" height="311"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Ogden City Birth Record 
+Ogden City Birth Record
 </div>
 <!-- Collection Title-->
 <h4>Ogden (UT) City Recorder Birth Register</h4>
@@ -40,10 +40,7 @@ Ogden City Birth Record
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Ogden City Recorder kept a register of births occurring within Ogden which included a name, parents, date of birth, residence, race, sex, whether stillborn or live birth, name of attending physician and remarks. The recorder also collected supplemental information confirming births in the form of affidavits and birth certificates, including some for births prior to 1890. These were interleaved, taped and glued to the pages of the original register. Later on, a second copy of the register was typewritten and is included in this series. The recorder began this register before an 1898 law which required filing reports of birth with the county clerk (Revised Statutes of Utah 1898, Title 57, p. 474-475). In 1904, a new law superseded the county registers with uniform birth certificates kept permanently by the Vital Records and Statistics office.</p>
-&nbsp;</p>
-
+</p><br/>The Ogden City Recorder kept a register of births occurring within Ogden which included a name, parents, date of birth, residence, race, sex, whether stillborn or live birth, name of attending physician and remarks. The recorder also collected supplemental information confirming births in the form of affidavits and birth certificates, including some for births prior to 1890. These were interleaved, taped and glued to the pages of the original register. Later on, a second copy of the register was typewritten and is included in this series. The recorder began this register before an 1898 law which required filing reports of birth with the county clerk (Revised Statutes of Utah 1898, Title 57, p. 474-475). In 1904, a new law superseded the county registers with uniform birth certificates kept permanently by the Vital Records and Statistics office.</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

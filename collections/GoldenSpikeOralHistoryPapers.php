@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2227.jpg" alt="<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2227.jpg" alt="<em>Taro Yagi%comma% Golden Spike Oral History Project%comma% GS-21%comma% American West Center%comma% University of Utah</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>
+<em>Taro Yagi%comma% Golden Spike Oral History Project%comma% GS-21%comma% American West Center%comma% University of Utah</em>
 </div>
 <!-- Collection Title-->
 <h4>Golden Spike Oral History Papers</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of oral histories regarding the effects of constructing of the transcontinental railroad on the local economy and life; similarly, regarding the Golden Spike National Historic Site. Most regard Promontory Village and Promontory Stations, both modern park reconstructions.</p>
-
+</p><br/>A collection of oral histories regarding the effects of constructing of the transcontinental railroad on the local economy and life, similarly, regarding the Golden Spike National Historic Site. Most regard Promontory Village and Promontory Stations, both modern park reconstructions.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

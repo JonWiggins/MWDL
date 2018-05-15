@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Utah Academic Library Consortium (UALC) was established in 1971 and consists of all public and private academic libraries in accredited institutions of higher education in the State of Utah. The purpose of UALC is to cooperate in continually improving the availability and delivery of library and information services to the higher education community, to the State of Utah, and to partner libraries in Nevada.</p>
-
-
+<br/><p>The Utah Academic Library Consortium (UALC) was established in 1971 and consists of all public and private academic libraries in accredited institutions of higher education in the State of Utah. The purpose of UALC is to cooperate in continually improving the availability and delivery of library and information services to the higher education community, to the State of Utah, and to partner libraries in Nevada.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

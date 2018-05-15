@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The mission of the Emery County Library System is to provide the resources and services for lifelong learning, the space and opportunities to gather and connect, and to foster a love of reading.</p>
-<p> Emery County Archives is dedicated to obtaining and preserving donations of family, organization,&nbsp;and agency documents and artifacts. In this aspect, the Archives will be a major resource for research and documentation of the history, life, and culture of the people of the Castle Valley region.</p>
-
-
-
+<br/><p>The mission of the Emery County Library System is to provide the resources and services for lifelong learning, the space and opportunities to gather and connect, and to foster a love of reading.</p><br/><p> Emery County Archives is dedicated to obtaining and preserving donations of family, organization,&nbsp;and agency documents and artifacts. In this aspect, the Archives will be a major resource for research and documentation of the history, life, and culture of the people of the Castle Valley region.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

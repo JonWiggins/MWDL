@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2116.jpg" alt=" Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2)."width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2116.jpg" alt="Barre Toelken playing a guitar and singing%comma% Salzburg%comma% Austria%comma% 2001 (1 of 2)."width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2).
+Barre Toelken playing a guitar and singing%comma% Salzburg%comma% Austria%comma% 2001 (1 of 2).
 </div>
 <!-- Collection Title-->
 <h4>Barre Toelken Fieldwork Image Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Featuring half a century (1954-2002) of folklore fieldwork, the images in this digital collection were created by noted folklorist Barre Toelken and cover a range of folklore topics such as cemeteries, Native Americans (mostly Navajo), folk art, vernacular architecture, and customs of Austria, Germany, Japan, and the United States. The Barre Toelken Fieldwork Image Collection (Folk Coll 35a) is a donation from Barre Toelken, emeritus Utah State University English (folklore) professor; originals are housed in the Fife Folklore Archives in Utah State University’s Merrill-Cazier Library, Special Collections and Archives</p>
-
+</p><br/>Featuring half a century (1954-2002) of folklore fieldwork, the images in this digital collection were created by noted folklorist Barre Toelken and cover a range of folklore topics such as cemeteries, Native Americans (mostly Navajo), folk art, vernacular architecture, and customs of Austria, Germany, Japan, and the United States. The Barre Toelken Fieldwork Image Collection (Folk Coll 35a) is a donation from Barre Toelken, emeritus Utah State University English (folklore) professor, originals are housed in the Fife Folklore Archives in Utah State University’s Merrill-Cazier Library, Special Collections and Archives</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

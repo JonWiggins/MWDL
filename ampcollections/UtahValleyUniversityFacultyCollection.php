@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Professor Sandy McGunigall-Smith "width="113" height ="151"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""Brigham Young University ""Y"" logo.""width="113" height ="151"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Professor Sandy McGunigall-Smith 
+"Brigham Young University ""Y"" logo."
 <!-- Article Text -->
-</p>
-A collection of presentations, projects, and papers on many different topics by UVU faculty and staff. </p>
-
+</p><br/>A collection of presentations, projects, and papers on many different topics by UVU faculty and staff. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

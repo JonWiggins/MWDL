@@ -24,11 +24,7 @@
 <h6><a href="http://www.li.suu.edu/">Southern Utah University - Sherratt Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Sherratt Library acquires and provides access to materials related to Southern Utah University's history and archives; culture and history of southwestern Utah with a focus on settlement, communities, national parks and monuments, and national forests in the area; Native Americans with emphasis on the Southern Paiutes; trails and pioneer settlement of the west; and 20th century culture and industry, such as iron mining, coming of the railroad, Utah Shakespearean Festival, Utah Parks Company, Southwest Utah Livestock Association, and Cedar Livestock and Heritage Festival. </p>
-
-
-</p>
+<p><br/><p>The Sherratt Library acquires and provides access to materials related to Southern Utah University's history and archives; culture and history of southwestern Utah with a focus on settlement, communities, national parks and monuments, and national forests in the area; Native Americans with emphasis on the Southern Paiutes; trails and pioneer settlement of the west; and 20th century culture and industry, such as iron mining, coming of the railroad, Utah Shakespearean Festival, Utah Parks Company, Southwest Utah Livestock Association, and Cedar Livestock and Heritage Festival. </p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Southern+Utah+University+-+Sherratt+Library">Browse all records from Southern Utah University - Sherratt Library</a>
 <!-- List all Active Collections -->

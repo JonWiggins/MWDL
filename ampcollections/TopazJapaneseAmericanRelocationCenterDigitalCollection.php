@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas "width="260" height ="358"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas"width="260" height ="358"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Executive Order 9066: authorizing the Secretary of War to prescribe military areas 
+Executive Order 9066: authorizing the Secretary of War to prescribe military areas
 <!-- Article Text -->
-</p>
-In 1942 shortly after the bombing of Pearl Harbor, over 110,000 people of Japanese ancestry were forcibly removed from California, Oregon, and Washington and confined to relocation centers. One of these relocation centers was the Topaz Relocation Center located on 17,500 acres in the middle of the Sevier Desert just outside of Delta, Utah. Until the camp closed in Oct. 1945, over 8,000 men, women and children lived, worked, and went to school there; over 100 of its residents volunteered for and served in the U.S. armed forces.</p>
-
+</p><br/>In 1942 shortly after the bombing of Pearl Harbor, over 110,000 people of Japanese ancestry were forcibly removed from California, Oregon, and Washington and confined to relocation centers. One of these relocation centers was the Topaz Relocation Center located on 17,500 acres in the middle of the Sevier Desert just outside of Delta, Utah. Until the camp closed in Oct. 1945, over 8,000 men, women and children lived, worked, and went to school there, over 100 of its residents volunteered for and served in the U.S. armed forces.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

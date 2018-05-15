@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2297.jpg" alt="<em>New York Bronx, Buffalo [13 items] </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2297.jpg" alt="<em>New York Bronx%comma% Buffalo [13 items] </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>New York Bronx, Buffalo [13 items] </em>
+<em>New York Bronx%comma% Buffalo [13 items] </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor William Spry (1909-1917) Joseph Hillstrom Petitions</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-As chief executive officer of the state, Governor Spry had the authority to commute the sentences of those convicted of crimes. The conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history; it generated national and international interest. Petitions were sent to Governor Spry's office protesting the planned execution and/or conviction of Hill for the gunshot murders of grocer J.S. Morrison and his son Arling. </p>
-
+</p><br/>As chief executive officer of the state, Governor Spry had the authority to commute the sentences of those convicted of crimes. The conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history, it generated national and international interest. Petitions were sent to Governor Spry's office protesting the planned execution and/or conviction of Hill for the gunshot murders of grocer J.S. Morrison and his son Arling. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

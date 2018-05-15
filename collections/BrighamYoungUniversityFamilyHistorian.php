@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1093.jpg" alt="Vol 1 Fall 2002 The BYU Family Historian "width="339" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1093.jpg" alt="Vol 1 Fall 2002 The BYU Family Historian"width="339" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Vol 1 Fall 2002 The BYU Family Historian 
+Vol 1 Fall 2002 The BYU Family Historian
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Family Historian</h4>
@@ -40,9 +40,7 @@ Vol 1 Fall 2002 The BYU Family Historian
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Assisting in finding ancestors and discovering the world in which they lived.</p>
-
+</p><br/>Assisting in finding ancestors and discovering the world in which they lived.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

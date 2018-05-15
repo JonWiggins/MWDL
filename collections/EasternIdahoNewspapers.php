@@ -40,9 +40,7 @@ The Ashton Herald 1933-12-14 Vol 15 No 35
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
  
 <!-- Collection Description -->
-</p>
-Historical newspapers from the Upper Snake River communities of Ashton (1933, 39), Marysville (1904-05), and Saint Anthony (1907).</p>
-
+</p><br/>Historical newspapers from the Upper Snake River communities of Ashton (1933, 39), Marysville (1904-05), and Saint Anthony (1907).</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -24,15 +24,11 @@
 <h6><a href="http://www.arch.utah.edu/">University of Utah - College of Architecture and Planning Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>This collection was created by the College of Architecture + Planning at the University of Utah to facilitate the study of a wide range of local, national and international architectural styles and histories.</p>
-<p> </p>
-<p>Image courtesy of the faculty, staff and students of the School of Architecture.</p>
-
-</p>
+<p><br/><p>This collection was created by the College of Architecture + Planning at the University of Utah to facilitate the study of a wide range of local, national and international architectural styles and histories.</p><br/><p> </p><br/><p>Image courtesy of the faculty, staff and students of the School of Architecture.</p><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+College+of+Architecture+and+Planning">Browse all records from University of Utah - College of Architecture and Planning</a>
 <!-- List all Active Collections -->
+<li><a href = "../collections/UniversityofUtahCollegeofArchitecturePlanningCollection.php">University of Utah College of Architecture + Planning Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/GreatBasinNationalHeritagePartnership.php">Great Basin National Heritage Partnership</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Map of Great Basin National Heritage Area "width="384" height ="184"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="384" height ="184"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Map of Great Basin National Heritage Area 
-<!-- Article Text -->
-</p>
-Oral histories of sheepherders and video recordings from the annual gathering of sheepherders and sheep ranching families from Nevada and Utah. The Great Basin National Heritage Area is a geographical region encompassing White Pine County, Nevada and Millard County, Utah and adjacent Indian reservations that contains nationally significant archaeological, historical, cultural, natural and scenic features that are emblematic of the entire Great Basin Area.</p>
 
+<!-- Article Text -->
+</p><br/>Oral histories of sheepherders and video recordings from the annual gathering of sheepherders and sheep ranching families from Nevada and Utah. The Great Basin National Heritage Area is a geographical region encompassing White Pine County, Nevada and Millard County, Utah and adjacent Indian reservations that contains nationally significant archaeological, historical, cultural, natural and scenic features that are emblematic of the entire Great Basin Area.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

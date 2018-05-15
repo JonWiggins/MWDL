@@ -24,11 +24,7 @@
 <h6><a href="http://lib.byu.edu/">Brigham Young University - Harold B. Lee Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>Located in the center of the Brigham Young University campus, The Harold B. Lee Library (HBLL) collection numbers over eight million volumes. The library's Digital Initiatives program constantly adds new online content to its collections. The Web-based catalog contains numerous full-text databases and many electronic indexes to other sources. The library provides thousands of seats for research at tables, on soft chairs, and in group study.</p>
-
-
-</p>
+<p><br/><p>Located in the center of the Brigham Young University campus, The Harold B. Lee Library (HBLL) collection numbers over eight million volumes. The library's Digital Initiatives program constantly adds new online content to its collections. The Web-based catalog contains numerous full-text databases and many electronic indexes to other sources. The library provides thousands of seats for research at tables, on soft chairs, and in group study.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University+-+Harold+B.+Lee+Library">Browse all records from Brigham Young University - Harold B. Lee Library</a>
 <!-- List all Active Collections -->
@@ -54,9 +50,11 @@
 <li><a href = "../collections/MarcusBach.php">Marcus Bach</a></li>
 <li><a href = "../collections/MarcusBachOutreach.php">Marcus Bach Outreach</a></li>
 <li><a href = "../collections/MarriageandFamilies.php">Marriage and Families</a></li>
+<li><a href = "../collections/MormonPublications19thand20thCenturies.php">Mormon Publications: 19th and 20th Centuries</a></li>
 <li><a href = "../collections/BrighamYoungUniversityCampusPhotographs.php">Brigham Young University Campus Photographs</a></li>
 <li><a href = "../collections/ReligiousEducation.php">Religious Education</a></li>
 <li><a href = "../collections/ReligiousEducator.php">Religious Educator</a></li>
+<li><a href = "../collections/SudanStudies.php">Sudan Studies</a></li>
 <li><a href = "../collections/TESLReporter.php">TESL Reporter</a></li>
 <li><a href = "../collections/BrighamYoungUniversityFamilyHistorian.php">Brigham Young University Family Historian</a></li>
 <li><a href = "../collections/JohnDonneSermons.php">John Donne Sermons</a></li>
@@ -72,6 +70,7 @@
 <li><a href = "../collections/MormonMissionaryDiaries.php">Mormon Missionary Diaries</a></li>
 <li><a href = "../collections/PaulRCheesmanCollection.php">Paul R. Cheesman Collection</a></li>
 <li><a href = "../collections/GeorgeBeardCollection.php">George Beard Collection</a></li>
+<li><a href = "../collections/MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids.php">Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids</a></li>
 <li><a href = "../collections/ProvoUTHistoricalImages.php">Provo (UT) Historical Images</a></li>
 <li><a href = "../collections/WorldWarIIPhotographsbyJMalanHeslop.php">World War II Photographs by J. Malan Heslop</a></li>
 <li><a href = "../collections/LettersofPhilipIIKingofSpain.php">Letters of Philip II King of Spain</a></li>
@@ -82,6 +81,7 @@
 <li><a href = "../collections/LatterDaySaintsMillennialStar.php">Latter-Day Saints' Millennial Star</a></li>
 <li><a href = "../collections/BrighamYoungUniversitySpecialCollectionsMiscellaneous.php">Brigham Young University Special Collections Miscellaneous</a></li>
 <li><a href = "../collections/DailyEnquirerProvoUT1.php">Daily Enquirer (Provo UT) 1</a></li>
+<li><a href = "../collections/BrighamYoungUniversityFindingAids.php">Brigham Young University Finding Aids</a></li>
 <li><a href = "../collections/HistoryofMonacoPrimaryDocuments.php">History of Monaco: Primary Documents</a></li>
 <li><a href = "../collections/BrighamYoungUniversityFamilyHistories.php">Brigham Young University Family Histories</a></li>
 <li><a href = "../collections/BrighamYoungUniversityScholarsArchiveFolkloreProjects.php">Brigham Young University Scholar's Archive - Folklore Projects</a></li>

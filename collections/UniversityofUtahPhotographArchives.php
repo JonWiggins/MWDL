@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1252.jpg" alt="Aerial view of Capitol Reef "width="354" height="286"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1252.jpg" alt="Because the Bible Tells Me So"width="354" height="286"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aerial view of Capitol Reef 
+Because the Bible Tells Me So
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Photograph Archives</h4>
@@ -40,9 +40,7 @@ Aerial view of Capitol Reef
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p>
-
+</p><br/>The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The burned Tree "width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The burned Tree"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-The burned Tree 
+The burned Tree
 <!-- Article Text -->
-</p>
-293 photographs of California, especially stunning are her 1906 San Francisco earthquake images, with other important California images from the Electra Power Project (1898-1902), Mokelumne Hill and Yosemite National Park.</p>
-
+</p><br/>293 photographs of California, especially stunning are her 1906 San Francisco earthquake images, with other important California images from the Electra Power Project (1898-1902), Mokelumne Hill and Yosemite National Park.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

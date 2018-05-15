@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Brigham Young University-Idaho is a private, four-year university affiliated with The Church of Jesus Christ of Latter-day Saints. Guided by that affiliation, BYU-Idaho seeks to create a wholesome learning environment in which students can strengthen their commitment to their faith and receive a quality education that prepares them for leadership in the home, the community, and the workplace. With an enrollment of nearly 15,000 students, it is the largest private university in Idaho.</p>
-
-
-
-
+<br/><p>Brigham Young University-Idaho is a private, four-year university affiliated with The Church of Jesus Christ of Latter-day Saints. Guided by that affiliation, BYU-Idaho seeks to create a wholesome learning environment in which students can strengthen their commitment to their faith and receive a quality education that prepares them for leadership in the home, the community, and the workplace. With an enrollment of nearly 15,000 students, it is the largest private university in Idaho.</p><br/><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -30,7 +25,12 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/BrighamYoungUniversityIdahoCampus.php">BrighamYoungUniversityIdahoCampus</a></li>
+<li><a href = "../ampcollections/BrighamYoungUniversityIdahoOralHistories.php">BrighamYoungUniversityIdahoOralHistories</a></li>
+<li><a href = "../ampcollections/BrighamYoungUniversityIdahoStudentRays.php">BrighamYoungUniversityIdahoStudentRays</a></li>
+<li><a href = "../ampcollections/HistoricRicksCollegeVikingScroll1.php">HistoricRicksCollegeVikingScroll1</a></li>
+<li><a href = "../ampcollections/HistoricRicksCollegeVikingScroll2.php">HistoricRicksCollegeVikingScroll2</a></li>
 <li><a href = "../ampcollections/UpperSnakeRiverValleyIdahoHistories.php">UpperSnakeRiverValleyIdahoHistories</a></li>
+<li><a href = "../ampcollections/BrighamYoungUniversityIdahoFlash.php">BrighamYoungUniversityIdahoFlash</a></li>
 <li><a href = "../ampcollections/EasternIdahoNewspapers.php">EasternIdahoNewspapers</a></li>
 <li><a href = "../ampcollections/BlackfootIDNewspapers.php">BlackfootIDNewspapers</a></li>
 <li><a href = "../ampcollections/ClarkCountyIDHistoricalPhotographs.php">ClarkCountyIDHistoricalPhotographs</a></li>

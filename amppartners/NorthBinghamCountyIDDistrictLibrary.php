@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The North Bingham County District Library is a Public library and is affiliated with the library system that serves Bingham County, ID. This library contains 40,078 volumes, circulates over 170,000 items per year, and serves a population of nearly 11,000 residents.</p>
-
-
-
+<br/><p>The North Bingham County District Library is a Public library and is affiliated with the library system that serves Bingham County, ID. This library contains 40,078 volumes, circulates over 170,000 items per year, and serves a population of nearly 11,000 residents.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

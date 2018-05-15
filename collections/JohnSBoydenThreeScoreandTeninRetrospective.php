@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1199.jpg" alt=" John Boyden"width="157" height="137"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1199.jpg" alt="John Boyden"width="157" height="137"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- John Boyden
+John Boyden
 </div>
 <!-- Collection Title-->
 <h4>John S. Boyden: Three Score and Ten in Retrospective</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Life story of John S. Boyden, including his experiences in Coalville, Utah, law practice, participation in the Utah Democratic Party, family life, church involvement, and advocacy for Indians.</p>
-</p>
+<p></p><br/><p>Life story of John S. Boyden, including his experiences in Coalville, Utah, law practice, participation in the Utah Democratic Party, family life, church involvement, and advocacy for Indians.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

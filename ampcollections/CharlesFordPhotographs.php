@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Group from Utah State "width="369" height ="323"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Group from Utah State"width="369" height ="323"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Group from Utah State 
+Group from Utah State
 <!-- Article Text -->
-<p></p>
-<p>Pictures taken of tourists visiting Cedar Breaks National Monument, Zion, Bryce Canyon, and Grand Canyon National Parks by a Springdale, Utah photographer.</p>
-</p>
+<p></p><br/><p>Pictures taken of tourists visiting Cedar Breaks National Monument, Zion, Bryce Canyon, and Grand Canyon National Parks by a Springdale, Utah photographer.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

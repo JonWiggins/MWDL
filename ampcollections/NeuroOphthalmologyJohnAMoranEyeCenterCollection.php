@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anatomy of the pupillary light reflex pathway "width="330" height ="207"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Anatomy of the pupillary light reflex pathway"width="330" height ="207"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Anatomy of the pupillary light reflex pathway 
+Anatomy of the pupillary light reflex pathway
 <!-- Article Text -->
-</p>
-Part of the The Neuro-Ophthalmology Virtual Education Library</p>
-A discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p>
-
+</p><br/>Part of the The Neuro-Ophthalmology Virtual Education Library</p><br/>A discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

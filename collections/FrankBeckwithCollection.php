@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1006.jpg" alt="Beckwith, Frank A "width="295" height="425"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1006.jpg" alt="Beckwith%comma% Frank A"width="295" height="425"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Beckwith, Frank A 
+Beckwith%comma% Frank A
 </div>
 <!-- Collection Title-->
 <h4>Frank Beckwith Collection</h4>
@@ -40,9 +40,7 @@ Beckwith, Frank A
 <h6> Published by <a href="../partners/DeltaUTCityLibrary.php">Delta (UT) City Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Photographs and scrapbooks by Frank Asahel Beckwith, editor and publisher of the Millard County Chronicle from 1919-1951. Mr. Beckwith was an amateur geologist and anthropologist and his photographs depict Utah landscapes and Native Americans.</p>
-
+</p><br/>Photographs and scrapbooks by Frank Asahel Beckwith, editor and publisher of the Millard County Chronicle from 1919-1951. Mr. Beckwith was an amateur geologist and anthropologist and his photographs depict Utah landscapes and Native Americans.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

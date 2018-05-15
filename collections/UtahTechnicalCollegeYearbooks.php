@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1278.jpg" alt="The Spectrum 1971 Yearbook "width="239" height="312"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1278.jpg" alt=""width="239" height="312"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Spectrum 1971 Yearbook 
+
 </div>
 <!-- Collection Title-->
 <h4>Utah Technical College Yearbooks</h4>
@@ -40,9 +40,7 @@ The Spectrum 1971 Yearbook
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of complete copies of The Spectrum, Utah Technical College's yearbook. </p>
-
+</p><br/>A collection of complete copies of The Spectrum, Utah Technical College's yearbook. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

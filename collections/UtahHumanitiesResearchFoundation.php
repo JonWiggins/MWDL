@@ -40,9 +40,7 @@ Pen sketches of University of Utah Presidents
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of historical materials collected by the Foundation. Included are letters, articles, family histories, town and county histories, biographies, and miscellaneous materials on Utah cultural history. Business correspondence relates to the publication of the Utah (later Western) Humanities Review, including Dale Morgan's bibliographies of the lesser Mormon churches. Correspondents also include Bernard De Voto and Wallace Stegner. Also included are a small quantity of business records of the Foundation, a manuscript and galley proofs of the first issue of the Utah Humanities Review, and records of the Warshaw Essay Contest.</p>
-
+</p><br/>This collection consists of historical materials collected by the Foundation. Included are letters, articles, family histories, town and county histories, biographies, and miscellaneous materials on Utah cultural history. Business correspondence relates to the publication of the Utah (later Western) Humanities Review, including Dale Morgan's bibliographies of the lesser Mormon churches. Correspondents also include Bernard De Voto and Wallace Stegner. Also included are a small quantity of business records of the Foundation, a manuscript and galley proofs of the first issue of the Utah Humanities Review, and records of the Warshaw Essay Contest.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

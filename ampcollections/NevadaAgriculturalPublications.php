@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Nevada Agricultural Publications</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Sugar Beets"width="272" height ="350"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Sugar Beets
 <!-- Article Text -->
-<p></p>
-<p>This collection includes more than 1000 full-text publications, primarily from the Nevada Agricultural Experiment Station and Nevada Cooperative Extension, highlighting the history of agriculture in Nevada. 1888-present. </p>
-</p>
+<p></p><br/><p>This collection includes more than 1000 full-text publications, primarily from the Nevada Agricultural Experiment Station and Nevada Cooperative Extension, highlighting the history of agriculture in Nevada. 1888-present. </p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

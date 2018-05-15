@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Mission Statement: Offering innovative exhibitions and programs, the Utah Museum of Contemporary Art is a hub for the community to explore the contemporary cultural landscape</p>
-<p>The award-winning UMOCA exhibits groundbreaking artwork by local, national, and international artists. Four gallery spaces provide an opportunity for the community to explore the contemporary cultural landscape through UMOCA’s exhibitions, films, events, classes, and presentations.</p>
-
-
-
+<br/><p>Mission Statement: Offering innovative exhibitions and programs, the Utah Museum of Contemporary Art is a hub for the community to explore the contemporary cultural landscape</p><br/><p>The award-winning UMOCA exhibits groundbreaking artwork by local, national, and international artists. Four gallery spaces provide an opportunity for the community to explore the contemporary cultural landscape through UMOCA’s exhibitions, films, events, classes, and presentations.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

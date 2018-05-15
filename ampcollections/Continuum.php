@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Continuum 1993 Summer (Vol. 3, no. 1) "width="220" height ="290"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Continuum 1993 Summer (Vol. 3%comma% no. 1)"width="220" height ="290"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Continuum 1993 Summer (Vol. 3, no. 1) 
+Continuum 1993 Summer (Vol. 3%comma% no. 1)
 <!-- Article Text -->
-</p>
-The pages of Continuum, the magazine of the University of Utah, keep alumni, faculty, staff, and community members up to date through a broad spectrum of in-depth features spanning science, health, arts and humanities, athletics, and the people who keep these disciplines at the national forefront. It reaches approximately 270,000 annually, with about 52,000 households receiving each issue in the winter, spring, and summer, and 115,000 in the fall.</p>
-
+</p><br/>The pages of Continuum, the magazine of the University of Utah, keep alumni, faculty, staff, and community members up to date through a broad spectrum of in-depth features spanning science, health, arts and humanities, athletics, and the people who keep these disciplines at the national forefront. It reaches approximately 270,000 annually, with about 52,000 households receiving each issue in the winter, spring, and summer, and 115,000 in the fall.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

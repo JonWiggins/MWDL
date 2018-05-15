@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1539.jpg" alt="Robert Graves letters and photographs, 1943-1960 "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1539.jpg" alt="Robert Graves letters and photographs%comma% 1943-1960"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Robert Graves letters and photographs, 1943-1960 
+Robert Graves letters and photographs%comma% 1943-1960
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Special Collections Miscellaneous</h4>
@@ -40,9 +40,7 @@ Robert Graves letters and photographs, 1943-1960
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection features materials from the Weir Family Photographs, David John Diaries, and items on Nursing Education.</p>
-
+</p><br/>This collection features materials from the Weir Family Photographs, David John Diaries, and items on Nursing Education.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

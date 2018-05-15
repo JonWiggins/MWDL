@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1037.jpg" alt="USHS_PR_Page 22Provo River "width="238" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1037.jpg" alt="USHS_PR_Page 22Provo River"width="238" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-USHS_PR_Page 22Provo River 
+USHS_PR_Page 22Provo River
 </div>
 <!-- Collection Title-->
 <h4>Civilian Conservation Corps in Utah</h4>
@@ -40,9 +40,7 @@ USHS_PR_Page 22Provo River
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Civilian Conservation Corps (CCC), a New Deal program, operated from 1933 until 1942. The CCC provided jobs and training to young men (primarily between the ages of 18 and 25) and made improvements on public land. Each of the 116 CCC camps established in Utah employed about 200 men. The CCC built campgrounds, worked on erosion control, fought forest fires, planted trees, and did many more projects. Many of these projects still benefit Americans today.</p>
-
+</p><br/>The Civilian Conservation Corps (CCC), a New Deal program, operated from 1933 until 1942. The CCC provided jobs and training to young men (primarily between the ages of 18 and 25) and made improvements on public land. Each of the 116 CCC camps established in Utah employed about 200 men. The CCC built campgrounds, worked on erosion control, fought forest fires, planted trees, and did many more projects. Many of these projects still benefit Americans today.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

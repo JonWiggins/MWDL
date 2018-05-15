@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1175.jpg" alt="UPA A Century Later "width="256" height="344"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1175.jpg" alt="UPA A Century Later"width="256" height="344"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-UPA A Century Later 
+UPA A Century Later
 </div>
 <!-- Collection Title-->
 <h4>Utah Press Association: UPA - A Century Later</h4>
@@ -40,9 +40,7 @@ UPA A Century Later
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A history of the Utah newspaper industry, the Utah Press Association, and the Utah Newspaper Hall of Fame.</p>
-
+</p><br/>A history of the Utah newspaper industry, the Utah Press Association, and the Utah Newspaper Hall of Fame.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

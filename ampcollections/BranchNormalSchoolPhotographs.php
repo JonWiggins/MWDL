@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" First business graduates of the Branch Normal School"width="400" height ="323"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="First business graduates of the Branch Normal School"width="400" height ="323"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- First business graduates of the Branch Normal School
+First business graduates of the Branch Normal School
 <!-- Article Text -->
-<p></p>
-<p>Southern Utah University was founded in 1897 as the Southern Branch of the State Normal School, but was called simply the Branch Normal School (BNS). The photographs in this collection represent the early history of the institution, 1897 to 1913.</p>
-</p>
+<p></p><br/><p>Southern Utah University was founded in 1897 as the Southern Branch of the State Normal School, but was called simply the Branch Normal School (BNS). The photographs in this collection represent the early history of the institution, 1897 to 1913.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

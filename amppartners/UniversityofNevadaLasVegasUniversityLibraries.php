@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Since its first classes were held on campus in 1957, UNLV has transformed itself from a small branch college into a thriving urban research institution of more than 28,000 students and 3,100 faculty and staff. Along the way, the urban university has become an indispensable resource in one of the country's fastest-growing and most enterprising cities</p>
-
-
-
+<br/><p>Since its first classes were held on campus in 1957, UNLV has transformed itself from a small branch college into a thriving urban research institution of more than 28,000 students and 3,100 faculty and staff. Along the way, the urban university has become an indispensable resource in one of the country's fastest-growing and most enterprising cities</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

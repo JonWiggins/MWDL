@@ -24,14 +24,11 @@
 <h6><a href="http://www.provo.org/">Provo (UT) City Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>Currently estimated at 122,451 people in 2009, Provo is the third largest city in Utah and is located about 43 miles (69 km) south of Salt Lake City along the Wasatch Front. Provo is the county seat of Utah County and lies between the cities of Orem to the north and Springville to the south. Provo is also the principal city in the Provo-Orem metropolitan area, with an estimated population of 540,820 residents. It is the second largest metro area in the state behind Salt Lake City.</p>
-
-
-</p>
+<p><br/><p>Currently estimated at 122,451 people in 2009, Provo is the third largest city in Utah and is located about 43 miles (69 km) south of Salt Lake City along the Wasatch Front. Provo is the county seat of Utah County and lies between the cities of Orem to the north and Springville to the south. Provo is also the principal city in the Provo-Orem metropolitan area, with an estimated population of 540,820 residents. It is the second largest metro area in the state behind Salt Lake City.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Provo+(UT)+City">Browse all records from Provo (UT) City</a>
 <!-- List all Active Collections -->
+<li><a href = "../collections/ProvoUTMunicipalCouncilandCommissionMinutes.php">Provo (UT) Municipal Council and Commission Minutes</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

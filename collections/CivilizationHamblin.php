@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1062.jpg" alt="Adoration of the Magi "width="337" height="301"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1062.jpg" alt="Adoration of the Magi"width="337" height="301"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Adoration of the Magi 
+Adoration of the Magi
 </div>
 <!-- Collection Title-->
 <h4>Civilization Hamblin</h4>
@@ -40,9 +40,7 @@ Adoration of the Magi
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein.</p>
-
+</p><br/>The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

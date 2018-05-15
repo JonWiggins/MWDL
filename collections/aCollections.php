@@ -22,11 +22,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AfricanAmericanExperience.php">African American Experience</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
-<!-- Collection #2326 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "AgriculturalCollegeofUtahCyanotypeCollection.php">Agricultural College of Utah Cyanotype Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
-</tr>
 <!-- Collection #2086 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AlMortonCollection1930s1950s.php">Al Morton Collection 1930s-1950s</a></td>
@@ -36,6 +31,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AlbertTissandierCollection.php">Albert Tissandier Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahUtahMuseumofFineArts.php">University of Utah - Utah Museum of Fine Arts</a></td>
+</tr>
+<!-- Collection #2199 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "AlfEngenPapers.php">Alf Engen Papers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #2031 -->
 <tr>
@@ -122,6 +122,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BearRiverWatershedHistoricalCollection.php">Bear River Watershed Historical Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
+<!-- Collection #1785 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BeatPoetryBroadsidesandLittleMagazines.php">Beat Poetry, Broadsides, and Little Magazines</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
+</tr>
 <!-- Collection #1103 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BeaverUTMurdockAcademyCollection.php">Beaver (UT) Murdock Academy Collection</a></td>
@@ -146,6 +151,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BlackfootIDNewspapers.php">Blackfoot (ID) Newspapers</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
+<!-- Collection #2180 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BoiseIDDevelopmentCollection.php">Boise (ID) Development Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
 </tr>
 <!-- Collection #1111 -->
 <tr>
@@ -180,6 +190,11 @@
 <!-- Collection #1923 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityFamilyHistories.php">Brigham Young University Family Histories</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
+<!-- Collection #1564 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityFindingAids.php">Brigham Young University Finding Aids</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
 </tr>
 <!-- Collection #1071 -->
@@ -232,6 +247,21 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoCampus.php">Brigham Young University-Idaho Campus</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
 </tr>
+<!-- Collection #1096 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoFlash.php">Brigham Young University-Idaho Flash</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
+<!-- Collection #1056 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoOralHistories.php">Brigham Young University-Idaho Oral Histories</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
+<!-- Collection #1057 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoStudentRays.php">Brigham Young University-Idaho Student Rays</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
 <!-- Collection #1558 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum, Price (UT)</a></td>
@@ -262,9 +292,9 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CacheDaughtersofUtahPioneersMuseumCollection.php">Cache Daughters of Utah Pioneers Museum Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
-<!-- Collection #2325 -->
+<!-- Collection #1786 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "CacheValleyChurches.php">Cache Valley Churches</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CacheValleyDiaries.php">Cache Valley Diaries</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
 <!-- Collection #2421 -->
@@ -275,11 +305,6 @@
 <!-- Collection #2421 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CacheValleyDrugCourtOralHistoryProject.php">Cache Valley Drug Court Oral History Project</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
-</tr>
-<!-- Collection #2324 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "CacheValleyRefugeeOralHistoryProject.php">Cache Valley Refugee Oral History Project</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
 <!-- Collection #2446 -->
@@ -321,6 +346,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CecilDAndrus.php">Cecil D. Andrus</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
+</tr>
+<!-- Collection #2286 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CedarCityUtahCityandCemeteryMap.php">Cedar City (Utah) City and Cemetery Map</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
 <!-- Collection #2117 -->
 <tr>
@@ -406,6 +436,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ClowardCollectionofWesternAmericanArt.php">Cloward Collection of Western American Art</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></td>
+</tr>
+<!-- Collection #1787 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CollectingMemoriesOralHistoriesofAmericanFolklorists.php">Collecting Memories: Oral Histories of American Folk...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
 <!-- Collection #1620 -->
 <tr>
@@ -512,6 +547,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofHeritageandArtsClassifiedPhotographCollection.php">Department of Heritage and Arts Classified Photograp...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
+<!-- Collection #1255 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids.php">Department of Heritage and Arts Encoded Archival Des...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
 <!-- Collection #1611 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DesignWorkshopLandscapeArchitectureArchive.php">Design Workshop Landscape Architecture Archive</a></td>
@@ -611,6 +651,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "EncyclopediaofMormonism.php">Encyclopedia of Mormonism</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
+<!-- Collection #1643 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "EsplinFamilyCollection.php">Esplin Family Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #1170 -->
 <tr>
@@ -842,6 +887,16 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricPostcardsofUtah.php">Historic Postcards of Utah</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
+<!-- Collection #1069 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricRicksCollegeVikingScroll1.php">Historic Ricks College Viking Scroll 1</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
+<!-- Collection #1070 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricRicksCollegeVikingScroll2.php">Historic Ricks College Viking Scroll 2</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
+</tr>
 <!-- Collection #2148 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricalAmericanForkUT.php">Historical American Fork (UT)</a></td>
@@ -1037,6 +1092,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "KenGrayInsectImageCollection.php">Ken Gray Insect Image Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/OregonStateUniversityLibraries.php">Oregon State University Libraries</a></td>
 </tr>
+<!-- Collection #1318 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "LDSBusinessCollegeYearbooks.php">LDS Business College Yearbooks</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/LDSBusinessCollege.php">LDS Business College</a></td>
+</tr>
 <!-- Collection #1827 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "LaBaskonia.php">La Baskonia</a></td>
@@ -1086,6 +1146,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "LenJordanCollection.php">Len Jordan Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
+</tr>
+<!-- Collection #1635 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "LennoxandCatherineTierneyPhotographCollection.php">Lennox and Catherine Tierney Photograph Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #2078 -->
 <tr>
@@ -1140,7 +1205,7 @@
 <!-- Collection #2271 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS002VictorArlandCollection.php">MS 002 Victor Arland Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2381 -->
 <tr>
@@ -1280,17 +1345,17 @@
 <!-- Collection #2272 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS007GeorgeArmstrongCusterCollection.php">MS 007 George Armstrong Custer Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2273 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS010CountOttoFrancVonLichtensteinCollection.php">MS 010 Count Otto Franc Von Lichtenstein Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2274 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS017CharlesRappCollection.php">MS 017 Charles Rapp Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2332 -->
 <tr>
@@ -1305,27 +1370,27 @@
 <!-- Collection #2275 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS034SchuylerHartleyandGraham.php">MS 034 Schuyler, Hartley, and Graham</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2276 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS037MrsGeorgeBirdGrinnellIndianPhotographs.php">MS 037 Mrs. George Bird Grinnell Indian Photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2277 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS047DavidRPhillips.php">MS 047 David R. Phillips</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2279 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS056FrankARinehart.php">MS 056 Frank A. Rinehart</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2281 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS165ThomasMarquisNativeAmericanNitrateNegatives.php">MS 165 Thomas Marquis Native American Nitrate Negatives</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2336 -->
 <tr>
@@ -1350,7 +1415,7 @@
 <!-- Collection #2282 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS247FredRMeyerPhotographs.php">MS 247 Fred R. Meyer Photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2334 -->
 <tr>
@@ -1365,7 +1430,7 @@
 <!-- Collection #2283 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS294WilliamBell.php">MS 294 William Bell</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2333 -->
 <tr>
@@ -1380,12 +1445,12 @@
 <!-- Collection #2284 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS331WilliamClark.php">MS 331 William Clark</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2337 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MS5CodyLocalHistoryCollection.php">MS 5 - Cody Local History Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWest%comma%McCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></td>
 </tr>
 <!-- Collection #2028 -->
 <tr>
@@ -1472,6 +1537,16 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MormonPacificHistoricalSociety.php">Mormon Pacific Historical Society</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></td>
 </tr>
+<!-- Collection #1085 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "MormonPublications19thand20thCenturies.php">Mormon Publications: 19th and 20th Centuries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
+<!-- Collection #1256 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids.php">Mountain West Digital Library - Collection: Brigham ...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
 <!-- Collection #1174 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MovingImageArchive.php">Moving Image Archive</a></td>
@@ -1491,6 +1566,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MustangsMXMissilesandRadioactiveWasteSelectedCongressionalHearings.php">Mustangs, MX Missiles and Radioactive Waste: Selecte...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+</tr>
+<!-- Collection #2179 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "NellShipmanCollection.php">Nell Shipman Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
 </tr>
 <!-- Collection #2201 -->
 <tr>
@@ -1685,7 +1765,7 @@
 <!-- Collection #1158 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ParkCityUTHistoricalSocietyandMuseumCollection.php">Park City (UT) Historical Society and Museum Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/ParkCityUTHistoricalSociety&amp;Museum.php">Park City (UT) Historical Society &amp; Museum</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/ParkCityUTHistoricalSociety&amp.php">Park City (UT) Historical Society &amp</a></td>
 </tr>
 <!-- Collection #2439 -->
 <tr>
@@ -1737,6 +1817,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "PioneersInYourAtticfromUtahValleyUniversity.php">Pioneers In Your Attic from Utah Valley University</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
 </tr>
+<!-- Collection #1238 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "PolynesianCulturalCenterPhotoCollection19611979.php">Polynesian Cultural Center Photo Collection, 1961-1979</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></td>
+</tr>
 <!-- Collection #1167 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "PracticingMedicineAHistoricalGlimpseatUtahandBeyond.php">Practicing Medicine: A Historical Glimpse at Utah an...</a></td>
@@ -1751,6 +1836,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ProvoUTHistoricalImages.php">Provo (UT) Historical Images</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
+</tr>
+<!-- Collection #1297 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "ProvoUTMunicipalCouncilandCommissionMinutes.php">Provo (UT) Municipal Council and Commission Minutes</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/ProvoUTCity.php">Provo (UT) City</a></td>
 </tr>
 <!-- Collection #1114 -->
 <tr>
@@ -1791,6 +1881,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "RichardWrightYoungPapers.php">Richard Wright Young Papers</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #2178 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RobertWLimbertCollection.php">Robert W. Limbert Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
 </tr>
 <!-- Collection #2330 -->
 <tr>
@@ -1957,15 +2052,45 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryAdditionalStateAgencies.php">Stacks: Idaho's Digital Repository - Additional Stat...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
 </tr>
+<!-- Collection #2144 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoBureauofOccupationalLicenses.php">Stacks: Idaho's Digital Repository - Idaho Bureau of...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
 <!-- Collection #2138 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoDepartmentofAdministration.php">Stacks: Idaho's Digital Repository - Idaho Departmen...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
+<!-- Collection #2139 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoDepartmentofEducation.php">Stacks: Idaho's Digital Repository - Idaho Departmen...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
 </tr>
 <!-- Collection #2141 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoDepartmentofFishandGame.php">Stacks: Idaho's Digital Repository - Idaho Departmen...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
+<!-- Collection #2143 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoDepartmentofHealthandWelfare.php">Stacks: Idaho's Digital Repository - Idaho Departmen...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
+<!-- Collection #2140 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryIdahoStateBoardofEducation.php">Stacks: Idaho's Digital Repository - Idaho State Boa...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
+<!-- Collection #2142 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryOfficeoftheIdahoGovernor.php">Stacks: Idaho's Digital Repository - Office of the I...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
+</tr>
+<!-- Collection #1091 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "SudanStudies.php">Sudan Studies</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></td>
 </tr>
 <!-- Collection #2428 -->
 <tr>
@@ -2077,6 +2202,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "TremontonHistoricalPhotographs.php">Tremonton Historical Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/TremontonCityUTLibrary.php">Tremonton City (UT) Library</a></td>
 </tr>
+<!-- Collection #1224 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UNewsandViews.php">U-News and Views</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
 <!-- Collection #2415 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UOArchivesPhotographs.php">UO Archives Photographs</a></td>
@@ -2132,6 +2262,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahArchivesPhotographCollection.php">University of Utah Archives Photograph Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
+<!-- Collection #1325 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahCollegeofArchitecturePlanningCollection.php">University of Utah College of Architecture + Plannin...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahCollegeofArchitectureandPlanning.php">University of Utah - College of Architecture and Planning</a></td>
+</tr>
 <!-- Collection #1527 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahCollegeofLawPublications.php">University of Utah College of Law Publications</a></td>
@@ -2150,6 +2285,11 @@
 <!-- Collection #1231 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahElectronicUniversityArchive.php">University of Utah Electronic University Archive</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #1253 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahEncodedArchivalDescriptionEADFindingAids.php">University of Utah Encoded Archival Description (EAD...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #1188 -->
@@ -2237,10 +2377,25 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahAmericanIndianDigitalArchive.php">Utah American Indian Digital Archive</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahAmericanWestCenter.php">University of Utah - American West Center</a></td>
 </tr>
+<!-- Collection #1299 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahAmericanIndianDigitalArchiveOralHistoriesTranscripts.php">Utah American Indian Digital Archive: Oral Histories...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahAmericanWestCenter.php">University of Utah - American West Center</a></td>
+</tr>
+<!-- Collection #1644 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahArchitectsProject.php">Utah Architects Project</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
 <!-- Collection #1209 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahBoardofPardonsPrisonerPardonApplicationCaseFiles.php">Utah Board of Pardons: Prisoner Pardon Application C...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
+<!-- Collection #1223 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahBoardofRegents.php">Utah Board of Regents</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
 <!-- Collection #1849 -->
 <tr>
@@ -2287,6 +2442,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionUtahInternationalPhotographs.php">Utah Construction-Utah International Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
+<!-- Collection #1864 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory.php">Utah Construction-Utah International Symposium Speec...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
 <!-- Collection #1881 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahConventiontoRatifythe21stAmendment1933AdministrativeRecords.php">Utah Convention to Ratify the 21st Amendment (1933) ...</a></td>
@@ -2322,6 +2482,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahDivisionofStateArchivesOathsofOffice.php">Utah Division of State Archives Oaths of Office</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
 </tr>
+<!-- Collection #1267 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahDivisionofStateArchivesSeriesInventories.php">Utah Division of State Archives Series Inventories</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
 <!-- Collection #2429 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahFederalResettlementProjectOralHistories.php">Utah Federal Resettlement Project Oral Histories</a></td>
@@ -2335,6 +2500,11 @@
 <!-- Collection #1954 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahFireServiceHistoryDigitalArchive.php">Utah Fire Service History Digital Archive</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
+</tr>
+<!-- Collection #1608 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahFireandRescueAcademy.php">Utah Fire and Rescue Academy</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
 </tr>
 <!-- Collection #1561 -->
@@ -2391,6 +2561,26 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahGovernorsOlympicCollection.php">Utah Governor's Olympic Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #1146 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahGovernorsExecutiveOrdersandProclamations.php">Utah Governors Executive Orders and Proclamations</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateArchives.php">Utah State Archives</a></td>
+</tr>
+<!-- Collection #1189 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahHealthSciencesLibraryConsortium.php">Utah Health Sciences Library Consortium</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></td>
+</tr>
+<!-- Collection #1525 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahHistoricandPrehistoricPublications.php">Utah Historic and Prehistoric Publications</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #1166 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahHistoricalStatutes.php">Utah Historical Statutes</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJamesEFaustLawLibrary.php">University of Utah - James E. Faust Law Library</a></td>
 </tr>
 <!-- Collection #2080 -->
 <tr>
@@ -2517,6 +2707,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahStateUniversitySpecialCollectionsDigitalExhibits.php">Utah State University Special Collections Digital Ex...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
+<!-- Collection #1647 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahStateUniversitySpecialCollectionsRegistersEADFindingAids.php">Utah State University Special Collections Registers ...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
+</tr>
 <!-- Collection #2430 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahStateUniversityStatesmanPhotographCollection.php">Utah State University Statesman Photograph Collection</a></td>
@@ -2587,6 +2782,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahValleyUniversityDepartmentalPublications.php">Utah Valley University Departmental Publications</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
 </tr>
+<!-- Collection #1623 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahValleyUniversityEncodedArchivalDescriptionEADFindingAids.php">Utah Valley University Encoded Archival Description ...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
+</tr>
 <!-- Collection #1274 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahValleyUniversityFacultyCollection.php">Utah Valley University Faculty Collection</a></td>
@@ -2600,6 +2800,11 @@
 <!-- Collection #1956 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahValleyUniversityStudentNewspapers.php">Utah Valley University Student Newspapers</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
+</tr>
+<!-- Collection #1276 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahValleyUniversityStudentThesesCollection.php">Utah Valley University Student Theses Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
 </tr>
 <!-- Collection #1139 -->
@@ -2817,6 +3022,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WesternWritersSeriesDigitalEditions.php">Western Writers Series Digital Editions</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
 </tr>
+<!-- Collection #1648 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WestminsterCollegeFindingAidsEAD.php">Westminster College Finding Aids (EAD)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></td>
+</tr>
 <!-- Collection #1313 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WestminsterCollegeInstitutionalRepository.php">Westminster College Institutional Repository</a></td>
@@ -2887,9 +3097,19 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WorksProgressAdministrationBiographySketchesCollection.php">Works Progress Administration Biography Sketches Col...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
+<!-- Collection #1865 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WorldWarIEdmondTedLittlefield.php">World War I Edmond (Ted) Littlefield</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
 <!-- Collection #1246 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WorldWarIPhotographs.php">World War I Photographs</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
+</tr>
+<!-- Collection #1857 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WorldWarIServiceCards.php">World War I Service Cards</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></td>
 </tr>
 <!-- Collection #1247 -->

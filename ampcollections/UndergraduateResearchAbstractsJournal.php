@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahUndergraduateResearchOpportunitiesProgram.php">University of Utah - Undergraduate Research Opportunities Program</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007 "width="317" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="University of Utah Undergraduate Research Abstracts%comma% Volume 7%comma% Spring 2007"width="317" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007 
+University of Utah Undergraduate Research Abstracts%comma% Volume 7%comma% Spring 2007
 <!-- Article Text -->
-</p>
-This collection contains back issues of the Undergraduate Research Abstracts Journal. It contains student accounts of research performed while at the University of Utah. First published in 2001, a volume has been released annually since. The journal has grown significantly in recent years.</p>
-
+</p><br/>This collection contains back issues of the Undergraduate Research Abstracts Journal. It contains student accounts of research performed while at the University of Utah. First published in 2001, a volume has been released annually since. The journal has grown significantly in recent years.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

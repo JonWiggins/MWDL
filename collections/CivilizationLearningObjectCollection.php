@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1063.jpg" alt="Alexander the Great Coin "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1063.jpg" alt="Alexander the Great Coin"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Alexander the Great Coin 
+Alexander the Great Coin
 </div>
 <!-- Collection Title-->
 <h4>Civilization Learning Object Collection</h4>
@@ -40,9 +40,7 @@ Alexander the Great Coin
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein. The collection was a joint project starting in 2005 between the Harold B. Lee Library, the Department of Humanities, the Department of History, and the Center for Instructional Design. </p>
-
+</p><br/>The Civilization collection includes 564 images of photographs, sculptures, audiovisual, and paintings spanning from 200 BC to the Renaissance era. Some of the most notable objects include, Albrect Duerer's Apollo Belvedere, Eugene Delacroix's Dante and Virgil, and Pablo Picasso's portrait of Gertrude Stein. The collection was a joint project starting in 2005 between the Harold B. Lee Library, the Department of Humanities, the Department of History, and the Center for Instructional Design. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

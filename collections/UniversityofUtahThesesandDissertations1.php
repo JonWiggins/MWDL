@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1249.jpg" alt="University of Utah Theses and Dissertations 2"width="319" height="469"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1249.jpg" alt="1971 Acorn"width="319" height="469"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-University of Utah Theses and Dissertations 2
+1971 Acorn
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Theses and Dissertations 1</h4>
@@ -40,11 +40,7 @@ University of Utah Theses and Dissertations 2
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This collection is #1 of 3 collections. For the rest of the items, see <a href=""UniversityofUtahThesesandDissertations2.php"">University of Utah Theses and Dissertations 2</a> or <a href=""UniversityofUtahThesesandDissertations3.php"">University of Utah Theses and Dissertations 3</a></p>
-The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p>
- <a href=""http://collections.lib.utah.edu/cdm/ref/collection/etd1/id/1427"" target=""_blank"">Effect of polymeric underplates on fracture fixation<br> </a>University of Utah</p>
-</p>"
+"</p><br/>This collection is #1 of 3 collections. For the rest of the items, see <a href=""UniversityofUtahThesesandDissertations2.php"">University of Utah Theses and Dissertations 2</a> or <a href=""UniversityofUtahThesesandDissertations3.php"">University of Utah Theses and Dissertations 3</a></p><br/>The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p><br/> <a href=""http://collections.lib.utah.edu/cdm/ref/collection/etd1/id/1427"" target=""_blank"">Effect of polymeric underplates on fracture fixation<br> </a>University of Utah</p><br/></p>"
 <hr>
 <h6>
 <!-- Browse Link -->

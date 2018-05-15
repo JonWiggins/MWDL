@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Larson Studio Collection contains portraits and landscape photographs from Thomas Larson and his son O. Blaine Larson, who operated the Larson Studio in Provo, Utah County, Utah.</p>
-
+</p><br/>The Larson Studio Collection contains portraits and landscape photographs from Thomas Larson and his son O. Blaine Larson, who operated the Larson Studio in Provo, Utah County, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

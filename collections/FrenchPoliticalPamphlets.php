@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1317.jpg" alt="Le May De Paris Av Roy "width="240" height="416"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1317.jpg" alt=""width="240" height="416"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Le May De Paris Av Roy 
+
 </div>
 <!-- Collection Title-->
 <h4>French Political Pamphlets</h4>
@@ -40,9 +40,7 @@ Le May De Paris Av Roy
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The collection of French Political Pamphlets in the L. Tom Perry Special Collections (LTPSC) at Brigham Young University features more than 2,100 pamphlets published between 1547 and 1626.</p>
-
+</p><br/>The collection of French Political Pamphlets in the L. Tom Perry Special Collections (LTPSC) at Brigham Young University features more than 2,100 pamphlets published between 1547 and 1626.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

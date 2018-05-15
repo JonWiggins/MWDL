@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1879.jpg" alt="Department of Justice Letter 1890 "width="364" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1879.jpg" alt="Department of Justice Letter 1890"width="364" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Department of Justice Letter 1890 
+Department of Justice Letter 1890
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor Arthur L. Thomas (1889-1893) Correspondence</h4>
@@ -40,9 +40,7 @@ Department of Justice Letter 1890
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>This series is a miscellany of correspondence to Territorial Governor Arthur Lloyd Thomas and his personal staff. The correspondence was received from federal officials, governors, and the general public as well as from friends and family regarding activities and duties of the governor. Also included are letters from 1915 and 1918, more than two decades after his tenure as territorial governor.</p>
-</p>
+<p></p><br/><p>This series is a miscellany of correspondence to Territorial Governor Arthur Lloyd Thomas and his personal staff. The correspondence was received from federal officials, governors, and the general public as well as from friends and family regarding activities and duties of the governor. Also included are letters from 1915 and 1918, more than two decades after his tenure as territorial governor.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

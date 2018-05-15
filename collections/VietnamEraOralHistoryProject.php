@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1953.jpg" alt="Ray Hill, U.S. Air Force"width="159" height="101"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1953.jpg" alt="Ray Hill%comma% U.S. Air Force"width="159" height="101"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Ray Hill, U.S. Air Force
+Ray Hill%comma% U.S. Air Force
 </div>
 <!-- Collection Title-->
 <h4>Vietnam Era Oral History Project</h4>
@@ -40,11 +40,7 @@ Ray Hill, U.S. Air Force
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Vietnam Era Oral History Project collection contains the transcripts, audio, and soon complete video of interviews with Vietnam War-era veterans, nurses, and family members. The interviews are conducted by Dr. William Cobb of Utah Valley University's Department of History. This collection will continue to grow, as more interviews are currently being conducted and transcribed.</p>
-</p>
-&nbsp;</p>
-
+</p><br/>The Vietnam Era Oral History Project collection contains the transcripts, audio, and soon complete video of interviews with Vietnam War-era veterans, nurses, and family members. The interviews are conducted by Dr. William Cobb of Utah Valley University's Department of History. This collection will continue to grow, as more interviews are currently being conducted and transcribed.</p><br/></p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

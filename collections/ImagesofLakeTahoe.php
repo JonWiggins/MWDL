@@ -37,12 +37,10 @@ Auto barge across Lake Tahoe
 <!-- Collection Title-->
 <h4>Images of Lake Tahoe</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Lake Tahoe has been called the jewel of the Sierra. The 1,000+ images in this collection represent only a small portion of the photographic images of Lake Tahoe held by the Special Collections Department of the UNR Library.</p>
-</p>
+<p></p><br/><p>Lake Tahoe has been called the jewel of the Sierra. The 1,000+ images in this collection represent only a small portion of the photographic images of Lake Tahoe held by the Special Collections Department of the UNR Library.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

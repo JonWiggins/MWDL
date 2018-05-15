@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1219.jpg" alt="Ball Court "width="328" height="321"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1219.jpg" alt="Ball Court"width="328" height="321"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Ball Court 
+Ball Court
 </div>
 <!-- Collection Title-->
 <h4>Paul R. Cheesman Collection</h4>
@@ -40,9 +40,7 @@ Ball Court
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Dr. Paul Robert Cheesman (1921-1991) is well known for his study of ancient American archaeology and ancient scripture. More than 500 photographic images in this collection have been digitized for the online collection showing a variety of buildings, landscapes, and artifacts from Mesoamerican archaeological sites in Mexico, Central America, and Peru.</p>
-
+</p><br/>Dr. Paul Robert Cheesman (1921-1991) is well known for his study of ancient American archaeology and ancient scripture. More than 500 photographic images in this collection have been digitized for the online collection showing a variety of buildings, landscapes, and artifacts from Mesoamerican archaeological sites in Mexico, Central America, and Peru.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

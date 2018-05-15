@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1078.jpg" alt="Outreach no. 099 "width="263" height="340"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1078.jpg" alt="Outreach no. 099"width="263" height="340"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Outreach no. 099 
+Outreach no. 099
 </div>
 <!-- Collection Title-->
 <h4>Marcus Bach Outreach</h4>
@@ -40,9 +40,7 @@ Outreach no. 099
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Browse editions of Marcus Bach's inspirational newsletter.</p>
-
+</p><br/>Browse editions of Marcus Bach's inspirational newsletter.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

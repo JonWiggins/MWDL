@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UniversityofNevadaRenoBookArtsCollection.php">
 <!-- Collection #1826 -->
 <!-- Collection Title -->
-<title>University of Nevada, Reno Book Arts Collection</title>
+<title>University of Nevada%comma% Reno Book Arts Collection</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UniversityofNevadaRenoBookArtsCollection.php&t=University of Nevada, Reno Book Arts Collection"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UniversityofNevadaRenoBookArtsCollection.php&t=University of Nevada%comma% Reno Book Arts Collection"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UniversityofNevadaRenoBookArtsCollection.php&via=@MountainWestDL&text=University of Nevada, Reno Book Arts Collection"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UniversityofNevadaRenoBookArtsCollection.php&via=@MountainWestDL&text=University of Nevada%comma% Reno Book Arts Collection"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -30,23 +30,21 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1826.jpg" alt="Beasts of India "width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1826.jpg" alt="Beasts of India"width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Beasts of India 
+Beasts of India
 </div>
 <!-- Collection Title-->
-<h4>University of Nevada, Reno Book Arts Collection</h4>
+<h4>University of Nevada%comma% Reno Book Arts Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The 150+ records in this collection depict but a fraction of the artists' works in UNR's book arts collection that is housed in the Special Collections Department of the UNR Libraries. </p>
-
+</p><br/>The 150+ records in this collection depict but a fraction of the artists' works in UNR's book arts collection that is housed in the Special Collections Department of the UNR Libraries. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1826&indx=1&bulkSize=50">Browse all record in University of Nevada, Reno Book Arts Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1826&indx=1&bulkSize=50">Browse all record in University of Nevada%comma% Reno Book Arts Collection</a>
 </h6>
 <p></p>
 </div>

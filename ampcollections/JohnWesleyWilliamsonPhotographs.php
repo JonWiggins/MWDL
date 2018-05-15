@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Fort Laramie
 <!-- Article Text -->
-<p></p>
-<p>These images are of landmarks, monuments, landscapes, and buildings for a book titled Seven Trails West: A Pictorial History which remained unpublished at his death.</p>
-</p>
+<p></p><br/><p>These images are of landmarks, monuments, landscapes, and buildings for a book titled Seven Trails West: A Pictorial History which remained unpublished at his death.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

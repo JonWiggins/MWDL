@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The collection is composed of the papers and architectural drawings of Richard Wright Young.</p>
-
+</p><br/>The collection is composed of the papers and architectural drawings of Richard Wright Young.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

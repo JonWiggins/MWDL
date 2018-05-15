@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 056 Frank A. Rinehart</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Chief Revenger Crow</em>"width="250" height ="250"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Chief Revenger Crow</em>
 <!-- Article Text -->
-</p>
-The F.A. Rinehart Indian Photographic collection consists of 33 standard size images, and 118 oversize images of Native American Indians in a photographic studio setting, with approximately 10 images taken outside of a studio setting.</p>
-
+</p><br/>The F.A. Rinehart Indian Photographic collection consists of 33 standard size images, and 118 oversize images of Native American Indians in a photographic studio setting, with approximately 10 images taken outside of a studio setting.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

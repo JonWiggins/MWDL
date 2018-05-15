@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Buildings, construction of pavilion"width="378" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Buildings%comma% construction of pavilion"width="378" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Buildings, construction of pavilion
+Buildings%comma% construction of pavilion
 <!-- Article Text -->
-<p></p>
-<p>The Southwest Utah Livestock Association Collection contains photographs of prize winners and activities at the livestock show held annually in Cedar City, Utah.</p>
-</p>
+<p></p><br/><p>The Southwest Utah Livestock Association Collection contains photographs of prize winners and activities at the livestock show held annually in Cedar City, Utah.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

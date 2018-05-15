@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1315.jpg" alt="Aerial view of Autobahn "width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1315.jpg" alt=""width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aerial view of Autobahn 
+
 </div>
 <!-- Collection Title-->
 <h4>World War II Photographs by J. Malan Heslop</h4>
@@ -40,9 +40,7 @@ Aerial view of Autobahn
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-More than 1,350 images scanned from negatives, original prints, and slides. Heslop served in the U.S. Army and documented the final months of World War II in Austria, Belgium, France, Luxembourg, and Germany.</p>
-
+</p><br/>More than 1,350 images scanned from negatives, original prints, and slides. Heslop served in the U.S. Army and documented the final months of World War II in Austria, Belgium, France, Luxembourg, and Germany.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

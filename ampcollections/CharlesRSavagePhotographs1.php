@@ -17,11 +17,7 @@
 <!-- Image Description -->
 Charles R. Savage Photographs 2
 <!-- Article Text -->
-"</p>
-This collection is #1 of 2 collections. For the rest of the items, see <a href=""CharlesRSavagePhotographs2.php"">Charles R. Savage Photographs 2</a></p>
-Over 1,000 images from one of the foremost 19th century landscape photographers of the western United States. The collection includes portraits, many of prominent Mormon leaders; views of Utah and the west; mining operations; and some Native American portraits.</p>
- <a href=""http://contentdm.lib.byu.edu/cdm/singleitem/collection/Savage/id/1323"" target=""_blank"">Church Buttes<br> </a>Brigham Young University - Harold B. Lee Library</p>
-</p>"
+"</p><br/>This collection is #1 of 2 collections. For the rest of the items, see <a href=""CharlesRSavagePhotographs2.php"">Charles R. Savage Photographs 2</a></p><br/>Over 1,000 images from one of the foremost 19th century landscape photographers of the western United States. The collection includes portraits, many of prominent Mormon leaders; views of Utah and the west; mining operations; and some Native American portraits.</p><br/> <a href=""http://contentdm.lib.byu.edu/cdm/singleitem/collection/Savage/id/1323"" target=""_blank"">Church Buttes<br> </a>Brigham Young University - Harold B. Lee Library</p><br/></p>"
 <hr>
 <!-- Browse Collection -->
 <h6>

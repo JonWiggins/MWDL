@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="boundary map for UDOT districts "width="329" height ="413"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="boundary map for UDOT districts"width="329" height ="413"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-boundary map for UDOT districts 
+boundary map for UDOT districts
 <!-- Article Text -->
-</p>
-The Community Relations Office of the Department of Transportation created an index to their official photographs. The office assigned a job number to each set of photographs taken or adopted by the office as official photographs. The job number provides access to all photographic material in the official photographs collection. Job numbers include a three part number series. For each job number the index minimally identifies the subject of the photos and the date or dates on which they were taken. </p>
-
+</p><br/>The Community Relations Office of the Department of Transportation created an index to their official photographs. The office assigned a job number to each set of photographs taken or adopted by the office as official photographs. The job number provides access to all photographic material in the official photographs collection. Job numbers include a three part number series. For each job number the index minimally identifies the subject of the photos and the date or dates on which they were taken. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

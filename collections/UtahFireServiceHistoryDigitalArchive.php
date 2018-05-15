@@ -40,11 +40,7 @@ Enterprise Volunteer Fire Department's American LaFrance
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Utah Fire Service History Digital Archive includes images of community or district fire stations and fire trucks from around Utah, as well as the written history of the Salt Lake County Fire Department, covering 1921-2004.</p>
-&nbsp;</p>
-&nbsp;</p>
-
+</p><br/>The Utah Fire Service History Digital Archive includes images of community or district fire stations and fire trucks from around Utah, as well as the written history of the Salt Lake County Fire Department, covering 1921-2004.</p><br/>&nbsp,</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

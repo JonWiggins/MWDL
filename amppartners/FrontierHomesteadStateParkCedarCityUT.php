@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Frontier Homestead State Park Museum tells the story of development in Iron County when in the 1850s, Brigham Young sent Mormon missionaries to mine and process ore. Museum displays include horse-drawn vehicles and farm equipment, pioneer artifacts, historic cabins, and a replicated pioneer household.</p>
-
-
-
+<br/><p>The Frontier Homestead State Park Museum tells the story of development in Iron County when in the 1850s, Brigham Young sent Mormon missionaries to mine and process ore. Museum displays include horse-drawn vehicles and farm equipment, pioneer artifacts, historic cabins, and a replicated pioneer household.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

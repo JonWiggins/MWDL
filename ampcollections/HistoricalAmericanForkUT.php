@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Main Street American Fork%comma% Utah%comma% Looking toward Mount Timpanogos%comma% 1957"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957
+Main Street American Fork%comma% Utah%comma% Looking toward Mount Timpanogos%comma% 1957
 <!-- Article Text -->
-</p>
-This is a collection of images of people and places depicting the growth and change of the city of American Fork from the late 1800’s to the early 1990’s. </p>
-
+</p><br/>This is a collection of images of people and places depicting the growth and change of the city of American Fork from the late 1800’s to the early 1990’s. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

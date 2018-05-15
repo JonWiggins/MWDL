@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2200.jpg" alt="<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2200.jpg" alt="<em>Grant Ivins diary%comma% February 5%comma% 1911 to July 8th 1911%comma% No. 2</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>
+<em>Grant Ivins diary%comma% February 5%comma% 1911 to July 8th 1911%comma% No. 2</em>
 </div>
 <!-- Collection Title-->
 <h4>H. Grant Ivins Papers</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as ""mere men who make mistakes and who should be willing to admit these mistakes.""</p>
-"
+"</p><br/>The H. Grant Ivins papers (1897-1973) contain diaries, correspondence, memoirs, unpublished manuscripts, and articles on subjects relating to religion and the Church of Jesus Christ of Latter-day Saints (LDS Church). This collection documents one man's transition from a devout believer in the divine authority of the members of the LDS Church hierarchy to an outspoken critic of those he later described to Heber Holt as ""mere men who make mistakes and who should be willing to admit these mistakes.""</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

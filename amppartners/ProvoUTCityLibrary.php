@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Provo City Library provides our community with an inviting center for information, instruction, learning, leisure, and cultural opportunities. <em>–Provo City Library Mission Statement</em>
- <!--End straight text --></p>
-
-
-
+<br/><p>The Provo City Library provides our community with an inviting center for information, instruction, learning, leisure, and cultural opportunities. <em>–Provo City Library Mission Statement</em><br/> <!--End straight text --></p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

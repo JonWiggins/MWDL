@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/GreatBasinMuseum.php">Great Basin Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Burtner Dam "width="380" height ="248"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Burtner Dam"width="380" height ="248"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Burtner Dam 
+Burtner Dam
 <!-- Article Text -->
-</p>
-The Great Basin Museum collection contains an assortment of historical photographs that depict historical events in infrastructure development in the Great Basin Area.</p>
-
+</p><br/>The Great Basin Museum collection contains an assortment of historical photographs that depict historical events in infrastructure development in the Great Basin Area.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

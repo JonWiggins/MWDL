@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1931.jpg" alt="The Blackfoot Register, Volume 1, Number 1, July 10, 1880"width="234" height="307"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1931.jpg" alt="The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880"width="234" height="307"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Blackfoot Register, Volume 1, Number 1, July 10, 1880
+The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880
 </div>
 <!-- Collection Title-->
 <h4>Blackfoot (ID) Newspapers</h4>
@@ -40,10 +40,7 @@ The Blackfoot Register, Volume 1, Number 1, July 10, 1880
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
  
 <!-- Collection Description -->
-"</p>
-The Blackfoot, Idaho newspapers, including ""The Blackfoot Register,"" ran in the late 1800's. Includes publications from 1880-1902. </p>
-&nbsp;</p>
-"
+"</p><br/>The Blackfoot, Idaho newspapers, including ""The Blackfoot Register,"" ran in the late 1800's. Includes publications from 1880-1902. </p><br/>&nbsp;</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

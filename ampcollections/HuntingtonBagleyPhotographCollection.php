@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="2 men and 2 girls outdoors "width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-2 men and 2 girls outdoors 
-<!-- Article Text -->
-</p>
-Elfie Huntington and Joseph Bagley were noted portrait photographers of the early 20th century, who were trained by George Edward Anderson. This digital collection selects approximately 4,500 images out of their collection of over 15,000 studio and environmental portraits from central and southern Utah.</p>
 
+<!-- Article Text -->
+</p><br/>Elfie Huntington and Joseph Bagley were noted portrait photographers of the early 20th century, who were trained by George Edward Anderson. This digital collection selects approximately 4,500 images out of their collection of over 15,000 studio and environmental portraits from central and southern Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

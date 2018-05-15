@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="No. 134 Journal of East Asian Libraries "width="309" height ="414"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="No. 134 Journal of East Asian Libraries"width="309" height ="414"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-No. 134 Journal of East Asian Libraries 
+No. 134 Journal of East Asian Libraries
 <!-- Article Text -->
-</p>
-The Journal of East Asian Libraries is published twice a year by the Council on East Asian Libraries of the Association for Asian Studies. It publishes reports and scholarly articles related to East Asian libraries and to the history and profession of East Asian librarianship. The February issue is made up of reports; the October issue is made up of peer-reviewed journal articles.</p>
-
+</p><br/>The Journal of East Asian Libraries is published twice a year by the Council on East Asian Libraries of the Association for Asian Studies. It publishes reports and scholarly articles related to East Asian libraries and to the history and profession of East Asian librarianship. The February issue is made up of reports, the October issue is made up of peer-reviewed journal articles.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

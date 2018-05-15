@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Woodbury Art Museum provides free exhibitions and programs for our academic and local communities. Showcasing the museum's permanent collection and rotating exhibitions, the museum has been presenting the visual arts since 2002. The Woodbury Art Museum is under the auspices of Utah Valley University, and is located on the second floor of the University Mall in Orem, Utah.</p>
-
-
-
+<br/><p>The Woodbury Art Museum provides free exhibitions and programs for our academic and local communities. Showcasing the museum's permanent collection and rotating exhibitions, the museum has been presenting the visual arts since 2002. The Woodbury Art Museum is under the auspices of Utah Valley University, and is located on the second floor of the University Mall in Orem, Utah.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Haile Selassie (portrait) "width="245" height ="375"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Haile Selassie (portrait)"width="245" height ="375"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Haile Selassie (portrait) 
+Haile Selassie (portrait)
 <!-- Article Text -->
-</p>
-Marriott Library's art collection includes a wide variety of mediums and genres.</p>
-
+</p><br/>Marriott Library's art collection includes a wide variety of mediums and genres.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1559.jpg" alt="Alpine annexation map  "width="306" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1559.jpg" alt="Alpine annexation map"width="306" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Alpine annexation map  
+Alpine annexation map
 </div>
 <!-- Collection Title-->
 <h4>Utah Government Digital Library</h4>
@@ -40,9 +40,7 @@ Alpine annexation map
 <h6> Published by <a href="../partners/UtahStateLibrary.php">Utah State Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A division of the Utah Department of Heritage and Arts, here you can find publications from all levels of the government in Utah.</p>
-
+</p><br/>A division of the Utah Department of Heritage and Arts, here you can find publications from all levels of the government in Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

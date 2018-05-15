@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1014.jpg" alt="Shelley Public Library "width="363" height="263"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1014.jpg" alt="Shelley Public Library"width="363" height="263"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Shelley Public Library 
+Shelley Public Library
 </div>
 <!-- Collection Title-->
 <h4>History of Shelley (ID)</h4>
@@ -40,9 +40,7 @@ Shelley Public Library
 <h6> Published by <a href="../partners/NorthBinghamCountyIDDistrictLibrary.php">North Bingham County (ID) District Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Shelley, Idaho, is a town of about 4,000 located in east-central Idaho. First settled late in the 1800s, it was established as a town in 1904. This collection contains an assortment of pictures, descriptions, and articles that document the history of Shelley.</p>
-
+</p><br/>Shelley, Idaho, is a town of about 4,000 located in east-central Idaho. First settled late in the 1800s, it was established as a town in 1904. This collection contains an assortment of pictures, descriptions, and articles that document the history of Shelley.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

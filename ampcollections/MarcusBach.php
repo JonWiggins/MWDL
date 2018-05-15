@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Report to Protestants "width="361" height ="562"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Report to Protestants"width="361" height ="562"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Report to Protestants 
+Report to Protestants
 <!-- Article Text -->
-</p>
-Marcus Bach works related to philosophy and spiritual understanding including books and his Outreach Newsletter.</p>
-
+</p><br/>Marcus Bach works related to philosophy and spiritual understanding including books and his Outreach Newsletter.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1188.jpg" alt="Aerial Photograph of Medical Center Campus "width="379" height="295"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1188.jpg" alt="Aerial Photograph of Medical Center Campus"width="379" height="295"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aerial Photograph of Medical Center Campus 
+Aerial Photograph of Medical Center Campus
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Health Sciences Photograph Collection</h4>
@@ -40,9 +40,7 @@ Aerial Photograph of Medical Center Campus
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-An assortment of photographs of department chairs, university buildings, and professors related to the University's Health Sciences.</p>
-
+</p><br/>An assortment of photographs of department chairs, university buildings, and professors related to the University's Health Sciences.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

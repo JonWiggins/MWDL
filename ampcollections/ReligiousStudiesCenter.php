@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="View of the Hebrews "width="179" height ="134"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="View of the Hebrews"width="179" height ="134"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-View of the Hebrews 
+View of the Hebrews
 <!-- Article Text -->
-</p>
-The out-of-print publications of the Religious Studies Center, the research and publication arm of Religious Education.</p>
-
+</p><br/>The out-of-print publications of the Religious Studies Center, the research and publication arm of Religious Education.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2153.jpg" alt="" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28, 1935""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2153.jpg" alt="" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28%comma% 1935""width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28, 1935"
+" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28%comma% 1935"
 </div>
 <!-- Collection Title-->
 <h4>Civilian Conservation Corps Camp Photos</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This photograph collection consists of 314 photographs of Civilian Conservation Corps in the Intermountain West, built in the Depression Era of the 1930s. </p>
-
+</p><br/>This photograph collection consists of 314 photographs of Civilian Conservation Corps in the Intermountain West, built in the Depression Era of the 1930s. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

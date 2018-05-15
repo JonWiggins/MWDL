@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1009.jpg" alt="Comprehensive Growth Policy Study "width="337" height="296"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1009.jpg" alt="Comprehensive Growth Policy Study"width="337" height="296"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Comprehensive Growth Policy Study 
+Comprehensive Growth Policy Study
 </div>
 <!-- Collection Title-->
 <h4>Land Use-Transportation Scenario Planning</h4>
@@ -40,9 +40,7 @@ Comprehensive Growth Policy Study
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Integrated land use-transportation scenario planning employs a range of possible future scenarios to facilitate public decision-making on land use policies and transportation investments. This collection includes summary documents from the leading scenario planning projects in U.S. metropolitan areas between 1988 and 2003.</p>
-
+</p><br/>Integrated land use-transportation scenario planning employs a range of possible future scenarios to facilitate public decision-making on land use policies and transportation investments. This collection includes summary documents from the leading scenario planning projects in U.S. metropolitan areas between 1988 and 2003.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

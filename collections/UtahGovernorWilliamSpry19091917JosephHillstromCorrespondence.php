@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-As chief executive officer of the state, the governor has the authority to commute the sentences of those convicted of crimes. The conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history; it generated national and international interest. Correspondence is in the form of letters, postcards, and telegrams. Letters were sent to Governor Spry's office protesting the execution and/or conviction of Hill for the gunshot murders of J.S. Morrison and his son Arling.</p>
-
+</p><br/>As chief executive officer of the state, the governor has the authority to commute the sentences of those convicted of crimes. The conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history, it generated national and international interest. Correspondence is in the form of letters, postcards, and telegrams. Letters were sent to Governor Spry's office protesting the execution and/or conviction of Hill for the gunshot murders of J.S. Morrison and his son Arling.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

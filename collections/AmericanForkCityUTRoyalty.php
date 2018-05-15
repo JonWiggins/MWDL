@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2134.jpg" alt="Esther Pulley, Poultry Days Queen 1929 "width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2134.jpg" alt="Esther Pulley%comma% Poultry Days Queen 1929"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Esther Pulley, Poultry Days Queen 1929 
+Esther Pulley%comma% Poultry Days Queen 1929
 </div>
 <!-- Collection Title-->
 <h4>American Fork City (UT) Royalty</h4>
@@ -40,9 +40,7 @@ Esther Pulley, Poultry Days Queen 1929
 <h6> Published by <a href="../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The American Fork City Royalty collection contains photographs of the women who served as the American Fork Poultry Days queens between 1928 and 1941, and the queens and attendants for Miss American Fork for American Fork Steel Days from 1946 to 1983. </p>
-
+</p><br/>The American Fork City Royalty collection contains photographs of the women who served as the American Fork Poultry Days queens between 1928 and 1941, and the queens and attendants for Miss American Fork for American Fork Steel Days from 1946 to 1983. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

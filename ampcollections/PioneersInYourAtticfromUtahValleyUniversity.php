@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wight.
 <!-- Article Text -->
-"</p>
-This is a portion of UVU's ""Pioneers In Your Attic"" contribution. It consists primarily of photographs and journal entries.</p>
-"
+"</p><br/>This is a portion of UVU's ""Pioneers In Your Attic"" contribution. It consists primarily of photographs and journal entries.</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1094.jpg" alt="A Sermon Preached at Saint Dunstans "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1094.jpg" alt="A Sermon Preached at Saint Dunstans"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A Sermon Preached at Saint Dunstans 
+A Sermon Preached at Saint Dunstans
 </div>
 <!-- Collection Title-->
 <h4>John Donne Sermons</h4>
@@ -40,9 +40,7 @@ A Sermon Preached at Saint Dunstans
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Though John Donne is known to his twenty-first century reader primarily as a poet, it is as a preacher that he reached his highest fame during his lifetime, and for his sermons that he expected to be remembered. From his first extant sermon in April 1615, delivered before Queen Anne when Donne was a newly-minted clergyman, to his famous last sermon Death's Duell , Donne's homiletic work displays a remarkable range of learning and interest. At the heart of Donne's sermons lies an energy of mind that exhorts its audience to attend, to reflect, and even to wrestle with God after the example of Donne himself.</p>
-
+</p><br/>Though John Donne is known to his twenty-first century reader primarily as a poet, it is as a preacher that he reached his highest fame during his lifetime, and for his sermons that he expected to be remembered. From his first extant sermon in April 1615, delivered before Queen Anne when Donne was a newly-minted clergyman, to his famous last sermon Death's Duell , Donne's homiletic work displays a remarkable range of learning and interest. At the heart of Donne's sermons lies an energy of mind that exhorts its audience to attend, to reflect, and even to wrestle with God after the example of Donne himself.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

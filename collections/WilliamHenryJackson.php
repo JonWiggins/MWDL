@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1098.jpg" alt="Along the North Platte River, Oregon Trail "width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1098.jpg" alt="Along the North Platte River%comma% Oregon Trail"width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Along the North Platte River, Oregon Trail 
+Along the North Platte River%comma% Oregon Trail
 </div>
 <!-- Collection Title-->
 <h4>William Henry Jackson</h4>
@@ -40,9 +40,7 @@ Along the North Platte River, Oregon Trail
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Almost 1,100 images from one of the most renowned 19th century landscape photographers of the American West. The collection includes landscapes of the western United States and Mexico; but also 231 images of Asia and Pacific countries; 60 Native American portraits; and 30 pieces of art.</p>
-
+</p><br/>Almost 1,100 images from one of the most renowned 19th century landscape photographers of the American West. The collection includes landscapes of the western United States and Mexico, but also 231 images of Asia and Pacific countries, 60 Native American portraits, and 30 pieces of art.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

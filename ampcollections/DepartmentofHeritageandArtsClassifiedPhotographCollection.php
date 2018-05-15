@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Union Pacific Railroad P. 60 "width="324" height ="255"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Union Pacific Railroad P. 60"width="324" height ="255"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Union Pacific Railroad P. 60 
+Union Pacific Railroad P. 60
 <!-- Article Text -->
-</p>
-A self-indexing, self-service, collection of the best photographs from the Society's collections. Consists of mounted prints made from original photographs taken from other collections, plus some originals.</p>
-
+</p><br/>A self-indexing, self-service, collection of the best photographs from the Society's collections. Consists of mounted prints made from original photographs taken from other collections, plus some originals.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

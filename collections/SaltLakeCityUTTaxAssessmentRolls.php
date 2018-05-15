@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2175.jpg" alt=" 1878 by John R. Winder (duplicate)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2175.jpg" alt="1878 by John R. Winder (duplicate)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- 1878 by John R. Winder (duplicate)
+1878 by John R. Winder (duplicate)
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake City (UT) Tax Assessment Rolls</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection of Salt Lake City Tax Assessment Rolls covers the years 1856-1878. </p>
-
+</p><br/>This collection of Salt Lake City Tax Assessment Rolls covers the years 1856-1878. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

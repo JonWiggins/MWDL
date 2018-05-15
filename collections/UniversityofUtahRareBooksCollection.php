@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1327.jpg" alt=" Codex Laud Commentary "width="256" height="344"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1327.jpg" alt=""width="256" height="344"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Codex Laud Commentary 
+
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Rare Books Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Rare Books Division of Special Collections holds more than 80,000 books, maps and ephemera representing the written record of world history from ancient clay tablet to 21st century artists' books. By actively collecting, preserving and digitizing material of historical and aesthetic importance the Rare Books Division provides reference, research and educational access to local, regional and international communities, strengthening the ability of faculty to teach, students to learn, and communities to find common denominators. </p>
-
+</p><br/>The Rare Books Division of Special Collections holds more than 80,000 books, maps and ephemera representing the written record of world history from ancient clay tablet to 21st century artists' books. By actively collecting, preserving and digitizing material of historical and aesthetic importance the Rare Books Division provides reference, research and educational access to local, regional and international communities, strengthening the ability of faculty to teach, students to learn, and communities to find common denominators. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1010.jpg" alt="Westminster College Football Squad "width="361" height="270"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1010.jpg" alt="Westminster College Football Squad"width="361" height="270"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Westminster College Football Squad 
+Westminster College Football Squad
 </div>
 <!-- Collection Title-->
 <h4>Westminster College Photograph Collection</h4>
@@ -40,9 +40,7 @@ Westminster College Football Squad
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-These collections consist of digitized photographs relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p>
-
+</p><br/>These collections consist of digitized photographs relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

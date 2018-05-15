@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1218.jpg" alt="Boyle, Henry Green vol. 04, 1858-1867 "width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1218.jpg" alt="Boyle%comma% Henry Green vol. 04%comma% 1858-1867"width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Boyle, Henry Green vol. 04, 1858-1867 
+Boyle%comma% Henry Green vol. 04%comma% 1858-1867
 </div>
 <!-- Collection Title-->
 <h4>Mormon Missionary Diaries</h4>
@@ -40,9 +40,7 @@ Boyle, Henry Green vol. 04, 1858-1867
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-One of the great values that Mormon missionary diaries give us is the insight into the lives of ordinary people, missionaries and the people they labored among. We find deep religious insights set against cultural and social biases, often fermenting in misunderstandings due to language gaps of considerable proportions. But beyond the daily cares and cycles of the lives of common people are insights into the economic and political worlds they inhabited. Poverty, inflation, population mobility, family and community structure, as well as religious attitudes are just a sample of the knowledge that can be gained through the study of these missionary journals.</p>
-
+</p><br/>One of the great values that Mormon missionary diaries give us is the insight into the lives of ordinary people, missionaries and the people they labored among. We find deep religious insights set against cultural and social biases, often fermenting in misunderstandings due to language gaps of considerable proportions. But beyond the daily cares and cycles of the lives of common people are insights into the economic and political worlds they inhabited. Poverty, inflation, population mobility, family and community structure, as well as religious attitudes are just a sample of the knowledge that can be gained through the study of these missionary journals.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

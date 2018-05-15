@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1015.jpg" alt="Scientific American Supplement, Vol. VI "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1015.jpg" alt="Scientific American Supplement%comma% Vol. VI"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Scientific American Supplement, Vol. VI 
+Scientific American Supplement%comma% Vol. VI
 </div>
 <!-- Collection Title-->
 <h4>John Wesley Powell Collection</h4>
@@ -40,9 +40,7 @@ Scientific American Supplement, Vol. VI
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-John Wesley Powell, the iconic explorer of the Colorado River, left the American southwest with a rich legacy. During his expeditions he compiled data and a number of sketches describing the landscape. This collection contains various writings and geographical publications to which Powell contributed.</p>
-
+</p><br/>John Wesley Powell, the iconic explorer of the Colorado River, left the American southwest with a rich legacy. During his expeditions he compiled data and a number of sketches describing the landscape. This collection contains various writings and geographical publications to which Powell contributed.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

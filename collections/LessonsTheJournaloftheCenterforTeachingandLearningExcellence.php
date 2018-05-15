@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1017.jpg" alt="Lessons Volume Eight Number 1 Fall 2006 "width="319" height="413"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1017.jpg" alt="Lessons Volume Eight Number 1 Fall 2006"width="319" height="413"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Lessons Volume Eight Number 1 Fall 2006 
+Lessons Volume Eight Number 1 Fall 2006
 </div>
 <!-- Collection Title-->
 <h4>Lessons: The Journal of the Center for Teaching and Learning Excellence</h4>
@@ -40,9 +40,7 @@ Lessons Volume Eight Number 1 Fall 2006
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This collection contains 10 back issues of the Lessons journal, beginning in 2001. The Center for Teaching & Learning Excellence (CTLE) was established at the University of Utah in the 1992 to ""be a resource for all teachers on campus, a safe place for developing or improving teaching skills and responding to new demands of classes..."" Its journal, Lessons, contains articles and how-to instructions intended to enhance classroom environments.</p>
-"
+"</p><br/>This collection contains 10 back issues of the Lessons journal, beginning in 2001. The Center for Teaching & Learning Excellence (CTLE) was established at the University of Utah in the 1992 to ""be a resource for all teachers on campus, a safe place for developing or improving teaching skills and responding to new demands of classes..."" Its journal, Lessons, contains articles and how-to instructions intended to enhance classroom environments.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

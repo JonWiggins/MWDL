@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Utah State University Press is a refereed scholarly publisher and division of Utah State University Libraries. Established in 1972, the Press's mandate is to acquire and publish books of superior quality that win the esteem of readers and that appropriately represent our university to the community of scholars. Vital also to our mission is publication for a broader community, including students, who use our books in their studies, and general readers, who find in them enjoyment as well as enlightenment. </p>
-
-
+<br/><p>Utah State University Press is a refereed scholarly publisher and division of Utah State University Libraries. Established in 1972, the Press's mandate is to acquire and publish books of superior quality that win the esteem of readers and that appropriately represent our university to the community of scholars. Vital also to our mission is publication for a broader community, including students, who use our books in their studies, and general readers, who find in them enjoyment as well as enlightenment. </p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

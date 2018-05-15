@@ -17,9 +17,7 @@
 <!-- Image Description -->
 The John and Inger Sward Johnson family
 <!-- Article Text -->
-</p>
-Family histories hosted by Brigham Young University.</p>
-
+</p><br/>Family histories hosted by Brigham Young University.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

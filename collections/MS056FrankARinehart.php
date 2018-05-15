@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 056 Frank A. Rinehart</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The F.A. Rinehart Indian Photographic collection consists of 33 standard size images, and 118 oversize images of Native American Indians in a photographic studio setting, with approximately 10 images taken outside of a studio setting.</p>
-
+</p><br/>The F.A. Rinehart Indian Photographic collection consists of 33 standard size images, and 118 oversize images of Native American Indians in a photographic studio setting, with approximately 10 images taken outside of a studio setting.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

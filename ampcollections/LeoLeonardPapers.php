@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Two worlds atlas : East vs. West
 <!-- Article Text -->
-</p>
-The Leo Leonard papers (1900-1975) contain correspondence, programs and announcements, traveling brochures, awards and certificates, newspaper clippings, books, maps, and other documents related to Leo Bradford Leonard's life and his career in the United States Army.</p>
-
+</p><br/>The Leo Leonard papers (1900-1975) contain correspondence, programs and announcements, traveling brochures, awards and certificates, newspaper clippings, books, maps, and other documents related to Leo Bradford Leonard's life and his career in the United States Army.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

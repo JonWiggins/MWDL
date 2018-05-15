@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1298.jpg" alt="Wheelbarrow Race "width="356" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1298.jpg" alt=""width="356" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Wheelbarrow Race 
+
 </div>
 <!-- Collection Title-->
 <h4>Provo (UT) City Library Historical Photographs</h4>
@@ -40,9 +40,7 @@ Wheelbarrow Race
 <h6> Published by <a href="../partners/ProvoUTCityLibrary.php">Provo (UT) City Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Digitized historic photographs of the buildings, people, and history of Provo.</p>
-
+</p><br/>Digitized historic photographs of the buildings, people, and history of Provo.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

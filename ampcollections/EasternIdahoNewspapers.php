@@ -17,9 +17,7 @@
 <!-- Image Description -->
 The Ashton Herald 1933-12-14 Vol 15 No 35
 <!-- Article Text -->
-</p>
-Historical newspapers from the Upper Snake River communities of Ashton (1933, 39), Marysville (1904-05), and Saint Anthony (1907).</p>
-
+</p><br/>Historical newspapers from the Upper Snake River communities of Ashton (1933, 39), Marysville (1904-05), and Saint Anthony (1907).</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

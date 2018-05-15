@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1500.jpg" alt="Avalanche Accidents Report "width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1500.jpg" alt=""width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Avalanche Accidents Report 
+
 </div>
 <!-- Collection Title-->
 <h4>Alta (UT) Avalanche Study Center</h4>
@@ -40,9 +40,7 @@ Avalanche Accidents Report
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of more than 40 important historical publications on the study of avalanches and avalanche control near Alta, Utah. This includes 31 publications of the U.S. Forest Service from the Alta Avalanche Study Center, dating from 1953-1971. Topics include introduction to avalanches, training for dog leaders, classification of snow crystals, blasting agents for snow safety, probing techniques for victims, stablility of snow slabs, avalanche forces, protecting objects, and many more.</p>
-
+</p><br/>A collection of more than 40 important historical publications on the study of avalanches and avalanche control near Alta, Utah. This includes 31 publications of the U.S. Forest Service from the Alta Avalanche Study Center, dating from 1953-1971. Topics include introduction to avalanches, training for dog leaders, classification of snow crystals, blasting agents for snow safety, probing techniques for victims, stablility of snow slabs, avalanche forces, protecting objects, and many more.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

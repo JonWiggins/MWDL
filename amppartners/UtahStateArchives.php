@@ -17,21 +17,19 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Utah State Archives and Records Service is a state government agency that works with records created by other state and local governmental entities in Utah. Records of historical value are housed in our permanent collections and are available for research. We also facilitate good records management practices within agencies.</p>
-
-
-
+<br/><p>The Utah State Archives and Records Service is a state government agency that works with records created by other state and local governmental entities in Utah. Records of historical value are housed in our permanent collections and are available for research. We also facilitate good records management practices within agencies.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+Archives">Browse all records from Utah State Archives</a>
 </h6>
 <!-- List all Active Collections -->
+<li><a href = "../ampcollections/UtahGovernorsExecutiveOrdersandProclamations.php">UtahGovernorsExecutiveOrdersandProclamations</a></li>
 <li><a href = "../ampcollections/UtahDivisionofCorporationsincorporationcasefilesindex1981.php">UtahDivisionofCorporationsincorporationcasefilesindex1981</a></li>
 <li><a href = "../ampcollections/UtahDivisionofAnimalIndustryBrandBooks.php">UtahDivisionofAnimalIndustryBrandBooks</a></li>
 <li><a href = "../ampcollections/UtahBoardofPardonsPrisonerPardonApplicationCaseFiles.php">UtahBoardofPardonsPrisonerPardonApplicationCaseFiles</a></li>
 <li><a href = "../ampcollections/UtahFifthDistrictBeaverCountyCaseIndexes.php">UtahFifthDistrictBeaverCountyCaseIndexes</a></li>
+<li><a href = "../ampcollections/UtahDivisionofStateArchivesSeriesInventories.php">UtahDivisionofStateArchivesSeriesInventories</a></li>
 <li><a href = "../ampcollections/UtahDivisionofStateArchivesOathsofOffice.php">UtahDivisionofStateArchivesOathsofOffice</a></li>
 <li><a href = "../ampcollections/UtahRevisedStatutes1933.php">UtahRevisedStatutes1933</a></li>
 <li><a href = "../ampcollections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php">UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958</a></li>
@@ -54,6 +52,7 @@
 <li><a href = "../ampcollections/UtahConventiontoRatifythe21stAmendment1933AdministrativeRecords.php">UtahConventiontoRatifythe21stAmendment1933AdministrativeRecords</a></li>
 <li><a href = "../ampcollections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php">UtahLegislatureHouseofRepresentativesWorkingBills18961989</a></li>
 <li><a href = "../ampcollections/SaltLakeCityUTTaxAssessmentRolls.php">SaltLakeCityUTTaxAssessmentRolls</a></li>
+<li><a href = "../ampcollections/CedarCityUtahCityandCemeteryMap.php">CedarCityUtahCityandCemeteryMap</a></li>
 <li><a href = "../ampcollections/UtahSemiCentennialCommissionBookofthePioneers.php">UtahSemiCentennialCommissionBookofthePioneers</a></li>
 <li><a href = "../ampcollections/UtahTerritorialSecretaryTerritorialExecutivePapers.php">UtahTerritorialSecretaryTerritorialExecutivePapers</a></li>
 <li><a href = "../ampcollections/UtahThirdDistrictCaseFileIndex.php">UtahThirdDistrictCaseFileIndex</a></li>

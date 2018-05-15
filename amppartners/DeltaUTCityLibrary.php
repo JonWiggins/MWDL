@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Photographs and scrapbooks by Frank Asahel Beckwith, editor and publisher of the Millard County Chronicle from 1919-1951. Mr. Beckwith was an amateur geologist and anthropologist and his photographs depict Utah landscapes and Native Americans.</p>
-
-
-
+<br/><p>Photographs and scrapbooks by Frank Asahel Beckwith, editor and publisher of the Millard County Chronicle from 1919-1951. Mr. Beckwith was an amateur geologist and anthropologist and his photographs depict Utah landscapes and Native Americans.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

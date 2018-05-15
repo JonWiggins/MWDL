@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1258.jpg" alt=" Beauty and the Beast"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1258.jpg" alt="Didymus%comma% the Blind%comma% ca. 313-ca. 398"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Beauty and the Beast
+Didymus%comma% the Blind%comma% ca. 313-ca. 398
 </div>
 <!-- Collection Title-->
 <h4>Southern Utah University Drama Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Southern Utah University Drama Collection contains a sampling of photographs from theatre productions during the 70's, 80's, and 90's. SUU has over a hundred year tradition of fine music, remarkable dance, and ambitious theatrical productions. These photos convey the flavor of those performances.</p>
-</p>
+<p></p><br/><p>The Southern Utah University Drama Collection contains a sampling of photographs from theatre productions during the 70's, 80's, and 90's. SUU has over a hundred year tradition of fine music, remarkable dance, and ambitious theatrical productions. These photos convey the flavor of those performances.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

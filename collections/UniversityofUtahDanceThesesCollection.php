@@ -40,9 +40,7 @@ Discourse with the earth
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The University of Utah Dance Theses Collection in the Audio Visual Archives consists of 64 videorecordings, ranging from 1967 to 2001, of graduate thesis concerts presented by MFA candidates from the Departments of Ballet and of Modern Dance. </p>
-
+</p><br/>The University of Utah Dance Theses Collection in the Audio Visual Archives consists of 64 videorecordings, ranging from 1967 to 2001, of graduate thesis concerts presented by MFA candidates from the Departments of Ballet and of Modern Dance. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

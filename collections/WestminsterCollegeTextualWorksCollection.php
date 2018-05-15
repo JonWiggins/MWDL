@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1160.jpg" alt="Grip of Mormonism, The "width="194" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1160.jpg" alt="Grip of Mormonism%comma% The"width="194" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Grip of Mormonism, The 
+Grip of Mormonism%comma% The
 </div>
 <!-- Collection Title-->
 <h4>Westminster College Textual Works Collection</h4>
@@ -40,9 +40,7 @@ Grip of Mormonism, The
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-These collections consist of digitized documents relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p>
-
+</p><br/>These collections consist of digitized documents relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Newton Town Public Library serves the community of Newton UT. </p>
-
-
-
+<br/><p>The Newton Town Public Library serves the community of Newton UT. </p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

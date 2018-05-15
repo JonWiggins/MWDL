@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p>
-<p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p>
-
-
-
+<br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -60,10 +55,13 @@
 <li><a href = "../ampcollections/WesternWatersAZvsCA.php">WesternWatersAZvsCA</a></li>
 <li><a href = "../ampcollections/WesternWatersAudioVideoCollection.php">WesternWatersAudioVideoCollection</a></li>
 <li><a href = "../ampcollections/HinckleyJournalofPolitics.php">HinckleyJournalofPolitics</a></li>
+<li><a href = "../ampcollections/UtahBoardofRegents.php">UtahBoardofRegents</a></li>
+<li><a href = "../ampcollections/UNewsandViews.php">UNewsandViews</a></li>
 <li><a href = "../ampcollections/UniversityNeighborhoodPartnersProgram.php">UniversityNeighborhoodPartnersProgram</a></li>
 <li><a href = "../ampcollections/UniversityofUtahElectronicUniversityArchive.php">UniversityofUtahElectronicUniversityArchive</a></li>
 <li><a href = "../ampcollections/WaterWiseUtah.php">WaterWiseUtah</a></li>
 <li><a href = "../ampcollections/UniversityofUtahPhotographArchives.php">UniversityofUtahPhotographArchives</a></li>
+<li><a href = "../ampcollections/UniversityofUtahEncodedArchivalDescriptionEADFindingAids.php">UniversityofUtahEncodedArchivalDescriptionEADFindingAids</a></li>
 <li><a href = "../ampcollections/WesternSoundscapeArchive.php">WesternSoundscapeArchive</a></li>
 <li><a href = "../ampcollections/WesternSoundscapeArchiveSpectrograms.php">WesternSoundscapeArchiveSpectrograms</a></li>
 <li><a href = "../ampcollections/FrederickWilliamReynoldsLectures.php">FrederickWilliamReynoldsLectures</a></li>
@@ -72,7 +70,10 @@
 <li><a href = "../ampcollections/HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater.php">HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater</a></li>
 <li><a href = "../ampcollections/WesternWatersUniversityofUtahSpecialCollections.php">WesternWatersUniversityofUtahSpecialCollections</a></li>
 <li><a href = "../ampcollections/UniversityofUtahMarriottLibraryPermanentArtCollection.php">UniversityofUtahMarriottLibraryPermanentArtCollection</a></li>
+<li><a href = "../ampcollections/LennoxandCatherineTierneyPhotographCollection.php">LennoxandCatherineTierneyPhotographCollection</a></li>
 <li><a href = "../ampcollections/CyclingUtah.php">CyclingUtah</a></li>
+<li><a href = "../ampcollections/EsplinFamilyCollection.php">EsplinFamilyCollection</a></li>
+<li><a href = "../ampcollections/UtahArchitectsProject.php">UtahArchitectsProject</a></li>
 <li><a href = "../ampcollections/JohnMillsWhitakerPapers.php">JohnMillsWhitakerPapers</a></li>
 <li><a href = "../ampcollections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies</a></li>
 <li><a href = "../ampcollections/HiramBClawsonPapers.php">HiramBClawsonPapers</a></li>
@@ -87,6 +88,7 @@
 <li><a href = "../ampcollections/UtahPioneerCostumeResearchProject.php">UtahPioneerCostumeResearchProject</a></li>
 <li><a href = "../ampcollections/ChicanoScholarshipArchive.php">ChicanoScholarshipArchive</a></li>
 <li><a href = "../ampcollections/UniversityofUtahHumanitiesInFocus.php">UniversityofUtahHumanitiesInFocus</a></li>
+<li><a href = "../ampcollections/AlfEngenPapers.php">AlfEngenPapers</a></li>
 <li><a href = "../ampcollections/HGrantIvinsPapers.php">HGrantIvinsPapers</a></li>
 <li><a href = "../ampcollections/NelsonHigginsPapers.php">NelsonHigginsPapers</a></li>
 <li><a href = "../ampcollections/InterviewswithJewsinUtah.php">InterviewswithJewsinUtah</a></li>

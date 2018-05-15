@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p>
-
-
-
+<br/><p>A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

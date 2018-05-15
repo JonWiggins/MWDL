@@ -24,12 +24,7 @@
 <h6><a href="http://library.usu.edu//">Utah State University - Merrill-Cazier Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Merrill-Cazier Library, the main library at Utah State University in Logan, Utah, serves the research interests of faculty and students on the Logan campus, as well as extension agents throughout the state and distance students and faculty at 30 Education Centers outside the Cache Valley.</p>
-<p>The Merrill-Cazier Library contains over 1,505,000 total volumes, including 620,800 books, 300,370 government documents, over 100,000 maps, 12,760 current serial subscriptions, and access to over 200 bibliographic, fulltext, and informational databases. The Library is a regional depository of U.S. government publications, and, thus, has extensive holdings of U.S. agency documents, maps, and periodicals.</p>
-
-
-</p>
+<p><br/><p>The Merrill-Cazier Library, the main library at Utah State University in Logan, Utah, serves the research interests of faculty and students on the Logan campus, as well as extension agents throughout the state and distance students and faculty at 30 Education Centers outside the Cache Valley.</p><br/><p>The Merrill-Cazier Library contains over 1,505,000 total volumes, including 620,800 books, 300,370 government documents, over 100,000 maps, 12,760 current serial subscriptions, and access to over 200 bibliographic, fulltext, and informational databases. The Library is a regional depository of U.S. government publications, and, thus, has extensive holdings of U.S. agency documents, maps, and periodicals.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+State+University+-+Merrill-Cazier+Library">Browse all records from Utah State University - Merrill-Cazier Library</a>
 <!-- List all Active Collections -->
@@ -61,6 +56,10 @@
 <li><a href = "../collections/PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch.php">Paul Jones the Portal and the Building of St. John's Episcopal Church</a></li>
 <li><a href = "../collections/LincolnEllisonUSForestService.php">Lincoln Ellison U.S. Forest Service</a></li>
 <li><a href = "../collections/WilliamDHurstPapers.php">William D. Hurst Papers</a></li>
+<li><a href = "../collections/UtahStateUniversitySpecialCollectionsRegistersEADFindingAids.php">Utah State University Special Collections Registers (EAD Finding Aids)</a></li>
+<li><a href = "../collections/BeatPoetryBroadsidesandLittleMagazines.php">Beat Poetry Broadsides and Little Magazines</a></li>
+<li><a href = "../collections/CacheValleyDiaries.php">Cache Valley Diaries</a></li>
+<li><a href = "../collections/CollectingMemoriesOralHistoriesofAmericanFolklorists.php">Collecting Memories: Oral Histories of American Folklorists</a></li>
 <li><a href = "../collections/ForestRangerDaybooksofAaronPChristiansen.php">Forest Ranger Daybooks of Aaron P. Christiansen</a></li>
 <li><a href = "../collections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a></li>
 <li><a href = "../collections/LoganCanyonReflections.php">Logan Canyon Reflections</a></li>
@@ -78,9 +77,6 @@
 <li><a href = "../collections/BearLakeMonster.php">Bear Lake Monster</a></li>
 <li><a href = "../collections/CacheCountyUTAerialPhotographCollection.php">Cache County (UT) Aerial Photograph Collection</a></li>
 <li><a href = "../collections/CacheCountyPlatMapPhotographCollection.php">Cache County Plat Map Photograph Collection</a></li>
-<li><a href = "../collections/CacheValleyRefugeeOralHistoryProject.php">Cache Valley Refugee Oral History Project</a></li>
-<li><a href = "../collections/AgriculturalCollegeofUtahCyanotypeCollection.php">Agricultural College of Utah Cyanotype Collection</a></li>
-<li><a href = "../collections/CacheValleyChurches.php">Cache Valley Churches</a></li>
 <li><a href = "../collections/CacheValleyDrugCourtOralHistoryProject.php">Cache Valley Drug Court Oral History Project</a></li>
 <li><a href = "../collections/CacheValleyDrugCourtOralHistoryProject.php">Cache Valley Drug Court Oral History Project</a></li>
 <li><a href = "../collections/AmericanFolkloreSocietyPapers.php">American Folklore Society Papers</a></li>

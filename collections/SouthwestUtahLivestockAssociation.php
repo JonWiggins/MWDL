@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1109.jpg" alt=" Buildings, construction of pavilion"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1109.jpg" alt="Buildings%comma% construction of pavilion"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Buildings, construction of pavilion
+Buildings%comma% construction of pavilion
 </div>
 <!-- Collection Title-->
 <h4>Southwest Utah Livestock Association</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Southwest Utah Livestock Association Collection contains photographs of prize winners and activities at the livestock show held annually in Cedar City, Utah.</p>
-</p>
+<p></p><br/><p>The Southwest Utah Livestock Association Collection contains photographs of prize winners and activities at the livestock show held annually in Cedar City, Utah.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

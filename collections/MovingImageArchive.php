@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1174.jpg" alt="Bob Theobald "width="221" height="164"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1174.jpg" alt="Bob Theobald"width="221" height="164"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bob Theobald 
+Bob Theobald
 </div>
 <!-- Collection Title-->
 <h4>Moving Image Archive</h4>
@@ -40,9 +40,7 @@ Bob Theobald
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The University of Utah Moving Image Archives highlights a selection of the film and video holdings in Special Collections.</p>
-
+</p><br/>The University of Utah Moving Image Archives highlights a selection of the film and video holdings in Special Collections.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

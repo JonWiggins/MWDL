@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1034.jpg" alt="Utah Ski Archives Newsletter "width="354" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1034.jpg" alt="Utah Ski Archives Newsletter"width="354" height="453"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Ski Archives Newsletter 
+Utah Ski Archives Newsletter
 </div>
 <!-- Collection Title-->
 <h4>Utah Ski Archives Newsletter</h4>
@@ -40,9 +40,7 @@ Utah Ski Archives Newsletter
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p>
-
+</p><br/>This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

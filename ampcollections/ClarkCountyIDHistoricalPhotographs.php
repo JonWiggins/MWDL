@@ -17,9 +17,7 @@
 <!-- Image Description -->
 $1000 gold sack - Wood Livestock
 <!-- Article Text -->
-</p>
-5,000 images that depict people, events, and locations from the early history and subsequent development of Clark County, Idaho.</p>
-
+</p><br/>5,000 images that depict people, events, and locations from the early history and subsequent development of Clark County, Idaho.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

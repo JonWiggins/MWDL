@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1262.jpg" alt="How to cook vegetables "width="236" height="348"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1262.jpg" alt="1882-05-04 À sa mère To his mother"width="236" height="348"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-How to cook vegetables 
+1882-05-04 À sa mère To his mother
 </div>
 <!-- Collection Title-->
 <h4>Cookery and Culture</h4>
@@ -40,9 +40,7 @@ How to cook vegetables
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The digitized historical cookbooks in this collection date from the 1700s to the 1900s. Mostly American and British, they contain not only recipes, but also elegant engravings of table settings and cooking paraphernalia, home remedies and cure-all tonics, instructions on managing servants, and more. In short, these gastronomical treasures reveal much about the societies and economic times that created them.</p>
-
+</p><br/>The digitized historical cookbooks in this collection date from the 1700s to the 1900s. Mostly American and British, they contain not only recipes, but also elegant engravings of table settings and cooking paraphernalia, home remedies and cure-all tonics, instructions on managing servants, and more. In short, these gastronomical treasures reveal much about the societies and economic times that created them.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

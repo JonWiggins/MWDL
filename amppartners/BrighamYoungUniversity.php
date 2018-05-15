@@ -17,13 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Brigham Young University is a privately owned institution of higher learning. Owned and operated by the Church of Jesus Christ of Latter-day Saints, and located in Provo, Utah, BYU has an enrollment of over 32,000 full-time students BYU offers courses in 10 colleges, in Continuing Education and Graduate Studies and in three general undergraduate areas of study. Bachelor's degrees are offered in 187 academic programs, master's degrees in 64, and doctorates in 26.</p>
-<p>&nbsp;</p>
-
-
-
-
+<br/><p>Brigham Young University is a privately owned institution of higher learning. Owned and operated by the Church of Jesus Christ of Latter-day Saints, and located in Provo, Utah, BYU has an enrollment of over 32,000 full-time students BYU offers courses in 10 colleges, in Continuing Education and Graduate Studies and in three general undergraduate areas of study. Bachelor's degrees are offered in 187 academic programs, master's degrees in 64, and doctorates in 26.</p><br/><p>&nbsp;</p><br/><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

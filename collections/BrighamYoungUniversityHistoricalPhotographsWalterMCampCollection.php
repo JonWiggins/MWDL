@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1071.jpg" alt="Red Cloud "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1071.jpg" alt="Red Cloud"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Red Cloud 
+Red Cloud
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Historical Photographs: Walter M. Camp Collection</h4>
@@ -40,9 +40,7 @@ Red Cloud
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Walter Mason Camp digital collection includes 86 photographic images, centering on Camp's interest in the Indian Wars of North America occurring between1865 and 1890. These images, from the larger collection of 218 photographs housed in the L. Tom Perry Special Collections, are a significant contribution to further study of Native American Wars.</p>
-
+</p><br/>The Walter Mason Camp digital collection includes 86 photographic images, centering on Camp's interest in the Indian Wars of North America occurring between1865 and 1890. These images, from the larger collection of 218 photographs housed in the L. Tom Perry Special Collections, are a significant contribution to further study of Native American Wars.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

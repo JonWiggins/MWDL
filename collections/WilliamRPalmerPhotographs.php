@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1113.jpg" alt=" Courthouse; St. George, Washington County, Utah"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1113.jpg" alt="Courthouse, St. George%comma% Washington County%comma% Utah"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Courthouse; St. George, Washington County, Utah
+Courthouse, St. George%comma% Washington County%comma% Utah
 </div>
 <!-- Collection Title-->
 <h4>William R. Palmer Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The William R. Palmer Photograph Collection is a visual record of life centered in the Southern Utah area. It includes the activities of Paiute Indians and Anglo-Americans during the years 1900 to 1960 and Palmer's travels in the United States and Europe.</p>
-</p>
+<p></p><br/><p>The William R. Palmer Photograph Collection is a visual record of life centered in the Southern Utah area. It includes the activities of Paiute Indians and Anglo-Americans during the years 1900 to 1960 and Palmer's travels in the United States and Europe.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

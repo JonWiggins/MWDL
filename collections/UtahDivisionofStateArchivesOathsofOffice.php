@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1302.jpg" alt="Jon Huntsman's Oath of Office for Governor "width="362" height="362"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1302.jpg" alt=""width="362" height="362"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Jon Huntsman's Oath of Office for Governor 
+
 </div>
 <!-- Collection Title-->
 <h4>Utah Division of State Archives Oaths of Office</h4>
@@ -40,10 +40,7 @@ Jon Huntsman's Oath of Office for Governor
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-"</p>
-State officers are required by both the federal and state constitutions to take an oath of office. The Constitution of the United States requires members of the legislature as well as all executive and judicial officers of the states to be bound by oath or affirmation to support the federal Constitution (Article VI, clause 3). The Constitution of Utah specifies the wording of the oath to be taken by ""all officers made elective or appointive by this Constitution or by the laws made in pursuance thereof, before entering upon the duties of their respective offices"" (Article IV, section 10)</p>
-&nbsp;</p>
-"
+"</p><br/>State officers are required by both the federal and state constitutions to take an oath of office. The Constitution of the United States requires members of the legislature as well as all executive and judicial officers of the states to be bound by oath or affirmation to support the federal Constitution (Article VI, clause 3). The Constitution of Utah specifies the wording of the oath to be taken by ""all officers made elective or appointive by this Constitution or by the laws made in pursuance thereof, before entering upon the duties of their respective offices"" (Article IV, section 10)</p><br/>&nbsp;</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

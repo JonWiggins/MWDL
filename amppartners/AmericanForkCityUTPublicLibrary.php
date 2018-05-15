@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The mission of the American Fork Library is threefold: to meet the information needs of our citizens, to provide a rich environment to encourage reading in our children and to improve the quality of life with recreational reading materials.</p>
-
-
-
+<br/><p>The mission of the American Fork Library is threefold: to meet the information needs of our citizens, to provide a rich environment to encourage reading in our children and to improve the quality of life with recreational reading materials.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

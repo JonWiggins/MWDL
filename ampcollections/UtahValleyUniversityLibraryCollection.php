@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Library Connection Newsletter Fall 2011 "width="354" height ="448"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The Library Connection Newsletter Fall 2011"width="354" height ="448"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-The Library Connection Newsletter Fall 2011 
+The Library Connection Newsletter Fall 2011
 <!-- Article Text -->
-</p>
-A collection of documents, newsletters, and presentations created by UVU librarians and staff. This collection also includes important books in the Library's Sutherland Archive.</p>
-
+</p><br/>A collection of documents, newsletters, and presentations created by UVU librarians and staff. This collection also includes important books in the Library's Sutherland Archive.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

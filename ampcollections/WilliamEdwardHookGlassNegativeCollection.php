@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bear "width="237" height ="286"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Bear"width="237" height ="286"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Bear 
+Bear
 <!-- Article Text -->
-</p>
-This collection consists of 84 scans of 4x5 glass plate negatives taken between 1878 and 1882 by photographer William Edward Hook. The photos include scenes of buildings, life, people, railroads, and scenic vistas of the Salt Lake area and Utah.</p>
-
+</p><br/>This collection consists of 84 scans of 4x5 glass plate negatives taken between 1878 and 1882 by photographer William Edward Hook. The photos include scenes of buildings, life, people, railroads, and scenic vistas of the Salt Lake area and Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

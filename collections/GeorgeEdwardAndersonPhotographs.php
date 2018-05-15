@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1068.jpg" alt="Great Elm on Dairy Hill "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1068.jpg" alt="Great Elm on Dairy Hill"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Great Elm on Dairy Hill 
+Great Elm on Dairy Hill
 </div>
 <!-- Collection Title-->
 <h4>George Edward Anderson Photographs</h4>
@@ -40,9 +40,7 @@ Great Elm on Dairy Hill
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-14,020 images taken ca. 1878-1928, which includes studio and environmental portraits, mostly of Utah residents; Utah railroad and mining history (including the 1900 Scofield mine disaster); and Mormon (LDS) Church historic sites.</p>
-
+</p><br/>14,020 images taken ca. 1878-1928, which includes studio and environmental portraits, mostly of Utah residents, Utah railroad and mining history (including the 1900 Scofield mine disaster), and Mormon (LDS) Church historic sites.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

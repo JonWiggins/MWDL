@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Sherratt Library acquires and provides access to materials related to Southern Utah University's history and archives; culture and history of southwestern Utah with a focus on settlement, communities, national parks and monuments, and national forests in the area; Native Americans with emphasis on the Southern Paiutes; trails and pioneer settlement of the west; and 20th century culture and industry, such as iron mining, coming of the railroad, Utah Shakespearean Festival, Utah Parks Company, Southwest Utah Livestock Association, and Cedar Livestock and Heritage Festival. </p>
-
-
-
+<br/><p>The Sherratt Library acquires and provides access to materials related to Southern Utah University's history and archives; culture and history of southwestern Utah with a focus on settlement, communities, national parks and monuments, and national forests in the area; Native Americans with emphasis on the Southern Paiutes; trails and pioneer settlement of the west; and 20th century culture and industry, such as iron mining, coming of the railroad, Utah Shakespearean Festival, Utah Parks Company, Southwest Utah Livestock Association, and Cedar Livestock and Heritage Festival. </p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

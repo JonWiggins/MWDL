@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1135.jpg" alt="Slab and bottle fence "width="337" height="318"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1135.jpg" alt="Slab and bottle fence"width="337" height="318"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Slab and bottle fence 
+Slab and bottle fence
 </div>
 <!-- Collection Title-->
 <h4>Fife Slide Collection of Western U.S. Vernacular Architecture</h4>
@@ -40,9 +40,7 @@ Slab and bottle fence
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Mailboxes, quilts, murals, tree bark graffiti, fences, gravestones, and festivals are among the many examples of folklife and material culture visually recorded by folklorists Austin and Alta Fife and presented in this digital collection.</p>
-
+</p><br/>Mailboxes, quilts, murals, tree bark graffiti, fences, gravestones, and festivals are among the many examples of folklife and material culture visually recorded by folklorists Austin and Alta Fife and presented in this digital collection.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

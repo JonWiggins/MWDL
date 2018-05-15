@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1216.jpg" alt="Harriet Beecher Stowe : the story of her life "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1216.jpg" alt="Harriet Beecher Stowe : the story of her life"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Harriet Beecher Stowe : the story of her life 
+Harriet Beecher Stowe : the story of her life
 </div>
 <!-- Collection Title-->
 <h4>American Travelers in Italy</h4>
@@ -40,9 +40,7 @@ Harriet Beecher Stowe : the story of her life
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Italian Travel Literature collection makes a number of titles available in full-text-searchable format for students, faculty, and others interested in Italian Studies.</p>
-
+</p><br/>The Italian Travel Literature collection makes a number of titles available in full-text-searchable format for students, faculty, and others interested in Italian Studies.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

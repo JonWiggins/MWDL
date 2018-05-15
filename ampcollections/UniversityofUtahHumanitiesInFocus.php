@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Artivism: how one community combined art and activism to revitalize hearts and minds
 <!-- Article Text -->
-</p>
-The collection includes more than 35 documentary films from students at the University of Utah and Greater Salt Lake City community. Since 2006, the students of HIF have covered subjects dealing with pressing issues that include addiction, abuse, immigration, politics, and family.</p>
-
+</p><br/>The collection includes more than 35 documentary films from students at the University of Utah and Greater Salt Lake City community. Since 2006, the students of HIF have covered subjects dealing with pressing issues that include addiction, abuse, immigration, politics, and family.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

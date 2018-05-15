@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Outreach no. 099 "width="263" height ="340"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Outreach no. 099"width="263" height ="340"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Outreach no. 099 
+Outreach no. 099
 <!-- Article Text -->
-</p>
-Browse editions of Marcus Bach's inspirational newsletter.</p>
-
+</p><br/>Browse editions of Marcus Bach's inspirational newsletter.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

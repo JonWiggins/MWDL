@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Cedar City parade band competition
 <!-- Article Text -->
-<p></p>
-<p>The name of Southern Utah University has changed several times. It began as the Southern Branch of the State Normal School of the University of Utah in 1897. Administrative oversight switched to the Utah State Agricultural College in 1913, resulting in the name Branch Agricultural College. The photographs in this collection represent the history of the institution from 1913 to 1953.</p>
-</p>
+<p></p><br/><p>The name of Southern Utah University has changed several times. It began as the Southern Branch of the State Normal School of the University of Utah in 1897. Administrative oversight switched to the Utah State Agricultural College in 1913, resulting in the name Branch Agricultural College. The photographs in this collection represent the history of the institution from 1913 to 1953.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

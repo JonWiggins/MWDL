@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The North Logan City Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those with an interest in places and peoples past.</p>
-
+</p><br/>The North Logan City Library and citizens of this area are committed to preserving and sharing our history. The photos and documents in this collection are meant to honor these people and be a resource for those with an interest in places and peoples past.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Unknown Fire Fighter </em>
 <!-- Article Text -->
-</p>
-This collection contains photographs from the Salt Lake City Fire Department that document the history of the agency. </p>
-
+</p><br/>This collection contains photographs from the Salt Lake City Fire Department that document the history of the agency. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

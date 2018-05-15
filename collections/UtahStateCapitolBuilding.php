@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2298.jpg" alt="<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2298.jpg" alt="<em>Design Submissions%comma% Submission by J. E. Tourtellote & Co. </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>
+<em>Design Submissions%comma% Submission by J. E. Tourtellote & Co. </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah State Capitol Building</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-"</p>
-To pursue the legislative mandate to ""erect a suitable building"" to serve as the Utah state capitol, the Capitol Commission issued a call for construction bids to contractors and artisans. This series contains the bids submitted to the commission by those seeking employment. The collection includes bids for furnishings, heating and ventilating systems, elevators, vaults, cuspidors, lighting, and numerous others. The series also documents inquiries from contractors to the Capitol Commission regarding the bidding process, contracts, operational budgets, and contract decisions. The bids include information on Utah craftsmen, architects, and contractors, and significant information about construction techniques, planning, bidding processes, and labor and material costs from the period. </p>
-"
+"</p><br/>To pursue the legislative mandate to ""erect a suitable building"" to serve as the Utah state capitol, the Capitol Commission issued a call for construction bids to contractors and artisans. This series contains the bids submitted to the commission by those seeking employment. The collection includes bids for furnishings, heating and ventilating systems, elevators, vaults, cuspidors, lighting, and numerous others. The series also documents inquiries from contractors to the Capitol Commission regarding the bidding process, contracts, operational budgets, and contract decisions. The bids include information on Utah craftsmen, architects, and contractors, and significant information about construction techniques, planning, bidding processes, and labor and material costs from the period. </p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

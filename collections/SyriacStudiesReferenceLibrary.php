@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1217.jpg" alt="Clementis Romani Recognitiones syriace "width="275" height="432"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1217.jpg" alt="Clementis Romani Recognitiones syriace"width="275" height="432"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Clementis Romani Recognitiones syriace 
+Clementis Romani Recognitiones syriace
 </div>
 <!-- Collection Title-->
 <h4>Syriac Studies Reference Library</h4>
@@ -40,9 +40,7 @@ Clementis Romani Recognitiones syriace
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Syriac Studies Reference Library is a collection of rare and out-of-print titles that are of vital importance for Syriac studies. It is especially rich in early manuscript catalogs, dictionaries, and grammars, and contains many of the indispensable editions of Syriac texts that were produced in the 18th, 19th, and early 20th centuries.</p>
-
+</p><br/>The Syriac Studies Reference Library is a collection of rare and out-of-print titles that are of vital importance for Syriac studies. It is especially rich in early manuscript catalogs, dictionaries, and grammars, and contains many of the indispensable editions of Syriac texts that were produced in the 18th, 19th, and early 20th centuries.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

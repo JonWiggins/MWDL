@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1605.jpg" alt="Horizon literary journal "width="253" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1605.jpg" alt="Horizon literary journal"width="253" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Horizon literary journal 
+Horizon literary journal
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake Community College Scholarly and Creative Works</h4>
@@ -40,9 +40,7 @@ Horizon literary journal
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-Starting Fall Semester 2007, SLCC invites faculty and students to submit their scholarly and creative work to our Digital Collection. This collection showcases these works.</p>
-
+</p><br/>Starting Fall Semester 2007, SLCC invites faculty and students to submit their scholarly and creative work to our Digital Collection. This collection showcases these works.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1027.jpg" alt="A Biography of Ezra Thompson Clark "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1027.jpg" alt="A Biography of Ezra Thompson Clark"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A Biography of Ezra Thompson Clark 
+A Biography of Ezra Thompson Clark
 </div>
 <!-- Collection Title-->
 <h4>Tanner Trust Book Collection</h4>
@@ -40,9 +40,7 @@ A Biography of Ezra Thompson Clark
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of 14 books covering topics dealing with early Utah history and Mormon culture, featuring the 1857 diary of Brigham Young.</p>
-
+</p><br/>A collection of 14 books covering topics dealing with early Utah history and Mormon culture, featuring the 1857 diary of Brigham Young.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

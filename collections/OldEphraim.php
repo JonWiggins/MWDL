@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1281.jpg" alt="Old Ephraim monument and gravesite "width="223" height="315"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1281.jpg" alt=""width="223" height="315"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Old Ephraim monument and gravesite 
+
 </div>
 <!-- Collection Title-->
 <h4>Old Ephraim</h4>
@@ -40,9 +40,7 @@ Old Ephraim monument and gravesite
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-One bear was very well known to all of the local sheepherders of Cache Valley, Utah. At first they called him Old Three Toe and then later Old Ephraim. He had a deformed foot with only three toes which made it very easy for the sheepherders to know when Old Ephraim attacked their sheep. In 1913 Frank Clark decided to catch and kill Old Ephraim. But at nine feet and eleven inches tall, Old Ephraim was a very large bear, and he was clever. Catching him did not turn out to be easy.</p>
-
+</p><br/>One bear was very well known to all of the local sheepherders of Cache Valley, Utah. At first they called him Old Three Toe and then later Old Ephraim. He had a deformed foot with only three toes which made it very easy for the sheepherders to know when Old Ephraim attacked their sheep. In 1913 Frank Clark decided to catch and kill Old Ephraim. But at nine feet and eleven inches tall, Old Ephraim was a very large bear, and he was clever. Catching him did not turn out to be easy.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

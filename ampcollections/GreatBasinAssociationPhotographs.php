@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/GreatBasinAssociation.php">Great Basin Association</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Entrance to Caves "width="371" height ="196"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Entrance to Caves"width="371" height ="196"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Entrance to Caves 
+Entrance to Caves
 <!-- Article Text -->
-</p>
-The Great Basin Association maintains this photo collection of Great Basin National Park. Located in Eastern Nevada, the once-thought barren area is full of unique wildlife and geological formations. This collection contains a number of antiquated photos, depicting early developments in the National Park, as well as contemporary photos of its landscape and park facilities.</p>
-
+</p><br/>The Great Basin Association maintains this photo collection of Great Basin National Park. Located in Eastern Nevada, the once-thought barren area is full of unique wildlife and geological formations. This collection contains a number of antiquated photos, depicting early developments in the National Park, as well as contemporary photos of its landscape and park facilities.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

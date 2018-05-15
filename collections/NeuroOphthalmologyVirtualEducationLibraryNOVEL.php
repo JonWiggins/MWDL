@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1186.jpg" alt="Optic Neuritis (French) "width="333" height="500"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1186.jpg" alt="Optic Neuritis (French)"width="333" height="500"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Optic Neuritis (French) 
+Optic Neuritis (French)
 </div>
 <!-- Collection Title-->
 <h4>Neuro-Ophthalmology Virtual Education Library (NOVEL)</h4>
@@ -40,9 +40,7 @@ Optic Neuritis (French)
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Neuro-Ophthalmology Virtual Education Library is a discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p>
-
+</p><br/>The Neuro-Ophthalmology Virtual Education Library is a discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

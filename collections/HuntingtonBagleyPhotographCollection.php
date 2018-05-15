@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1321.jpg" alt="2 men and 2 girls outdoors "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1321.jpg" alt=""width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-2 men and 2 girls outdoors 
+
 </div>
 <!-- Collection Title-->
 <h4>Huntington Bagley Photograph Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Elfie Huntington and Joseph Bagley were noted portrait photographers of the early 20th century, who were trained by George Edward Anderson. This digital collection selects approximately 4,500 images out of their collection of over 15,000 studio and environmental portraits from central and southern Utah.</p>
-
+</p><br/>Elfie Huntington and Joseph Bagley were noted portrait photographers of the early 20th century, who were trained by George Edward Anderson. This digital collection selects approximately 4,500 images out of their collection of over 15,000 studio and environmental portraits from central and southern Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

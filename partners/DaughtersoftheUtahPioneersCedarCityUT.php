@@ -24,11 +24,7 @@
 <h6><a href="http://www.dupinternational.org/">Daughters of the Utah Pioneers, Cedar City (UT) Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears. </p>
-
-
-</p>
+<p><br/><p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears. </p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Daughters+of+the+Utah+Pioneers,+Cedar+City+(UT)">Browse all records from Daughters of the Utah Pioneers, Cedar City (UT)</a>
 <!-- List all Active Collections -->

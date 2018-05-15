@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Third District Court Salt Lake County Civil Case Indexes 6071-61807_0707 </em>
 <!-- Article Text -->
-</p>
-The Civil Case Indexes record the names of plaintiffs and defendants involved in civil actions and provide assigned case numbers, facilitating clerical management of and access to the civil case files.</p>
-
+</p><br/>The Civil Case Indexes record the names of plaintiffs and defendants involved in civil actions and provide assigned case numbers, facilitating clerical management of and access to the civil case files.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

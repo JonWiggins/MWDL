@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Snow College Libraries are dedicated to providing an environment where learning occurs. As the intellectual and social center for both the Ephraim and Richfield campuses, the library is a place where intellectual communities are formed and where students can find a place for study and creativity. The libraries serve as a collaborative center for learning, and are a leader on campus for state of the art technology for students. The library provides research instruction and quality curriculum supporting information sources in the most appropriate formats. Space, equipment and support are provided for student projects.</p>
-<p>Snow College's Karen H. Huntsman Library on the Ephraim campus hosts the . MPHI provides training and technical support to libraries, archives, museums, and historical societies in the Mormon Pioneer National Heritage Area of central-southern Utah, so that they can have important historical documents and photographs digitally scanned, making copies that will be available to the public while leaving the originals in the safekeeping of owners. </p>
-
-
-<p>Mormon Pioneer Heritage Institute partners:</p>
+<br/><p>The Snow College Libraries are dedicated to providing an environment where learning occurs. As the intellectual and social center for both the Ephraim and Richfield campuses, the library is a place where intellectual communities are formed and where students can find a place for study and creativity. The libraries serve as a collaborative center for learning, and are a leader on campus for state of the art technology for students. The library provides research instruction and quality curriculum supporting information sources in the most appropriate formats. Space, equipment and support are provided for student projects.</p><br/><p>Snow College's Karen H. Huntsman Library on the Ephraim campus hosts the . MPHI provides training and technical support to libraries, archives, museums, and historical societies in the Mormon Pioneer National Heritage Area of central-southern Utah, so that they can have important historical documents and photographs digitally scanned, making copies that will be available to the public while leaving the originals in the safekeeping of owners. </p><br/><br/><br/><p>Mormon Pioneer Heritage Institute partners:</p>
 <hr>
 <!-- Browse Collections -->
 <h6>

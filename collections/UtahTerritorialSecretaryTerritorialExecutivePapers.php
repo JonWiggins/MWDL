@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2288.jpg" alt="<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2288.jpg" alt="<em>Territorial Secretary Territorial Executive Papers%comma% 1849-1896 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>
+<em>Territorial Secretary Territorial Executive Papers%comma% 1849-1896 </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Territorial Secretary Territorial Executive Papers</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-The territorial secretary was responsible for recording all acts and proceedings of the Governor in his executive department and to provide copies of these official acts to specific federal officials. Over half of the series represent official acts of the Governor. Many other duties of the secretary are also documented, most reflecting routine administrative functions of the territorial government. </p>
-
+</p><br/>The territorial secretary was responsible for recording all acts and proceedings of the Governor in his executive department and to provide copies of these official acts to specific federal officials. Over half of the series represent official acts of the Governor. Many other duties of the secretary are also documented, most reflecting routine administrative functions of the territorial government. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

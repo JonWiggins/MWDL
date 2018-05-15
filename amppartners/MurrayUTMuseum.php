@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>A wide-ranging collection of nearly 3,000 photographs from the Murray City (Utah) Museum depicting a general history of Murray from the early 20th to early 21st centuries. Topics and events portrayed in the photos include early pioneers, city mayors and other prominent citizens, city buildings and schools, the Murray fire department, 1983 flood, Jordan River Parkway, construction along State Street, just to name a few.</p>
-<p> <a href="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/mcm&CISOPTR=999&CISOBOX=1&REC=6" target="_blank" ref="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/mcm&CISOPTR=999&CISOBOX=1&REC=6">1910 Car<br> </a>Murray (UT) Museum</p>
-<p>Search within the records from this partner:</p>
-
+<br/><p>A wide-ranging collection of nearly 3,000 photographs from the Murray City (Utah) Museum depicting a general history of Murray from the early 20th to early 21st centuries. Topics and events portrayed in the photos include early pioneers, city mayors and other prominent citizens, city buildings and schools, the Murray fire department, 1983 flood, Jordan River Parkway, construction along State Street, just to name a few.</p><br/><p> <a href="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/mcm&CISOPTR=999&CISOBOX=1&REC=6" target="_blank" ref="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/mcm&CISOPTR=999&CISOBOX=1&REC=6">1910 Car<br> </a>Murray (UT) Museum</p><br/><p>Search within the records from this partner:</p><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

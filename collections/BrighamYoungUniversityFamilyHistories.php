@@ -40,9 +40,7 @@ The John and Inger Sward Johnson family
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Family histories hosted by Brigham Young University.</p>
-
+</p><br/>Family histories hosted by Brigham Young University.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Cataract Canyon
 <!-- Article Text -->
-</p>
-The Al W. Morton collection documents scenic Utah. Morton photographed and filmed many of Utah's natural beauties, including rivers, landscapes, and the National Parks in Utah, helping the tourist industry. He also documented recreational activities such as river trips. His films were shown in schools as tourist promotions. </p>
-
+</p><br/>The Al W. Morton collection documents scenic Utah. Morton photographed and filmed many of Utah's natural beauties, including rivers, landscapes, and the National Parks in Utah, helping the tourist industry. He also documented recreational activities such as river trips. His films were shown in schools as tourist promotions. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

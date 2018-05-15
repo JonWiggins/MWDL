@@ -24,14 +24,14 @@
 <h6><a href="http://library.boisestate.edu/">Boise State University - Albertsons Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>&nbsp;</p>
-
-</p>
+<p><br/><p>&nbsp;</p><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Boise+State+University+-+Albertsons+Library">Browse all records from Boise State University - Albertsons Library</a>
 <!-- List all Active Collections -->
 <li><a href = "../collections/HistoricBoiseStateCollection.php">Historic Boise State Collection</a></li>
+<li><a href = "../collections/RobertWLimbertCollection.php">Robert W. Limbert Collection</a></li>
+<li><a href = "../collections/NellShipmanCollection.php">Nell Shipman Collection</a></li>
+<li><a href = "../collections/BoiseIDDevelopmentCollection.php">Boise (ID) Development Collection</a></li>
 <li><a href = "../collections/DocRoachFire.php">Doc Roach Fire</a></li>
 <li><a href = "../collections/WilliamEBorah.php">William E. Borah</a></li>
 <li><a href = "../collections/IdahoWilderness.php">Idaho Wilderness</a></li>

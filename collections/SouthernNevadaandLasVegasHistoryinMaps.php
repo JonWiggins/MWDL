@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1202.jpg" alt="Maps of flood-prone areas in Las Vegas "width="287" height="342"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1202.jpg" alt="Maps of flood-prone areas in Las Vegas"width="287" height="342"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Maps of flood-prone areas in Las Vegas 
+Maps of flood-prone areas in Las Vegas
 </div>
 <!-- Collection Title-->
 <h4>Southern Nevada and Las Vegas History in Maps</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The historic map collection housed in the UNLV Libraries' Division of Special Collection dates from the 17th century to the present, including significant collections concerning the exploration of the American West, the American Southwest, Nevada, and Southern Nevada. This collection contains the original published reports of the great 19th century U.S. government surveys of the West, as well as the series of maps and atlases by Fremont, Emory, Beckwith, Warren and Wheeler that accompanied the published accounts.</p>
-
+</p><br/>The historic map collection housed in the UNLV Libraries' Division of Special Collection dates from the 17th century to the present, including significant collections concerning the exploration of the American West, the American Southwest, Nevada, and Southern Nevada. This collection contains the original published reports of the great 19th century U.S. government surveys of the West, as well as the series of maps and atlases by Fremont, Emory, Beckwith, Warren and Wheeler that accompanied the published accounts.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1510.jpg" alt="Penlight-cover Test "width="208" height="156"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1510.jpg" alt=""width="208" height="156"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Penlight-cover Test 
+
 </div>
 <!-- Collection Title-->
 <h4>Neuro-Ophthalmology: David E. Newman-Toker Collection</h4>
@@ -40,10 +40,7 @@ Penlight-cover Test
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Part of the The Neuro-Ophthalmology Virtual Education Library</p>
-A discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p>
-
+</p><br/>Part of the The Neuro-Ophthalmology Virtual Education Library</p><br/>A discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

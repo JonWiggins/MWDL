@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol 1 Fall 2002 The BYU Family Historian "width="339" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Vol 1 Fall 2002 The BYU Family Historian"width="339" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Vol 1 Fall 2002 The BYU Family Historian 
+Vol 1 Fall 2002 The BYU Family Historian
 <!-- Article Text -->
-</p>
-Assisting in finding ancestors and discovering the world in which they lived.</p>
-
+</p><br/>Assisting in finding ancestors and discovering the world in which they lived.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

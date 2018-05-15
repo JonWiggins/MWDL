@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Great Basin Association maintains this photo collection of Great Basin National Park. Located in Eastern Nevada, the once-thought barren area is full of unique wildlife and geological formations. This collection contains a number of antiquated photos, depicting early developments in the National Park, as well as contemporary photos of its landscape and park facilities.</p>
-
-
+<br/><p>The Great Basin Association maintains this photo collection of Great Basin National Park. Located in Eastern Nevada, the once-thought barren area is full of unique wildlife and geological formations. This collection contains a number of antiquated photos, depicting early developments in the National Park, as well as contemporary photos of its landscape and park facilities.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

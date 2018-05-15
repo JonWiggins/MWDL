@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1789.jpg" alt="Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917"width="371" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1789.jpg" alt="Aaron P. Christiansen Daybook 6%comma% November%comma% 1916 and January%comma% 1917"width="371" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917
+Aaron P. Christiansen Daybook 6%comma% November%comma% 1916 and January%comma% 1917
 </div>
 <!-- Collection Title-->
 <h4>Forest Ranger Daybooks of Aaron P. Christiansen</h4>
@@ -40,9 +40,7 @@ Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The fifteen daybooks in this collection describe the daily activities of a Forest Service Ranger in the early twentieth century. Written by Aaron Parley Christiansen when he was assistant Forest Ranger for the Uintah Forest, the daybooks cover 1915-1921 and describe his work activities in both the field and the office. Working in the Uintah National Forest, Christiansen was required to keep a daily log of his activities; these books represent that record. Subjects mentioned include timber sales, grazing leases, road building, forest fires and reseeding projects. Christiansen spent a great deal of his time in the field primarily working out of the Salt Creek Ranger Station; many of the entries concern the Salt Creek area. Of particular interest are the comments concerning Forest Service philosophy and Christiansen's philosophy about conservation. </p>
-</p>
+<p>The fifteen daybooks in this collection describe the daily activities of a Forest Service Ranger in the early twentieth century. Written by Aaron Parley Christiansen when he was assistant Forest Ranger for the Uintah Forest, the daybooks cover 1915-1921 and describe his work activities in both the field and the office. Working in the Uintah National Forest, Christiansen was required to keep a daily log of his activities, these books represent that record. Subjects mentioned include timber sales, grazing leases, road building, forest fires and reseeding projects. Christiansen spent a great deal of his time in the field primarily working out of the Salt Creek Ranger Station, many of the entries concern the Salt Creek area. Of particular interest are the comments concerning Forest Service philosophy and Christiansen's philosophy about conservation. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

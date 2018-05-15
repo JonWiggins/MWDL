@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Utah State Library, created in 1957, works to develop, advance, and promote library services and equal access to information and library resources to all Utah residents.</p>
-
-
-
+<br/><p>The Utah State Library, created in 1957, works to develop, advance, and promote library services and equal access to information and library resources to all Utah residents.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

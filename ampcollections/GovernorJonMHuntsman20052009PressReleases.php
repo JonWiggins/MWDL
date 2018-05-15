@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>2005; Jan-Feb </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>2005, Jan-Feb </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>2005; Jan-Feb </em>
+<em>2005, Jan-Feb </em>
 <!-- Article Text -->
-</p>
-This series contains press releases and media advisories given to numerous media sources to publicize the governor's activities and opinions on the appointment of judges and state officials, announcements of new businesses in Utah, legislative announcements and official decrees recognizing and celebrating significant individuals and events. </p>
-
+</p><br/>This series contains press releases and media advisories given to numerous media sources to publicize the governor's activities and opinions on the appointment of judges and state officials, announcements of new businesses in Utah, legislative announcements and official decrees recognizing and celebrating significant individuals and events. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

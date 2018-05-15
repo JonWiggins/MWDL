@@ -24,12 +24,7 @@
 <h6><a href="http://www.lib.utah.edu/">University of Utah - J. Willard Marriott Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p>
-<p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p>
-
-
-</p>
+<p><br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+J.+Willard+Marriott+Library">Browse all records from University of Utah - J. Willard Marriott Library</a>
 <!-- List all Active Collections -->
@@ -64,10 +59,13 @@
 <li><a href = "../collections/WesternWatersAZvsCA.php">Western Waters: AZ vs. CA</a></li>
 <li><a href = "../collections/WesternWatersAudioVideoCollection.php">Western Waters: Audio-Video Collection</a></li>
 <li><a href = "../collections/HinckleyJournalofPolitics.php">Hinckley Journal of Politics</a></li>
+<li><a href = "../collections/UtahBoardofRegents.php">Utah Board of Regents</a></li>
+<li><a href = "../collections/UNewsandViews.php">U-News and Views</a></li>
 <li><a href = "../collections/UniversityNeighborhoodPartnersProgram.php">University Neighborhood Partners Program</a></li>
 <li><a href = "../collections/UniversityofUtahElectronicUniversityArchive.php">University of Utah Electronic University Archive</a></li>
 <li><a href = "../collections/WaterWiseUtah.php">Water Wise Utah</a></li>
 <li><a href = "../collections/UniversityofUtahPhotographArchives.php">University of Utah Photograph Archives</a></li>
+<li><a href = "../collections/UniversityofUtahEncodedArchivalDescriptionEADFindingAids.php">University of Utah Encoded Archival Description (EAD) Finding Aids</a></li>
 <li><a href = "../collections/WesternSoundscapeArchive.php">Western Soundscape Archive</a></li>
 <li><a href = "../collections/WesternSoundscapeArchiveSpectrograms.php">Western Soundscape Archive Spectrograms</a></li>
 <li><a href = "../collections/FrederickWilliamReynoldsLectures.php">Frederick William Reynolds Lectures</a></li>
@@ -76,7 +74,10 @@
 <li><a href = "../collections/HiddenWaterASurveyofSaltLakeValleyUTSurfaceWater.php">Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water</a></li>
 <li><a href = "../collections/WesternWatersUniversityofUtahSpecialCollections.php">Western Waters: University of Utah Special Collections</a></li>
 <li><a href = "../collections/UniversityofUtahMarriottLibraryPermanentArtCollection.php">University of Utah Marriott Library Permanent Art Collection</a></li>
+<li><a href = "../collections/LennoxandCatherineTierneyPhotographCollection.php">Lennox and Catherine Tierney Photograph Collection</a></li>
 <li><a href = "../collections/CyclingUtah.php">Cycling Utah</a></li>
+<li><a href = "../collections/EsplinFamilyCollection.php">Esplin Family Collection</a></li>
+<li><a href = "../collections/UtahArchitectsProject.php">Utah Architects Project</a></li>
 <li><a href = "../collections/JohnMillsWhitakerPapers.php">John Mills Whitaker Papers</a></li>
 <li><a href = "../collections/DaughtersoftheUtahPioneersKaysvilleUTPhillipsCampBiographies.php">Daughters of the Utah Pioneers Kaysville (UT) - Phillips Camp Biographies</a></li>
 <li><a href = "../collections/HiramBClawsonPapers.php">Hiram B. Clawson Papers</a></li>
@@ -91,6 +92,7 @@
 <li><a href = "../collections/UtahPioneerCostumeResearchProject.php">Utah Pioneer Costume Research Project</a></li>
 <li><a href = "../collections/ChicanoScholarshipArchive.php">Chicano Scholarship Archive</a></li>
 <li><a href = "../collections/UniversityofUtahHumanitiesInFocus.php">University of Utah Humanities In Focus</a></li>
+<li><a href = "../collections/AlfEngenPapers.php">Alf Engen Papers</a></li>
 <li><a href = "../collections/HGrantIvinsPapers.php">H. Grant Ivins Papers</a></li>
 <li><a href = "../collections/NelsonHigginsPapers.php">Nelson Higgins Papers</a></li>
 <li><a href = "../collections/InterviewswithJewsinUtah.php">Interviews with Jews in Utah</a></li>

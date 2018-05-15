@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1637.jpg" alt="Foragers and Farmers of the Northern Kayenta Region "width="319" height="469"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1637.jpg" alt="Foragers and Farmers of the Northern Kayenta Region"width="319" height="469"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Foragers and Farmers of the Northern Kayenta Region 
+Foragers and Farmers of the Northern Kayenta Region
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Press Open Access Works</h4>
@@ -40,9 +40,7 @@ Foragers and Farmers of the Northern Kayenta Region
 <h6> Published by <a href="../partners/UniversityofUtahUniversityPress.php">University of Utah - University Press</a></h6>
  
 <!-- Collection Description -->
-</p>
-The University of Utah Press is an agency of the J. Willard Marriott Library of The University of Utah. In accordance with the mission of the University, the Press publishes and disseminates scholarly books in selected fields, as well as other printed and recorded materials of significance to Utah, the region, the country, and the world.</p>
-
+</p><br/>The University of Utah Press is an agency of the J. Willard Marriott Library of The University of Utah. In accordance with the mission of the University, the Press publishes and disseminates scholarly books in selected fields, as well as other printed and recorded materials of significance to Utah, the region, the country, and the world.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1526.jpg" alt="Car in Front of Gus. F. Koehler Co., Aug. 1935 "width="306" height="235"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1526.jpg" alt="Car in Front of Gus. F. Koehler Co.%comma% Aug. 1935"width="306" height="235"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Car in Front of Gus. F. Koehler Co., Aug. 1935 
+Car in Front of Gus. F. Koehler Co.%comma% Aug. 1935
 </div>
 <!-- Collection Title-->
 <h4>Clifford Bray Photographs</h4>
@@ -40,9 +40,7 @@ Car in Front of Gus. F. Koehler Co., Aug. 1935
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The beautiful photos in this collection document the day to day activities of Utah citizens during the 1930's. The collections consists of 3100 black and white negatives taken between 1933 and 1938 while Mr. Bray worked for the Shipler Commercial Photographers.</p>
-
+</p><br/>The beautiful photos in this collection document the day to day activities of Utah citizens during the 1930's. The collections consists of 3100 black and white negatives taken between 1933 and 1938 while Mr. Bray worked for the Shipler Commercial Photographers.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

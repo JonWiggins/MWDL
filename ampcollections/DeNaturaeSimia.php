@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="De Naturae Simia "width="309" height ="453"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="De Naturae Simia"width="309" height ="453"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-De Naturae Simia 
+De Naturae Simia
 <!-- Article Text -->
-</p>
-Robert Fludd, a prominent 17th century doctor, wrote <em>De Naturae Simia</em>, which was released around 1626. This book, which forms part of the encyclopedic series issued over 9 years to 1626 called 'Utriusque Cosmi Maioris Scilicet et Minores Metaphysica, Physica Atque Technica Historia'. This portion contains interesting sketches and diagrams of various innovations and ideas.</p>
-
+</p><br/>Robert Fludd, a prominent 17th century doctor, wrote <em>De Naturae Simia</em>, which was released around 1626. This book, which forms part of the encyclopedic series issued over 9 years to 1626 called 'Utriusque Cosmi Maioris Scilicet et Minores Metaphysica, Physica Atque Technica Historia'. This portion contains interesting sketches and diagrams of various innovations and ideas.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Deteccion de anticuerpos contra Brucella abortus en bovinos "width="263" height ="330"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Deteccion de anticuerpos contra Brucella abortus en bovinos"width="263" height ="330"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Deteccion de anticuerpos contra Brucella abortus en bovinos 
+Deteccion de anticuerpos contra Brucella abortus en bovinos
 <!-- Article Text -->
-</p>
-Electronic theses sponsored or assisted by the Benson Institute at BYU.</p>
-
+</p><br/>Electronic theses sponsored or assisted by the Benson Institute at BYU.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

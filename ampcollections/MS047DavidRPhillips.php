@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 047 David R. Phillips</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Seated portrait of William F. Cody</em>"width="250" height ="400"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Seated portrait of William F. Cody</em>
 <!-- Article Text -->
-</p>
-A group of glass plate negatives from the collection of David R. Phillips focusing on William F. “Buffalo Bill” Cody and the Buffalo Bill’s Wild West show..</p>
-
+</p><br/>A group of glass plate negatives from the collection of David R. Phillips focusing on William F. “Buffalo Bill” Cody and the Buffalo Bill’s Wild West show..</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

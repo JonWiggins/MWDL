@@ -24,11 +24,7 @@
 <h6><a href="http://history.utah.gov/">Department of Heritage and Arts Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>This extensive set of unique collections from the Department of Heritage and Arts contains tens of thousands of photographs depicting important parts of Utah history. We are located in the 1910 Rio Grande Depot in Salt Lake City.</p>
-
-
-</p>
+<p><br/><p>This extensive set of unique collections from the Department of Heritage and Arts contains tens of thousands of photographs depicting important parts of Utah history. We are located in the 1910 Rio Grande Depot in Salt Lake City.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Department+of+Heritage+and+Arts">Browse all records from Department of Heritage and Arts</a>
 <!-- List all Active Collections -->
@@ -42,6 +38,8 @@
 <li><a href = "../collections/SchoolsoftheSaltLakeValleyUT.php">Schools of the Salt Lake Valley (UT)</a></li>
 <li><a href = "../collections/WilliamEdwardHookGlassNegativeCollection.php">William Edward Hook Glass Negative Collection</a></li>
 <li><a href = "../collections/PeoplesofUtah.php">Peoples of Utah</a></li>
+<li><a href = "../collections/DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids.php">Department of Heritage and Arts Encoded Archival Description (EAD) Finding Aids</a></li>
+<li><a href = "../collections/UtahHistoricandPrehistoricPublications.php">Utah Historic and Prehistoric Publications</a></li>
 <li><a href = "../collections/CliffordBrayPhotographs.php">Clifford Bray Photographs</a></li>
 <li><a href = "../collections/LarsonStudioNegativeCollection.php">Larson Studio Negative Collection</a></li>
 <li><a href = "../collections/TaylorWoolleyPhotographCollection.php">Taylor Woolley Photograph Collection</a></li>

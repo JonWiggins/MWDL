@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1866.jpg" alt="Bart Argyle interview "width="160" height="120"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1866.jpg" alt="Bart Argyle interview"width="160" height="120"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bart Argyle interview 
+Bart Argyle interview
 </div>
 <!-- Collection Title-->
 <h4>Ranch Family Documentation</h4>
@@ -40,9 +40,7 @@ Bart Argyle interview
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Focusing on ranch life in the Intermountain West, this digital collection of oral histories and photographs features 61 interviews with 78 ranchers from Elko County, Nevada and Utah's Box Elder, Cache and Rich counties. The physical elements of this collection are housed in the Ranch Family Documentation Project (Folk Coll 49), for which folklorists and archivists from USU's Special Collections and Archives interviewed ranchers and collected photographs to document and preserve the history and heritage of their unique way of life.</p>
-</p>
+<p></p><br/><p>Focusing on ranch life in the Intermountain West, this digital collection of oral histories and photographs features 61 interviews with 78 ranchers from Elko County, Nevada and Utah's Box Elder, Cache and Rich counties. The physical elements of this collection are housed in the Ranch Family Documentation Project (Folk Coll 49), for which folklorists and archivists from USU's Special Collections and Archives interviewed ranchers and collected photographs to document and preserve the history and heritage of their unique way of life.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1095.jpg" alt="The Latter-day Saints' emigrants' guide "width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1095.jpg" alt="The Latter-day Saints' emigrants' guide"width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Latter-day Saints' emigrants' guide 
+The Latter-day Saints' emigrants' guide
 </div>
 <!-- Collection Title-->
 <h4>Trails of Hope: Overland Trail Guides 1846-1869</h4>
@@ -40,9 +40,7 @@ The Latter-day Saints' emigrants' guide
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Trails of Hope: Overland Diaries and Letters, 1846–1869 is a collection of the original writings of 49 voyagers on the Mormon, California, Oregon, and Montana trails who wrote while traveling on the trail. Some diarists speak with uncommon eloquence and others with maddening brevity, while telling their stories of persistence and pain, birth and death, God and gold, dust and debris, bugs and buffalo, love and laughter, and trail tedium. Accompanying the original diary images and their searchable transcripts are 43 contemporary maps; seven trail guides; 82 photographs, watercolors and art sketches; four essays on the Mormon and California trails, maps and trail guides; suggested readings for further discovery; and brief biographies of 45 of the 49 diarists.</p>
-
+</p><br/>Trails of Hope: Overland Diaries and Letters, 1846–1869 is a collection of the original writings of 49 voyagers on the Mormon, California, Oregon, and Montana trails who wrote while traveling on the trail. Some diarists speak with uncommon eloquence and others with maddening brevity, while telling their stories of persistence and pain, birth and death, God and gold, dust and debris, bugs and buffalo, love and laughter, and trail tedium. Accompanying the original diary images and their searchable transcripts are 43 contemporary maps, seven trail guides, 82 photographs, watercolors and art sketches, four essays on the Mormon and California trails, maps and trail guides, suggested readings for further discovery, and brief biographies of 45 of the 49 diarists.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

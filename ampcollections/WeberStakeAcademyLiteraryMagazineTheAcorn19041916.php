@@ -17,9 +17,7 @@
 <!-- Image Description -->
 1904 The Acorn Vol. 2 No. 2 December
 <!-- Article Text -->
-</p>
- Running from 1904 to 1916, <em>The Acorn</em> includes writings, photographs and history submitted by students, faculty and alumni.</p>
-
+</p><br/> Running from 1904 to 1916, <em>The Acorn</em> includes writings, photographs and history submitted by students, faculty and alumni.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1032.jpg" alt="Volleyball Fd 04 #043 "width="321" height="468"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1032.jpg" alt="Volleyball Fd 04 #043"width="321" height="468"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Volleyball Fd 04 #043 
+Volleyball Fd 04 #043
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Archives Photograph Collection</h4>
@@ -40,9 +40,7 @@ Volleyball Fd 04 #043
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p>
-
+</p><br/>The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

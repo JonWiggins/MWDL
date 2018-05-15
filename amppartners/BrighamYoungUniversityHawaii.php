@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The small campus of BYU-Hawaii is a unique laboratory of intercultural leadership development, where a diverse population of 2,500 students representing over 70 countries live, study, and work together. Small classes taught by expert faculty empower students to master challenging and relevant curriculum, while affordable tuition, financial aid, and online study options make this valuable education more accessible than ever. Operated by The Church of Jesus Christ of Latter-day Saints, a total BYU–Hawaii education involves not only intellectual learning and career preparation, but also moral, ethical, and spiritual enrichment.</p>
-
-
-
-
+<br/><p>The small campus of BYU-Hawaii is a unique laboratory of intercultural leadership development, where a diverse population of 2,500 students representing over 70 countries live, study, and work together. Small classes taught by expert faculty empower students to master challenging and relevant curriculum, while affordable tuition, financial aid, and online study options make this valuable education more accessible than ever. Operated by The Church of Jesus Christ of Latter-day Saints, a total BYU–Hawaii education involves not only intellectual learning and career preparation, but also moral, ethical, and spiritual enrichment.</p><br/><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -33,5 +28,6 @@
 <li><a href = "../ampcollections/BrighamYoungUniversityHawaiiCollection.php">BrighamYoungUniversityHawaiiCollection</a></li>
 <li><a href = "../ampcollections/FrankCallPhotographCollection19091911.php">FrankCallPhotographCollection19091911</a></li>
 <li><a href = "../ampcollections/LaiePlantationandCommunityPhotoCollection18791965.php">LaiePlantationandCommunityPhotoCollection18791965</a></li>
+<li><a href = "../ampcollections/PolynesianCulturalCenterPhotoCollection19611979.php">PolynesianCulturalCenterPhotoCollection19611979</a></li>
 <li><a href = "../ampcollections/EdwardKBryantPhotoCollection19421945.php">EdwardKBryantPhotoCollection19421945</a></li>
 <?php include("../includes/ampfooter.php");?>

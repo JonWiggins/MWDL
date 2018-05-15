@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1791.jpg" alt="Lodge at Camp Lomia, summer home of the Boy Scouts"width="399" height="276"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1791.jpg" alt="Lodge at Camp Lomia%comma% summer home of the Boy Scouts"width="399" height="276"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Lodge at Camp Lomia, summer home of the Boy Scouts
+Lodge at Camp Lomia%comma% summer home of the Boy Scouts
 </div>
 <!-- Collection Title-->
 <h4>Logan Canyon Reflections</h4>
@@ -40,9 +40,7 @@ Lodge at Camp Lomia, summer home of the Boy Scouts
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Listen to people who have worked or played in Logan Canyon during the last century talk about what the canyon has meant to them. Ranchers, scientists, activists, scholars, foresters, sheepherders, hikers, fishermen, and nearby residents tell their canyon stories, adding a social and cultural perspective to scientific studies of Logan Canyon. Interviews with key land managers and users of Logan Canyon originate from the Logan Canyon Land Use Management Oral Histories project (2008-2009). The project's three partners were: Utah State University's Merrill-Cazier Library, College of Natural Resources, and Maintain West Center for Regional Studies. Generous funding came from the LIbrary's Special Collections and Archives, the Mountain West Center, the Utah Humanities Council, and the Utah Division of State History. </p>
-</p>
+<p></p><br/><p>Listen to people who have worked or played in Logan Canyon during the last century talk about what the canyon has meant to them. Ranchers, scientists, activists, scholars, foresters, sheepherders, hikers, fishermen, and nearby residents tell their canyon stories, adding a social and cultural perspective to scientific studies of Logan Canyon. Interviews with key land managers and users of Logan Canyon originate from the Logan Canyon Land Use Management Oral Histories project (2008-2009). The project's three partners were: Utah State University's Merrill-Cazier Library, College of Natural Resources, and Maintain West Center for Regional Studies. Generous funding came from the LIbrary's Special Collections and Archives, the Mountain West Center, the Utah Humanities Council, and the Utah Division of State History. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

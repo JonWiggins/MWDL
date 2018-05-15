@@ -17,10 +17,7 @@
 <!-- Image Description -->
 <em>Joseph Ellis Johnson autobiography</em>
 <!-- Article Text -->
-</p>
-The Joseph Ellis Johnson papers (1831-1964) consist of the personal and family papers of Joseph E. Johnson (1817-1882). Johnson was a prolific writer, leaving a legacy of seven original diaries written, at broken intervals, between 1850 and 1876. The diaries give detailed accounts of his various travels. The collection also contains his daybooks, account books, and record books.</p>
-Correspondence between members of the Johnson family makes up a great part of the collection. From his travels, Johnson wrote many letters, sending his love and instructions to his wives and children, and also wrote to his hired help who were running his business establishments. Johnson and his third wife, Eliza, corresponded most frequently as conditions prevented them from living in the same locality until they arrived in Utah.</p>
-
+</p><br/>The Joseph Ellis Johnson papers (1831-1964) consist of the personal and family papers of Joseph E. Johnson (1817-1882). Johnson was a prolific writer, leaving a legacy of seven original diaries written, at broken intervals, between 1850 and 1876. The diaries give detailed accounts of his various travels. The collection also contains his daybooks, account books, and record books.</p><br/>Correspondence between members of the Johnson family makes up a great part of the collection. From his travels, Johnson wrote many letters, sending his love and instructions to his wives and children, and also wrote to his hired help who were running his business establishments. Johnson and his third wife, Eliza, corresponded most frequently as conditions prevented them from living in the same locality until they arrived in Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

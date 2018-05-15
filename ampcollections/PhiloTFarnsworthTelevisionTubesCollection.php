@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="cathode ray tube "width="165" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="cathode ray tube"width="165" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-cathode ray tube 
+cathode ray tube
 <!-- Article Text -->
-</p>
-Philo T. Farnsworth, the inventor of television, was born in Beaver, Utah, in 1906. While a young teenager, he developed a theory for the electronic transmission of images. He graduated from Brigham Young University in 1925, then in 1927 he demonstrated the first working model of a television system. </p>
-
+</p><br/>Philo T. Farnsworth, the inventor of television, was born in Beaver, Utah, in 1906. While a young teenager, he developed a theory for the electronic transmission of images. He graduated from Brigham Young University in 1925, then in 1927 he demonstrated the first working model of a television system. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

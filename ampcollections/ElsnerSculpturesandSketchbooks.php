@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sketchbook 10 "width="277" height ="345"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The Latter-day Saints' Millennial Star Vol. 40"width="277" height ="345"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Sketchbook 10 
+The Latter-day Saints' Millennial Star Vol. 40
 <!-- Article Text -->
-</p>
-Explore the artistic universe of sculptor Larry E. Elsner as he invented, explored, and clarified ideas about form in hundreds of exquisitely drawn studies in seventy journals from the 1960s to the 1990s. Handwritten travel notes, poetry, technical notes, quotes from other artists, and thoughts about his own artwork and life intertwine with the drawings to form a diary of Elsner's life.</p>
-
+</p><br/>Explore the artistic universe of sculptor Larry E. Elsner as he invented, explored, and clarified ideas about form in hundreds of exquisitely drawn studies in seventy journals from the 1960s to the 1990s. Handwritten travel notes, poetry, technical notes, quotes from other artists, and thoughts about his own artwork and life intertwine with the drawings to form a diary of Elsner's life.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

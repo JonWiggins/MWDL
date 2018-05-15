@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2289.jpg" alt="<em>Book 3, A-Z </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2289.jpg" alt="<em>Book 3%comma% A-Z </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Book 3, A-Z </em>
+<em>Book 3%comma% A-Z </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Third District Case File Index</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-The territorial Case Index records the names of plaintiffs and defendants involved in court actions and provides assigned case numbers, facilitating clerical management of and access to the case files. Civil cases span the entire period (1871-1896). Criminal cases were indexed in this series from 1871 to 1882, when a separate filing arrangement for criminal case files was implemented. </p>
-
+</p><br/>The territorial Case Index records the names of plaintiffs and defendants involved in court actions and provides assigned case numbers, facilitating clerical management of and access to the case files. Civil cases span the entire period (1871-1896). Criminal cases were indexed in this series from 1871 to 1882, when a separate filing arrangement for criminal case files was implemented. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

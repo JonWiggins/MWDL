@@ -37,13 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 017 Charles Rapp Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of the 15 letters from Charles Rapp to Eva Shepard written from various locations in Wyoming Territory. Mr. Rapp, of New York, discusses gold mining, women homesteaders on the frontier, Mormon immigration, Shoshone and Sioux Indians, and a description of a visit to the Little Big Horn battlefield three days after the battle.</p>
-Charles Rapp was a New Yorker who came to Wyoming during the short-lived gold rush period. The collection contains 15 letters, written to a friend back home, that describe life in early Wyoming and in the mining camps. Among the topics discussed are relations with the Indians, the Battle of Little Big Horn, and his feelings of home sickness.</p>
-
+</p><br/>This collection consists of the 15 letters from Charles Rapp to Eva Shepard written from various locations in Wyoming Territory. Mr. Rapp, of New York, discusses gold mining, women homesteaders on the frontier, Mormon immigration, Shoshone and Sioux Indians, and a description of a visit to the Little Big Horn battlefield three days after the battle.</p><br/>Charles Rapp was a New Yorker who came to Wyoming during the short-lived gold rush period. The collection contains 15 letters, written to a friend back home, that describe life in early Wyoming and in the mining camps. Among the topics discussed are relations with the Indians, the Battle of Little Big Horn, and his feelings of home sickness.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

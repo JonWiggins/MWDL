@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2228.jpg" alt="<em>Uintah Chapter, Daughters of the American Revolution, archives</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2228.jpg" alt="<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Uintah Chapter, Daughters of the American Revolution, archives</em>
+<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Daughters of the American Revolution Papers</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Daughters of the American Revolution Papers includes advertising pamphlets; scrapbooks containing organizational records including clippings, programs, announcements, correspondence, awards, photographs, and obituaries; publications of the NSDAR.</p>
-
+</p><br/>The Daughters of the American Revolution Papers includes advertising pamphlets, scrapbooks containing organizational records including clippings, programs, announcements, correspondence, awards, photographs, and obituaries, publications of the NSDAR.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

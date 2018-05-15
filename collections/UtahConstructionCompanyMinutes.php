@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>A collection of the Board of Directors' meetings for the Utah Construction Company. The minutes cover 1900-1952 with the year of 1909 missing. The meetings covered jobs the company was bidding on, financial outlook of the company, and the daily business of the company. </p>
-</p>
+<p></p><br/><p>A collection of the Board of Directors' meetings for the Utah Construction Company. The minutes cover 1900-1952 with the year of 1909 missing. The meetings covered jobs the company was bidding on, financial outlook of the company, and the daily business of the company. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

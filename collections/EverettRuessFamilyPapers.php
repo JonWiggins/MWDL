@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Collection contains diaries, correspondence, postcards, school work and original writings, and other documents related to Everett Ruess and his family.</p>
-
+</p><br/>Collection contains diaries, correspondence, postcards, school work and original writings, and other documents related to Everett Ruess and his family.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1065.jpg" alt="The burned Tree "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1065.jpg" alt="The burned Tree"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The burned Tree 
+The burned Tree
 </div>
 <!-- Collection Title-->
 <h4>Edith Irvine</h4>
@@ -40,9 +40,7 @@ The burned Tree
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-293 photographs of California, especially stunning are her 1906 San Francisco earthquake images, with other important California images from the Electra Power Project (1898-1902), Mokelumne Hill and Yosemite National Park.</p>
-
+</p><br/>293 photographs of California, especially stunning are her 1906 San Francisco earthquake images, with other important California images from the Electra Power Project (1898-1902), Mokelumne Hill and Yosemite National Park.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

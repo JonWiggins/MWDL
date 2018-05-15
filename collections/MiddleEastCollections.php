@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1172.jpg" alt="Bukharah Qur'an "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1172.jpg" alt="Bukharah Qur'an"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bukharah Qur'an 
+Bukharah Qur'an
 </div>
 <!-- Collection Title-->
 <h4>Middle East Collections</h4>
@@ -40,9 +40,7 @@ Bukharah Qur'an
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Middle East rare collections include manuscripts in Arabic, Coptic, Hebrew, Persian, and Turkish dating from as early as 800CE/183AH, and more than 3,000 printed books from and about the Middle East. Highlighted in this collection is an eighteenth century Quran produced in Bukhara and a Persian manuscript of poetry by a Mughal princess.</p>
-
+</p><br/>The Middle East rare collections include manuscripts in Arabic, Coptic, Hebrew, Persian, and Turkish dating from as early as 800CE/183AH, and more than 3,000 printed books from and about the Middle East. Highlighted in this collection is an eighteenth century Quran produced in Bukhara and a Persian manuscript of poetry by a Mughal princess.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

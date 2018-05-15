@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 047 David R. Phillips</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A group of glass plate negatives from the collection of David R. Phillips focusing on William F. “Buffalo Bill” Cody and the Buffalo Bill’s Wild West show..</p>
-
+</p><br/>A group of glass plate negatives from the collection of David R. Phillips focusing on William F. “Buffalo Bill” Cody and the Buffalo Bill’s Wild West show..</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

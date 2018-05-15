@@ -24,17 +24,14 @@
 <h6><a href="http://westminstercollege.edu/library/#page=catalog">Westminster College - Giovale Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>Westminster College's digital collections contain photos and textual works regarding the history of the college and early religious movements in the area.</p>
-
-
-</p>
+<p><br/><p>Westminster College's digital collections contain photos and textual works regarding the history of the college and early religious movements in the area.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Westminster+College+-+Giovale+Library">Browse all records from Westminster College - Giovale Library</a>
 <!-- List all Active Collections -->
 <li><a href = "../collections/WestminsterCollegePhotographCollection.php">Westminster College Photograph Collection</a></li>
 <li><a href = "../collections/WestminsterCollegeTextualWorksCollection.php">Westminster College Textual Works Collection</a></li>
 <li><a href = "../collections/WestminsterCollegeInstitutionalRepository.php">Westminster College Institutional Repository</a></li>
+<li><a href = "../collections/WestminsterCollegeFindingAidsEAD.php">Westminster College Finding Aids (EAD)</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

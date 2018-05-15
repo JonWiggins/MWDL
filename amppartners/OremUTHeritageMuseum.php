@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>A visit to the Orem Heritage Museum is great for school and church groups, clubs and organizations, and families and individuals. The museum is an impressive 30,000-piece collection that tells the unique history of the city of Orem.</p>
-
-
+<br/><p>A visit to the Orem Heritage Museum is great for school and church groups, clubs and organizations, and families and individuals. The museum is an impressive 30,000-piece collection that tells the unique history of the city of Orem.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

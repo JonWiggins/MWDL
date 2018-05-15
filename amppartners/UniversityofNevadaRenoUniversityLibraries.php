@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The University of Nevada, Reno Libraries system includes three libraries: the Mathewson-IGT Knowledge Center, the DeLaMare Library, and the Savitt Medical Library. The Knowledge Center was opened in 2008 and is one of the most technologically advanced libraries in the world. The 300,000 square foot classical red brick building mirrors the architecture of much of the rest of the UNR campus which was established in Reno in 1885. Spectacular mountain and city views are available from every angle. The 21,000 square foot Savitt Medical Library was opened in 2001 and is the only academic medical library in the state with holdings of more than 60,000 volumes. The 22,500 square foot, 100,000+ volume DeLaMare Library was opened in 1997 in the renovated Mackay Mines Building.</p>
-
-<p>Collections from this partner:</p>
+<br/><p>The University of Nevada, Reno Libraries system includes three libraries: the Mathewson-IGT Knowledge Center, the DeLaMare Library, and the Savitt Medical Library. The Knowledge Center was opened in 2008 and is one of the most technologically advanced libraries in the world. The 300,000 square foot classical red brick building mirrors the architecture of much of the rest of the UNR campus which was established in Reno in 1885. Spectacular mountain and city views are available from every angle. The 21,000 square foot Savitt Medical Library was opened in 2001 and is the only academic medical library in the state with holdings of more than 60,000 volumes. The 22,500 square foot, 100,000+ volume DeLaMare Library was opened in 1997 in the renovated Mackay Mines Building.</p><br/><br/><p>Collections from this partner:</p>
 <hr>
 <!-- Browse Collections -->
 <h6>

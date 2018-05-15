@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Discourse with the earth
 <!-- Article Text -->
-</p>
-The University of Utah Dance Theses Collection in the Audio Visual Archives consists of 64 videorecordings, ranging from 1967 to 2001, of graduate thesis concerts presented by MFA candidates from the Departments of Ballet and of Modern Dance. </p>
-
+</p><br/>The University of Utah Dance Theses Collection in the Audio Visual Archives consists of 64 videorecordings, ranging from 1967 to 2001, of graduate thesis concerts presented by MFA candidates from the Departments of Ballet and of Modern Dance. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

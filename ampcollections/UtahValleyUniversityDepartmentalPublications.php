@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Crescat Scientia Journal of History Cover Page "width="254" height ="391"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Pottery-Tesuque- water god"width="254" height ="391"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Crescat Scientia Journal of History Cover Page 
+Pottery-Tesuque- water god
 <!-- Article Text -->
-</p>
-A collection of scholarly articles by UVU faculty, students, and alumni. </p>
-
+</p><br/>A collection of scholarly articles by UVU faculty, students, and alumni. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

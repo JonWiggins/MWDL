@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Sagebrush Vernacular: Rural Architecture in Nevada</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Grayson Ranch Barn"width="300" height ="249"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Grayson Ranch Barn
 <!-- Article Text -->
-<p></p>
-<p>Sagebrush Vernacular is an exhibition of 120 photographs selected from 463 photographs of rural Nevada architecture taken by advanced photography students from the University of Nevada, Reno.</p>
-</p>
+<p></p><br/><p>Sagebrush Vernacular is an exhibition of 120 photographs selected from 463 photographs of rural Nevada architecture taken by advanced photography students from the University of Nevada, Reno.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

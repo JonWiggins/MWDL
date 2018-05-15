@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1882-05-04 À sa mère To his mother "width="359" height ="194"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="359" height ="194"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1882-05-04 À sa mère To his mother 
-<!-- Article Text -->
-</p>
-The Marcel Schwob Digital Collection is a digital publication of 72 previously unpublished letters. The collection also includes a digital version of Marcel Schwob: Correspondance Inédite (Droz 1985), edited by former BYU Professor and Schwob scholar John Alden Green.</p>
 
+<!-- Article Text -->
+</p><br/>The Marcel Schwob Digital Collection is a digital publication of 72 previously unpublished letters. The collection also includes a digital version of Marcel Schwob: Correspondance Inédite (Droz 1985), edited by former BYU Professor and Schwob scholar John Alden Green.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

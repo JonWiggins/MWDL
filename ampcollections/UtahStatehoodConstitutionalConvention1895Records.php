@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Federal enabling act "width="328" height ="465"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Federal enabling act"width="328" height ="465"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Federal enabling act 
+Federal enabling act
 <!-- Article Text -->
-</p>
-On July 1894, the U.S. Congress enacted a law to enable the territory of Utah to be admitted into the Union as a state. The act spelled out the calling of a convention composed of 107 delegates to meet beginning in March 1895 to draw up a state constitution. These records are the papers of that convention. They include a copy of the federal enabling act; roll call; transcripts, published and unpublished, of the proceedings; files of proposals, petitions, and other recommendations for inclusion in the state constitution; and a limited number of committee reports, minutes and notes.</p>
-
+</p><br/>On July 1894, the U.S. Congress enacted a law to enable the territory of Utah to be admitted into the Union as a state. The act spelled out the calling of a convention composed of 107 delegates to meet beginning in March 1895 to draw up a state constitution. These records are the papers of that convention. They include a copy of the federal enabling act, roll call, transcripts, published and unpublished, of the proceedings, files of proposals, petitions, and other recommendations for inclusion in the state constitution, and a limited number of committee reports, minutes and notes.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

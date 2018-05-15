@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Regional History Center is dedicated to collecting, preserving and making available biographies, histories, county records, newspapers, maps, and photographs of the Uinta Basin Region. The Regional History Center is a one of a kind center in the state of Utah and the western states region. The Regional History Center has three photo collections. The Regional History Collection is made up of photos given to the center by various donors, the Vernal Express Collection is photographs that were in the local newspaper, and the Thorne Collection is a large collection from early photographer Leo Thorne.</p>
-<p>&nbsp;</p>
-
-
-
+<br/><p>The Regional History Center is dedicated to collecting, preserving and making available biographies, histories, county records, newspapers, maps, and photographs of the Uinta Basin Region. The Regional History Center is a one of a kind center in the state of Utah and the western states region. The Regional History Center has three photo collections. The Regional History Collection is made up of photos given to the center by various donors, the Vernal Express Collection is photographs that were in the local newspaper, and the Thorne Collection is a large collection from early photographer Leo Thorne.</p><br/><p>&nbsp;</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1138.jpg" alt="Twenty-mule train near Calico, California, 1905 "width="338" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1138.jpg" alt="Twenty-mule train near Calico%comma% California%comma% 1905"width="338" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Twenty-mule train near Calico, California, 1905 
+Twenty-mule train near Calico%comma% California%comma% 1905
 </div>
 <!-- Collection Title-->
 <h4>Death Valley Region Photograph Collection</h4>
@@ -40,9 +40,7 @@ Twenty-mule train near Calico, California, 1905
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This small collection of black and white photographs of the Death Valley area of Nevada and California was taken mainly in the late 1920s by ""Shorty"" Harris or one of his associates. Featuring buildings, a hearse, a gravestone, and other scenes from the ghost towns of Rhyolite, Aurora, and Calico, the Death Valley Region Photograph Collection consists of eleven silver gelatin POP prints purchased from Amalgre Books of Bloomington, Indiana in April of 1997.</p>
-"
+"</p><br/>This small collection of black and white photographs of the Death Valley area of Nevada and California was taken mainly in the late 1920s by ""Shorty"" Harris or one of his associates. Featuring buildings, a hearse, a gravestone, and other scenes from the ghost towns of Rhyolite, Aurora, and Calico, the Death Valley Region Photograph Collection consists of eleven silver gelatin POP prints purchased from Amalgre Books of Bloomington, Indiana in April of 1997.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

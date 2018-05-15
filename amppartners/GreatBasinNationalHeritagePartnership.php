@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Great Basin National Heritage Area is a geographical region located in White Pine County, Nevada, and Millard County, Utah and includes adjacent Indian reservations. The Area contains nationally significant archaeological, historical, cultural, natural, and scenic features that are emblematic of the entire Great Basin Area. National Heritage Areas are designated by congress in recognition of the contributions they make in making up the unique fabric of our country. The Great Basin Heritage Area Partner is a non-profit organization that is the local managing entity for the Great Basin National Heritage Area.</p>
-
-
+<br/><p>The Great Basin National Heritage Area is a geographical region located in White Pine County, Nevada, and Millard County, Utah and includes adjacent Indian reservations. The Area contains nationally significant archaeological, historical, cultural, natural, and scenic features that are emblematic of the entire Great Basin Area. National Heritage Areas are designated by congress in recognition of the contributions they make in making up the unique fabric of our country. The Great Basin Heritage Area Partner is a non-profit organization that is the local managing entity for the Great Basin National Heritage Area.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Merrill-Cazier Library, the main library at Utah State University in Logan, Utah, serves the research interests of faculty and students on the Logan campus, as well as extension agents throughout the state and distance students and faculty at 30 Education Centers outside the Cache Valley.</p>
-<p>The Merrill-Cazier Library contains over 1,505,000 total volumes, including 620,800 books, 300,370 government documents, over 100,000 maps, 12,760 current serial subscriptions, and access to over 200 bibliographic, fulltext, and informational databases. The Library is a regional depository of U.S. government publications, and, thus, has extensive holdings of U.S. agency documents, maps, and periodicals.</p>
-
-
-
+<br/><p>The Merrill-Cazier Library, the main library at Utah State University in Logan, Utah, serves the research interests of faculty and students on the Logan campus, as well as extension agents throughout the state and distance students and faculty at 30 Education Centers outside the Cache Valley.</p><br/><p>The Merrill-Cazier Library contains over 1,505,000 total volumes, including 620,800 books, 300,370 government documents, over 100,000 maps, 12,760 current serial subscriptions, and access to over 200 bibliographic, fulltext, and informational databases. The Library is a regional depository of U.S. government publications, and, thus, has extensive holdings of U.S. agency documents, maps, and periodicals.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -57,6 +52,10 @@
 <li><a href = "../ampcollections/PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch.php">PaulJonesthePortalandtheBuildingofStJohnsEpiscopalChurch</a></li>
 <li><a href = "../ampcollections/LincolnEllisonUSForestService.php">LincolnEllisonUSForestService</a></li>
 <li><a href = "../ampcollections/WilliamDHurstPapers.php">WilliamDHurstPapers</a></li>
+<li><a href = "../ampcollections/UtahStateUniversitySpecialCollectionsRegistersEADFindingAids.php">UtahStateUniversitySpecialCollectionsRegistersEADFindingAids</a></li>
+<li><a href = "../ampcollections/BeatPoetryBroadsidesandLittleMagazines.php">BeatPoetryBroadsidesandLittleMagazines</a></li>
+<li><a href = "../ampcollections/CacheValleyDiaries.php">CacheValleyDiaries</a></li>
+<li><a href = "../ampcollections/CollectingMemoriesOralHistoriesofAmericanFolklorists.php">CollectingMemoriesOralHistoriesofAmericanFolklorists</a></li>
 <li><a href = "../ampcollections/ForestRangerDaybooksofAaronPChristiansen.php">ForestRangerDaybooksofAaronPChristiansen</a></li>
 <li><a href = "../ampcollections/JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus.php">JBrackenLeeSelectionsfromArchiveheldatUSUEasternCampus</a></li>
 <li><a href = "../ampcollections/LoganCanyonReflections.php">LoganCanyonReflections</a></li>
@@ -74,9 +73,6 @@
 <li><a href = "../ampcollections/BearLakeMonster.php">BearLakeMonster</a></li>
 <li><a href = "../ampcollections/CacheCountyUTAerialPhotographCollection.php">CacheCountyUTAerialPhotographCollection</a></li>
 <li><a href = "../ampcollections/CacheCountyPlatMapPhotographCollection.php">CacheCountyPlatMapPhotographCollection</a></li>
-<li><a href = "../ampcollections/CacheValleyRefugeeOralHistoryProject.php">CacheValleyRefugeeOralHistoryProject</a></li>
-<li><a href = "../ampcollections/AgriculturalCollegeofUtahCyanotypeCollection.php">AgriculturalCollegeofUtahCyanotypeCollection</a></li>
-<li><a href = "../ampcollections/CacheValleyChurches.php">CacheValleyChurches</a></li>
 <li><a href = "../ampcollections/CacheValleyDrugCourtOralHistoryProject.php">CacheValleyDrugCourtOralHistoryProject</a></li>
 <li><a href = "../ampcollections/CacheValleyDrugCourtOralHistoryProject.php">CacheValleyDrugCourtOralHistoryProject</a></li>
 <li><a href = "../ampcollections/AmericanFolkloreSocietyPapers.php">AmericanFolkloreSocietyPapers</a></li>

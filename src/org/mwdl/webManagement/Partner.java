@@ -42,7 +42,7 @@ public class Partner {
         this.note = note;
         this.name = name.replace("%comma%",",");
         this.link = link;
-        this.article = text.replace("%comma%",",").replace("%newline%","\n");
+        this.article = text.replace("%comma%",",").replace("%newline%","<br/>");
         this.imageName = image;
         this.imageHeight = imageH;
         this.imageWidth = imageW;

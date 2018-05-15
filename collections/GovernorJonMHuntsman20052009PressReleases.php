@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2294.jpg" alt="<em>2005; Jan-Feb </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2294.jpg" alt="<em>2005, Jan-Feb </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>2005; Jan-Feb </em>
+<em>2005, Jan-Feb </em>
 </div>
 <!-- Collection Title-->
 <h4>Governor Jon M. Huntsman (2005-2009) Press Releases</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This series contains press releases and media advisories given to numerous media sources to publicize the governor's activities and opinions on the appointment of judges and state officials, announcements of new businesses in Utah, legislative announcements and official decrees recognizing and celebrating significant individuals and events. </p>
-
+</p><br/>This series contains press releases and media advisories given to numerous media sources to publicize the governor's activities and opinions on the appointment of judges and state officials, announcements of new businesses in Utah, legislative announcements and official decrees recognizing and celebrating significant individuals and events. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 5 - Cody Local History Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Cody, Wyoming was founded in 1895. Long associated with William F. Cody and the East Entrance to Yellowstone Park, Cody has had a rich and varied past. Series within the collection have been set up on the history of the City of Cody and Park County, which include Cody Rod and Gun Club papers; W. F. Cody; Wyoming and Western U.S. history; local persons and families such as Elmore Jones and the Hargreave family; general city of Cody and local scenery and wildlife photographs (many photos still unidentified); and Cody newspapers that include the Heart Mountain Sentinel of the World War II Japanese-American internment camp.</p>
-
+</p><br/>Cody, Wyoming was founded in 1895. Long associated with William F. Cody and the East Entrance to Yellowstone Park, Cody has had a rich and varied past. Series within the collection have been set up on the history of the City of Cody and Park County, which include Cody Rod and Gun Club papers, W. F. Cody, Wyoming and Western U.S. history, local persons and families such as Elmore Jones and the Hargreave family, general city of Cody and local scenery and wildlife photographs (many photos still unidentified), and Cody newspapers that include the Heart Mountain Sentinel of the World War II Japanese-American internment camp.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -40,9 +40,7 @@ Mother and Child
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
  
 <!-- Collection Description -->
-</p>
-A growing collection of materials housed in the Yellowstone National Park Heritage and Research Center. This collection includes photographs of early Gardiner, Montana; transcripts of oral histories by residents; and a Sanborn Fire Insurance Map depicting Gardiner streets and structures in 1907. </p>
-
+</p><br/>A growing collection of materials housed in the Yellowstone National Park Heritage and Research Center. This collection includes photographs of early Gardiner, Montana, transcripts of oral histories by residents, and a Sanborn Fire Insurance Map depicting Gardiner streets and structures in 1907. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

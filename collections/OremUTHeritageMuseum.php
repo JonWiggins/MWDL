@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1538.jpg" alt="Three Men Kneeling in a Field "width="357" height="282"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1538.jpg" alt="Three Men Kneeling in a Field"width="357" height="282"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Three Men Kneeling in a Field 
+Three Men Kneeling in a Field
 </div>
 <!-- Collection Title-->
 <h4>Orem (UT) Heritage Museum</h4>
@@ -40,9 +40,7 @@ Three Men Kneeling in a Field
 <h6> Published by <a href="../partners/OremUTHeritageMuseum.php">Orem (UT) Heritage Museum</a></h6>
  
 <!-- Collection Description -->
-</p>
-A visit to the Orem Heritage Museum is great for school and church groups, clubs and organizations, and families and individuals. The museum is an impressive 30,000-piece collection that tells the unique history of the city of Orem.</p>
-
+</p><br/>A visit to the Orem Heritage Museum is great for school and church groups, clubs and organizations, and families and individuals. The museum is an impressive 30,000-piece collection that tells the unique history of the city of Orem.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Slab and bottle fence "width="337" height ="318"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Slab and bottle fence"width="337" height ="318"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Slab and bottle fence 
+Slab and bottle fence
 <!-- Article Text -->
-</p>
-Mailboxes, quilts, murals, tree bark graffiti, fences, gravestones, and festivals are among the many examples of folklife and material culture visually recorded by folklorists Austin and Alta Fife and presented in this digital collection.</p>
-
+</p><br/>Mailboxes, quilts, murals, tree bark graffiti, fences, gravestones, and festivals are among the many examples of folklife and material culture visually recorded by folklorists Austin and Alta Fife and presented in this digital collection.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

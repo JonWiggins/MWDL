@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em> Semi-Centennial Commission Book of the Pioneers </em>
 <!-- Article Text -->
-"</p>
-The ""Book of the Pioneers"" was created as a record of those who arrived in the Valley of the Great Salt Lake during 1847, including the names, ages, autographs, and places of residence of all known survivors on 24 July 1897, the year of the jubilee. </p>
-"
+"</p><br/>The ""Book of the Pioneers"" was created as a record of those who arrived in the Valley of the Great Salt Lake during 1847, including the names, ages, autographs, and places of residence of all known survivors on 24 July 1897, the year of the jubilee. </p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1823.jpg" alt="A Basque Man Playing Pelota "width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1823.jpg" alt="A Basque Man Playing Pelota"width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A Basque Man Playing Pelota 
+A Basque Man Playing Pelota
 </div>
 <!-- Collection Title-->
 <h4>Basque Digital Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection is from the Basque Studies Library's photographic archives and includes photographs from both the American West and the Basque Country.</p>
-
+</p><br/>This collection is from the Basque Studies Library's photographic archives and includes photographs from both the American West and the Basque Country.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

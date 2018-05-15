@@ -40,9 +40,7 @@ John Hada
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Topaz oral history project collection interviews were conducted by Sandra Taylor, of the University of Utah's Department of History. The interviews were part of her research for Jewel of the desert: Japanese American internment at Topaz (1993). Also included are correspondence, news clippings, published and unpublished articles, and research files.; The Topaz oral history project collection contains transcripts of tapes, and related transcription materials of a collection of 70 oral history interviews which document the lives of Japanese Americans who were interned at the Topaz, Utah, camp. The interviews were conducted by Sandra Taylor of the University of Utah.</p>
-
+</p><br/>The Topaz oral history project collection interviews were conducted by Sandra Taylor, of the University of Utah's Department of History. The interviews were part of her research for Jewel of the desert: Japanese American internment at Topaz (1993). Also included are correspondence, news clippings, published and unpublished articles, and research files., The Topaz oral history project collection contains transcripts of tapes, and related transcription materials of a collection of 70 oral history interviews which document the lives of Japanese Americans who were interned at the Topaz, Utah, camp. The interviews were conducted by Sandra Taylor of the University of Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

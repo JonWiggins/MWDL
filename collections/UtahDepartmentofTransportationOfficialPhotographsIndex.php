@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1833.jpg" alt="boundary map for UDOT districts "width="329" height="413"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1833.jpg" alt="boundary map for UDOT districts"width="329" height="413"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-boundary map for UDOT districts 
+boundary map for UDOT districts
 </div>
 <!-- Collection Title-->
 <h4>Utah Department of Transportation Official Photographs Index</h4>
@@ -40,9 +40,7 @@ boundary map for UDOT districts
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Community Relations Office of the Department of Transportation created an index to their official photographs. The office assigned a job number to each set of photographs taken or adopted by the office as official photographs. The job number provides access to all photographic material in the official photographs collection. Job numbers include a three part number series. For each job number the index minimally identifies the subject of the photos and the date or dates on which they were taken. </p>
-
+</p><br/>The Community Relations Office of the Department of Transportation created an index to their official photographs. The office assigned a job number to each set of photographs taken or adopted by the office as official photographs. The job number provides access to all photographic material in the official photographs collection. Job numbers include a three part number series. For each job number the index minimally identifies the subject of the photos and the date or dates on which they were taken. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

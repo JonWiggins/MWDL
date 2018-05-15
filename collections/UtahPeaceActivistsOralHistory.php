@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1562.JPG" alt="Peace Activists "width="335" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1562.JPG" alt="Peace Activists"width="335" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Peace Activists 
+Peace Activists
 </div>
 <!-- Collection Title-->
 <h4>Utah Peace Activists Oral History</h4>
@@ -40,9 +40,7 @@ Peace Activists
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Oral History of Utah Peace Activists Project was begun in the spring of 2006. The goals are to preserve the historical record of peace activists and peace movements in Utah as well as to provide opportunities for Utahns and others to learn about the important role of peace activism in our society.</p>
-
+</p><br/>The Oral History of Utah Peace Activists Project was begun in the spring of 2006. The goals are to preserve the historical record of peace activists and peace movements in Utah as well as to provide opportunities for Utahns and others to learn about the important role of peace activism in our society.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

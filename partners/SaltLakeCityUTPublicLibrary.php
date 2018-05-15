@@ -24,12 +24,7 @@
 <h6><a href="http://www.slcpl.lib.ut.us/">Salt Lake City (UT) Public Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Salt Lake City Public Library System consists of a Main Library (pictured) and six Branch Libraries, with plans to open a seventh in late 2015 or early 2016. </p>
-<p>The City Library is a dynamic civic resource that promotes free and open access to information, materials, and services to all members of the community to advance knowledge, foster creativity, encourage the exchange of ideas, build community, and enhance the quality of life. </p>
-
-
-</p>
+<p><br/><p>The Salt Lake City Public Library System consists of a Main Library (pictured) and six Branch Libraries, with plans to open a seventh in late 2015 or early 2016. </p><br/><p>The City Library is a dynamic civic resource that promotes free and open access to information, materials, and services to all members of the community to advance knowledge, foster creativity, encourage the exchange of ideas, build community, and enhance the quality of life. </p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Salt+Lake+City+(UT)+Public+Library">Browse all records from Salt Lake City (UT) Public Library</a>
 <!-- List all Active Collections -->

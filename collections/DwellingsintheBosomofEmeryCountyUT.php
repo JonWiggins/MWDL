@@ -40,9 +40,7 @@ Anderson Hotel
 <h6> Published by <a href="../partners/EmeryCountyUTPublicLibraryandEmeryCountyUTArchives.php">Emery County (UT) Public Library and Emery County (UT) Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection features a variety of historic buildings photographs from Emery County, Utah.</p>
-
+</p><br/>This collection features a variety of historic buildings photographs from Emery County, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

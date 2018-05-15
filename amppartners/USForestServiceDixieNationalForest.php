@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<p><a href="http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110407&navtype=BROWSEBYSUBJECT&cid=FSE_003853&navid=091000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Dixie%20National%20Forest-%20Home/index.shtml" target="_blank">U.S. Forest Service, Dixie National Forest Website</a></p>
-<p>The Dixie National Forest, with headquarters in Cedar City, Utah, occupies almost two million acres and stretches for about 170 miles across southern Utah. It straddles the divide between the great Basin and the Colorado River. From 1902 through the mid 1980s, photos have been taken in the course of work. These include such activities as range studies, timber sales, recreation, facilities construction and use, local scenery, and general use of the forest.</p>
-<p>Search within the records from this partner:</p>
-
+<p><a href="http://www.fs.usda.gov/wps/portal/fsinternet/!ut/p/c4/04_SB8K8xLLM9MSSzPy8xBz9CP0os3gjAwhwtDDw9_AI8zPwhQoY6BdkOyoCAPkATlA!/?ss=110407&navtype=BROWSEBYSUBJECT&cid=FSE_003853&navid=091000000000000&pnavid=null&position=BROWSEBYSUBJECT&ttype=main&pname=Dixie%20National%20Forest-%20Home/index.shtml" target="_blank">U.S. Forest Service, Dixie National Forest Website</a></p><br/><p>The Dixie National Forest, with headquarters in Cedar City, Utah, occupies almost two million acres and stretches for about 170 miles across southern Utah. It straddles the divide between the great Basin and the Colorado River. From 1902 through the mid 1980s, photos have been taken in the course of work. These include such activities as range studies, timber sales, recreation, facilities construction and use, local scenery, and general use of the forest.</p><br/><p>Search within the records from this partner:</p><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

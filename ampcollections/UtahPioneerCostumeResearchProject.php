@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Utah Pioneer Costume and Manners Research Project: index of counties and towns
 <!-- Article Text -->
-</p>
-The purpose of the Utah Pioneer Costume Research Project was to photograph, record and annotate historic dress and define the relation of Utah pioneer dress to the general development of costume in the United States. It attempts to find similarities between Utah pioneer dress and the characteristics of the fashion of 1977, to find in what ways Utah pioneer dress differed from these, and to find what additions were made to the fashion of 1977 by Utah pioneer dress. The conclusions reached were that Utah pioneer dress, from 1847-1875, followed the general characteristics of 1977 fashion because the women had an interest in dress. But pioneer dress differed in certain details from 1977 fashion too.</p>
-
+</p><br/>The purpose of the Utah Pioneer Costume Research Project was to photograph, record and annotate historic dress and define the relation of Utah pioneer dress to the general development of costume in the United States. It attempts to find similarities between Utah pioneer dress and the characteristics of the fashion of 1977, to find in what ways Utah pioneer dress differed from these, and to find what additions were made to the fashion of 1977 by Utah pioneer dress. The conclusions reached were that Utah pioneer dress, from 1847-1875, followed the general characteristics of 1977 fashion because the women had an interest in dress. But pioneer dress differed in certain details from 1977 fashion too.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

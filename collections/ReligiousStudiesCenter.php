@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1215.jpg" alt="View of the Hebrews "width="179" height="134"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1215.jpg" alt="View of the Hebrews"width="179" height="134"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-View of the Hebrews 
+View of the Hebrews
 </div>
 <!-- Collection Title-->
 <h4>Religious Studies Center</h4>
@@ -40,9 +40,7 @@ View of the Hebrews
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The out-of-print publications of the Religious Studies Center, the research and publication arm of Religious Education.</p>
-
+</p><br/>The out-of-print publications of the Religious Studies Center, the research and publication arm of Religious Education.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

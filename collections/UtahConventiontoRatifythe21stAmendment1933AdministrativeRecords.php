@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1881.jpg" alt="Proceedings reports "width="307" height="399"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1881.jpg" alt="Proceedings reports"width="307" height="399"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Proceedings reports 
+Proceedings reports
 </div>
 <!-- Collection Title-->
 <h4>Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</h4>
@@ -40,9 +40,7 @@ Proceedings reports
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The 72nd Congress of the United States proposed the 21st amendment to the U.S. Constitution, repealing the 18th amendment and once again legalizing the manufacture and use of liquor. On October 10, 1933, Governor Henry H. Blood called for the election of delegates to a constitutional convention for the purpose of ratifying or rejecting the 21st amendment. The election was held on November 7, and the elected delegates met December 5. The amendment became effective with the ratification of 36 states; Utah was the 36th state to ratify. These records document the activities of the convention.</p>
-</p>
+<p></p><br/><p>The 72nd Congress of the United States proposed the 21st amendment to the U.S. Constitution, repealing the 18th amendment and once again legalizing the manufacture and use of liquor. On October 10, 1933, Governor Henry H. Blood called for the election of delegates to a constitutional convention for the purpose of ratifying or rejecting the 21st amendment. The election was held on November 7, and the elected delegates met December 5. The amendment became effective with the ratification of 36 states, Utah was the 36th state to ratify. These records document the activities of the convention.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1161.jpg" alt="Pearl and Jody Baker "width="374" height="248"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1161.jpg" alt="Pearl and Jody Baker"width="374" height="248"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Pearl and Jody Baker 
+Pearl and Jody Baker
 </div>
 <!-- Collection Title-->
 <h4>Pearl Biddlecomb Baker Collection</h4>
@@ -40,9 +40,7 @@ Pearl and Jody Baker
 <h6> Published by <a href="../partners/GreenRiverUTPublicLibrary.php">Green River (UT) Public Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible. This collection contains some of the documents the Library has to offer, as well as documents about the life of Baker.</p>
-
+</p><br/>The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible. This collection contains some of the documents the Library has to offer, as well as documents about the life of Baker.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

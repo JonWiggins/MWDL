@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1537.jpg" alt="High Schoolers in Formal Wear "width="365" height="195"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1537.jpg" alt="High Schoolers in Formal Wear"width="365" height="195"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-High Schoolers in Formal Wear 
+High Schoolers in Formal Wear
 </div>
 <!-- Collection Title-->
 <h4>City of Orem (UT)</h4>
@@ -40,9 +40,7 @@ High Schoolers in Formal Wear
 <h6> Published by <a href="../partners/OremUTPublicLibrary.php">Orem (UT) Public Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection features historic photographs from all over Orem, Utah.</p>
-
+</p><br/>This collection features historic photographs from all over Orem, Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1853.jpg" alt="Stockholder Ledgers 1936-1949 "width="391" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1853.jpg" alt="Stockholder Ledgers 1936-1949"width="391" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Stockholder Ledgers 1936-1949 
+Stockholder Ledgers 1936-1949
 </div>
 <!-- Collection Title-->
 <h4>Utah Construction Company: Stockholder Ledgers</h4>
@@ -40,9 +40,7 @@ Stockholder Ledgers 1936-1949
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Five volumes of the names and amount of stock owned by the stockholders of Utah Construction Company from 1900-1957.</p>
-</p>
+<p></p><br/><p>Five volumes of the names and amount of stock owned by the stockholders of Utah Construction Company from 1900-1957.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

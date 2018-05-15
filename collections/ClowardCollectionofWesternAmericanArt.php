@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2027.jpg" alt="Eagle Boy, by Stan Johnson"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2027.jpg" alt="Eagle Boy%comma% by Stan Johnson"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Eagle Boy, by Stan Johnson
+Eagle Boy%comma% by Stan Johnson
 </div>
 <!-- Collection Title-->
 <h4>Cloward Collection of Western American Art</h4>
@@ -40,9 +40,7 @@ Eagle Boy, by Stan Johnson
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection of Western American art was donated by Sherman and Sheryle Cloward. It includes works of art by artists Stan Johnson, Gary Kapp and Nina Schumann. This impressive collection includes bronze sculptures and oil paintings.</p>
-
+</p><br/>This collection of Western American art was donated by Sherman and Sheryle Cloward. It includes works of art by artists Stan Johnson, Gary Kapp and Nina Schumann. This impressive collection includes bronze sculptures and oil paintings.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

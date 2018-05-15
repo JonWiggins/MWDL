@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1634.jpg" alt="Haile Selassie (portrait) "width="245" height="375"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1634.jpg" alt="Haile Selassie (portrait)"width="245" height="375"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Haile Selassie (portrait) 
+Haile Selassie (portrait)
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Marriott Library Permanent Art Collection</h4>
@@ -40,9 +40,7 @@ Haile Selassie (portrait)
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Marriott Library's art collection includes a wide variety of mediums and genres.</p>
-
+</p><br/>Marriott Library's art collection includes a wide variety of mediums and genres.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

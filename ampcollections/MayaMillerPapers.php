@@ -9,17 +9,15 @@
 <!-- Collection Title -->
 <h3>Maya Miller Papers</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Advertising flier for Maya Miller's U.S. Senate Campaign%comma% 1974</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>
+<em>Advertising flier for Maya Miller's U.S. Senate Campaign%comma% 1974</em>
 <!-- Article Text -->
-</p>
-Maya Miller was as an inspiration and mentor to an entire generation of political activists, progressive thinkers, feminists, and those interested in social justice. Her papers are a representation of her commitment to the rights and well-being of the disadvantaged and disenfranchised in her home state of Nevada and abroad. In 2014, the last of Maya Miller’s papers were donated to the University of Nevada, Reno’s Special Collections, along with a generous grant from the family’s Orchard House Foundation in order to prepare the collection for use.</p>
-
+</p><br/>Maya Miller was as an inspiration and mentor to an entire generation of political activists, progressive thinkers, feminists, and those interested in social justice. Her papers are a representation of her commitment to the rights and well-being of the disadvantaged and disenfranchised in her home state of Nevada and abroad. In 2014, the last of Maya Miller’s papers were donated to the University of Nevada, Reno’s Special Collections, along with a generous grant from the family’s Orchard House Foundation in order to prepare the collection for use.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SnowCollegeLibraries.php">Snow College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Saga of the Sanpitch Vol 19 "width="286" height ="419"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Saga of the Sanpitch Vol 19"width="286" height ="419"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Saga of the Sanpitch Vol 19 
+Saga of the Sanpitch Vol 19
 <!-- Article Text -->
-</p>
-This collection contains 30 volumes of stories and poems about early southern Utah pioneers.</p>
-
+</p><br/>This collection contains 30 volumes of stories and poems about early southern Utah pioneers.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

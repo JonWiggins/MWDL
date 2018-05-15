@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1194.jpg" alt="Burtner Dam "width="380" height="248"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1194.jpg" alt="Burtner Dam"width="380" height="248"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Burtner Dam 
+Burtner Dam
 </div>
 <!-- Collection Title-->
 <h4>Great Basin Museum Collection</h4>
@@ -40,9 +40,7 @@ Burtner Dam
 <h6> Published by <a href="../partners/GreatBasinMuseum.php">Great Basin Museum</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Great Basin Museum collection contains an assortment of historical photographs that depict historical events in infrastructure development in the Great Basin Area.</p>
-
+</p><br/>The Great Basin Museum collection contains an assortment of historical photographs that depict historical events in infrastructure development in the Great Basin Area.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

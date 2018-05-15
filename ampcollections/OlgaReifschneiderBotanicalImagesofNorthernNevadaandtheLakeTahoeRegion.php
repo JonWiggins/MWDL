@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Bitter Cherry (Prunus emarginata - Rosaceae)"width="300" height ="249"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 Bitter Cherry (Prunus emarginata - Rosaceae)
 <!-- Article Text -->
-<p></p>
-<p>This collection contains 275 images of plants and trees taken in northern Nevada and the Lake Tahoe region by botanist and nature writer Olga Reifschneider from the 1940s-70s; it presents an expansive view of the botanical life of this region and is exclusively devoted to native plants.</p>
-</p>
+<p></p><br/><p>This collection contains 275 images of plants and trees taken in northern Nevada and the Lake Tahoe region by botanist and nature writer Olga Reifschneider from the 1940s-70s, it presents an expansive view of the botanical life of this region and is exclusively devoted to native plants.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

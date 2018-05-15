@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>John A. Boyle (1898-1899) </em>
 <!-- Article Text -->
-</p>
-Photographs of Ogden, UT Mayors from the Ogden City Recorder Collections.</p>
-
+</p><br/>Photographs of Ogden, UT Mayors from the Ogden City Recorder Collections.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

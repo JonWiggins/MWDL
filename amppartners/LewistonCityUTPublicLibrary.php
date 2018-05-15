@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Mission Statement: The Lewiston Public Library believes it is essential to provide materials and services, which will help community residents, obtain information meeting their personal, educational and professional information needs. The Library will serve as a center for learning and enrichment for all residents of the community regardless of age level. </p>
-
-
-
+<br/><p>Mission Statement: The Lewiston Public Library believes it is essential to provide materials and services, which will help community residents, obtain information meeting their personal, educational and professional information needs. The Library will serve as a center for learning and enrichment for all residents of the community regardless of age level. </p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

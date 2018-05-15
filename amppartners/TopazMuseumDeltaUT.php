@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>During World War II over 100,000 people of Japanese ancestry were forced from their homes on the Pacific coast into ten internment camps scattered throughout the United States. Topaz was a camp located 16 miles outside of Delta, Utah. The camp opened on Sept. 11, 1942 and closed on Oct. 31, 1945. While in operation, over 11,000 people were processed through Topaz by the War Relocation Authority. Most of the people confined in Topaz came from the Bay Area, and two-thirds were American citizens. This collection of photographs was donated to the Topaz Museum by Emil and Eleanor Gerard Sekerak, who both worked at the camp. For more digital resources see the Topaz Museum website at .</p>
-<p><strong>The Topaz Japanese American WWII Internment Camp</strong></p>
-<p>Search within the records from this partner:</p>
-
+<br/><p>During World War II over 100,000 people of Japanese ancestry were forced from their homes on the Pacific coast into ten internment camps scattered throughout the United States. Topaz was a camp located 16 miles outside of Delta, Utah. The camp opened on Sept. 11, 1942 and closed on Oct. 31, 1945. While in operation, over 11,000 people were processed through Topaz by the War Relocation Authority. Most of the people confined in Topaz came from the Bay Area, and two-thirds were American citizens. This collection of photographs was donated to the Topaz Museum by Emil and Eleanor Gerard Sekerak, who both worked at the camp. For more digital resources see the Topaz Museum website at .</p><br/><p><strong>The Topaz Japanese American WWII Internment Camp</strong></p><br/><p>Search within the records from this partner:</p><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

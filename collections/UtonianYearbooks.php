@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1176.jpg" alt="1907 Utonian "width="323" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1176.jpg" alt="1907 Utonian"width="323" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1907 Utonian 
+1907 Utonian
 </div>
 <!-- Collection Title-->
 <h4>Utonian Yearbooks</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains 72 volumes of The Utonian - the annual yearbook of the University of Utah. It runs from 1905 to 1981.</p>
-
+</p><br/>This collection contains 72 volumes of The Utonian - the annual yearbook of the University of Utah. It runs from 1905 to 1981.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

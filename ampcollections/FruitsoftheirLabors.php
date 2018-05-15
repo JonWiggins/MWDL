@@ -17,11 +17,7 @@
 <!-- Image Description -->
 Oral history interview with Ray Allred
 <!-- Article Text -->
-</p>
-The Fruits of their labors collection includes field work materials, including oral histories, photographs, and supporting materials, gathered by Fruits of their Labors field school participants between July and August, 2004. Materials focus on the development, management, and decline of orchards in Utah Valley, Utah. The Fruits of their Labors was a field school conducted by Brigham Young University and the American Folklife Center in 2004 as part of the Utah Heritage Project. The Heritage Project field school papers are housed at the Wilson Folklore Archives, L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Subjects: Agriculture and natural resources; Agriculture; Folklore; The Church of Jesus Christ of Latter-day Saints; Orchards -- Utah; Utah Valley -- History; Oral histories; Transcripts; Photographs; Audiocassettes.</p>
-&nbsp;</p>
-&nbsp;</p>
-
+</p><br/>The Fruits of their labors collection includes field work materials, including oral histories, photographs, and supporting materials, gathered by Fruits of their Labors field school participants between July and August, 2004. Materials focus on the development, management, and decline of orchards in Utah Valley, Utah. The Fruits of their Labors was a field school conducted by Brigham Young University and the American Folklife Center in 2004 as part of the Utah Heritage Project. The Heritage Project field school papers are housed at the Wilson Folklore Archives, L. Tom Perry Special Collections, Harold B. Lee Library, Brigham Young University. Subjects: Agriculture and natural resources, Agriculture, Folklore, The Church of Jesus Christ of Latter-day Saints, Orchards -- Utah, Utah Valley -- History, Oral histories, Transcripts, Photographs, Audiocassettes.
 <hr>
 <!-- Browse Collection -->
 <h6>

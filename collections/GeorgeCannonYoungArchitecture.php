@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2224.jpg" alt="<em>Proposed extension to El Rancho Moter Hotel, Phoenix, Arizona, courtyard</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2224.jpg" alt="<em>Proposed extension to El Rancho Moter Hotel%comma% Phoenix%comma% Arizona%comma% courtyard</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Proposed extension to El Rancho Moter Hotel, Phoenix, Arizona, courtyard</em>
+<em>Proposed extension to El Rancho Moter Hotel%comma% Phoenix%comma% Arizona%comma% courtyard</em>
 </div>
 <!-- Collection Title-->
 <h4>George Cannon Young Architecture</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Architectural drawings and blueprints from architect George Cannon Young./p&gt; </p>
-
+</p><br/>Architectural drawings and blueprints from architect George Cannon Young./p&gt, </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

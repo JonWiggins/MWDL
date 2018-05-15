@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1618.jpg" alt="1896 Session Bill 1 "width="218" height="416"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1618.jpg" alt="1896 Session Bill 1"width="218" height="416"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1896 Session Bill 1 
+1896 Session Bill 1
 </div>
 <!-- Collection Title-->
 <h4>Utah Legislature. Senate Working Bills</h4>
@@ -40,12 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This series documents the legislative process in the Utah Senate. The working copy includes the bill as introduced and any amendments made to it. The final official version of the bill is not part of this series unless it was vetoed by the Governor, returned to the Legislature while still in session, and the Legislature failed to override the veto.</p>
-&nbsp;</p>
-</p>
-</p>
-</p>
+</p><br/>This series documents the legislative process in the Utah Senate. The working copy includes the bill as introduced and any amendments made to it. The final official version of the bill is not part of this series unless it was vetoed by the Governor, returned to the Legislature while still in session, and the Legislature failed to override the veto.</p><br/>&nbsp,</p><br/></p><br/></p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

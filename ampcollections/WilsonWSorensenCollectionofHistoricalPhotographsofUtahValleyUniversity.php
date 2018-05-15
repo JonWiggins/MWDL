@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Black and white photograph of W. W. Sorensen standing at a pulpit."width="410" height ="326"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="410" height ="326"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Black and white photograph of W. W. Sorensen standing at a pulpit.
-<!-- Article Text -->
-</p>
-The Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University contains images that trace the history of UVU from 1942 to 1982. Wilson W. Sorensen was president of the school during that time, and donated these photographs that document the changing missions, and many names, of the school, from Central Utah Vocational School and Utah Trade and Technical Institute, to Utah Technical College at Provo to Utah Technical College at Provo/Orem. After President Sorensen retired in 1982, the school became Utah Valley Community College, then Utah Valley State College, and now Utah Valley University.</p>
 
+<!-- Article Text -->
+</p><br/>The Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University contains images that trace the history of UVU from 1942 to 1982. Wilson W. Sorensen was president of the school during that time, and donated these photographs that document the changing missions, and many names, of the school, from Central Utah Vocational School and Utah Trade and Technical Institute, to Utah Technical College at Provo to Utah Technical College at Provo/Orem. After President Sorensen retired in 1982, the school became Utah Valley Community College, then Utah Valley State College, and now Utah Valley University.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

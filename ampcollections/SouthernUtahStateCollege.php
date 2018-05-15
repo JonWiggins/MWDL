@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Zion National Park, Kolob canyon"width="353" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="2 men and 2 girls outdoors"width="353" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Zion National Park, Kolob canyon
+2 men and 2 girls outdoors
 <!-- Article Text -->
-<p></p>
-<p>Boyd D. Redington was employed as a photographer for Southern Utah State College. This collection contains his photographs of the Southern Utah area.</p>
-</p>
+<p></p><br/><p>Boyd D. Redington was employed as a photographer for Southern Utah State College. This collection contains his photographs of the Southern Utah area.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

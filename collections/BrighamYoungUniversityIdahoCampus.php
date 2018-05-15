@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1055.jpg" alt="Girl in flood water "width="352" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1055.jpg" alt="Girl in flood water"width="352" height="252"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Girl in flood water 
+Girl in flood water
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University-Idaho Campus</h4>
@@ -40,9 +40,7 @@ Girl in flood water
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
  
 <!-- Collection Description -->
-</p>
-Historically significant photographs of students, faculty and buildings at BYU Idaho</p>
-
+</p><br/>Historically significant photographs of students, faculty and buildings at BYU Idaho</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

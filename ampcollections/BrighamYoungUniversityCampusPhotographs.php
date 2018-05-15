@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1st Board of Trustees "width="356" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="1st Board of Trustees"width="356" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1st Board of Trustees 
+1st Board of Trustees
 <!-- Article Text -->
-</p>
-This collection contains historical photographs that document campus life at Brigham Young University, Brigham Young University-Idaho, and Brigham Young University-Hawaii. Images include student life, athletic competition, campus buildings, portraits of individuals, aerial shots of the various campuses, and other views of life on a university campus.</p>
-
+</p><br/>This collection contains historical photographs that document campus life at Brigham Young University, Brigham Young University-Idaho, and Brigham Young University-Hawaii. Images include student life, athletic competition, campus buildings, portraits of individuals, aerial shots of the various campuses, and other views of life on a university campus.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 294 William Bell</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-William A. Bell was the professional printer for W. F. Cody & Buffalo Bill’s Wild West, Capt. Jack Crawford, Texas Jack & Capt. Chas. L.Von Berg. Through this relationship William A. Bell developed friendships with these men. This collection includes information of the Bell family and their relationships to these men through books, correspondence, poetry, news clippings, ephemera, and personal photographs.</p>
-
+</p><br/>William A. Bell was the professional printer for W. F. Cody & Buffalo Bill’s Wild West, Capt. Jack Crawford, Texas Jack & Capt. Chas. L.Von Berg. Through this relationship William A. Bell developed friendships with these men. This collection includes information of the Bell family and their relationships to these men through books, correspondence, poetry, news clippings, ephemera, and personal photographs.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

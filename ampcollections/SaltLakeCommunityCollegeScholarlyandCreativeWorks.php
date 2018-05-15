@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Horizon literary journal "width="253" height ="256"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Horizon literary journal"width="253" height ="256"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Horizon literary journal 
+Horizon literary journal
 <!-- Article Text -->
-</p>
-Starting Fall Semester 2007, SLCC invites faculty and students to submit their scholarly and creative work to our Digital Collection. This collection showcases these works.</p>
-
+</p><br/>Starting Fall Semester 2007, SLCC invites faculty and students to submit their scholarly and creative work to our Digital Collection. This collection showcases these works.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

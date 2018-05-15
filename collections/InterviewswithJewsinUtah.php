@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2202.jpg" alt=""<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>""width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2202.jpg" alt=""<em>I. J. ""Izzie"" Wagner%comma% Interviews with Jews in Utah%comma% Accn 998</em>""width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-"<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>"
+"<em>I. J. ""Izzie"" Wagner%comma% Interviews with Jews in Utah%comma% Accn 998</em>"
 </div>
 <!-- Collection Title-->
 <h4>Interviews with Jews in Utah</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The interviews with Jews in Utah collection (1982-1988) is part of a project funded by the Utah Endowment for the Humanities and undertaken by the Oral History Institute of Salt Lake City, Utah. Events recalled by the interviewees span the time period from the 1880s to 1986. Common themes include family life, immigration, relations with the LDS community, religious activity, the unification of the congregations Montefiore and B'nai Israel, Jewish businesses and organizations, and World War II.</p>
-
+</p><br/>The interviews with Jews in Utah collection (1982-1988) is part of a project funded by the Utah Endowment for the Humanities and undertaken by the Oral History Institute of Salt Lake City, Utah. Events recalled by the interviewees span the time period from the 1880s to 1986. Common themes include family life, immigration, relations with the LDS community, religious activity, the unification of the congregations Montefiore and B'nai Israel, Jewish businesses and organizations, and World War II.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

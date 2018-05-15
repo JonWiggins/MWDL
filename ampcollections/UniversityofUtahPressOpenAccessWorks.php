@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahUniversityPress.php">University of Utah - University Press</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Foragers and Farmers of the Northern Kayenta Region "width="319" height ="469"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Foragers and Farmers of the Northern Kayenta Region"width="319" height ="469"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Foragers and Farmers of the Northern Kayenta Region 
+Foragers and Farmers of the Northern Kayenta Region
 <!-- Article Text -->
-</p>
-The University of Utah Press is an agency of the J. Willard Marriott Library of The University of Utah. In accordance with the mission of the University, the Press publishes and disseminates scholarly books in selected fields, as well as other printed and recorded materials of significance to Utah, the region, the country, and the world.</p>
-
+</p><br/>The University of Utah Press is an agency of the J. Willard Marriott Library of The University of Utah. In accordance with the mission of the University, the Press publishes and disseminates scholarly books in selected fields, as well as other printed and recorded materials of significance to Utah, the region, the country, and the world.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

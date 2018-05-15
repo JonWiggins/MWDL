@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sanpete County Birth Record "width="333" height ="333"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Sanpete County Birth Record"width="333" height ="333"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Sanpete County Birth Record 
+Sanpete County Birth Record
 <!-- Article Text -->
-</p>
-These records contain birth registers recorded from 1898 through 1905. Each entry includes an assigned number, sex, color, race, date and place of birth, parent's names and residence, attending physician , and remarks.</p>
-&nbsp;</p>
-
+</p><br/>These records contain birth registers recorded from 1898 through 1905. Each entry includes an assigned number, sex, color, race, date and place of birth, parent's names and residence, attending physician , and remarks.</p><br/>&nbsp,</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

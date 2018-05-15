@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial view of Capitol Reef "width="354" height ="286"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Because the Bible Tells Me So"width="354" height ="286"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Aerial view of Capitol Reef 
+Because the Bible Tells Me So
 <!-- Article Text -->
-</p>
-The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p>
-
+</p><br/>The University of Utah Photo Archives contain many thousands of photos spanning many topics.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

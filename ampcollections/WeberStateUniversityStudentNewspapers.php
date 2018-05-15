@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1942 Signpost vol5 no2 "width="256" height ="341"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The surgical management of Graves' orbitopathy"width="256" height ="341"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1942 Signpost vol5 no2 
+The surgical management of Graves' orbitopathy
 <!-- Article Text -->
-"</p>
-Weber's current student newspaper, the Signpost, first appeared on September 29, 1937. For two years prior to that time, campus news was disseminated via announcements posted on a bulletin board known as the ""Signpost"". As a result, the masthead of the first issue of the paper itself featured a rudimentary wooden sign with the title spelled out in rustic-looking letters. Over the years the paper has been published continuously, though the look, size and style has changed several times. </p>
-"
+"</p><br/>Weber's current student newspaper, the Signpost, first appeared on September 29, 1937. For two years prior to that time, campus news was disseminated via announcements posted on a bulletin board known as the ""Signpost"". As a result, the masthead of the first issue of the paper itself featured a rudimentary wooden sign with the title spelled out in rustic-looking letters. Over the years the paper has been published continuously, though the look, size and style has changed several times. </p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1231.jpg" alt="1889-90 University of Utah Catalogue "width="251" height="410"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1231.jpg" alt="Chronic Myelogenous Leukemia (annotated)"width="251" height="410"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1889-90 University of Utah Catalogue 
+Chronic Myelogenous Leukemia (annotated)
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Electronic University Archive</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Materials in the Electronic University Archive include information about and produced by the University of Utah.</p>
-
+</p><br/>Materials in the Electronic University Archive include information about and produced by the University of Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

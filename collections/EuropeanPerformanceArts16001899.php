@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1170.jpg" alt="La Danse "width="286" height="412"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1170.jpg" alt="La Danse"width="286" height="412"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-La Danse 
+La Danse
 </div>
 <!-- Collection Title-->
 <h4>European Performance Arts (1600-1899)</h4>
@@ -40,9 +40,7 @@ La Danse
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Drawing on early-modern documents preserved in the Marriott Library, this collection represents an intersection of theater, dance, music, visual, and print culture between 1600 and 1850. The collection focus is upon dance in this period, but includes music, noted images of Shakespeare's plays, lesser known works, and images and biographies of some of the better known French theater personalities.</p>
-
+</p><br/>Drawing on early-modern documents preserved in the Marriott Library, this collection represents an intersection of theater, dance, music, visual, and print culture between 1600 and 1850. The collection focus is upon dance in this period, but includes music, noted images of Shakespeare's plays, lesser known works, and images and biographies of some of the better known French theater personalities.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1326.jpg" alt="The Copts and Christian Civilization "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1326.jpg" alt=""width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Copts and Christian Civilization 
+
 </div>
 <!-- Collection Title-->
 <h4>Frederick William Reynolds Lectures</h4>
@@ -40,9 +40,7 @@ The Copts and Christian Civilization
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-The annual F.W. Reynolds Lectureships at the University of Utah serve a double purpose. First, through a distinguished member of its faculty, the University presents an important yearly offering to the public. Second, the Lectureship commemorates in a fitting way the unique service of Professor Reynolds to the institution and to the State. The selection committee acts upon recommendations of the Deans who are made responsible for nominating faculty members of outstanding accomplishments in their schools. The University presents the lecture through the medium of its Extension Division. Tthe Reynolds Lectureship has now become firmly established as a University function "" promoted and administered by the University.</p>
-"
+"</p><br/>The annual F.W. Reynolds Lectureships at the University of Utah serve a double purpose. First, through a distinguished member of its faculty, the University presents an important yearly offering to the public. Second, the Lectureship commemorates in a fitting way the unique service of Professor Reynolds to the institution and to the State. The selection committee acts upon recommendations of the Deans who are made responsible for nominating faculty members of outstanding accomplishments in their schools. The University presents the lecture through the medium of its Extension Division. Tthe Reynolds Lectureship has now become firmly established as a University function "" promoted and administered by the University.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

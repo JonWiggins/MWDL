@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1540.jpg" alt="White and Blue 1919-01-15 vol. 22 no. 3 "width="322" height="457"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1540.jpg" alt="White and Blue 1919-01-15 vol. 22 no. 3"width="322" height="457"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-White and Blue 1919-01-15 vol. 22 no. 3 
+White and Blue 1919-01-15 vol. 22 no. 3
 </div>
 <!-- Collection Title-->
 <h4>The White and Blue</h4>
@@ -40,9 +40,7 @@ White and Blue 1919-01-15 vol. 22 no. 3
 <h6> Published by <a href="../partners/BrighamYoungUniversity.php">Brigham Young University</a></h6>
  
 <!-- Collection Description -->
-</p>
-Started during President George Brimhall's administration, The White and Blue was the students' voice on campus in the early 19th century.</p>
-
+</p><br/>Started during President George Brimhall's administration, The White and Blue was the students' voice on campus in the early 19th century.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

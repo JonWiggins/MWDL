@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1066.jpg" alt="113-145, August 1944 "width="376" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1066.jpg" alt="113-145%comma% August 1944"width="376" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-113-145, August 1944 
+113-145%comma% August 1944
 </div>
 <!-- Collection Title-->
 <h4>Eisenhower Communiques</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-These communiqués were designed mainly as a guide to correspondents covering battlefront activities, though they also served to keep various branches of the Allied forces informed and coordinated. (They were not secret or confidential.) The reports do not describe the local horror and suffering from bombs and bullets but provide an overall, almost businesslike, account of the Allied advance across France, the Netherlands, and Germany</p>
-
+</p><br/>These communiqués were designed mainly as a guide to correspondents covering battlefront activities, though they also served to keep various branches of the Allied forces informed and coordinated. (They were not secret or confidential.) The reports do not describe the local horror and suffering from bombs and bullets but provide an overall, almost businesslike, account of the Allied advance across France, the Netherlands, and Germany</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

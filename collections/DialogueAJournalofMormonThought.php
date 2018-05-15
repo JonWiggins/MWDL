@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1007.jpg" alt="Veiled Woman with her Child "width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1007.jpg" alt="Veiled Woman with her Child"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Veiled Woman with her Child 
+Veiled Woman with her Child
 </div>
 <!-- Collection Title-->
 <h4>Dialogue: A Journal of Mormon Thought</h4>
@@ -40,9 +40,7 @@ Veiled Woman with her Child
 <h6> Published by <a href="../partners/DialogueFoundation.php">Dialogue Foundation</a></h6>
  
 <!-- Collection Description -->
-</p>
-Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed articles from Mormon scholars and writers on sensitive issues in LDS history and doctrine, and topics in Science, Religion, and Politics. It maintains a level of editorial independence that distinguishes it as the premier scholarly journal in the emerging academic field of Mormon Studies.</p>
-
+</p><br/>Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed articles from Mormon scholars and writers on sensitive issues in LDS history and doctrine, and topics in Science, Religion, and Politics. It maintains a level of editorial independence that distinguishes it as the premier scholarly journal in the emerging academic field of Mormon Studies.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

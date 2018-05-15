@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1303.jpg" alt="Utah Revised Statutes "width="90" height="120"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1303.jpg" alt=""width="90" height="120"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Revised Statutes 
+
 </div>
 <!-- Collection Title-->
 <h4>Utah Revised Statutes 1933</h4>
@@ -40,11 +40,7 @@ Utah Revised Statutes
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of one item from the Legislature's House Working bill files that contains a draft of the Revised Statutes completed and published in 1933.</p>
-&nbsp;</p>
-</p>
-
+</p><br/>This collection consists of one item from the Legislature's House Working bill files that contains a draft of the Revised Statutes completed and published in 1933.</p><br/>&nbsp,</p><br/></p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

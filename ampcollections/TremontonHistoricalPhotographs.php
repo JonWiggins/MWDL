@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/TremontonCityUTLibrary.php">Tremonton City (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Main Street, Tremonton, Utah "width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Main Street%comma% Tremonton%comma% Utah"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Main Street, Tremonton, Utah 
+Main Street%comma% Tremonton%comma% Utah
 <!-- Article Text -->
-</p>
-Collection consists of 12 photographs of The Tremonton City anonymously donated ot the Tremonton City Library. </p>
-
+</p><br/>Collection consists of 12 photographs of The Tremonton City anonymously donated ot the Tremonton City Library. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

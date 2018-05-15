@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bob Theobald "width="221" height ="164"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Bob Theobald"width="221" height ="164"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Bob Theobald 
+Bob Theobald
 <!-- Article Text -->
-</p>
-The University of Utah Moving Image Archives highlights a selection of the film and video holdings in Special Collections.</p>
-
+</p><br/>The University of Utah Moving Image Archives highlights a selection of the film and video holdings in Special Collections.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

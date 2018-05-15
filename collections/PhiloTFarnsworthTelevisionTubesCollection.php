@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1190.jpg" alt="cathode ray tube "width="165" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1190.jpg" alt="cathode ray tube"width="165" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-cathode ray tube 
+cathode ray tube
 </div>
 <!-- Collection Title-->
 <h4>Philo T. Farnsworth Television Tubes Collection</h4>
@@ -40,9 +40,7 @@ cathode ray tube
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-Philo T. Farnsworth, the inventor of television, was born in Beaver, Utah, in 1906. While a young teenager, he developed a theory for the electronic transmission of images. He graduated from Brigham Young University in 1925, then in 1927 he demonstrated the first working model of a television system. </p>
-
+</p><br/>Philo T. Farnsworth, the inventor of television, was born in Beaver, Utah, in 1906. While a young teenager, he developed a theory for the electronic transmission of images. He graduated from Brigham Young University in 1925, then in 1927 he demonstrated the first working model of a television system. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

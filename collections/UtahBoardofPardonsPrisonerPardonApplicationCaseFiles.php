@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1209.jpg" alt="Alma Murdock's Pardon Application "width="286" height="404"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1209.jpg" alt="Alma Murdock's Pardon Application"width="286" height="404"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Alma Murdock's Pardon Application 
+Alma Murdock's Pardon Application
 </div>
 <!-- Collection Title-->
 <h4>Utah Board of Pardons: Prisoner Pardon Application Case Files</h4>
@@ -40,10 +40,7 @@ Alma Murdock's Pardon Application
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-Case files consist of letters to the Governor, a formal application for a pardon, petitions and letters of support from the public and officials connected to the case and during the first 40 years, case files often contained court transcripts, biographical sketches, prison evaluations and a wide variety of related documentation. Cases illustrate the process of review by the board of cases of prisoners incarcerated in the Utah prison system to determine if they should be released before their regular sentence ended. Documents contain personal data about the prisoner, criminal activity, family background and evaluation of the prisoner's adjustment to incarceration.</p>
-&nbsp;</p>
-
+</p><br/>Case files consist of letters to the Governor, a formal application for a pardon, petitions and letters of support from the public and officials connected to the case and during the first 40 years, case files often contained court transcripts, biographical sketches, prison evaluations and a wide variety of related documentation. Cases illustrate the process of review by the board of cases of prisoners incarcerated in the Utah prison system to determine if they should be released before their regular sentence ended. Documents contain personal data about the prisoner, criminal activity, family background and evaluation of the prisoner's adjustment to incarceration.</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

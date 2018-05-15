@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1600.png" alt="Sanpete County Birth Record "width="333" height="333"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1600.png" alt="Sanpete County Birth Record"width="333" height="333"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Sanpete County Birth Record 
+Sanpete County Birth Record
 </div>
 <!-- Collection Title-->
 <h4>Sanpete County (Utah). County Clerk Birth Register</h4>
@@ -40,10 +40,7 @@ Sanpete County Birth Record
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-These records contain birth registers recorded from 1898 through 1905. Each entry includes an assigned number, sex, color, race, date and place of birth, parent's names and residence, attending physician , and remarks.</p>
-&nbsp;</p>
-
+</p><br/>These records contain birth registers recorded from 1898 through 1905. Each entry includes an assigned number, sex, color, race, date and place of birth, parent's names and residence, attending physician , and remarks.</p><br/>&nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

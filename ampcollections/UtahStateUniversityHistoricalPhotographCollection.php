@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="USAC faculty group portrait "width="361" height ="231"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="USAC faculty group portrait"width="361" height ="231"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-USAC faculty group portrait 
+USAC faculty group portrait
 <!-- Article Text -->
-</p>
-A century's worth of images from Utah State University's past (1880s-1980s) depict the changing faces and landscape on campus, from the university's early years when women's gym classes and military cadet formations took place inside Old Main's auditorium (1890s), to 1906 when football scrimmages were held on Old Main's front lawn, to the 1920's when the campus housed a poultry yard and hosted milking contests, to the 1960s' student bathtub races, and up through the 1980s when the University Inn was built. Teachers, students, activities, clubs, athletics, ceremonies, buildings, and more are featured in over 2,000 photographs collected by a former director of the Library's Special Collections and Archives, A. J. Simmonds.</p>
-
+</p><br/>A century's worth of images from Utah State University's past (1880s-1980s) depict the changing faces and landscape on campus, from the university's early years when women's gym classes and military cadet formations took place inside Old Main's auditorium (1890s), to 1906 when football scrimmages were held on Old Main's front lawn, to the 1920's when the campus housed a poultry yard and hosted milking contests, to the 1960s' student bathtub races, and up through the 1980s when the University Inn was built. Teachers, students, activities, clubs, athletics, ceremonies, buildings, and more are featured in over 2,000 photographs collected by a former director of the Library's Special Collections and Archives, A. J. Simmonds.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

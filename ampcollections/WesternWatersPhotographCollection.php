@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Galloway-Stone Expedition Photographs "width="351" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Galloway-Stone Expedition Photographs"width="351" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Galloway-Stone Expedition Photographs 
+Galloway-Stone Expedition Photographs
 <!-- Article Text -->
-</p>
-The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p>
-
+</p><br/>The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

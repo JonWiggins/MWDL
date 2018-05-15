@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1607.jpg" alt="Silverton bound train getting ready to leave Durango, Colorado.  "width="345" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1607.jpg" alt="Silverton bound train getting ready to leave Durango%comma% Colorado."width="345" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Silverton bound train getting ready to leave Durango, Colorado.  
+Silverton bound train getting ready to leave Durango%comma% Colorado.
 </div>
 <!-- Collection Title-->
 <h4>Barry Maxfield Railroad Photographs</h4>
@@ -40,9 +40,7 @@ Silverton bound train getting ready to leave Durango, Colorado.
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of trains and railroads around the intermountain west. </p>
-
+</p><br/>A collection of trains and railroads around the intermountain west. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1053.jpg" alt="Deteccion de anticuerpos contra Brucella abortus en bovinos "width="263" height="330"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1053.jpg" alt="Deteccion de anticuerpos contra Brucella abortus en bovinos"width="263" height="330"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Deteccion de anticuerpos contra Brucella abortus en bovinos 
+Deteccion de anticuerpos contra Brucella abortus en bovinos
 </div>
 <!-- Collection Title-->
 <h4>Benson Institute Theses</h4>
@@ -40,9 +40,7 @@ Deteccion de anticuerpos contra Brucella abortus en bovinos
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Electronic theses sponsored or assisted by the Benson Institute at BYU.</p>
-
+</p><br/>Electronic theses sponsored or assisted by the Benson Institute at BYU.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

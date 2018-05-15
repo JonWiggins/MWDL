@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Eagle Boy, by Stan Johnson"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Eagle Boy%comma% by Stan Johnson"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Eagle Boy, by Stan Johnson
+Eagle Boy%comma% by Stan Johnson
 <!-- Article Text -->
-</p>
-This collection of Western American art was donated by Sherman and Sheryle Cloward. It includes works of art by artists Stan Johnson, Gary Kapp and Nina Schumann. This impressive collection includes bronze sculptures and oil paintings.</p>
-
+</p><br/>This collection of Western American art was donated by Sherman and Sheryle Cloward. It includes works of art by artists Stan Johnson, Gary Kapp and Nina Schumann. This impressive collection includes bronze sculptures and oil paintings.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

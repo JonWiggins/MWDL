@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1880.jpg" alt="Proclamation, 1884 "width="307" height="399"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1880.jpg" alt="Proclamation%comma% 1884"width="307" height="399"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Proclamation, 1884 
+Proclamation%comma% 1884
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation</h4>
@@ -40,9 +40,7 @@ Proclamation, 1884
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>This printed proclamation was issued by Governor Eli H. Murray on November 18, 1884 in response to custom and in obedience to the proclamation of the President of the United States setting aside Thursday November 27 as a day of public thanksgiving and prayer. The proclamations were apparently stamped with the state seal and distributed widely by Arthur L. Thomas, Territorial Secretary. This example was transferred back to Utah from South Dakota.</p>
-</p>
+<p></p><br/><p>This printed proclamation was issued by Governor Eli H. Murray on November 18, 1884 in response to custom and in obedience to the proclamation of the President of the United States setting aside Thursday November 27 as a day of public thanksgiving and prayer. The proclamations were apparently stamped with the state seal and distributed widely by Arthur L. Thomas, Territorial Secretary. This example was transferred back to Utah from South Dakota.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

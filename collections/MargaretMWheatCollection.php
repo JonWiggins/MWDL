@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1828.jpg" alt="Oral history interview with Helen Williams  "width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1828.jpg" alt="Oral history interview with Helen Williams"width="358" height="242"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Oral history interview with Helen Williams  
+Oral history interview with Helen Williams
 </div>
 <!-- Collection Title-->
 <h4>Margaret M. Wheat Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection includes 50 selected Paiute and Shoshone oral histories recorded by Margaret M. Wheat between the 1940s and the 1960s. </p>
-
+</p><br/>This collection includes 50 selected Paiute and Shoshone oral histories recorded by Margaret M. Wheat between the 1940s and the 1960s. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

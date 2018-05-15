@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1035.jpg" alt="Saga of the Sanpitch Vol 19 "width="286" height="419"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1035.jpg" alt="Saga of the Sanpitch Vol 19"width="286" height="419"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Saga of the Sanpitch Vol 19 
+Saga of the Sanpitch Vol 19
 </div>
 <!-- Collection Title-->
 <h4>Saga of the Sanpitch</h4>
@@ -40,9 +40,7 @@ Saga of the Sanpitch Vol 19
 <h6> Published by <a href="../partners/SnowCollegeLibraries.php">Snow College Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains 30 volumes of stories and poems about early southern Utah pioneers.</p>
-
+</p><br/>This collection contains 30 volumes of stories and poems about early southern Utah pioneers.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

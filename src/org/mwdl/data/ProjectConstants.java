@@ -13,7 +13,7 @@ public class ProjectConstants {
      *
      * Every interaction with the Collection Data CSV file should use this pointer
      */
-    public static final String CollectionDataCSV = "newCollectionData.csv";
+    public static final String CollectionDataCSV = "collectionData.csv";
 
     /**
      * Holds the name of the Partner Data CSV file

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/OremUTPublicLibrary.php">Orem (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="High Schoolers in Formal Wear "width="365" height ="195"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="High Schoolers in Formal Wear"width="365" height ="195"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-High Schoolers in Formal Wear 
+High Schoolers in Formal Wear
 <!-- Article Text -->
-</p>
-This collection features historic photographs from all over Orem, Utah.</p>
-
+</p><br/>This collection features historic photographs from all over Orem, Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

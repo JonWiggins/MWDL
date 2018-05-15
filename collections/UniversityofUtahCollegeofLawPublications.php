@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJamesEFaustLawLibrary.php">University of Utah - James E. Faust Law Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>A collection of faculty publications, historical photographs, and other materials related to the S.J. Quinney College of Law.</p>
-</p>
+<p></p><br/><p>A collection of faculty publications, historical photographs, and other materials related to the S.J. Quinney College of Law.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial Photograph of Medical Center Campus "width="379" height ="295"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Aerial Photograph of Medical Center Campus"width="379" height ="295"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Aerial Photograph of Medical Center Campus 
+Aerial Photograph of Medical Center Campus
 <!-- Article Text -->
-</p>
-An assortment of photographs of department chairs, university buildings, and professors related to the University's Health Sciences.</p>
-
+</p><br/>An assortment of photographs of department chairs, university buildings, and professors related to the University's Health Sciences.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

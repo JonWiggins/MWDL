@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Grip of Mormonism, The "width="194" height ="360"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Grip of Mormonism%comma% The"width="194" height ="360"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Grip of Mormonism, The 
+Grip of Mormonism%comma% The
 <!-- Article Text -->
-</p>
-These collections consist of digitized documents relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p>
-
+</p><br/>These collections consist of digitized documents relating to the history of Westminster College from its inception as the Salt Lake Collegiate Institute, founded in 1875, to the present. The collections also include material dealing with the early history of the Presbyterian Church in Utah and southern Idaho.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

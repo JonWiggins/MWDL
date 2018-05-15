@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1171.jpg" alt="Transition - From Sagebrush to Satellite "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1171.jpg" alt="Transition - From Sagebrush to Satellite"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Transition - From Sagebrush to Satellite 
+Transition - From Sagebrush to Satellite
 </div>
 <!-- Collection Title-->
 <h4>John W. Fitzgerald Collection</h4>
@@ -40,9 +40,7 @@ Transition - From Sagebrush to Satellite
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Fitzgerald Famly Stories; An autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p>
-
+</p><br/>Fitzgerald Famly Stories, An autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1233.jpg" alt="E.B. Olesen Photograph Collection- Skiers "width="337" height="299"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1233.jpg" alt="E.B. Olesen Photograph Collection- Skiers"width="337" height="299"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-E.B. Olesen Photograph Collection- Skiers 
+E.B. Olesen Photograph Collection- Skiers
 </div>
 <!-- Collection Title-->
 <h4>Utah State University Special Collections Digital Exhibits</h4>
@@ -40,9 +40,7 @@ E.B. Olesen Photograph Collection- Skiers
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The materials housed by the Special Collections & Archives have been collected for the benefit of the public and are available for use by researchers. Historically, however, the public has not been aware of the research possibilities of archival material. Making digitized collections available through our website publicizes the many opportunities for use of our materials. Many of the materials in Special Collections are too fragile to allow repeated close examination. With digital technology we are able to provide access to these documents over the internet and to avoid inevitable wear and tear on these fragile resources.</p>
-
+</p><br/>The materials housed by the Special Collections & Archives have been collected for the benefit of the public and are available for use by researchers. Historically, however, the public has not been aware of the research possibilities of archival material. Making digitized collections available through our website publicizes the many opportunities for use of our materials. Many of the materials in Special Collections are too fragile to allow repeated close examination. With digital technology we are able to provide access to these documents over the internet and to avoid inevitable wear and tear on these fragile resources.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -40,9 +40,7 @@ Chicano/a Scholarship 2012
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Prior to 1970, few Utah Chicanos had attended the University of Utah and even fewer had graduated. Low educational attainment and financial hardship were some of the factors which prevented Utah's Chicano population from pursuing higher education. As a result, a group of University Chicano faculty, community representatives and students felt a need to recognize and encourage those outstanding Chicano students who were willing to provide quality service to the community while maintaining academic excellence. This collection contains videos and images of Chicano scholars at the University of Utah. </p>
-
+</p><br/>Prior to 1970, few Utah Chicanos had attended the University of Utah and even fewer had graduated. Low educational attainment and financial hardship were some of the factors which prevented Utah's Chicano population from pursuing higher education. As a result, a group of University Chicano faculty, community representatives and students felt a need to recognize and encourage those outstanding Chicano students who were willing to provide quality service to the community while maintaining academic excellence. This collection contains videos and images of Chicano scholars at the University of Utah. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

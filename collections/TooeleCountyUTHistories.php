@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1636.jpg" alt="Early Tooele A Documented Chronology "width="286" height="419"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1636.jpg" alt="Early Tooele A Documented Chronology"width="286" height="419"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Early Tooele A Documented Chronology 
+Early Tooele A Documented Chronology
 </div>
 <!-- Collection Title-->
 <h4>Tooele County (UT) Histories</h4>
@@ -40,9 +40,7 @@ Early Tooele A Documented Chronology
 <h6> Published by <a href="../partners/TooeleUTCityLibrary.php">Tooele (UT) City Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p>
-
+</p><br/>A chronological collection of Tooele (UT) area history between 1849 – 1890. Compiled by local historian George William Tripp.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

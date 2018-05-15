@@ -17,10 +17,7 @@
 <!-- Image Description -->
 Journal of Mormom Thought
 <!-- Article Text -->
-
-<p>Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed articles from Mormon scholars and writers on sensitive issues in LDS history and doctrine, and topics in Science, Religion, and Politics. It maintains a level of editorial independence that distinguishes it as the premier scholarly journal in the emerging academic field of Mormon Studies.</p>
-
-
+<br/><p>Dialogue: A Journal of Mormon Thought publishes award winning, peer-reviewed articles from Mormon scholars and writers on sensitive issues in LDS history and doctrine, and topics in Science, Religion, and Politics. It maintains a level of editorial independence that distinguishes it as the premier scholarly journal in the emerging academic field of Mormon Studies.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

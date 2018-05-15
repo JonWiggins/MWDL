@@ -37,12 +37,10 @@
 <!-- Collection Title-->
 <h4>MS 037 Mrs. George Bird Grinnell Indian Photographs</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Images of Northern Cheyenne Indians, early 20th century. Black and white prints, photographed by Mrs. George Bird Grinnell.</p>
-
+</p><br/>Images of Northern Cheyenne Indians, early 20th century. Black and white prints, photographed by Mrs. George Bird Grinnell.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

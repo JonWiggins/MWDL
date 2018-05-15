@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Great Basin Museum grew out of interest created by local history programs of the Great Basin Historical Society. The Society was formed during the fall and winter of 1987-88 to tell the unique story of the West Millard County area.</p>
-
-
+<br/><p>The Great Basin Museum grew out of interest created by local history programs of the Great Basin Historical Society. The Society was formed during the fall and winter of 1987-88 to tell the unique story of the West Millard County area.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1567.jpg" alt="Graduation photo, Nursing Program "width="256" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1567.jpg" alt="Graduation photo%comma% Nursing Program"width="256" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Graduation photo, Nursing Program 
+Graduation photo%comma% Nursing Program
 </div>
 <!-- Collection Title-->
 <h4>Salt Lake Community College Photograph Archives</h4>
@@ -40,9 +40,7 @@ Graduation photo, Nursing Program
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Photo Archives Collection is part of the digital archives of Salt Lake Community College. This collection features digitized archival photographs and slides that chronicle the history of the College.</p>
-
+</p><br/>The Photo Archives Collection is part of the digital archives of Salt Lake Community College. This collection features digitized archival photographs and slides that chronicle the history of the College.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1619.jpg" alt="State Constitution "width="268" height="432"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1619.jpg" alt="State Constitution"width="268" height="432"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-State Constitution 
+State Constitution
 </div>
 <!-- Collection Title-->
 <h4>Utah Statehood Constitutional Convention State Constitution</h4>
@@ -40,9 +40,7 @@ State Constitution
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This series is the official or ""engrossed"" copy of the Utah State Constitution adopted by the Constitutional Convention in 1895. Congress passed an Enabling Act in 1894 that set out the requirements for the Utah Territory to achieve statehood. The main requirement was the adoption of an acceptable constitution. The Constitutional Convention met to formulate such a document from 4 March to 8 May1895. Convention delegates debated a variety of issues related to crafting a constitution, including the structure of state government, the separation of church and state, and woman suffrage.</p>
-"
+"</p><br/>This series is the official or ""engrossed"" copy of the Utah State Constitution adopted by the Constitutional Convention in 1895. Congress passed an Enabling Act in 1894 that set out the requirements for the Utah Territory to achieve statehood. The main requirement was the adoption of an acceptable constitution. The Constitutional Convention met to formulate such a document from 4 March to 8 May1895. Convention delegates debated a variety of issues related to crafting a constitution, including the structure of state government, the separation of church and state, and woman suffrage.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

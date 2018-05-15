@@ -24,12 +24,7 @@
 <h6><a href="http://www.provolibrary.com/">Provo (UT) City Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Provo City Library provides our community with an inviting center for information, instruction, learning, leisure, and cultural opportunities. <em>–Provo City Library Mission Statement</em>
- <!--End straight text --></p>
-
-
-</p>
+<p><br/><p>The Provo City Library provides our community with an inviting center for information, instruction, learning, leisure, and cultural opportunities. <em>–Provo City Library Mission Statement</em><br/> <!--End straight text --></p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Provo+(UT)+City+Library">Browse all records from Provo (UT) City Library</a>
 <!-- List all Active Collections -->

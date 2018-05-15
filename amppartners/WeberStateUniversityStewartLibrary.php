@@ -17,10 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Weber State University was founded in Ogden, Utah as Weber Stake Academy in 1889. Like Weber County and the Weber River, the school was named after John Henry Weber, an early fur trader. In 1933, the academy was made a state junior college. Following World War II, the college outgrew its downtown campus and moved to the present site on the foothills of the Wasatch Mountains overlooking Ogden and the Great Salt Lake. Our growing collection includes 458,115 bound volumes and 190,628 electronic resources. Students, staff and faculty have remote access to the library; some classes are taught in the library, and the honors program is housed there.</p>
-
-
+<br/><p>Weber State University was founded in Ogden, Utah as Weber Stake Academy in 1889. Like Weber County and the Weber River, the school was named after John Henry Weber, an early fur trader. In 1933, the academy was made a state junior college. Following World War II, the college outgrew its downtown campus and moved to the present site on the foothills of the Wasatch Mountains overlooking Ogden and the Great Salt Lake. Our growing collection includes 458,115 bound volumes and 190,628 electronic resources. Students, staff and faculty have remote access to the library; some classes are taught in the library, and the honors program is housed there.</p><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -54,8 +51,11 @@
 <li><a href = "../ampcollections/UtahConstructionCompanyMexicoProjects.php">UtahConstructionCompanyMexicoProjects</a></li>
 <li><a href = "../ampcollections/UtahConstructionCompanyStockholderLedgers.php">UtahConstructionCompanyStockholderLedgers</a></li>
 <li><a href = "../ampcollections/UtahInternationalGeneralElectricMergerDocuments.php">UtahInternationalGeneralElectricMergerDocuments</a></li>
+<li><a href = "../ampcollections/WorldWarIServiceCards.php">WorldWarIServiceCards</a></li>
 <li><a href = "../ampcollections/WeberStateHistoricalPublications.php">WeberStateHistoricalPublications</a></li>
 <li><a href = "../ampcollections/WeberStateOralHistoryProject.php">WeberStateOralHistoryProject</a></li>
+<li><a href = "../ampcollections/UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory.php">UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory</a></li>
+<li><a href = "../ampcollections/WorldWarIEdmondTedLittlefield.php">WorldWarIEdmondTedLittlefield</a></li>
 <li><a href = "../ampcollections/OgdenBuildingsbyStreet.php">OgdenBuildingsbyStreet</a></li>
 <li><a href = "../ampcollections/WeberStateWhipClubScrapbook.php">WeberStateWhipClubScrapbook</a></li>
 <li><a href = "../ampcollections/WeberandDavisCountiesCommunityOralHistoryProject.php">WeberandDavisCountiesCommunityOralHistoryProject</a></li>

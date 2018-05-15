@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1251.jpg" alt="100 electrode intracortical array: structural variability "width="317" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1251.jpg" alt="Map of Great Basin National Heritage Area"width="317" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-100 electrode intracortical array: structural variability 
+Map of Great Basin National Heritage Area
 </div>
 <!-- Collection Title-->
 <h4>University of Utah UScholar Works</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
  
 <!-- Collection Description -->
-</p>
-U Scholar Works contains peer-reviewed materials from the University of Utah as well as other scholarly works and data that might otherwise not be published, preserved, or accessible to the general public.</p>
-
+</p><br/>U Scholar Works contains peer-reviewed materials from the University of Utah as well as other scholarly works and data that might otherwise not be published, preserved, or accessible to the general public.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

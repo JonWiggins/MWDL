@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1319.jpg" alt="Didymus, the Blind, ca. 313-ca. 398 "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1319.jpg" alt=""width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Didymus, the Blind, ca. 313-ca. 398 
+
 </div>
 <!-- Collection Title-->
 <h4>Didymus Papyri</h4>
@@ -40,9 +40,7 @@ Didymus, the Blind, ca. 313-ca. 398
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A portion of Didymus the Blind's (AD 313 – 398) Commentary on the Psalms.</p>
-
+</p><br/>A portion of Didymus the Blind's (AD 313 – 398) Commentary on the Psalms.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -40,10 +40,7 @@ Back to School Dance
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Boise State University's rich history is documented in the thousands of photographs, slides, and negatives that comprise the University Archives photo collection. From as far back as the school's opening day as Boise Junior College on September 6, 1932, photographers have captured on film the buildings, people, events, and academic endeavors that have made Boise State University such an important part of the city of Boise and state of Idaho.</p>
-<p>Historic Boise State presents several hundred images that document the university's history. Most come from the print collection in the Archives and are concentrated in the decades from the 1930s to 2000s.</p>
-</p>
+<p></p><br/><p>Boise State University's rich history is documented in the thousands of photographs, slides, and negatives that comprise the University Archives photo collection. From as far back as the school's opening day as Boise Junior College on September 6, 1932, photographers have captured on film the buildings, people, events, and academic endeavors that have made Boise State University such an important part of the city of Boise and state of Idaho.</p><br/><p>Historic Boise State presents several hundred images that document the university's history. Most come from the print collection in the Archives and are concentrated in the decades from the 1930s to 2000s.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

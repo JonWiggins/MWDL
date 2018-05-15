@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>This extensive set of unique collections from the Department of Heritage and Arts contains tens of thousands of photographs depicting important parts of Utah history. We are located in the 1910 Rio Grande Depot in Salt Lake City.</p>
-
-
-
+<br/><p>This extensive set of unique collections from the Department of Heritage and Arts contains tens of thousands of photographs depicting important parts of Utah history. We are located in the 1910 Rio Grande Depot in Salt Lake City.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -38,6 +34,8 @@
 <li><a href = "../ampcollections/SchoolsoftheSaltLakeValleyUT.php">SchoolsoftheSaltLakeValleyUT</a></li>
 <li><a href = "../ampcollections/WilliamEdwardHookGlassNegativeCollection.php">WilliamEdwardHookGlassNegativeCollection</a></li>
 <li><a href = "../ampcollections/PeoplesofUtah.php">PeoplesofUtah</a></li>
+<li><a href = "../ampcollections/DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids.php">DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids</a></li>
+<li><a href = "../ampcollections/UtahHistoricandPrehistoricPublications.php">UtahHistoricandPrehistoricPublications</a></li>
 <li><a href = "../ampcollections/CliffordBrayPhotographs.php">CliffordBrayPhotographs</a></li>
 <li><a href = "../ampcollections/LarsonStudioNegativeCollection.php">LarsonStudioNegativeCollection</a></li>
 <li><a href = "../ampcollections/TaylorWoolleyPhotographCollection.php">TaylorWoolleyPhotographCollection</a></li>

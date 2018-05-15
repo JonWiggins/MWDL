@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1839.jpg" alt="Ranchers sitting on a fence "width="381" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1839.jpg" alt="Ranchers sitting on a fence"width="381" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Ranchers sitting on a fence 
+Ranchers sitting on a fence
 </div>
 <!-- Collection Title-->
 <h4>Milt Jolley Photographs</h4>
@@ -40,9 +40,7 @@ Ranchers sitting on a fence
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Milt Jolley collection includes photographs of Cedar City (UT) people and places that he used in promoting tourism in southern Utah.</p>
-</p>
+<p></p><br/><p>The Milt Jolley collection includes photographs of Cedar City (UT) people and places that he used in promoting tourism in southern Utah.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

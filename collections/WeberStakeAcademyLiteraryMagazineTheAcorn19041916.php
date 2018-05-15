@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
- Running from 1904 to 1916, <em>The Acorn</em> includes writings, photographs and history submitted by students, faculty and alumni.</p>
-
+</p><br/> Running from 1904 to 1916, <em>The Acorn</em> includes writings, photographs and history submitted by students, faculty and alumni.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

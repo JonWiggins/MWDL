@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1193.jpg" alt="Bear "width="237" height="286"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1193.jpg" alt="Bear"width="237" height="286"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bear 
+Bear
 </div>
 <!-- Collection Title-->
 <h4>William Edward Hook Glass Negative Collection</h4>
@@ -40,9 +40,7 @@ Bear
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection consists of 84 scans of 4x5 glass plate negatives taken between 1878 and 1882 by photographer William Edward Hook. The photos include scenes of buildings, life, people, railroads, and scenic vistas of the Salt Lake area and Utah.</p>
-
+</p><br/>This collection consists of 84 scans of 4x5 glass plate negatives taken between 1878 and 1882 by photographer William Edward Hook. The photos include scenes of buildings, life, people, railroads, and scenic vistas of the Salt Lake area and Utah.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

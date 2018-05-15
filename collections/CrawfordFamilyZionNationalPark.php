@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/CrawfordFamilyZionNationalPark.php">
 <!-- Collection #1112 -->
 <!-- Collection Title -->
-<title>Crawford Family, Zion National Park</title>
+<title>Crawford Family%comma% Zion National Park</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&t=Crawford Family, Zion National Park"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&t=Crawford Family%comma% Zion National Park"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&via=@MountainWestDL&text=Crawford Family, Zion National Park"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/CrawfordFamilyZionNationalPark.php&via=@MountainWestDL&text=Crawford Family%comma% Zion National Park"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -30,23 +30,21 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1112.jpg" alt=" Mojave Desert"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1112.jpg" alt="Mojave Desert"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Mojave Desert
+Mojave Desert
 </div>
 <!-- Collection Title-->
-<h4>Crawford Family, Zion National Park</h4>
+<h4>Crawford Family%comma% Zion National Park</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Crawford Family, Zion National Park Collection consists of diaries and photographs by William Louis Crawford, 1873-1935, and his son, J. L. (Jasper Louis) Crawford, 1914-. Living and farming in what later became Zion National Park, they give insights into pioneer life and the history of this scenic canyon.</p>
-</p>
+<p></p><br/><p>The Crawford Family, Zion National Park Collection consists of diaries and photographs by William Louis Crawford, 1873-1935, and his son, J. L. (Jasper Louis) Crawford, 1914-. Living and farming in what later became Zion National Park, they give insights into pioneer life and the history of this scenic canyon.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1112&indx=1&bulkSize=50">Browse all record in Crawford Family, Zion National Park</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1112&indx=1&bulkSize=50">Browse all record in Crawford Family%comma% Zion National Park</a>
 </h6>
 <p></p>
 </div>

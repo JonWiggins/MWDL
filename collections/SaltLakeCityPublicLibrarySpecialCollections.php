@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SaltLakeCityUTPublicLibrary.php">Salt Lake City (UT) Public Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This is a collection of unique historic souvenir images and the Official Coat of Arms of Salt Lake City. </p>
-
+</p><br/>This is a collection of unique historic souvenir images and the Official Coat of Arms of Salt Lake City. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

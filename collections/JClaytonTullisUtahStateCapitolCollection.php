@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2158.jpg" alt=" 'Greetings from Utah' postcard copy"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2158.jpg" alt="Greetings from Utah' postcard copy"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- 'Greetings from Utah' postcard copy
+Greetings from Utah' postcard copy
 </div>
 <!-- Collection Title-->
 <h4>J. Clayton Tullis Utah State Capitol Collection</h4>
@@ -40,10 +40,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The J. Clayton Tullis Utah State Capitol Collection began when the donor, Mr. Tullis, volunteered as a tour guide at the Utah State Capitol. &nbsp;Mr. Tullis has been interested in the Utah State Capitol building for many years and began to collect anything relating to the capitol building, its history, construction, and the people who played a role in its development and construction. &nbsp;</p>
-The collection currently consists of vintage postcards from the early twentieth century and a lithograph of the capitol building from the Governor's Office, commissioned to commemorate the Utah Centennial in 1996. &nbsp;</p>
-
+</p><br/>The J. Clayton Tullis Utah State Capitol Collection began when the donor, Mr. Tullis, volunteered as a tour guide at the Utah State Capitol. &nbsp,Mr. Tullis has been interested in the Utah State Capitol building for many years and began to collect anything relating to the capitol building, its history, construction, and the people who played a role in its development and construction. &nbsp,</p><br/>The collection currently consists of vintage postcards from the early twentieth century and a lithograph of the capitol building from the Governor's Office, commissioned to commemorate the Utah Centennial in 1996. &nbsp,</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

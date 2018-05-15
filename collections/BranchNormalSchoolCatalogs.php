@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1104.jpg" alt=" 1900-1901 Catalog"width="268" height="393"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1104.jpg" alt="1900-1901 Catalog"width="268" height="393"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- 1900-1901 Catalog
+1900-1901 Catalog
 </div>
 <!-- Collection Title-->
 <h4>Branch Normal School Catalogs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Southern Utah University began as the Southern Branch of the State Normal School of the University of Utah in 1897-98. This collection contains early college catalogs. They give insights into the educational environment as well as list the officers and instructors, the courses offered, and the students enrolled.</p>
-</p>
+<p></p><br/><p>Southern Utah University began as the Southern Branch of the State Normal School of the University of Utah in 1897-98. This collection contains early college catalogs. They give insights into the educational environment as well as list the officers and instructors, the courses offered, and the students enrolled.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

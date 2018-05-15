@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1222.jpg" alt="Hinckley Journal of Politics vol 6 "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1222.jpg" alt="Hinckley Journal of Politics vol 6"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Hinckley Journal of Politics vol 6 
+Hinckley Journal of Politics vol 6
 </div>
 <!-- Collection Title-->
 <h4>Hinckley Journal of Politics</h4>
@@ -40,9 +40,7 @@ Hinckley Journal of Politics vol 6
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection holds the first 8 volumes of the Hinckley Journal of Politics, begining in 1998. This journal publishes scholarly papers of exceptional caliber, promoting the intellectual talents and understanding of University of Utah undergraduate students in Political Science. The Journal covers issues ranging from local to international political concerns, embracing diverse political perspectives and a variety of analytical approaches.</p>
-
+</p><br/>This collection holds the first 8 volumes of the Hinckley Journal of Politics, begining in 1998. This journal publishes scholarly papers of exceptional caliber, promoting the intellectual talents and understanding of University of Utah undergraduate students in Political Science. The Journal covers issues ranging from local to international political concerns, embracing diverse political perspectives and a variety of analytical approaches.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

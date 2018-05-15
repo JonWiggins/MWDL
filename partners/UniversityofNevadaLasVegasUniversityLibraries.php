@@ -24,11 +24,7 @@
 <h6><a href="http://digital.library.unlv.edu/">University of Nevada, Las Vegas, University Libraries Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>Since its first classes were held on campus in 1957, UNLV has transformed itself from a small branch college into a thriving urban research institution of more than 28,000 students and 3,100 faculty and staff. Along the way, the urban university has become an indispensable resource in one of the country's fastest-growing and most enterprising cities</p>
-
-
-</p>
+<p><br/><p>Since its first classes were held on campus in 1957, UNLV has transformed itself from a small branch college into a thriving urban research institution of more than 28,000 students and 3,100 faculty and staff. Along the way, the urban university has become an indispensable resource in one of the country's fastest-growing and most enterprising cities</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Nevada,+Las+Vegas,+University+Libraries">Browse all records from University of Nevada, Las Vegas, University Libraries</a>
 <!-- List all Active Collections -->

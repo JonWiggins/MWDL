@@ -17,9 +17,7 @@
 <!-- Image Description -->
 "Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons"""
 <!-- Article Text -->
-<p></p>
-<p>Theses submitted to Southern Utah University in partial fulfillment of the requirement of a master's degree in Professional Communication, Education, or Arts Administration.</p>
-</p>
+<p></p><br/><p>Theses submitted to Southern Utah University in partial fulfillment of the requirement of a master's degree in Professional Communication, Education, or Arts Administration.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

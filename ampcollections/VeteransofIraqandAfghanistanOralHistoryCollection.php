@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Joseph Cornell"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Joseph Cornell"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Joseph Cornell
+Joseph Cornell
 <!-- Article Text -->
-</p>
-The Veterans of Iraq and Afghanistan Oral History Collection is comprised of interviews conducted by the George Sutherland Archives at Utah Valley University with veterans of the wars in Iraq and Afghanistan, from the years between 2003 and 2011. The collection, which focuses primarily on veterans currently living in Utah County, will continue to grow over the coming years.</p>
-
+</p><br/>The Veterans of Iraq and Afghanistan Oral History Collection is comprised of interviews conducted by the George Sutherland Archives at Utah Valley University with veterans of the wars in Iraq and Afghanistan, from the years between 2003 and 2011. The collection, which focuses primarily on veterans currently living in Utah County, will continue to grow over the coming years.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

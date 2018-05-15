@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/MormonHistoryAssociation.php">Mormon History Association</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Journal of Mormon History, Volume 07, 1980 "width="258" height ="397"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Journal of Mormon History%comma% Volume 07%comma% 1980"width="258" height ="397"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Journal of Mormon History, Volume 07, 1980 
+Journal of Mormon History%comma% Volume 07%comma% 1980
 <!-- Article Text -->
-</p>
-The Journal of Mormon History fosters scholarly research and publication in the field of Mormon history. Manuscripts dealing with all aspects of Mormon history are incorporated, including twentieth-century history, regional and local history, women's history, and ethnic/minorities history.</p>
-
+</p><br/>The Journal of Mormon History fosters scholarly research and publication in the field of Mormon history. Manuscripts dealing with all aspects of Mormon history are incorporated, including twentieth-century history, regional and local history, women's history, and ethnic/minorities history.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

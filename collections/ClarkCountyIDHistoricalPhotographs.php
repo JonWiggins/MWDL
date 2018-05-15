@@ -40,9 +40,7 @@ $1000 gold sack - Wood Livestock
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
  
 <!-- Collection Description -->
-</p>
-5,000 images that depict people, events, and locations from the early history and subsequent development of Clark County, Idaho.</p>
-
+</p><br/>5,000 images that depict people, events, and locations from the early history and subsequent development of Clark County, Idaho.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

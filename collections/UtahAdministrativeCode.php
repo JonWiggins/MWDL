@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2167.jpg" alt=" Utah Administrative Code 1987-1988, Volume 1"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2167.jpg" alt="Utah Administrative Code 1987-1988%comma% Volume 1"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Utah Administrative Code 1987-1988, Volume 1
+Utah Administrative Code 1987-1988%comma% Volume 1
 </div>
 <!-- Collection Title-->
 <h4>Utah Administrative Code</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahDepartmentofAdministrativeServicesDivisionofAdministrativeRules.php">Utah Department of Administrative Services - Division of Administrative Rules</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>This collection of Utah Administrative Code volumes covers the years 1987-1989.</p>
-</p>
+<p></p><br/><p>This collection of Utah Administrative Code volumes covers the years 1987-1989.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

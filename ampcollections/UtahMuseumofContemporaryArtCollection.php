@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahMuseumofContemporaryArt.php">Utah Museum of Contemporary Art</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Julie Orser: Doublespeak, Film Still 01"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Julie Orser: Doublespeak%comma% Film Still 01"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Julie Orser: Doublespeak, Film Still 01
+Julie Orser: Doublespeak%comma% Film Still 01
 <!-- Article Text -->
-</p>
-This collection includes documentation of exhibitions, installations, artwork and other related materials from the Utah Museum of Contempory Art in Salt Lake City, Utah.</p>
-
+</p><br/>This collection includes documentation of exhibitions, installations, artwork and other related materials from the Utah Museum of Contempory Art in Salt Lake City, Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

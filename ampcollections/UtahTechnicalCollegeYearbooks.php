@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Spectrum 1971 Yearbook "width="239" height ="312"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="239" height ="312"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-The Spectrum 1971 Yearbook 
-<!-- Article Text -->
-</p>
-A collection of complete copies of The Spectrum, Utah Technical College's yearbook. </p>
 
+<!-- Article Text -->
+</p><br/>A collection of complete copies of The Spectrum, Utah Technical College's yearbook. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

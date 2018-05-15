@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Historic Aerial Photographs of Early Nevada</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="One of a series of aerial photos taken in 1938-39 for a forest and soil survey."width="359" height ="290"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 One of a series of aerial photos taken in 1938-39 for a forest and soil survey.
 <!-- Article Text -->
-<p></p>
-<p>The 61 images in this collection were taken by Forest Service and Soil Conservation Service photographers who hung their cameras out of planes in consecutive summers in 1938 and 1939 as part of the forest and soil survey work carried out during the siting of the Mount Rose Highway</p>
-</p>
+<p></p><br/><p>The 61 images in this collection were taken by Forest Service and Soil Conservation Service photographers who hung their cameras out of planes in consecutive summers in 1938 and 1939 as part of the forest and soil survey work carried out during the siting of the Mount Rose Highway</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

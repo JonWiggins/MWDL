@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A Biography of Ezra Thompson Clark "width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="A Biography of Ezra Thompson Clark"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-A Biography of Ezra Thompson Clark 
+A Biography of Ezra Thompson Clark
 <!-- Article Text -->
-</p>
-A collection of 14 books covering topics dealing with early Utah history and Mormon culture, featuring the 1857 diary of Brigham Young.</p>
-
+</p><br/>A collection of 14 books covering topics dealing with early Utah history and Mormon culture, featuring the 1857 diary of Brigham Young.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

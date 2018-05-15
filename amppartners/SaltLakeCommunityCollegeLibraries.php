@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The library system has print books and periodical subscriptions, access to electronic databases and reference titles (which include full text articles and indexing/abstracting services), e-books, e-journals, online video resources, popular movies, telecourse videos, and more. The SLCC library system currently has four physical branch locations. They are the Jordan, Miller, South City, and Taylorsville Redwood locations</p>
-
-
-
+<br/><p>The library system has print books and periodical subscriptions, access to electronic databases and reference titles (which include full text articles and indexing/abstracting services), e-books, e-journals, online video resources, popular movies, telecourse videos, and more. The SLCC library system currently has four physical branch locations. They are the Jordan, Miller, South City, and Taylorsville Redwood locations</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

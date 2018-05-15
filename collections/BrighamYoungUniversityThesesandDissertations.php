@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1067.jpg" alt="Resurrecting Lope's Autos "width="203" height="388"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1067.jpg" alt="Resurrecting Lope's Autos"width="203" height="388"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Resurrecting Lope's Autos 
+Resurrecting Lope's Autos
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Theses and Dissertations</h4>
@@ -40,9 +40,7 @@ Resurrecting Lope's Autos
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Electronic versions of works submitted to the BYU School of Graduate Studies.</p>
-
+</p><br/>Electronic versions of works submitted to the BYU School of Graduate Studies.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

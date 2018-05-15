@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1092.jpg" alt="Vol 28 No 2 TESL Reporter "width="250" height="384"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1092.jpg" alt="Vol 28 No 2 TESL Reporter"width="250" height="384"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Vol 28 No 2 TESL Reporter 
+Vol 28 No 2 TESL Reporter
 </div>
 <!-- Collection Title-->
 <h4>TESL Reporter</h4>
@@ -40,9 +40,7 @@ Vol 28 No 2 TESL Reporter
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The TESL Reporter is a semiannual publication of the Department of English Language Teaching & Learning at Brigham Young University-Hawaii and is dedicated to the dissemination of ideas and issues of interest to teachers of English to speakers of other languages worldwide.</p>
-
+</p><br/>The TESL Reporter is a semiannual publication of the Department of English Language Teaching & Learning at Brigham Young University-Hawaii and is dedicated to the dissemination of ideas and issues of interest to teachers of English to speakers of other languages worldwide.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

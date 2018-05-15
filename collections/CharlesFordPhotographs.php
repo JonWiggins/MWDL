@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1882.jpg" alt="Group from Utah State "width="369" height="323"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1882.jpg" alt="Group from Utah State"width="369" height="323"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Group from Utah State 
+Group from Utah State
 </div>
 <!-- Collection Title-->
 <h4>Charles Ford Photographs</h4>
@@ -40,9 +40,7 @@ Group from Utah State
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Pictures taken of tourists visiting Cedar Breaks National Monument, Zion, Bryce Canyon, and Grand Canyon National Parks by a Springdale, Utah photographer.</p>
-</p>
+<p></p><br/><p>Pictures taken of tourists visiting Cedar Breaks National Monument, Zion, Bryce Canyon, and Grand Canyon National Parks by a Springdale, Utah photographer.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

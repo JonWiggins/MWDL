@@ -24,11 +24,7 @@
 <h6><a href="http://www.uvu.edu/museum/">Utah Valley University - Woodbury Art Museum Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Woodbury Art Museum provides free exhibitions and programs for our academic and local communities. Showcasing the museum's permanent collection and rotating exhibitions, the museum has been presenting the visual arts since 2002. The Woodbury Art Museum is under the auspices of Utah Valley University, and is located on the second floor of the University Mall in Orem, Utah.</p>
-
-
-</p>
+<p><br/><p>The Woodbury Art Museum provides free exhibitions and programs for our academic and local communities. Showcasing the museum's permanent collection and rotating exhibitions, the museum has been presenting the visual arts since 2002. The Woodbury Art Museum is under the auspices of Utah Valley University, and is located on the second floor of the University Mall in Orem, Utah.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Utah+Valley+University+-+Woodbury+Art+Museum">Browse all records from Utah Valley University - Woodbury Art Museum</a>
 <!-- List all Active Collections -->

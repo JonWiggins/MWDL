@@ -24,11 +24,7 @@
 <h6><a href="http://home.comcast.net/~newtonlib/">Newton Town (UT) Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Newton Town Public Library serves the community of Newton UT. </p>
-
-
-</p>
+<p><br/><p>The Newton Town Public Library serves the community of Newton UT. </p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Newton+Town+(UT)+Library">Browse all records from Newton Town (UT) Library</a>
 <!-- List all Active Collections -->

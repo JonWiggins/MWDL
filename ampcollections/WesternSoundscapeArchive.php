@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Thunder 2 at Nye Beach "width="175" height ="132"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="175" height ="132"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Thunder 2 at Nye Beach 
-<!-- Article Text -->
-</p>
-The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p>
 
+<!-- Article Text -->
+</p><br/>The Western Soundscape Archive offers thousands of recordings of Western animal species and their environments.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>MS 037 Mrs. George Bird Grinnell Indian Photographs</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="<em>Northern Cheyenne woman doing quillwork </em>"width="250" height ="400"  layout = "responsive"></amp-img>
@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Northern Cheyenne woman doing quillwork </em>
 <!-- Article Text -->
-</p>
-Images of Northern Cheyenne Indians, early 20th century. Black and white prints, photographed by Mrs. George Bird Grinnell.</p>
-
+</p><br/>Images of Northern Cheyenne Indians, early 20th century. Black and white prints, photographed by Mrs. George Bird Grinnell.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

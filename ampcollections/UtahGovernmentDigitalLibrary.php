@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateLibrary.php">Utah State Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Alpine annexation map  "width="306" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Alpine annexation map"width="306" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Alpine annexation map  
+Alpine annexation map
 <!-- Article Text -->
-</p>
-A division of the Utah Department of Heritage and Arts, here you can find publications from all levels of the government in Utah.</p>
-
+</p><br/>A division of the Utah Department of Heritage and Arts, here you can find publications from all levels of the government in Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

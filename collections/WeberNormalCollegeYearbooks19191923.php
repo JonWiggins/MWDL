@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1245.jpg" alt="1921 The Acorn Souvenir "width="332" height="246"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1245.jpg" alt="Hoover Dam Project Scrapbook Vol. 2"width="332" height="246"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1921 The Acorn Souvenir 
+Hoover Dam Project Scrapbook Vol. 2
 </div>
 <!-- Collection Title-->
 <h4>Weber Normal College Yearbooks 1919-1923</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This is a collection of yearbooks from 1919 to 1923. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses. </p>
-
+</p><br/>This is a collection of yearbooks from 1919 to 1923. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

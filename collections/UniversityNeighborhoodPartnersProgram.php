@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1225.jpg" alt="Growing up in Salt Lake City "width="380" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1225.jpg" alt="The Spectrum 1971 Yearbook"width="380" height="249"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Growing up in Salt Lake City 
+The Spectrum 1971 Yearbook
 </div>
 <!-- Collection Title-->
 <h4>University Neighborhood Partners Program</h4>
@@ -40,9 +40,7 @@ Growing up in Salt Lake City
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains various administrative documents of the University Neighborhood Partners program. The UNP brings together University and west side resources for reciprocal learning, action, and benefit. Its goals include increasing opportunities for youth education and success, building the capacity of neighborhoods in the areas of health, housing, employment, business, safety, and the environment, and creating initiatives to empower and expand community leadership.</p>
-
+</p><br/>This collection contains various administrative documents of the University Neighborhood Partners program. The UNP brings together University and west side resources for reciprocal learning, action, and benefit. Its goals include increasing opportunities for youth education and success, building the capacity of neighborhoods in the areas of health, housing, employment, business, safety, and the environment, and creating initiatives to empower and expand community leadership.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

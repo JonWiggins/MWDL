@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1220.jpg" alt="First Faculty for CCH "width="374" height="277"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1220.jpg" alt="First Faculty for CCH"width="374" height="277"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-First Faculty for CCH 
+First Faculty for CCH
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University-Hawaii Collection</h4>
@@ -40,9 +40,7 @@ First Faculty for CCH
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection is a variety of photographs including images during WWII soldiers in Laie, the Polynesian Cultural Center, and campus construction of BYU Hawaii.</p>
-
+</p><br/>This collection is a variety of photographs including images during WWII soldiers in Laie, the Polynesian Cultural Center, and campus construction of BYU Hawaii.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

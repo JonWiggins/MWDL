@@ -17,9 +17,7 @@
 <!-- Image Description -->
 "A Residence for Dr. G. Gill Richards on ""A"" Street and 7th Ave"
 <!-- Article Text -->
-</p>
-The collection is composed of the papers and architectural drawings of Richard Wright Young.</p>
-
+</p><br/>The collection is composed of the papers and architectural drawings of Richard Wright Young.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

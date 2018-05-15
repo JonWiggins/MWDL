@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1105.jpg" alt=" Penstock damage"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1105.jpg" alt="Penstock damage"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Penstock damage
+Penstock damage
 </div>
 <!-- Collection Title-->
 <h4>Utah Parks Company Employee Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-"<p></p>
-<p>The Utah Parks Company, a subsidiary of Union Pacific Railroad, employed thousands of college students to operate restaurants, lodging, and bus tours in Bryce, Zion, Grand Canyon and Cedar Breaks parks from 1923 to 1973. These photographs show them working, playing, and entertaining the ""dudes."" They were collected during a SUU oral history project with UPC employees.</p>
-</p>"
+"<p></p><br/><p>The Utah Parks Company, a subsidiary of Union Pacific Railroad, employed thousands of college students to operate restaurants, lodging, and bus tours in Bryce, Zion, Grand Canyon and Cedar Breaks parks from 1923 to 1973. These photographs show them working, playing, and entertaining the ""dudes."" They were collected during a SUU oral history project with UPC employees.</p><br/></p>"
 <hr>
 <h6>
 <!-- Browse Link -->

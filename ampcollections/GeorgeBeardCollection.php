@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A man by a lake "width="322" height ="451"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="A man by a lake"width="322" height ="451"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-A man by a lake 
+A man by a lake
 <!-- Article Text -->
-"</p>
-Landscape artist George Beard (1854-1944), was also an ""artist with a camera."" The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p>
-"
+"</p><br/>Landscape artist George Beard (1854-1944), was also an ""artist with a camera."" The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

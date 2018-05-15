@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1254.jpg" alt="Greeks in Utah "width="335" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1254.jpg" alt="Aerial view of Autobahn"width="335" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Greeks in Utah 
+Aerial view of Autobahn
 </div>
 <!-- Collection Title-->
 <h4>Peoples of Utah</h4>
@@ -40,9 +40,7 @@ Greeks in Utah
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Peoples of Utah collection contains images that show some of Utah's great diversity. Helen Papanikolas collected and donated these photographs.</p>
-
+</p><br/>The Peoples of Utah collection contains images that show some of Utah's great diversity. Helen Papanikolas collected and donated these photographs.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Le May De Paris Av Roy "width="240" height ="416"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt=""width="240" height ="416"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Le May De Paris Av Roy 
-<!-- Article Text -->
-</p>
-The collection of French Political Pamphlets in the L. Tom Perry Special Collections (LTPSC) at Brigham Young University features more than 2,100 pamphlets published between 1547 and 1626.</p>
 
+<!-- Article Text -->
+</p><br/>The collection of French Political Pamphlets in the L. Tom Perry Special Collections (LTPSC) at Brigham Young University features more than 2,100 pamphlets published between 1547 and 1626.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

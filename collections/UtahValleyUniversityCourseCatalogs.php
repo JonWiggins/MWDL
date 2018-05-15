@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2157.jpg" alt=" 1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2157.jpg" alt="1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- 1965-1966 Utah Trade Technical Institute Course Catalog
+1965-1966 Utah Trade Technical Institute Course Catalog
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Course Catalogs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005.&nbsp; It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p>
-
+</p><br/>The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005.&nbsp, It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

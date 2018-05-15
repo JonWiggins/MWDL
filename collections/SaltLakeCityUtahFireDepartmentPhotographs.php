@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains photographs from the Salt Lake City Fire Department that document the history of the agency. </p>
-
+</p><br/>This collection contains photographs from the Salt Lake City Fire Department that document the history of the agency. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

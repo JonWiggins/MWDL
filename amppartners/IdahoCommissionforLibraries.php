@@ -17,12 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Idaho Commission for Libraries assists libraries to build the capacity to better serve their clientele.</p>
-<p>The Idaho Commission for Libraries (ICFL) is located in the Executive Branch of state government and is governed by the Board of Library Commissioners, which is appointed by the governor.</p>
-
-
-
+<br/><p>The Idaho Commission for Libraries assists libraries to build the capacity to better serve their clientele.</p><br/><p>The Idaho Commission for Libraries (ICFL) is located in the Executive Branch of state government and is governed by the Board of Library Commissioners, which is appointed by the governor.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -31,5 +26,10 @@
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/StacksIdahosDigitalRepositoryAdditionalStateAgencies.php">StacksIdahosDigitalRepositoryAdditionalStateAgencies</a></li>
 <li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoDepartmentofAdministration.php">StacksIdahosDigitalRepositoryIdahoDepartmentofAdministration</a></li>
+<li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoDepartmentofEducation.php">StacksIdahosDigitalRepositoryIdahoDepartmentofEducation</a></li>
+<li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoStateBoardofEducation.php">StacksIdahosDigitalRepositoryIdahoStateBoardofEducation</a></li>
 <li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoDepartmentofFishandGame.php">StacksIdahosDigitalRepositoryIdahoDepartmentofFishandGame</a></li>
+<li><a href = "../ampcollections/StacksIdahosDigitalRepositoryOfficeoftheIdahoGovernor.php">StacksIdahosDigitalRepositoryOfficeoftheIdahoGovernor</a></li>
+<li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoDepartmentofHealthandWelfare.php">StacksIdahosDigitalRepositoryIdahoDepartmentofHealthandWelfare</a></li>
+<li><a href = "../ampcollections/StacksIdahosDigitalRepositoryIdahoBureauofOccupationalLicenses.php">StacksIdahosDigitalRepositoryIdahoBureauofOccupationalLicenses</a></li>
 <?php include("../includes/ampfooter.php");?>

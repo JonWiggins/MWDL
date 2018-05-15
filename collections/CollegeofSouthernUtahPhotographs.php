@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1620.jpg" alt=" Scene from CSU production of The Bad Seed"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1620.jpg" alt="Scene from CSU production of The Bad Seed"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Scene from CSU production of The Bad Seed
+Scene from CSU production of The Bad Seed
 </div>
 <!-- Collection Title-->
 <h4>College of Southern Utah Photographs</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The name of Southern Utah University has changed several times to reflect administrative and mission changes. From 1953 to 1969, it was known as the College of Southern Utah, emphasizing its role as a regional educational center. These photographs give an insight into college events and life during those years.</p>
-</p>
+<p></p><br/><p>The name of Southern Utah University has changed several times to reflect administrative and mission changes. From 1953 to 1969, it was known as the College of Southern Utah, emphasizing its role as a regional educational center. These photographs give an insight into college events and life during those years.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

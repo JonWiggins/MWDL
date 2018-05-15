@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1889-90 University of Utah Catalogue "width="251" height ="410"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Chronic Myelogenous Leukemia (annotated)"width="251" height ="410"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1889-90 University of Utah Catalogue 
+Chronic Myelogenous Leukemia (annotated)
 <!-- Article Text -->
-</p>
-Materials in the Electronic University Archive include information about and produced by the University of Utah.</p>
-
+</p><br/>Materials in the Electronic University Archive include information about and produced by the University of Utah.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

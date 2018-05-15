@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/DailyEnquirerProvoUT1.php">
 <!-- Collection #1545 -->
 <!-- Collection Title -->
-<title>Daily Enquirer (Provo, UT) 1</title>
+<title>Daily Enquirer (Provo%comma% UT) 1</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/DailyEnquirerProvoUT1.php&t=Daily Enquirer (Provo, UT) 1"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/DailyEnquirerProvoUT1.php&t=Daily Enquirer (Provo%comma% UT) 1"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/DailyEnquirerProvoUT1.php&via=@MountainWestDL&text=Daily Enquirer (Provo, UT) 1"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/DailyEnquirerProvoUT1.php&via=@MountainWestDL&text=Daily Enquirer (Provo%comma% UT) 1"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -30,25 +30,21 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1545.jpg" alt="Daily Enquirer (Provo, UT) 2 collection"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1545.jpg" alt="Daily Enquirer (Provo%comma% UT) 2 collection"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Daily Enquirer (Provo, UT) 2 collection
+Daily Enquirer (Provo%comma% UT) 2 collection
 </div>
 <!-- Collection Title-->
-<h4>Daily Enquirer (Provo, UT) 1</h4>
+<h4>Daily Enquirer (Provo%comma% UT) 1</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This collection is #1 of 2 collections. For the rest of the issues, see the <a href=""DailyEnquirerProvoUT2.php"">Daily Enquirer (Provo, UT) 2 collection</a>.</p>
-One of the oldest Provo, Utah newspapers, published from 1889-1908, also known under the title Provo Daily Enquirer.</p>
- <a href=""http://contentdm.lib.byu.edu/cdm/compoundobject/collection/DE1/id/220230"" target=""_blank"">The Daily Enquirer Newspaper 1891-12-08 vol. 5 no. 7<br> </a>Brigham Young University - Harold B. Lee Library</p>
-</p>"
+"</p><br/>This collection is #1 of 2 collections. For the rest of the issues, see the <a href=""DailyEnquirerProvoUT2.php"">Daily Enquirer (Provo, UT) 2 collection</a>.</p><br/>One of the oldest Provo, Utah newspapers, published from 1889-1908, also known under the title Provo Daily Enquirer.</p><br/> <a href=""http://contentdm.lib.byu.edu/cdm/compoundobject/collection/DE1/id/220230"" target=""_blank"">The Daily Enquirer Newspaper 1891-12-08 vol. 5 no. 7<br> </a>Brigham Young University - Harold B. Lee Library</p><br/></p>"
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1545&indx=1&bulkSize=50">Browse all record in Daily Enquirer (Provo, UT) 1</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1545&indx=1&bulkSize=50">Browse all record in Daily Enquirer (Provo%comma% UT) 1</a>
 </h6>
 <p></p>
 </div>

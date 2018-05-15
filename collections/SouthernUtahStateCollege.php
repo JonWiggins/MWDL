@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1260.jpg" alt=" Zion National Park, Kolob canyon"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1260.jpg" alt="2 men and 2 girls outdoors"width="353" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Zion National Park, Kolob canyon
+2 men and 2 girls outdoors
 </div>
 <!-- Collection Title-->
 <h4>Southern Utah State College</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Boyd D. Redington was employed as a photographer for Southern Utah State College. This collection contains his photographs of the Southern Utah area.</p>
-</p>
+<p></p><br/><p>Boyd D. Redington was employed as a photographer for Southern Utah State College. This collection contains his photographs of the Southern Utah area.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

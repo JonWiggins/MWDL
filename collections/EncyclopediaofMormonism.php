@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1214.jpg" alt="Encyclopedia of Mormonism "width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1214.jpg" alt="Encyclopedia of Mormonism"width="335" height="337"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Encyclopedia of Mormonism 
+Encyclopedia of Mormonism
 </div>
 <!-- Collection Title-->
 <h4>Encyclopedia of Mormonism</h4>
@@ -40,9 +40,7 @@ Encyclopedia of Mormonism
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The idea for this reference work began with an inquiry from Macmillan in 1987, when Charles Smith approached Professor S. Kent Brown at Brigham Young University (the two knew each other from working together on the Coptic Encyclopedia). Following a successful meeting with BYU President Jeffrey R. Holland, a publication agreement was negotiated, and in 1988 a Board of Editors, with Daniel H. Ludlow as Editor-in-Chief, was appointed. Three years later, the Encyclopedia appeared, bearing a 1992 publication date. It remains the most encyclopedic coverage of Mormonism ever produced.</p>
-
+</p><br/>The idea for this reference work began with an inquiry from Macmillan in 1987, when Charles Smith approached Professor S. Kent Brown at Brigham Young University (the two knew each other from working together on the Coptic Encyclopedia). Following a successful meeting with BYU President Jeffrey R. Holland, a publication agreement was negotiated, and in 1988 a Board of Editors, with Daniel H. Ludlow as Editor-in-Chief, was appointed. Three years later, the Encyclopedia appeared, bearing a 1992 publication date. It remains the most encyclopedic coverage of Mormonism ever produced.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

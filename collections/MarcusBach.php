@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1077.jpg" alt="Report to Protestants "width="361" height="562"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1077.jpg" alt="Report to Protestants"width="361" height="562"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Report to Protestants 
+Report to Protestants
 </div>
 <!-- Collection Title-->
 <h4>Marcus Bach</h4>
@@ -40,9 +40,7 @@ Report to Protestants
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Marcus Bach works related to philosophy and spiritual understanding including books and his Outreach Newsletter.</p>
-
+</p><br/>Marcus Bach works related to philosophy and spiritual understanding including books and his Outreach Newsletter.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

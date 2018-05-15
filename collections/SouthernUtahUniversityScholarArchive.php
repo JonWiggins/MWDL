@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>Theses submitted to Southern Utah University in partial fulfillment of the requirement of a master's degree in Professional Communication, Education, or Arts Administration.</p>
-</p>
+<p></p><br/><p>Theses submitted to Southern Utah University in partial fulfillment of the requirement of a master's degree in Professional Communication, Education, or Arts Administration.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

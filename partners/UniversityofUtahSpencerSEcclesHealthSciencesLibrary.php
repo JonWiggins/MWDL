@@ -24,11 +24,7 @@
 <h6><a href="http://library.med.utah.edu/">University of Utah - Spencer S. Eccles Health Sciences Library Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The mission of the Spencer S. Eccles Health Sciences Library is to advance education, research, and health care through information access, service and innovation. The library serves the educational, research, and clinical needs of health professionals, students and researchers at the Health Sciences Center, the University of Utah, the State of Utah and of the Internet.</p>
-
-
-</p>
+<p><br/><p>The mission of the Spencer S. Eccles Health Sciences Library is to advance education, research, and health care through information access, service and innovation. The library serves the educational, research, and clinical needs of health professionals, students and researchers at the Health Sciences Center, the University of Utah, the State of Utah and of the Internet.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+Spencer+S.+Eccles+Health+Sciences+Library">Browse all records from University of Utah - Spencer S. Eccles Health Sciences Library</a>
 <!-- List all Active Collections -->
@@ -44,6 +40,7 @@
 <li><a href = "../collections/NeuroOphthalmologyVirtualEducationLibraryNOVEL.php">Neuro-Ophthalmology Virtual Education Library (NOVEL)</a></li>
 <li><a href = "../collections/NeuroOphthalmologyRandyHKardonCollection.php">Neuro-Ophthalmology: Randy H. Kardon Collection</a></li>
 <li><a href = "../collections/UniversityofUtahHealthSciencesPhotographCollection.php">University of Utah Health Sciences Photograph Collection</a></li>
+<li><a href = "../collections/UtahHealthSciencesLibraryConsortium.php">Utah Health Sciences Library Consortium</a></li>
 <li><a href = "../collections/NeuroOphthalmologyRobertBDaroffCollection.php">Neuro-Ophthalmology: Robert B. Daroff Collection</a></li>
 <li><a href = "../collections/NeuroOphthalmologyJournalofNeuroOphthalmology.php">Neuro-Ophthalmology: Journal of Neuro-Ophthalmology</a></li>
 <li><a href = "../collections/NeuroOphthalmologyAlfredoASadunCollection.php">Neuro-Ophthalmology: Alfredo A. Sadun Collection</a></li>

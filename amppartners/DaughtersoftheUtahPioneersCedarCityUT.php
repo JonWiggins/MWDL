@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears. </p>
-
-
-
+<br/><p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears. </p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

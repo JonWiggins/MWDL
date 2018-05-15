@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1954 Coed Advertisement "width="363" height ="319"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="1954 Coed Advertisement"width="363" height ="319"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-1954 Coed Advertisement 
+1954 Coed Advertisement
 <!-- Article Text -->
-</p>
-This is a collection of projects representing the history of Weber State University. The WSC 50th Anniversary Collection documents the moving of Weber College from downtown Ogden to Harrison Boulevard in 1954.</p>
-
+</p><br/>This is a collection of projects representing the history of Weber State University. The WSC 50th Anniversary Collection documents the moving of Weber College from downtown Ogden to Harrison Boulevard in 1954.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

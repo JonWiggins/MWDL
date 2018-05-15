@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2118.jpg" alt=" Joseph Cornell"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2118.jpg" alt="Joseph Cornell"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Joseph Cornell
+Joseph Cornell
 </div>
 <!-- Collection Title-->
 <h4>Veterans of Iraq and Afghanistan Oral History Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Veterans of Iraq and Afghanistan Oral History Collection is comprised of interviews conducted by the George Sutherland Archives at Utah Valley University with veterans of the wars in Iraq and Afghanistan, from the years between 2003 and 2011. The collection, which focuses primarily on veterans currently living in Utah County, will continue to grow over the coming years.</p>
-
+</p><br/>The Veterans of Iraq and Afghanistan Oral History Collection is comprised of interviews conducted by the George Sutherland Archives at Utah Valley University with veterans of the wars in Iraq and Afghanistan, from the years between 2003 and 2011. The collection, which focuses primarily on veterans currently living in Utah County, will continue to grow over the coming years.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

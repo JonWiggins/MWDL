@@ -17,10 +17,7 @@
 <!-- Image Description -->
 STE Revelle development house drawing
 <!-- Article Text -->
-</p>
-Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd Wright in Prarie School architecture. This collection contains correspondence, blueprints, drawings, and memorabilia relating to Woolley's career. Of particular interest is the correspondence with artist Mahonri M. Young and Frank Lloyd Wright.</p>
-&nbsp;</p>
-</p>
+</p><br/>Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd Wright in Prarie School architecture. This collection contains correspondence, blueprints, drawings, and memorabilia relating to Woolley's career. Of particular interest is the correspondence with artist Mahonri M. Young and Frank Lloyd Wright.</p><br/>&nbsp,</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>

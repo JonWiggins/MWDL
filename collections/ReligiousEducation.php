@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1088.jpg" alt="10 Commandments Tablets "width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1088.jpg" alt="10 Commandments Tablets"width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-10 Commandments Tablets 
+10 Commandments Tablets
 </div>
 <!-- Collection Title-->
 <h4>Religious Education</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Religious Education Image Archive contains approximately 5,000 images pertaining to the doctrines and history of the Church of Jesus Christ of Latter-day Saints. Images include photographs, drawings, and paintings of LDS historic sites, Holy Land sites, and significant people in Church history and doctrine.</p>
-
+</p><br/>Religious Education Image Archive contains approximately 5,000 images pertaining to the doctrines and history of the Church of Jesus Christ of Latter-day Saints. Images include photographs, drawings, and paintings of LDS historic sites, Holy Land sites, and significant people in Church history and doctrine.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1191.jpg" alt="Wasatch School "width="356" height="209"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1191.jpg" alt="Wasatch School"width="356" height="209"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Wasatch School 
+Wasatch School
 </div>
 <!-- Collection Title-->
 <h4>Schools of the Salt Lake Valley (UT)</h4>
@@ -40,9 +40,7 @@ Wasatch School
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-"</p>
-Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: ""State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah.""</p>
-"
+"</p><br/>Newell Beeman took these photographs in about 1916. The originals are mounted in a photo album titled: ""State University of Utah, High Schools and Grade Schools of Salt Lake City, Utah.""</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

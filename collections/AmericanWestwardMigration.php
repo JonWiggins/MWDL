@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1001.jpg" alt="Bancroft's map of California, Nevada, Utah and Arizona "width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1001.jpg" alt="Bancroft's map of California%comma% Nevada%comma% Utah and Arizona"width="366" height="258"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bancroft's map of California, Nevada, Utah and Arizona 
+Bancroft's map of California%comma% Nevada%comma% Utah and Arizona
 </div>
 <!-- Collection Title-->
 <h4>American Westward Migration</h4>
@@ -40,9 +40,7 @@ Bancroft's map of California, Nevada, Utah and Arizona
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-Diaries, maps and trails of Mormon pioneers and their westward migration in the 1850s. Diaries include Joseph C. Kingsbury, George A. Thomas, John B. Fairbanks, Joseph A. Young, and Lucia Lamb Everett.</p>
-
+</p><br/>Diaries, maps and trails of Mormon pioneers and their westward migration in the 1850s. Diaries include Joseph C. Kingsbury, George A. Thomas, John B. Fairbanks, Joseph A. Young, and Lucia Lamb Everett.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1140.jpg" alt="Editorial Research Reports - Mixed Marriage "width="229" height="366"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1140.jpg" alt="Editorial Research Reports - Mixed Marriage"width="229" height="366"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Editorial Research Reports - Mixed Marriage 
+Editorial Research Reports - Mixed Marriage
 </div>
 <!-- Collection Title-->
 <h4>Facing the Color Line: Race and Ethnicity in Cache Valley</h4>
@@ -40,9 +40,7 @@ Editorial Research Reports - Mixed Marriage
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-What was it like to be a minority in Cache Valley during the Civil Rights era? To support this year's Common Literature Experience, Merrill-Cazier Library presents this digital collection of interviews, images, and documents illustrating attitudes toward race and ethnicity in Cache Valley before and after the events in Little Rock, Arkansas in 1957 described by Melba Beals in the book Warriors Don't Cry.</p>
-
+</p><br/>What was it like to be a minority in Cache Valley during the Civil Rights era? To support this year's Common Literature Experience, Merrill-Cazier Library presents this digital collection of interviews, images, and documents illustrating attitudes toward race and ethnicity in Cache Valley before and after the events in Little Rock, Arkansas in 1957 described by Melba Beals in the book Warriors Don't Cry.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

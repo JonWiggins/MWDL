@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2147.jpg" alt=" Camp Wolters Photo"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2147.jpg" alt="Camp Wolters Photo"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
- Camp Wolters Photo
+Camp Wolters Photo
 </div>
 <!-- Collection Title-->
 <h4>Life Story Library Collection</h4>
@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/LifeStoryLibraryFoundation.php">Life Story Library Foundation</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Life Story Library Collection contains oral histories and supporting documents, images, and multimedia files. </p>
-
+</p><br/>The Life Story Library Collection contains oral histories and supporting documents, images, and multimedia files. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

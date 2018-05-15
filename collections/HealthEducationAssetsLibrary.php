@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1282.jpg" alt="Chronic Myelogenous Leukemia (annotated)"width="364" height="238"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1282.jpg" alt=""width="364" height="238"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Chronic Myelogenous Leukemia (annotated)
+
 </div>
 <!-- Collection Title-->
 <h4>Health Education Assets Library</h4>
@@ -40,10 +40,7 @@ Chronic Myelogenous Leukemia (annotated)
 <h6> Published by <a href="../partners/HealthEducationAssetsLibrary.php">Health Education Assets Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>The Health Education Assets Library (HEAL) is a digital library of multimedia teaching resources for the health sciences. HEAL provides access to tens of thousands of images, videoclips, animations, presentations, and audio files that support healthcare education.</p>
-
-<p>Browse within HEAL Sub-Collections:</p>
+<p></p><br/><p>The Health Education Assets Library (HEAL) is a digital library of multimedia teaching resources for the health sciences. HEAL provides access to tens of thousands of images, videoclips, animations, presentations, and audio files that support healthcare education.</p><br/><br/><p>Browse within HEAL Sub-Collections:</p>
 <hr>
 <h6>
 <!-- Browse Link -->

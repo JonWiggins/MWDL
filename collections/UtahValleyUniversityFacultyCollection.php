@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1274.jpg" alt="Professor Sandy McGunigall-Smith "width="113" height="151"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1274.jpg" alt=""Brigham Young University ""Y"" logo.""width="113" height="151"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Professor Sandy McGunigall-Smith 
+"Brigham Young University ""Y"" logo."
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Faculty Collection</h4>
@@ -40,9 +40,7 @@ Professor Sandy McGunigall-Smith
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-A collection of presentations, projects, and papers on many different topics by UVU faculty and staff. </p>
-
+</p><br/>A collection of presentations, projects, and papers on many different topics by UVU faculty and staff. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -17,9 +17,7 @@
 <!-- Image Description -->
 <em>Essays on Radicalism </em>
 <!-- Article Text -->
-</p>
- As chief executive officer of the state, Governor Spry had the authority to commute the sentences of those convicted of crimes. The murder conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history; it generated national and international interest. These records were collected by the Governor's office during the time of the controversy. </p>
-
+</p><br/> As chief executive officer of the state, Governor Spry had the authority to commute the sentences of those convicted of crimes. The murder conviction and execution of Joseph Hillstrom (Joe Hill) became one of the most controversial criminal cases in Utah history, it generated national and international interest. These records were collected by the Governor's office during the time of the controversy. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

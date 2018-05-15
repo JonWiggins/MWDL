@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1050.jpg" alt="Studies and Executed Buildings "width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1050.jpg" alt="Studies and Executed Buildings"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Studies and Executed Buildings 
+Studies and Executed Buildings
 </div>
 <!-- Collection Title-->
 <h4>Frank Lloyd Wright: Wasmuth Portfolio</h4>
@@ -40,9 +40,7 @@ Studies and Executed Buildings
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-The Wasmuth Portfolio was a collaborative effort between Frank Lloyd Wright and Ernst Wasmuth, a German publisher. It is a complete folio of Wright's work to date, and was published in 1910-11. The collection of Wright's houses and commercial buildings received far more attention and praise in Europe than in the United States. Contemporary architects called it ""the most important book of the century.""</p>
-"
+"</p><br/>The Wasmuth Portfolio was a collaborative effort between Frank Lloyd Wright and Ernst Wasmuth, a German publisher. It is a complete folio of Wright's work to date, and was published in 1910-11. The collection of Wright's houses and commercial buildings received far more attention and praise in Europe than in the United States. Contemporary architects called it ""the most important book of the century.""</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

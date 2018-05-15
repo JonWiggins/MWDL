@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1201.jpg" alt="Group portrait of Jean Devlyn Dancers "width="336" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1201.jpg" alt="Group portrait of Jean Devlyn Dancers"width="336" height="267"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Group portrait of Jean Devlyn Dancers 
+Group portrait of Jean Devlyn Dancers
 </div>
 <!-- Collection Title-->
 <h4>Showgirls Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Las Vegas Showgirl, and the shows which exemplified them, have a history all their own. From the distinct theatrical traditions of burlesque, vaudeville, dance and music halls, the French cancan, comic opera and operetta, Broadway, speakeasies and nightclubs, and movies, came a cosmopolitan adult entertainment popular in New York, Hollywood, Paris, Miami Beach, Rio, and ultimately Las Vegas, where it seemed to become a permanent fixture of this town's almost timeless firmament of entertainment. The drawings exhibited here illustrate the shows and productions that epitomize Las Vegas.</p>
-
+</p><br/>The Las Vegas Showgirl, and the shows which exemplified them, have a history all their own. From the distinct theatrical traditions of burlesque, vaudeville, dance and music halls, the French cancan, comic opera and operetta, Broadway, speakeasies and nightclubs, and movies, came a cosmopolitan adult entertainment popular in New York, Hollywood, Paris, Miami Beach, Rio, and ultimately Las Vegas, where it seemed to become a permanent fixture of this town's almost timeless firmament of entertainment. The drawings exhibited here illustrate the shows and productions that epitomize Las Vegas.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

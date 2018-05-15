@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/GreenRiverUTPublicLibrary.php">Green River (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Pearl and Jody Baker "width="374" height ="248"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Pearl and Jody Baker"width="374" height ="248"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Pearl and Jody Baker 
+Pearl and Jody Baker
 <!-- Article Text -->
-</p>
-The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible. This collection contains some of the documents the Library has to offer, as well as documents about the life of Baker.</p>
-
+</p><br/>The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible. This collection contains some of the documents the Library has to offer, as well as documents about the life of Baker.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

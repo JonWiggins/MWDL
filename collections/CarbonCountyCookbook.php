@@ -40,9 +40,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-Community cookbook with contributions from local Carbon County residents. Individuals from cities such as Helper, Kenilworth, Sunnyside, Hiawatha, Cameron, Castle Gate, and even other Utah cities such as Logan and Provo, provided recipes for the cookbook.</p>
-
+</p><br/>Community cookbook with contributions from local Carbon County residents. Individuals from cities such as Helper, Kenilworth, Sunnyside, Hiawatha, Cameron, Castle Gate, and even other Utah cities such as Logan and Provo, provided recipes for the cookbook.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

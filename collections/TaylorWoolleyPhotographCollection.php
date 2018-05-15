@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1639.jpg" alt="Office Gathering "width="374" height="208"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1639.jpg" alt="Office Gathering"width="374" height="208"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Office Gathering 
+Office Gathering
 </div>
 <!-- Collection Title-->
 <h4>Taylor Woolley Photograph Collection</h4>
@@ -40,9 +40,7 @@ Office Gathering
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection comprises 60 images taken by Utah architect, Taylor Woolley. The majority of the images are at Frank Lloyd Wright's home, Taliesin I, c. 1911-1912. Woolley worked under Frank Lloyd Wright for a time, traveling with him to Europe and later helping in the construction of Taliesin I in Spring Green, Wisconsin. Woolley captured some unique images of the construction of Taliesin I, both interior and exterior, as well as images showing the intricate details of the home.</p>
-
+</p><br/>This collection comprises 60 images taken by Utah architect, Taylor Woolley. The majority of the images are at Frank Lloyd Wright's home, Taliesin I, c. 1911-1912. Woolley worked under Frank Lloyd Wright for a time, traveling with him to Europe and later helping in the construction of Taliesin I in Spring Green, Wisconsin. Woolley captured some unique images of the construction of Taliesin I, both interior and exterior, as well as images showing the intricate details of the home.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

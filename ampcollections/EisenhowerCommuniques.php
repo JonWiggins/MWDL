@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="113-145, August 1944 "width="376" height ="224"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="113-145%comma% August 1944"width="376" height ="224"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-113-145, August 1944 
+113-145%comma% August 1944
 <!-- Article Text -->
-</p>
-These communiqués were designed mainly as a guide to correspondents covering battlefront activities, though they also served to keep various branches of the Allied forces informed and coordinated. (They were not secret or confidential.) The reports do not describe the local horror and suffering from bombs and bullets but provide an overall, almost businesslike, account of the Allied advance across France, the Netherlands, and Germany</p>
-
+</p><br/>These communiqués were designed mainly as a guide to correspondents covering battlefront activities, though they also served to keep various branches of the Allied forces informed and coordinated. (They were not secret or confidential.) The reports do not describe the local horror and suffering from bombs and bullets but provide an overall, almost businesslike, account of the Allied advance across France, the Netherlands, and Germany</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

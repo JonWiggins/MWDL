@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1854.jpg" alt="Meeting Booklet_16 December 1976 "width="375" height="466"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1854.jpg" alt="Meeting Booklet_16 December 1976"width="375" height="466"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Meeting Booklet_16 December 1976 
+Meeting Booklet_16 December 1976
 </div>
 <!-- Collection Title-->
 <h4>Utah International - General Electric Merger Documents</h4>
@@ -40,9 +40,7 @@ Meeting Booklet_16 December 1976
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-<p></p>
-<p>This collection includes the minutes of the stockholders' meetings with both Utah International and General Electric, correspondence, a reel-to-reel tape of the merger meeting and the official merger documents. </p>
-</p>
+<p></p><br/><p>This collection includes the minutes of the stockholders' meetings with both Utah International and General Electric, correspondence, a reel-to-reel tape of the merger meeting and the official merger documents. </p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->

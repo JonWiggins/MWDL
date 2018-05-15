@@ -17,11 +17,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-
-<p>Albert Bryner was the second of three sons of Ulrich and Maria Mathis Bryner. Ulrich gave Albert and his wife Mariah Pace, a plot of land on the corner of 1st South and 1st East on which to build a home. It was completed between 1890 and 1892, whereupon Albert was called on a mission to Germany for the LDS Church. The first floor of the house will be decorated in the 1890's period, and the second floor will be decorated in the 1920's to 1950's era to reflect the history of the people who lived here.</p>
-
-
-
+<br/><p>Albert Bryner was the second of three sons of Ulrich and Maria Mathis Bryner. Ulrich gave Albert and his wife Mariah Pace, a plot of land on the corner of 1st South and 1st East on which to build a home. It was completed between 1890 and 1892, whereupon Albert was called on a mission to Germany for the LDS Church. The first floor of the house will be decorated in the 1890's period, and the second floor will be decorated in the 1920's to 1950's era to reflect the history of the people who lived here.</p><br/><br/><br/>
 <hr>
 <!-- Browse Collections -->
 <h6>

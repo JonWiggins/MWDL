@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1090.jpg" alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922 "width="171" height="221"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1090.jpg" alt="Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922"width="171" height="221"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Anderson, Betsy (Bengta) Shenstrum 1831-1922 
+Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922
 </div>
 <!-- Collection Title-->
 <h4>Upper Snake River Valley Idaho Histories</h4>
@@ -40,9 +40,7 @@ Anderson, Betsy (Bengta) Shenstrum 1831-1922
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
  
 <!-- Collection Description -->
-</p>
-BYU Idaho's collection of historical sketches of Upper Snake River Valley settlers from 1883 to 1893.</p>
-
+</p><br/>BYU Idaho's collection of historical sketches of Upper Snake River Valley settlers from 1883 to 1893.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

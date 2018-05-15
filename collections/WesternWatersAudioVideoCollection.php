@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1178.jpg" alt="Lifeblood of the Southwest "width="320" height="192"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1178.jpg" alt="Lifeblood of the Southwest"width="320" height="192"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Lifeblood of the Southwest 
+Lifeblood of the Southwest
 </div>
 <!-- Collection Title-->
 <h4>Western Waters: Audio-Video Collection</h4>
@@ -40,9 +40,7 @@ Lifeblood of the Southwest
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p>
-
+</p><br/>The Western Waters Digital Library (WWDL) provides free public access to digital collections of significant primary and secondary resources on water in the western United States. These collections have been made available by research libraries belonging to the Greater Western Library Alliance (GWLA) and other academic library partners. The WWDL is a valuable resource for researchers, policy makers, scholars, Native American tribes, professionals working in various fields, and others interested in contemporary and historic water issues. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

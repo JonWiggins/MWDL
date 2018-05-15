@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/LifeStoryLibraryFoundation.php">Life Story Library Foundation</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=" Camp Wolters Photo"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Camp Wolters Photo"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
- Camp Wolters Photo
+Camp Wolters Photo
 <!-- Article Text -->
-</p>
-The Life Story Library Collection contains oral histories and supporting documents, images, and multimedia files. </p>
-
+</p><br/>The Life Story Library Collection contains oral histories and supporting documents, images, and multimedia files. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

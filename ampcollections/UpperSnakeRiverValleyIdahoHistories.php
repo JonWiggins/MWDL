@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922 "width="171" height ="221"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922"width="171" height ="221"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Anderson, Betsy (Bengta) Shenstrum 1831-1922 
+Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922
 <!-- Article Text -->
-</p>
-BYU Idaho's collection of historical sketches of Upper Snake River Valley settlers from 1883 to 1893.</p>
-
+</p><br/>BYU Idaho's collection of historical sketches of Upper Snake River Valley settlers from 1883 to 1893.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

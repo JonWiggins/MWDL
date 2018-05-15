@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1158.jpg" alt="American Flag Mine "width="270" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1158.jpg" alt="American Flag Mine"width="270" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-American Flag Mine 
+American Flag Mine
 </div>
 <!-- Collection Title-->
 <h4>Park City (UT) Historical Society and Museum Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp;Museum.php">Park City (UT) Historical Society &amp; Museum</a></h6>
+<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp.php">Park City (UT) Historical Society &amp</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p>
-
+ Museum,</p><br/>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

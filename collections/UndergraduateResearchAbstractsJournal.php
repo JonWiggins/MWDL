@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1031.jpg" alt="University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007 "width="317" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1031.jpg" alt="University of Utah Undergraduate Research Abstracts%comma% Volume 7%comma% Spring 2007"width="317" height="429"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007 
+University of Utah Undergraduate Research Abstracts%comma% Volume 7%comma% Spring 2007
 </div>
 <!-- Collection Title-->
 <h4>Undergraduate Research Abstracts Journal</h4>
@@ -40,9 +40,7 @@ University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007
 <h6> Published by <a href="../partners/UniversityofUtahUndergraduateResearchOpportunitiesProgram.php">University of Utah - Undergraduate Research Opportunities Program</a></h6>
  
 <!-- Collection Description -->
-</p>
-This collection contains back issues of the Undergraduate Research Abstracts Journal. It contains student accounts of research performed while at the University of Utah. First published in 2001, a volume has been released annually since. The journal has grown significantly in recent years.</p>
-
+</p><br/>This collection contains back issues of the Undergraduate Research Abstracts Journal. It contains student accounts of research performed while at the University of Utah. First published in 2001, a volume has been released annually since. The journal has grown significantly in recent years.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Proclamation "width="332" height ="412"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Proclamation"width="332" height ="412"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Proclamation 
+Proclamation
 <!-- Article Text -->
-"</p>
-This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p>
-"
+"</p><br/>This series contains one proclamation from Governor Brigham Young. The proclamation calls for a special election for a ""councellor"" [sic] to the Legislative Assembly. The date on the proclamation is October 26, 1853.</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

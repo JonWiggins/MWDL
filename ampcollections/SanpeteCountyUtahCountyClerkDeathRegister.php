@@ -12,15 +12,12 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sanpete County Death Record "width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Sanpete County Death Record"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Sanpete County Death Record 
+Sanpete County Death Record
 <!-- Article Text -->
-</p>
-These records contain death registers for the years 1898-1905. Each entry has the decedent' s name, date of death, place of death, term of residence, sex, color, race, age, occupation, cause of death, marital status, birthplace, residence, and name of informant.</p>
-&nbsp;</p>
-
+</p><br/>These records contain death registers for the years 1898-1905. Each entry has the decedent' s name, date of death, place of death, term of residence, sex, color, race, age, occupation, cause of death, marital status, birthplace, residence, and name of informant.</p><br/>&nbsp,</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

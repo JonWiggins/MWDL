@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1051.jpg" alt="BRONZE SCULPTURE, SKATER BY DENNIS SMITH "width="232" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1051.jpg" alt="BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH"width="232" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-BRONZE SCULPTURE, SKATER BY DENNIS SMITH 
+BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH
 </div>
 <!-- Collection Title-->
 <h4>Utah 2002 Olympic Legacy Collection</h4>
@@ -40,9 +40,7 @@ BRONZE SCULPTURE, SKATER BY DENNIS SMITH
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-</p>
-Utah State History collected and preserved many of these artifacts and other historical materials as a legacy of the Games. The collection is a permanent record for future generations to enjoy. Contributions came from state agencies, corporations, Salt Lake City, and residents. The collection also includes oral histories and photographs from people who participated in or witnessed Games' events. </p>
-
+</p><br/>Utah State History collected and preserved many of these artifacts and other historical materials as a legacy of the Games. The collection is a permanent record for future generations to enjoy. Contributions came from state agencies, corporations, Salt Lake City, and residents. The collection also includes oral histories and photographs from people who participated in or witnessed Games' events. </p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

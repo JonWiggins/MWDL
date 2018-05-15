@@ -30,19 +30,17 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1203.jpg" alt="Cement plant -- Hoover Dam site "width="387" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1203.jpg" alt="Cement plant -- Hoover Dam site"width="387" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Cement plant -- Hoover Dam site 
+Cement plant -- Hoover Dam site
 </div>
 <!-- Collection Title-->
 <h4>Las Vegas and Water in the West</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
  
 <!-- Collection Description -->
-"</p>
-Las Vegas, Spanish for ""the meadows,"" was always about water. Its natural springs were a watering stop, for wandering Native Americans, Spanish and American traders, Mormon settlers, ranchers, and Senator William Clark and his San Pedro, Los Angeles & Salt Lake Railroad. As the railroad depot grew into a city, the pressure upon the water supply would be a permanent aspect of development. The collection presented here documents this history back to the 19th century military and scientific surveys conducted by the U.S. government, directed ultimately toward the future settlement and exploitation of the West. Associated with the scientific expeditions to map a route for the transcontinental railroad were studies to explore the feasibility of irrigation to support agriculture.</p>
-"
+"</p><br/>Las Vegas, Spanish for ""the meadows,"" was always about water. Its natural springs were a watering stop, for wandering Native Americans, Spanish and American traders, Mormon settlers, ranchers, and Senator William Clark and his San Pedro, Los Angeles & Salt Lake Railroad. As the railroad depot grew into a city, the pressure upon the water supply would be a permanent aspect of development. The collection presented here documents this history back to the 19th century military and scientific surveys conducted by the U.S. government, directed ultimately toward the future settlement and exploitation of the West. Associated with the scientific expeditions to map a route for the transcontinental railroad were studies to explore the feasibility of irrigation to support agriculture.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

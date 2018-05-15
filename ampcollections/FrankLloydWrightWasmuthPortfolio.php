@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Studies and Executed Buildings "width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Studies and Executed Buildings"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Studies and Executed Buildings 
+Studies and Executed Buildings
 <!-- Article Text -->
-"</p>
-The Wasmuth Portfolio was a collaborative effort between Frank Lloyd Wright and Ernst Wasmuth, a German publisher. It is a complete folio of Wright's work to date, and was published in 1910-11. The collection of Wright's houses and commercial buildings received far more attention and praise in Europe than in the United States. Contemporary architects called it ""the most important book of the century.""</p>
-"
+"</p><br/>The Wasmuth Portfolio was a collaborative effort between Frank Lloyd Wright and Ernst Wasmuth, a German publisher. It is a complete folio of Wright's work to date, and was published in 1910-11. The collection of Wright's houses and commercial buildings received far more attention and praise in Europe than in the United States. Contemporary architects called it ""the most important book of the century.""</p><br/>"
 <hr>
 <!-- Browse Collection -->
 <h6>

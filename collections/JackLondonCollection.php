@@ -40,10 +40,7 @@ this link
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-This selective small digital collection highlights his will, letters, and book inscriptions that offer insights into his complex relationships with the important women in his life: first wife Bessie, second wife Charmian, daughters Joan and Bess, mother Flora, ""mammy"" Jennie, and friend/collaborator Anna Strunsky. Other items in the digital collection include photographs and book covers. For more details about London's life as well as a full inventory of USU's larger print collection of Jack and Charmian London materials, please visit <a href=""http://uda-db.orbiscascade.org/findaid/ark:/80444/xv27206"">this link</a>.</p>
-<a href=""http://digital.lib.usu.edu/cdm/singleitem/collection/jacklondon/id/913/rec/82"" target=""_blank"">Jack London Portrait</a></p>
-</p>"
+"</p><br/>This selective small digital collection highlights his will, letters, and book inscriptions that offer insights into his complex relationships with the important women in his life: first wife Bessie, second wife Charmian, daughters Joan and Bess, mother Flora, ""mammy"" Jennie, and friend/collaborator Anna Strunsky. Other items in the digital collection include photographs and book covers. For more details about London's life as well as a full inventory of USU's larger print collection of Jack and Charmian London materials, please visit <a href=""http://uda-db.orbiscascade.org/findaid/ark:/80444/xv27206"">this link</a>.</p><br/><a href=""http://digital.lib.usu.edu/cdm/singleitem/collection/jacklondon/id/913/rec/82"" target=""_blank"">Jack London Portrait</a></p><br/></p>"
 <hr>
 <h6>
 <!-- Browse Link -->

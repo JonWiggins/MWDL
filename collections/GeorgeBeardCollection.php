@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1235.jpg" alt="A man by a lake "width="322" height="451"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1235.jpg" alt="A man by a lake"width="322" height="451"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A man by a lake 
+A man by a lake
 </div>
 <!-- Collection Title-->
 <h4>George Beard Collection</h4>
@@ -40,9 +40,7 @@ A man by a lake
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
 <!-- Collection Description -->
-"</p>
-Landscape artist George Beard (1854-1944), was also an ""artist with a camera."" The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p>
-"
+"</p><br/>Landscape artist George Beard (1854-1944), was also an ""artist with a camera."" The almost 1800 photographs of Utah, Idaho and Wyoming in this digital collection demonstrate an artist's eye for composition and lighting.</p><br/>"
 <hr>
 <h6>
 <!-- Browse Link -->

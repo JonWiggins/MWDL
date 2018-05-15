@@ -17,10 +17,7 @@
 <!-- Image Description -->
 <em>Interview with Michael Freeman</em>
 <!-- Article Text -->
-</p>
-Telling Our Story-An Oral History of Utah Valley University is a growing collection of oral history interviews with long-time or retired employees of Utah Valley University. Interviewees in this collection include those who have worked at all of the different iterations of our school, from the Central Utah Vocational School in 1942, the Utah Trade Technical Institute, Utah Technical College, Utah Valley Community College, Utah Valley State College, and Utah Valley University.</p>
-This oral history, which commemorates the 75th Anniversary of Utah Valley University in 2015, will continue to grow with the addition of more interviews.</p>
-
+</p><br/>Telling Our Story-An Oral History of Utah Valley University is a growing collection of oral history interviews with long-time or retired employees of Utah Valley University. Interviewees in this collection include those who have worked at all of the different iterations of our school, from the Central Utah Vocational School in 1942, the Utah Trade Technical Institute, Utah Technical College, Utah Valley Community College, Utah Valley State College, and Utah Valley University.</p><br/>This oral history, which commemorates the 75th Anniversary of Utah Valley University in 2015, will continue to grow with the addition of more interviews.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

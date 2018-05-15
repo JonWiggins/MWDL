@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1277.jpg" alt="Black and white photograph of W. W. Sorensen standing at a pulpit."width="410" height="326"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1277.jpg" alt=""width="410" height="326"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Black and white photograph of W. W. Sorensen standing at a pulpit.
+
 </div>
 <!-- Collection Title-->
 <h4>Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University</h4>
@@ -40,9 +40,7 @@ Black and white photograph of W. W. Sorensen standing at a pulpit.
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
  
 <!-- Collection Description -->
-</p>
-The Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University contains images that trace the history of UVU from 1942 to 1982. Wilson W. Sorensen was president of the school during that time, and donated these photographs that document the changing missions, and many names, of the school, from Central Utah Vocational School and Utah Trade and Technical Institute, to Utah Technical College at Provo to Utah Technical College at Provo/Orem. After President Sorensen retired in 1982, the school became Utah Valley Community College, then Utah Valley State College, and now Utah Valley University.</p>
-
+</p><br/>The Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University contains images that trace the history of UVU from 1942 to 1982. Wilson W. Sorensen was president of the school during that time, and donated these photographs that document the changing missions, and many names, of the school, from Central Utah Vocational School and Utah Trade and Technical Institute, to Utah Technical College at Provo to Utah Technical College at Provo/Orem. After President Sorensen retired in 1982, the school became Utah Valley Community College, then Utah Valley State College, and now Utah Valley University.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

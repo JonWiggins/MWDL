@@ -24,12 +24,7 @@
 <h6><a href="http://www.lifestorylibrary.org/">Life Story Library Foundation Website </a></h6>
 <p></p>
 <!-- Article Text -->
-<p>
-<p>The Life Story Library Foundation is dedicated to preserving the stories of our times as valuable recorded history.</p>
-<p>Mission:&nbsp;Promote widespread awareness, build partnerships, encourage reflection, and provide accessible options for saving and sharing life stories.</p>
-
-
-</p>
+<p><br/><p>The Life Story Library Foundation is dedicated to preserving the stories of our times as valuable recorded history.</p><br/><p>Mission:&nbsp;Promote widespread awareness, build partnerships, encourage reflection, and provide accessible options for saving and sharing life stories.</p><br/><br/><br/></p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Life+Story+Library+Foundation">Browse all records from Life Story Library Foundation</a>
 <!-- List all Active Collections -->

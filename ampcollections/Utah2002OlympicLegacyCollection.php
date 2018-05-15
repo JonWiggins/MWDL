@@ -12,14 +12,12 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="BRONZE SCULPTURE, SKATER BY DENNIS SMITH "width="232" height ="320"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH"width="232" height ="320"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-BRONZE SCULPTURE, SKATER BY DENNIS SMITH 
+BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH
 <!-- Article Text -->
-</p>
-Utah State History collected and preserved many of these artifacts and other historical materials as a legacy of the Games. The collection is a permanent record for future generations to enjoy. Contributions came from state agencies, corporations, Salt Lake City, and residents. The collection also includes oral histories and photographs from people who participated in or witnessed Games' events. </p>
-
+</p><br/>Utah State History collected and preserved many of these artifacts and other historical materials as a legacy of the Games. The collection is a permanent record for future generations to enjoy. Contributions came from state agencies, corporations, Salt Lake City, and residents. The collection also includes oral histories and photographs from people who participated in or witnessed Games' events. </p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
