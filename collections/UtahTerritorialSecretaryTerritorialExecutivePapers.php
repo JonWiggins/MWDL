@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2288.jpg" alt="<em>Territorial Secretary Territorial Executive Papers%comma% 1849-1896 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2288.jpg" alt="<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Territorial Secretary Territorial Executive Papers%comma% 1849-1896 </em>
+<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Territorial Secretary Territorial Executive Papers</h4>

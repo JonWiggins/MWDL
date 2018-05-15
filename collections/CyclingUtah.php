@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1642.jpg" alt="Cycling Utah Vol. 17%comma% No. 7%comma% 2009 September"width="218" height="314"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1642.jpg" alt="Cycling Utah Vol. 17, No. 7, 2009 September"width="218" height="314"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Cycling Utah Vol. 17%comma% No. 7%comma% 2009 September
+Cycling Utah Vol. 17, No. 7, 2009 September
 </div>
 <!-- Collection Title-->
 <h4>Cycling Utah</h4>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mountains in Kananaskis Country%comma% Alberta"width="357" height ="272"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Mountains in Kananaskis Country, Alberta"width="357" height ="272"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Mountains in Kananaskis Country%comma% Alberta
+Mountains in Kananaskis Country, Alberta
 <!-- Article Text -->
 "</p><br/>Design Workshop®, a Denver-based landscape architecture firm, has been creating ""sustainable places of timeless beauty"" since 1969. The firm's numerous awards reflects its successful innovations in land planning and design. To mark its 40th anniversary in 2010, Design Workshop partnered with Utah State University to create the Design Workshop Landscape Architecture Archive which includes this digital collection as well as a physical archive housed in Merrill-Cazier Library's Special Collections and Archives</p><br/>"
 <hr>

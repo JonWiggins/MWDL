@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2165.jpg" alt="Aerial photographs covering an area from Lewiston and the Utah/Idaho border%comma% 1959"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2165.jpg" alt="Aerial photographs covering an area from Lewiston and the Utah/Idaho border, 1959"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aerial photographs covering an area from Lewiston and the Utah/Idaho border%comma% 1959
+Aerial photographs covering an area from Lewiston and the Utah/Idaho border, 1959
 </div>
 <!-- Collection Title-->
 <h4>Cache County (UT) Aerial Photograph Collection</h4>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Boyle%comma% Henry Green vol. 04%comma% 1858-1867"width="306" height ="437"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Boyle, Henry Green vol. 04, 1858-1867"width="306" height ="437"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Boyle%comma% Henry Green vol. 04%comma% 1858-1867
+Boyle, Henry Green vol. 04, 1858-1867
 <!-- Article Text -->
 </p><br/>One of the great values that Mormon missionary diaries give us is the insight into the lives of ordinary people, missionaries and the people they labored among. We find deep religious insights set against cultural and social biases, often fermenting in misunderstandings due to language gaps of considerable proportions. But beyond the daily cares and cycles of the lives of common people are insights into the economic and political worlds they inhabited. Poverty, inflation, population mobility, family and community structure, as well as religious attitudes are just a sample of the knowledge that can be gained through the study of these missionary journals.</p><br/>
 <hr>

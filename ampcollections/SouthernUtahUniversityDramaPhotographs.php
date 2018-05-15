@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Didymus%comma% the Blind%comma% ca. 313-ca. 398"width="378" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Didymus, the Blind, ca. 313-ca. 398"width="378" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Didymus%comma% the Blind%comma% ca. 313-ca. 398
+Didymus, the Blind, ca. 313-ca. 398
 <!-- Article Text -->
 <p></p><br/><p>The Southern Utah University Drama Collection contains a sampling of photographs from theatre productions during the 70's, 80's, and 90's. SUU has over a hundred year tradition of fine music, remarkable dance, and ambitious theatrical productions. These photos convey the flavor of those performances.</p><br/></p>
 <hr>

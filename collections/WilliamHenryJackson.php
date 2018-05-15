@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1098.jpg" alt="Along the North Platte River%comma% Oregon Trail"width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1098.jpg" alt="Along the North Platte River, Oregon Trail"width="354" height="293"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Along the North Platte River%comma% Oregon Trail
+Along the North Platte River, Oregon Trail
 </div>
 <!-- Collection Title-->
 <h4>William Henry Jackson</h4>

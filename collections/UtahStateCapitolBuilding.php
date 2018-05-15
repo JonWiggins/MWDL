@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2298.jpg" alt="<em>Design Submissions%comma% Submission by J. E. Tourtellote & Co. </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2298.jpg" alt="<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Design Submissions%comma% Submission by J. E. Tourtellote & Co. </em>
+<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah State Capitol Building</h4>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Esther Pulley%comma% Poultry Days Queen 1929"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Esther Pulley, Poultry Days Queen 1929"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Esther Pulley%comma% Poultry Days Queen 1929
+Esther Pulley, Poultry Days Queen 1929
 <!-- Article Text -->
 </p><br/>The American Fork City Royalty collection contains photographs of the women who served as the American Fork Poultry Days queens between 1928 and 1941, and the queens and attendants for Miss American Fork for American Fork Steel Days from 1946 to 1983. </p><br/>
 <hr>

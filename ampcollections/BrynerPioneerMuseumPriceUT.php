@@ -1,15 +1,15 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1558 -->
 <!-- Collection Title -->
-<title>Bryner Pioneer Museum%comma% Price (UT)</title>
+<title>Bryner Pioneer Museum, Price (UT)</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/BrynerPioneerMuseumPriceUT.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Bryner Pioneer Museum%comma% Price (UT)</h3>
+<h3>Bryner Pioneer Museum, Price (UT)</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BrynerPioneerMuseumPrice%comma%UT.php">Bryner Pioneer Museum (Price%comma% UT)</a></h6>
+<h6> Published by <a href="../partners/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Utah Railway Company Semi-Monthly Time Book"width="262" height ="420"  layout = "responsive"></amp-img>
@@ -21,6 +21,6 @@ Utah Railway Company Semi-Monthly Time Book
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1558&indx=1&bulkSize=50">Browse all record in Bryner Pioneer Museum%comma% Price (UT)</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1558&indx=1&bulkSize=50">Browse all record in Bryner Pioneer Museum, Price (UT)</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

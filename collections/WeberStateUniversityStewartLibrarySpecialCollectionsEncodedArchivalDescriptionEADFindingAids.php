@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">
 <!-- Collection #1272 -->
 <!-- Collection Title -->
-<title>Weber State University%comma% Stewart Library%comma% Special Collections Encoded Archival Description (EAD) Finding Aids</title>
+<title>Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php&t=Weber State University%comma% Stewart Library%comma% Special Collections Encoded Archival Description (EAD) Finding Aids"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php&t=Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php&via=@MountainWestDL&text=Weber State University%comma% Stewart Library%comma% Special Collections Encoded Archival Description (EAD) Finding Aids"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php&via=@MountainWestDL&text=Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 Penlight-cover Test
 </div>
 <!-- Collection Title-->
-<h4>Weber State University%comma% Stewart Library%comma% Special Collections Encoded Archival Description (EAD) Finding Aids</h4>
+<h4>Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
@@ -44,7 +44,7 @@ Penlight-cover Test
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1272&indx=1&bulkSize=50">Browse all record in Weber State University%comma% Stewart Library%comma% Special Collections Encoded Archival Description (EAD) Finding Aids</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1272&indx=1&bulkSize=50">Browse all record in Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</a>
 </h6>
 <p></p>
 </div>

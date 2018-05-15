@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1953.jpg" alt="Ray Hill%comma% U.S. Air Force"width="159" height="101"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1953.jpg" alt="Ray Hill, U.S. Air Force"width="159" height="101"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Ray Hill%comma% U.S. Air Force
+Ray Hill, U.S. Air Force
 </div>
 <!-- Collection Title-->
 <h4>Vietnam Era Oral History Project</h4>

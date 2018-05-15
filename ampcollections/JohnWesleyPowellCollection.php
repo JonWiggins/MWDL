@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Scientific American Supplement%comma% Vol. VI"width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Scientific American Supplement, Vol. VI"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Scientific American Supplement%comma% Vol. VI
+Scientific American Supplement, Vol. VI
 <!-- Article Text -->
 </p><br/>John Wesley Powell, the iconic explorer of the Colorado River, left the American southwest with a rich legacy. During his expeditions he compiled data and a number of sketches describing the landscape. This collection contains various writings and geographical publications to which Powell contributed.</p><br/>
 <hr>

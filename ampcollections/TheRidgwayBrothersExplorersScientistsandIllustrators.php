@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1142 -->
 <!-- Collection Title -->
-<title>The Ridgway Brothers: Explorers%comma% Scientists%comma% and Illustrators</title>
+<title>The Ridgway Brothers: Explorers, Scientists, and Illustrators</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/TheRidgwayBrothersExplorersScientistsandIllustrators.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>The Ridgway Brothers: Explorers%comma% Scientists%comma% and Illustrators</h3>
+<h3>The Ridgway Brothers: Explorers, Scientists, and Illustrators</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Drawing of two men in newspaper office
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1142&indx=1&bulkSize=50">Browse all record in The Ridgway Brothers: Explorers%comma% Scientists%comma% and Illustrators</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1142&indx=1&bulkSize=50">Browse all record in The Ridgway Brothers: Explorers, Scientists, and Illustrators</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #2032 -->
 <!-- Collection Title -->
-<title>Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</title>
+<title>Utah Legislature. House of Representatives Working Bills, 1896-1989</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</h3>
+<h3>Utah Legislature. House of Representatives Working Bills, 1896-1989</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Petition from 1897
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

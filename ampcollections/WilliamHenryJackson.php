@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Along the North Platte River%comma% Oregon Trail"width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Along the North Platte River, Oregon Trail"width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Along the North Platte River%comma% Oregon Trail
+Along the North Platte River, Oregon Trail
 <!-- Article Text -->
 </p><br/>Almost 1,100 images from one of the most renowned 19th century landscape photographers of the American West. The collection includes landscapes of the western United States and Mexico, but also 231 images of Asia and Pacific countries, 60 Native American portraits, and 30 pieces of art.</p><br/>
 <hr>

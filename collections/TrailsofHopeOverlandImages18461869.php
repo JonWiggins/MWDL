@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1072.jpg" alt="Chimney Rock near Bayard%comma% Neb."width="310" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1072.jpg" alt="Chimney Rock near Bayard, Neb."width="310" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Chimney Rock near Bayard%comma% Neb.
+Chimney Rock near Bayard, Neb.
 </div>
 <!-- Collection Title-->
 <h4>Trails of Hope: Overland Images 1846-1869</h4>

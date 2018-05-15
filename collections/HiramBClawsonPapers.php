@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1898.jpg" alt="Correspondence from Lucille Ardelle Clawson Cummings%comma% 1882-1890"width="232" height="378"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1898.jpg" alt="Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890"width="232" height="378"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Correspondence from Lucille Ardelle Clawson Cummings%comma% 1882-1890
+Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890
 </div>
 <!-- Collection Title-->
 <h4>Hiram B. Clawson Papers</h4>

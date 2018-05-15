@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Proposed extension to El Rancho Moter Hotel%comma% Phoenix%comma% Arizona%comma% courtyard</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Proposed extension to El Rancho Moter Hotel, Phoenix, Arizona, courtyard</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Proposed extension to El Rancho Moter Hotel%comma% Phoenix%comma% Arizona%comma% courtyard</em>
+<em>Proposed extension to El Rancho Moter Hotel, Phoenix, Arizona, courtyard</em>
 <!-- Article Text -->
 </p><br/>Architectural drawings and blueprints from architect George Cannon Young./p&gt, </p><br/>
 <hr>

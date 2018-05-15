@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1789.jpg" alt="Aaron P. Christiansen Daybook 6%comma% November%comma% 1916 and January%comma% 1917"width="371" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1789.jpg" alt="Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917"width="371" height="256"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Aaron P. Christiansen Daybook 6%comma% November%comma% 1916 and January%comma% 1917
+Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917
 </div>
 <!-- Collection Title-->
 <h4>Forest Ranger Daybooks of Aaron P. Christiansen</h4>

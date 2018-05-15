@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ray Hill%comma% U.S. Air Force"width="159" height ="101"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Ray Hill, U.S. Air Force"width="159" height ="101"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Ray Hill%comma% U.S. Air Force
+Ray Hill, U.S. Air Force
 <!-- Article Text -->
 </p><br/>The Vietnam Era Oral History Project collection contains the transcripts, audio, and soon complete video of interviews with Vietnam War-era veterans, nurses, and family members. The interviews are conducted by Dr. William Cobb of Utah Valley University's Department of History. This collection will continue to grow, as more interviews are currently being conducted and transcribed.</p><br/></p><br/>&nbsp,</p><br/>
 <hr>

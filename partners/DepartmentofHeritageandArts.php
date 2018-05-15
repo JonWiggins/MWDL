@@ -46,10 +46,10 @@
 <li><a href = "../collections/KUEDTopazRelocationCenterResidentsCollection.php">KUED Topaz Relocation Center Residents Collection</a></li>
 <li><a href = "../collections/AlMortonCollection1930s1950s.php">Al Morton Collection 1930s-1950s</a></li>
 <li><a href = "../collections/CarbonCountyCookbook.php">Carbon County Cookbook</a></li>
-<li><a href = "../collections/OurDailyDiaryTopazWarRelocationCenter.php">Our Daily Diary Topaz War Relocation Center</a></li>
+<li><a href = "../collections/OurDailyDiaryTopazWarRelocationCenter.php">Our Daily Diary, Topaz War Relocation Center</a></li>
 <li><a href = "../collections/EllisReynoldsShippPapers.php">Ellis Reynolds Shipp Papers</a></li>
 <li><a href = "../collections/WorksProgressAdministrationBiographySketchesCollection.php">Works Progress Administration Biography Sketches Collection</a></li>
-<li><a href = "../collections/CharlesRaymondVarleySlides18681986.php">Charles Raymond Varley Slides 1868-1986</a></li>
+<li><a href = "../collections/CharlesRaymondVarleySlides18681986.php">Charles Raymond Varley Slides, 1868-1986</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

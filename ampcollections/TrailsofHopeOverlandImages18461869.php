@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Chimney Rock near Bayard%comma% Neb."width="310" height ="236"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Chimney Rock near Bayard, Neb."width="310" height ="236"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Chimney Rock near Bayard%comma% Neb.
+Chimney Rock near Bayard, Neb.
 <!-- Article Text -->
 </p><br/>Trails of Hope: Overland Diaries and Letters, 1846–1869 is a collection of the original writings of 49 voyagers on the Mormon, California, Oregon, and Montana trails who wrote while traveling on the trail. Some diarists speak with uncommon eloquence and others with maddening brevity, while telling their stories of persistence and pain, birth and death, God and gold, dust and debris, bugs and buffalo, love and laughter, and trail tedium. Accompanying the original diary images and their searchable transcripts are 43 contemporary maps, seven trail guides, 82 photographs, watercolors and art sketches, four essays on the Mormon and California trails, maps and trail guides.</p><br/>
 <hr>

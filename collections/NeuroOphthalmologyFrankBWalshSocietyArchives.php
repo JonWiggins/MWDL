@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1181.jpg" alt="Invasion of the Nerve Snatchers%comma% Part III (Coronal T2 Annotated)"width="241" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1181.jpg" alt="Invasion of the Nerve Snatchers, Part III (Coronal T2 Annotated)"width="241" height="241"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Invasion of the Nerve Snatchers%comma% Part III (Coronal T2 Annotated)
+Invasion of the Nerve Snatchers, Part III (Coronal T2 Annotated)
 </div>
 <!-- Collection Title-->
 <h4>Neuro-Ophthalmology: Frank B. Walsh Society Archives</h4>

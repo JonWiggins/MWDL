@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/LettersofPhilipIIKingofSpain.php">
 <!-- Collection #1316 -->
 <!-- Collection Title -->
-<title>Letters of Philip II%comma% King of Spain</title>
+<title>Letters of Philip II, King of Spain</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/LettersofPhilipIIKingofSpain.php&t=Letters of Philip II%comma% King of Spain"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/LettersofPhilipIIKingofSpain.php&t=Letters of Philip II, King of Spain"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/LettersofPhilipIIKingofSpain.php&via=@MountainWestDL&text=Letters of Philip II%comma% King of Spain"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/LettersofPhilipIIKingofSpain.php&via=@MountainWestDL&text=Letters of Philip II, King of Spain"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 
 </div>
 <!-- Collection Title-->
-<h4>Letters of Philip II%comma% King of Spain</h4>
+<h4>Letters of Philip II, King of Spain</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
  
@@ -44,7 +44,7 @@
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1316&indx=1&bulkSize=50">Browse all record in Letters of Philip II%comma% King of Spain</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1316&indx=1&bulkSize=50">Browse all record in Letters of Philip II, King of Spain</a>
 </h6>
 <p></p>
 </div>

@@ -1,15 +1,15 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1615 -->
 <!-- Collection Title -->
-<title>Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</title>
+<title>Historic Landscape of Nevada: Development, Water, and the Natural Environment</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</h3>
+<h3>Historic Landscape of Nevada: Development, Water, and the Natural Environment</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Geology and water resources of Las Vegas"width="189" height ="291"  layout = "responsive"></amp-img>
@@ -21,6 +21,6 @@ Geology and water resources of Las Vegas
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1615&indx=1&bulkSize=50">Browse all record in Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1615&indx=1&bulkSize=50">Browse all record in Historic Landscape of Nevada: Development, Water, and the Natural Environment</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

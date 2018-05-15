@@ -73,14 +73,14 @@
 <li><a href = "../collections/MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids.php">Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids</a></li>
 <li><a href = "../collections/ProvoUTHistoricalImages.php">Provo (UT) Historical Images</a></li>
 <li><a href = "../collections/WorldWarIIPhotographsbyJMalanHeslop.php">World War II Photographs by J. Malan Heslop</a></li>
-<li><a href = "../collections/LettersofPhilipIIKingofSpain.php">Letters of Philip II King of Spain</a></li>
+<li><a href = "../collections/LettersofPhilipIIKingofSpain.php">Letters of Philip II, King of Spain</a></li>
 <li><a href = "../collections/FrenchPoliticalPamphlets.php">French Political Pamphlets</a></li>
 <li><a href = "../collections/DidymusPapyri.php">Didymus Papyri</a></li>
 <li><a href = "../collections/HuntingtonBagleyPhotographCollection.php">Huntington Bagley Photograph Collection</a></li>
 <li><a href = "../collections/MarcelSchwob.php">Marcel Schwob</a></li>
 <li><a href = "../collections/LatterDaySaintsMillennialStar.php">Latter-Day Saints' Millennial Star</a></li>
 <li><a href = "../collections/BrighamYoungUniversitySpecialCollectionsMiscellaneous.php">Brigham Young University Special Collections Miscellaneous</a></li>
-<li><a href = "../collections/DailyEnquirerProvoUT1.php">Daily Enquirer (Provo UT) 1</a></li>
+<li><a href = "../collections/DailyEnquirerProvoUT1.php">Daily Enquirer (Provo, UT) 1</a></li>
 <li><a href = "../collections/BrighamYoungUniversityFindingAids.php">Brigham Young University Finding Aids</a></li>
 <li><a href = "../collections/HistoryofMonacoPrimaryDocuments.php">History of Monaco: Primary Documents</a></li>
 <li><a href = "../collections/BrighamYoungUniversityFamilyHistories.php">Brigham Young University Family Histories</a></li>

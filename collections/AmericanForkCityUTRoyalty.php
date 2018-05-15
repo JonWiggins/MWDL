@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2134.jpg" alt="Esther Pulley%comma% Poultry Days Queen 1929"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2134.jpg" alt="Esther Pulley, Poultry Days Queen 1929"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Esther Pulley%comma% Poultry Days Queen 1929
+Esther Pulley, Poultry Days Queen 1929
 </div>
 <!-- Collection Title-->
 <h4>American Fork City (UT) Royalty</h4>

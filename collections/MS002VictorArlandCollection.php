@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2271.jpg" alt="<em>Letter from Victor Arland in Greybull%comma% Wyoming to Camille Dadant 1</em>"width="409" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2271.jpg" alt="<em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em>"width="409" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Letter from Victor Arland in Greybull%comma% Wyoming to Camille Dadant 1</em>
+<em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em>
 </div>
 <!-- Collection Title-->
 <h4>MS 002 Victor Arland Collection</h4>

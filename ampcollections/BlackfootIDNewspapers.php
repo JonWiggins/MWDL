@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880"width="234" height ="307"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="The Blackfoot Register, Volume 1, Number 1, July 10, 1880"width="234" height ="307"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880
+The Blackfoot Register, Volume 1, Number 1, July 10, 1880
 <!-- Article Text -->
 "</p><br/>The Blackfoot, Idaho newspapers, including ""The Blackfoot Register,"" ran in the late 1800's. Includes publications from 1880-1902. </p><br/>&nbsp;</p><br/>"
 <hr>

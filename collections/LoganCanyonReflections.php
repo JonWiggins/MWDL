@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1791.jpg" alt="Lodge at Camp Lomia%comma% summer home of the Boy Scouts"width="399" height="276"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1791.jpg" alt="Lodge at Camp Lomia, summer home of the Boy Scouts"width="399" height="276"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Lodge at Camp Lomia%comma% summer home of the Boy Scouts
+Lodge at Camp Lomia, summer home of the Boy Scouts
 </div>
 <!-- Collection Title-->
 <h4>Logan Canyon Reflections</h4>

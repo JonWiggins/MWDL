@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2148.jpg" alt="Main Street American Fork%comma% Utah%comma% Looking toward Mount Timpanogos%comma% 1957"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2148.jpg" alt="Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Main Street American Fork%comma% Utah%comma% Looking toward Mount Timpanogos%comma% 1957
+Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957
 </div>
 <!-- Collection Title-->
 <h4>Historical American Fork (UT)</h4>

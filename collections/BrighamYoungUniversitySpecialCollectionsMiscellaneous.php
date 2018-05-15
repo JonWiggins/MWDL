@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1539.jpg" alt="Robert Graves letters and photographs%comma% 1943-1960"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1539.jpg" alt="Robert Graves letters and photographs, 1943-1960"width="172" height="273"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Robert Graves letters and photographs%comma% 1943-1960
+Robert Graves letters and photographs, 1943-1960
 </div>
 <!-- Collection Title-->
 <h4>Brigham Young University Special Collections Miscellaneous</h4>

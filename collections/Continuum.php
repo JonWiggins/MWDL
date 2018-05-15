@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1221.jpg" alt="Continuum 1993 Summer (Vol. 3%comma% no. 1)"width="220" height="290"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1221.jpg" alt="Continuum 1993 Summer (Vol. 3, no. 1)"width="220" height="290"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Continuum 1993 Summer (Vol. 3%comma% no. 1)
+Continuum 1993 Summer (Vol. 3, no. 1)
 </div>
 <!-- Collection Title-->
 <h4>Continuum</h4>

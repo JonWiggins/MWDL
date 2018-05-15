@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php">
 <!-- Collection #1547 -->
 <!-- Collection Title -->
-<title>Utah Office of Vital Records and Statistics. Death Certificates%comma% 1905-1958</title>
+<title>Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php&t=Utah Office of Vital Records and Statistics. Death Certificates%comma% 1905-1958"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php&t=Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php&via=@MountainWestDL&text=Utah Office of Vital Records and Statistics. Death Certificates%comma% 1905-1958"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahOfficeofVitalRecordsandStatisticsDeathCertificates19051958.php&via=@MountainWestDL&text=Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 Utah Resident's Death Certificate
 </div>
 <!-- Collection Title-->
-<h4>Utah Office of Vital Records and Statistics. Death Certificates%comma% 1905-1958</h4>
+<h4>Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
@@ -44,7 +44,7 @@ Utah Resident's Death Certificate
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1547&indx=1&bulkSize=50">Browse all record in Utah Office of Vital Records and Statistics. Death Certificates%comma% 1905-1958</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1547&indx=1&bulkSize=50">Browse all record in Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</a>
 </h6>
 <p></p>
 </div>

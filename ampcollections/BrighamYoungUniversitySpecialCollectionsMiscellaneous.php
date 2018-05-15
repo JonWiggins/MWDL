@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Robert Graves letters and photographs%comma% 1943-1960"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Robert Graves letters and photographs, 1943-1960"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Robert Graves letters and photographs%comma% 1943-1960
+Robert Graves letters and photographs, 1943-1960
 <!-- Article Text -->
 </p><br/>This collection features materials from the Weir Family Photographs, David John Diaries, and items on Nursing Education.</p><br/>
 <hr>

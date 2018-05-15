@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1218.jpg" alt="Boyle%comma% Henry Green vol. 04%comma% 1858-1867"width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1218.jpg" alt="Boyle, Henry Green vol. 04, 1858-1867"width="306" height="437"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Boyle%comma% Henry Green vol. 04%comma% 1858-1867
+Boyle, Henry Green vol. 04, 1858-1867
 </div>
 <!-- Collection Title-->
 <h4>Mormon Missionary Diaries</h4>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1138.jpg" alt="Twenty-mule train near Calico%comma% California%comma% 1905"width="338" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1138.jpg" alt="Twenty-mule train near Calico, California, 1905"width="338" height="305"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Twenty-mule train near Calico%comma% California%comma% 1905
+Twenty-mule train near Calico, California, 1905
 </div>
 <!-- Collection Title-->
 <h4>Death Valley Region Photograph Collection</h4>

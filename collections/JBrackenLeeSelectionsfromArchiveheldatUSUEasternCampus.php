@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1790.jpg" alt="Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972"width="320" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1790.jpg" alt="Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972"width="320" height="220"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972
+Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972
 </div>
 <!-- Collection Title-->
 <h4>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</h4>

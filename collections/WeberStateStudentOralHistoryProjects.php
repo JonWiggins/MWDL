@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2018.jpg" alt="Seshachari%comma% Candadai"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2018.jpg" alt="Seshachari, Candadai"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Seshachari%comma% Candadai
+Seshachari, Candadai
 </div>
 <!-- Collection Title-->
 <h4>Weber State Student Oral History Projects</h4>

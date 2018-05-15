@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1006.jpg" alt="Beckwith%comma% Frank A"width="295" height="425"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1006.jpg" alt="Beckwith, Frank A"width="295" height="425"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Beckwith%comma% Frank A
+Beckwith, Frank A
 </div>
 <!-- Collection Title-->
 <h4>Frank Beckwith Collection</h4>

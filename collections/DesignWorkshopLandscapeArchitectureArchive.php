@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1611.jpg" alt="Mountains in Kananaskis Country%comma% Alberta"width="357" height="272"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1611.jpg" alt="Mountains in Kananaskis Country, Alberta"width="357" height="272"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Mountains in Kananaskis Country%comma% Alberta
+Mountains in Kananaskis Country, Alberta
 </div>
 <!-- Collection Title-->
 <h4>Design Workshop Landscape Architecture Archive</h4>

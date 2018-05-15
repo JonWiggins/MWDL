@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Journal of Neuro-Ophthalmology%comma% March 2008%comma% Volume 28%comma% Issue 1"width="382" height ="511"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Journal of Neuro-Ophthalmology, March 2008, Volume 28, Issue 1"width="382" height ="511"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Journal of Neuro-Ophthalmology%comma% March 2008%comma% Volume 28%comma% Issue 1
+Journal of Neuro-Ophthalmology, March 2008, Volume 28, Issue 1
 <!-- Article Text -->
 "</p><br/>This collection is #2 of 3 collections. For the rest of the items, see <a href=""UniversityofUtahThesesandDissertations1.php"">University of Utah Theses and Dissertations 1</a> or <a href=""UniversityofUtahThesesandDissertations3.php"">University of Utah Theses and Dissertations 3</a></p><br/>The Theses and Dissertations collection includes selected dissertations, masters theses and projects, and undergraduate honors theses from University of Utah graduates. Some theses and dissertations are viewable in the campus libraries only.</p><br/> <a href=""http://collections.lib.utah.edu/cdm/ref/collection/etd2/id/3"" target=""_blank"">Effect of singing and music on blood pressure of hypertensives<br> </a>University of Utah</p><br/></p>"
 <hr>

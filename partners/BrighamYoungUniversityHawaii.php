@@ -30,10 +30,10 @@
 <!-- List all Active Collections -->
 <li><a href = "../collections/MormonPacificHistoricalSociety.php">Mormon Pacific Historical Society</a></li>
 <li><a href = "../collections/BrighamYoungUniversityHawaiiCollection.php">Brigham Young University-Hawaii Collection</a></li>
-<li><a href = "../collections/FrankCallPhotographCollection19091911.php">Frank Call Photograph Collection 1909-1911</a></li>
-<li><a href = "../collections/LaiePlantationandCommunityPhotoCollection18791965.php">Laie Plantation and Community Photo Collection 1879-1965</a></li>
-<li><a href = "../collections/PolynesianCulturalCenterPhotoCollection19611979.php">Polynesian Cultural Center Photo Collection 1961-1979</a></li>
-<li><a href = "../collections/EdwardKBryantPhotoCollection19421945.php">Edward K. Bryant Photo Collection 1942-1945</a></li>
+<li><a href = "../collections/FrankCallPhotographCollection19091911.php">Frank Call Photograph Collection, 1909-1911</a></li>
+<li><a href = "../collections/LaiePlantationandCommunityPhotoCollection18791965.php">Laie Plantation and Community Photo Collection, 1879-1965</a></li>
+<li><a href = "../collections/PolynesianCulturalCenterPhotoCollection19611979.php">Polynesian Cultural Center Photo Collection, 1961-1979</a></li>
+<li><a href = "../collections/EdwardKBryantPhotoCollection19421945.php">Edward K. Bryant Photo Collection, 1942-1945</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

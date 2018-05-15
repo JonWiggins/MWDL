@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1607.jpg" alt="Silverton bound train getting ready to leave Durango%comma% Colorado."width="345" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1607.jpg" alt="Silverton bound train getting ready to leave Durango, Colorado."width="345" height="239"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Silverton bound train getting ready to leave Durango%comma% Colorado.
+Silverton bound train getting ready to leave Durango, Colorado.
 </div>
 <!-- Collection Title-->
 <h4>Barry Maxfield Railroad Photographs</h4>

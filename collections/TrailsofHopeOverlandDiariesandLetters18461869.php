@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1064.jpg" alt="Grantham%comma% William"width="354" height="328"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1064.jpg" alt="Grantham, William"width="354" height="328"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Grantham%comma% William
+Grantham, William
 </div>
 <!-- Collection Title-->
 <h4>Trails of Hope: Overland Diaries and Letters 1846-1869</h4>

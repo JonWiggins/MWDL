@@ -37,7 +37,7 @@
 <!-- Collection Title-->
 <h4>Western Shoshone Defense Project</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p><br/>The records of the Western Shoshone Defense Project were maintained by sisters Carrie and Mary Dann, two traditional Western Shoshone ranchers living in northeastern Nevada. The Defense Project's mission was to affirm Western Shoshone jurisdiction over Western Shoshone ancestral homelands by protecting, preserving, and restoring Shoshone rights and lands for present and future generations based on cultural and spiritual traditions. It was established in 1991 by the Western Shoshone National Council to provide support to Mary and Carrie Dann as they faced confiscation of their livestock which they grazed on Western Shoshone homelands without paying grazing fees to the Bureau of Land Management.</p><br/>

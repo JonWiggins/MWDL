@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Invasion of the Nerve Snatchers%comma% Part III (Coronal T2 Annotated)"width="241" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Invasion of the Nerve Snatchers, Part III (Coronal T2 Annotated)"width="241" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Invasion of the Nerve Snatchers%comma% Part III (Coronal T2 Annotated)
+Invasion of the Nerve Snatchers, Part III (Coronal T2 Annotated)
 <!-- Article Text -->
 </p><br/>Part of the The Neuro-Ophthalmology Virtual Education Library</p><br/>A discipline specific, open access repository of digital materials (images, video, lectures, articles and animations), to be used for educational and research purposes by health care professionals, educators, patients, and students. </p><br/>
 <hr>

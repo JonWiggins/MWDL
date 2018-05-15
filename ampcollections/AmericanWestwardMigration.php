@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bancroft's map of California%comma% Nevada%comma% Utah and Arizona"width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Bancroft's map of California, Nevada, Utah and Arizona"width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Bancroft's map of California%comma% Nevada%comma% Utah and Arizona
+Bancroft's map of California, Nevada, Utah and Arizona
 <!-- Article Text -->
 </p><br/>Diaries, maps and trails of Mormon pioneers and their westward migration in the 1850s. Diaries include Joseph C. Kingsbury, George A. Thomas, John B. Fairbanks, Joseph A. Young, and Lucia Lamb Everett.</p><br/>
 <hr>

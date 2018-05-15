@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2291.jpg" alt="<em>Men in wagons pulled by horses%comma% young boy on foot (unidentified) </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2291.jpg" alt="<em>Men in wagons pulled by horses, young boy on foot (unidentified) </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Men in wagons pulled by horses%comma% young boy on foot (unidentified) </em>
+<em>Men in wagons pulled by horses, young boy on foot (unidentified) </em>
 </div>
 <!-- Collection Title-->
 <h4>Wheeler Historic Farm Photographs</h4>

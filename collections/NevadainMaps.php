@@ -37,7 +37,7 @@ Carson Sink 1910
 <!-- Collection Title-->
 <h4>Nevada in Maps</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 <p></p><br/><p>This collection includes over 4,500 maps and atlases on Nevada and the Great Basin from seven map collections throughout the state of Nevada ranging chronologically from 1750 into the 21st century. </p><br/></p>

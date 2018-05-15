@@ -32,12 +32,12 @@
 <li><a href = "../collections/BeaverUTMurdockAcademyCollection.php">Beaver (UT) Murdock Academy Collection</a></li>
 <li><a href = "../collections/BranchNormalSchoolCatalogs.php">Branch Normal School Catalogs</a></li>
 <li><a href = "../collections/UtahParksCompanyEmployeePhotographs.php">Utah Parks Company Employee Photographs</a></li>
-<li><a href = "../collections/IronMiningDistrictIronCountyUT.php">Iron Mining District (Iron County UT)</a></li>
+<li><a href = "../collections/IronMiningDistrictIronCountyUT.php">Iron Mining District (Iron County, UT)</a></li>
 <li><a href = "../collections/IronCountyUTHistoricalPhotographs.php">Iron County (UT) Historical Photographs</a></li>
 <li><a href = "../collections/SouthwestUtahLivestockAssociation.php">Southwest Utah Livestock Association</a></li>
-<li><a href = "../collections/SocotwaGlenCanyonVoyage.php">Socotwa Glen Canyon Voyage</a></li>
+<li><a href = "../collections/SocotwaGlenCanyonVoyage.php">Socotwa, Glen Canyon Voyage</a></li>
 <li><a href = "../collections/BranchAgriculturalCollegePhotographs.php">Branch Agricultural College Photographs</a></li>
-<li><a href = "../collections/CrawfordFamilyZionNationalPark.php">Crawford Family Zion National Park</a></li>
+<li><a href = "../collections/CrawfordFamilyZionNationalPark.php">Crawford Family, Zion National Park</a></li>
 <li><a href = "../collections/WilliamRPalmerPhotographs.php">William R. Palmer Photographs</a></li>
 <li><a href = "../collections/RDAdamsPhotographs.php">R. D. Adams Photographs</a></li>
 <li><a href = "../collections/HomerJonesPhotographs.php">Homer Jones Photographs</a></li>

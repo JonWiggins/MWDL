@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2027.jpg" alt="Eagle Boy%comma% by Stan Johnson"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2027.jpg" alt="Eagle Boy, by Stan Johnson"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Eagle Boy%comma% by Stan Johnson
+Eagle Boy, by Stan Johnson
 </div>
 <!-- Collection Title-->
 <h4>Cloward Collection of Western American Art</h4>

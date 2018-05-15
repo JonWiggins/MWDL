@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2297.jpg" alt="<em>New York Bronx%comma% Buffalo [13 items] </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2297.jpg" alt="<em>New York Bronx, Buffalo [13 items] </em>"width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>New York Bronx%comma% Buffalo [13 items] </em>
+<em>New York Bronx, Buffalo [13 items] </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Governor William Spry (1909-1917) Joseph Hillstrom Petitions</h4>

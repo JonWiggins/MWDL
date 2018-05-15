@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1649.jpg" alt="Journal of Mormon History%comma% Volume 07%comma% 1980"width="258" height="397"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1649.jpg" alt="Journal of Mormon History, Volume 07, 1980"width="258" height="397"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Journal of Mormon History%comma% Volume 07%comma% 1980
+Journal of Mormon History, Volume 07, 1980
 </div>
 <!-- Collection Title-->
 <h4>Journal of Mormon History</h4>

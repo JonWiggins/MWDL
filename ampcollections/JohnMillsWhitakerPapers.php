@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Correspondence between John Mills Whitaker and others%comma% 1898-1899"width="383" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Correspondence between John Mills Whitaker and others, 1898-1899"width="383" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Correspondence between John Mills Whitaker and others%comma% 1898-1899
+Correspondence between John Mills Whitaker and others, 1898-1899
 <!-- Article Text -->
 </p><br/>Diaries (1878-1959), correspondence (1884-1959), personal items, memos and notes, business records, diary of Thomas William Whitaker (1849-1886).</p><br/>
 <hr>

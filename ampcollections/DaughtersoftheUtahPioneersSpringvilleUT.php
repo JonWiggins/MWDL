@@ -1,15 +1,15 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1541 -->
 <!-- Collection Title -->
-<title>Daughters of the Utah Pioneers%comma% Springville (UT)</title>
+<title>Daughters of the Utah Pioneers, Springville (UT)</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/DaughtersoftheUtahPioneersSpringvilleUT.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Daughters of the Utah Pioneers%comma% Springville (UT)</h3>
+<h3>Daughters of the Utah Pioneers, Springville (UT)</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers%comma%SpringvilleUT.php">Daughters of the Utah Pioneers%comma% Springville (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt=""Motto """"He Leadeth Me"""" ""width="369" height ="239"  layout = "responsive"></amp-img>
@@ -21,6 +21,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1541&indx=1&bulkSize=50">Browse all record in Daughters of the Utah Pioneers%comma% Springville (UT)</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1541&indx=1&bulkSize=50">Browse all record in Daughters of the Utah Pioneers, Springville (UT)</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

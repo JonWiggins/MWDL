@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2136.jpg" alt="View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake%comma% San Francisco%comma% California%comma% April 20%comma% 1906"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2136.jpg" alt="View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake, San Francisco, California, April 20, 1906"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake%comma% San Francisco%comma% California%comma% April 20%comma% 1906
+View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake, San Francisco, California, April 20, 1906
 </div>
 <!-- Collection Title-->
 <h4>San Francisco (CA) Earthquake Snapshots</h4>

@@ -30,14 +30,14 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1563.jpg" alt="The Fountain House%comma% menu%comma% pages 2-3"width="387" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1563.jpg" alt="The Fountain House, menu, pages 2-3"width="387" height="297"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Fountain House%comma% menu%comma% pages 2-3
+The Fountain House, menu, pages 2-3
 </div>
 <!-- Collection Title-->
 <h4>Menus: The Art of Dining</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p><br/>Menus provide a wealth of information beyond their purely aesthetic value and are a particularly rich resource for aspects of cultural and social history. They give us information on the most popular cuisine of a time period and region and are evidence of changing culinary tastes. They can indicate how particular food items have been used regionally, and in the case of notable restaurants can provide evidence of the work of well-known chefs. Design-wise they are examples of the graphic design elements illustrative of a particular historical time period. For students of menu design they can serve as examples of graphic design, placement and layout. Last but not least, they have a purely nostalgic value for those persons who have visited a particular restaurant or hotel and want to re-live that experience by reading through the menu.</p><br/>

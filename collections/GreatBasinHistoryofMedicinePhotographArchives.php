@@ -37,7 +37,7 @@ Big Mouth Charlie's Medicine Bowl
 <!-- Collection Title-->
 <h4>Great Basin History of Medicine Photograph Archives</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 <p></p><br/><p>These 686 images were selected from 7,000+ photographs that relate to the University of Nevada School of Medicine, the Nevada State Medical Association, and the Reno Surgical Society. They document over 100 years of healthcare for Nevada's citizens, including 19th-century frontier military medicine in the Great Basin.</p><br/></p>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Graduation photo%comma% Nursing Program"width="256" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Graduation photo, Nursing Program"width="256" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Graduation photo%comma% Nursing Program
+Graduation photo, Nursing Program
 <!-- Article Text -->
 </p><br/>The Photo Archives Collection is part of the digital archives of Salt Lake Community College. This collection features digitized archival photographs and slides that chronicle the history of the College.</p><br/>
 <hr>

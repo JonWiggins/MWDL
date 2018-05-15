@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1151 -->
 <!-- Collection Title -->
-<title>Utah Division of Corporations incorporation case files index%comma% 1981</title>
+<title>Utah Division of Corporations incorporation case files index, 1981</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/UtahDivisionofCorporationsincorporationcasefilesindex1981.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Utah Division of Corporations incorporation case files index%comma% 1981</h3>
+<h3>Utah Division of Corporations incorporation case files index, 1981</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Farm Bureau Case Files F-P
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1151&indx=1&bulkSize=50">Browse all record in Utah Division of Corporations incorporation case files index%comma% 1981</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1151&indx=1&bulkSize=50">Browse all record in Utah Division of Corporations incorporation case files index, 1981</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

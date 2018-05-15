@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1160.jpg" alt="Grip of Mormonism%comma% The"width="194" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1160.jpg" alt="Grip of Mormonism, The"width="194" height="360"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Grip of Mormonism%comma% The
+Grip of Mormonism, The
 </div>
 <!-- Collection Title-->
 <h4>Westminster College Textual Works Collection</h4>

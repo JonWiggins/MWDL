@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1560 -->
 <!-- Collection Title -->
-<title>Bells: Connecting Animals%comma% People%comma% and Land</title>
+<title>Bells: Connecting Animals, People, and Land</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/BellsConnectingAnimalsPeopleandLand.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Bells: Connecting Animals%comma% People%comma% and Land</h3>
+<h3>Bells: Connecting Animals, People, and Land</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Medium-Sized Blum Bell
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1560&indx=1&bulkSize=50">Browse all record in Bells: Connecting Animals%comma% People%comma% and Land</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1560&indx=1&bulkSize=50">Browse all record in Bells: Connecting Animals, People, and Land</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

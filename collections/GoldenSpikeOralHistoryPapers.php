@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2227.jpg" alt="<em>Taro Yagi%comma% Golden Spike Oral History Project%comma% GS-21%comma% American West Center%comma% University of Utah</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2227.jpg" alt="<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Taro Yagi%comma% Golden Spike Oral History Project%comma% GS-21%comma% American West Center%comma% University of Utah</em>
+<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>
 </div>
 <!-- Collection Title-->
 <h4>Golden Spike Oral History Papers</h4>

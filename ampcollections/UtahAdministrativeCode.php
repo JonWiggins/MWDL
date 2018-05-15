@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahDepartmentofAdministrativeServicesDivisionofAdministrativeRules.php">Utah Department of Administrative Services - Division of Administrative Rules</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Administrative Code 1987-1988%comma% Volume 1"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Utah Administrative Code 1987-1988, Volume 1"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Utah Administrative Code 1987-1988%comma% Volume 1
+Utah Administrative Code 1987-1988, Volume 1
 <!-- Article Text -->
 <p></p><br/><p>This collection of Utah Administrative Code volumes covers the years 1987-1989.</p><br/></p>
 <hr>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/DeltaUTCityLibrary.php">Delta (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Beckwith%comma% Frank A"width="295" height ="425"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Beckwith, Frank A"width="295" height ="425"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Beckwith%comma% Frank A
+Beckwith, Frank A
 <!-- Article Text -->
 </p><br/>Photographs and scrapbooks by Frank Asahel Beckwith, editor and publisher of the Millard County Chronicle from 1919-1951. Mr. Beckwith was an amateur geologist and anthropologist and his photographs depict Utah landscapes and Native Americans.</p><br/>
 <hr>

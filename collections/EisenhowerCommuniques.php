@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1066.jpg" alt="113-145%comma% August 1944"width="376" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1066.jpg" alt="113-145, August 1944"width="376" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-113-145%comma% August 1944
+113-145, August 1944
 </div>
 <!-- Collection Title-->
 <h4>Eisenhower Communiques</h4>

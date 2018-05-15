@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1051.jpg" alt="BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH"width="232" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1051.jpg" alt="BRONZE SCULPTURE, SKATER BY DENNIS SMITH"width="232" height="320"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-BRONZE SCULPTURE%comma% SKATER BY DENNIS SMITH
+BRONZE SCULPTURE, SKATER BY DENNIS SMITH
 </div>
 <!-- Collection Title-->
 <h4>Utah 2002 Olympic Legacy Collection</h4>

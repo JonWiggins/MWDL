@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1250.jpg" alt="Journal of Neuro-Ophthalmology%comma% March 2008%comma% Volume 28%comma% Issue 1"width="382" height="511"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1250.jpg" alt="Journal of Neuro-Ophthalmology, March 2008, Volume 28, Issue 1"width="382" height="511"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Journal of Neuro-Ophthalmology%comma% March 2008%comma% Volume 28%comma% Issue 1
+Journal of Neuro-Ophthalmology, March 2008, Volume 28, Issue 1
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Theses and Dissertations 2</h4>

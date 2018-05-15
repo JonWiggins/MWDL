@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2228.jpg" alt="<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2228.jpg" alt="<em>Uintah Chapter, Daughters of the American Revolution, archives</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Uintah Chapter%comma% Daughters of the American Revolution%comma% archives</em>
+<em>Uintah Chapter, Daughters of the American Revolution, archives</em>
 </div>
 <!-- Collection Title-->
 <h4>University of Utah Daughters of the American Revolution Papers</h4>

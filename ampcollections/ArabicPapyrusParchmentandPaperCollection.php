@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1168 -->
 <!-- Collection Title -->
-<title>Arabic Papyrus%comma% Parchment%comma% and Paper Collection</title>
+<title>Arabic Papyrus, Parchment, and Paper Collection</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/ArabicPapyrusParchmentandPaperCollection.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Arabic Papyrus%comma% Parchment%comma% and Paper Collection</h3>
+<h3>Arabic Papyrus, Parchment, and Paper Collection</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Arabic Paper #0972
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1168&indx=1&bulkSize=50">Browse all record in Arabic Papyrus%comma% Parchment%comma% and Paper Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1168&indx=1&bulkSize=50">Browse all record in Arabic Papyrus, Parchment, and Paper Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

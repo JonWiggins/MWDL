@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Christopher Begue and Melissa Moeinvaziri%comma% Salt Lake City%comma% Utah: an interview by John Worsencroft%comma% 4 March 2009</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Christopher Begue and Melissa Moeinvaziri%comma% Salt Lake City%comma% Utah: an interview by John Worsencroft%comma% 4 March 2009</em>
+<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>
 <!-- Article Text -->
 </p><br/>The Everett L. Cooley oral history project serves as a Who's Who in Utah. It features interviews with many who have played significant roles in Utah's history, as well as others whose viewpoints and memories are important to understanding the history and the people of Utah.</p><br/>A wide range of topics are discussed in the interviews, including politics, religion, history, education, the University of Utah, medicine, art, theater, midwifery, radio and television broadcasting, sports, entertainment, genealogy, dancing, science, women's issues, polio, skiing, nuclear power, the environment, and athletics. The interviews were mostly conducted in the mid 1980s, but range from 1960 to 2014. Time periods discussed in the interviews begin with the end of the 19th century.</p><br/>
 <hr>

@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Men in wagons pulled by horses%comma% young boy on foot (unidentified) </em>"width="250" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Men in wagons pulled by horses, young boy on foot (unidentified) </em>"width="250" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Men in wagons pulled by horses%comma% young boy on foot (unidentified) </em>
+<em>Men in wagons pulled by horses, young boy on foot (unidentified) </em>
 <!-- Article Text -->
 </p><br/>Photographs from Wheeler Historic Farm.</p><br/>
 <hr>

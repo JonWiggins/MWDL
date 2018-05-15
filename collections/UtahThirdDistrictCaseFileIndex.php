@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2289.jpg" alt="<em>Book 3%comma% A-Z </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2289.jpg" alt="<em>Book 3, A-Z </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Book 3%comma% A-Z </em>
+<em>Book 3, A-Z </em>
 </div>
 <!-- Collection Title-->
 <h4>Utah Third District Case File Index</h4>

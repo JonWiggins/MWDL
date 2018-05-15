@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1106 -->
 <!-- Collection Title -->
-<title>Iron Mining District (Iron County%comma% UT)</title>
+<title>Iron Mining District (Iron County, UT)</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/IronMiningDistrictIronCountyUT.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Iron Mining District (Iron County%comma% UT)</h3>
+<h3>Iron Mining District (Iron County, UT)</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1106&indx=1&bulkSize=50">Browse all record in Iron Mining District (Iron County%comma% UT)</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1106&indx=1&bulkSize=50">Browse all record in Iron Mining District (Iron County, UT)</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

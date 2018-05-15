@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php">
 <!-- Collection #2032 -->
 <!-- Collection Title -->
-<title>Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</title>
+<title>Utah Legislature. House of Representatives Working Bills, 1896-1989</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php&t=Utah Legislature. House of Representatives Working Bills%comma% 1896-1989"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php&t=Utah Legislature. House of Representatives Working Bills, 1896-1989"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php&via=@MountainWestDL&text=Utah Legislature. House of Representatives Working Bills%comma% 1896-1989"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/UtahLegislatureHouseofRepresentativesWorkingBills18961989.php&via=@MountainWestDL&text=Utah Legislature. House of Representatives Working Bills, 1896-1989"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 Petition from 1897
 </div>
 <!-- Collection Title-->
-<h4>Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</h4>
+<h4>Utah Legislature. House of Representatives Working Bills, 1896-1989</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
@@ -44,7 +44,7 @@ Petition from 1897
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills%comma% 1896-1989</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
 </h6>
 <p></p>
 </div>

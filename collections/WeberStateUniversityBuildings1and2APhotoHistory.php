@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1248.jpg" alt="Gillman%comma% D&G_OH1_007"width="363" height="319"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1248.jpg" alt="Gillman, D&G_OH1_007"width="363" height="319"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Gillman%comma% D&G_OH1_007
+Gillman, D&G_OH1_007
 </div>
 <!-- Collection Title-->
 <h4>Weber State University Buildings 1 and 2: A Photo History</h4>

@@ -47,13 +47,15 @@ public class DataFetcher {
                     //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String imageName, int height, int width, String des
                     int collectionNumber = Integer.valueOf(matcher.group(1));
                     String note = matcher.group(2);
-                    String title = matcher.group(3);
-                    String pub = matcher.group(4);
-                    String text = matcher.group(5);
+
+                    //remove %comma%
+                    String title = matcher.group(3).replace("%comma%",",");
+                    String pub = matcher.group(4).replace("%comma%",",");
+                    String text = matcher.group(5).replace("%comma%",",");
                     String img = matcher.group(6);
                     String imgHRaw = matcher.group(7);
                     String imgWRaw = matcher.group(8);
-                    String des = matcher.group(9);
+                    String des = matcher.group(9).replace("%comma%",",");
                     int imgH;
                     int imgW;
                     if (imgHRaw.equalsIgnoreCase(""))
@@ -110,13 +112,13 @@ public class DataFetcher {
                     int partnerNumber = Integer.parseInt(matcher.group(1));
                     boolean isActive = true;
                     String note = matcher.group(2);
-                    String name = matcher.group(3);
-                    String link = matcher.group(4);
-                    String text = matcher.group(5);
+                    String name = matcher.group(3).replace("%comma%",",");
+                    String link = matcher.group(4).replace("%comma%",",");
+                    String text = matcher.group(5).replace("%comma%",",");
                     String img = matcher.group(6);
                     String rawImgH = matcher.group(7);
                     String rawImgW = matcher.group(8);
-                    String des = matcher.group(9);
+                    String des = matcher.group(9).replace("%comma%",",");
 
                     int imgH;
                     int imgW;

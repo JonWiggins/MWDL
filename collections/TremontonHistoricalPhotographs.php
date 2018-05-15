@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2156.jpg" alt="Main Street%comma% Tremonton%comma% Utah"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2156.jpg" alt="Main Street, Tremonton, Utah"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Main Street%comma% Tremonton%comma% Utah
+Main Street, Tremonton, Utah
 </div>
 <!-- Collection Title-->
 <h4>Tremonton Historical Photographs</h4>

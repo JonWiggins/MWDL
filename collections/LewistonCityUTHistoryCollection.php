@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2163.jpg" alt="Fourth of July celebration%comma% Lewiston (Utah)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2163.jpg" alt="Fourth of July celebration, Lewiston (Utah)"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Fourth of July celebration%comma% Lewiston (Utah)
+Fourth of July celebration, Lewiston (Utah)
 </div>
 <!-- Collection Title-->
 <h4>Lewiston City (UT) History Collection</h4>

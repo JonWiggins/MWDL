@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2167.jpg" alt="Utah Administrative Code 1987-1988%comma% Volume 1"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2167.jpg" alt="Utah Administrative Code 1987-1988, Volume 1"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Utah Administrative Code 1987-1988%comma% Volume 1
+Utah Administrative Code 1987-1988, Volume 1
 </div>
 <!-- Collection Title-->
 <h4>Utah Administrative Code</h4>

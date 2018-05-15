@@ -30,14 +30,14 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2301.jpg" alt="<em>Photograph of Paul Laxalt and Ronald Reagan%comma% 1979 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2301.jpg" alt="<em>Photograph of Paul Laxalt and Ronald Reagan, 1979 </em>"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Photograph of Paul Laxalt and Ronald Reagan%comma% 1979 </em>
+<em>Photograph of Paul Laxalt and Ronald Reagan, 1979 </em>
 </div>
 <!-- Collection Title-->
 <h4>Paul Laxalt and Ronald Reagan</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p><br/>Paul Laxalt was a longtime public figure in Nevada and beginning in the mid-1970s, he became a notable and highly visible player on the national political stage. Part of Laxalt’s appeal to both his colleagues and his constituents was his pragmatic and unapologetic approach to lawmaking. The son of Basque immigrants, Laxalt rose through the local political ranks before becoming the first Basque-American ever elected to the U.S. Senate and “the First Friend” of Ronald Reagan.</p><br/>The Ronald Reagan materials within the Paul Laxalt U.S. Senatorial Papers cover the years 1975 through 1987. They consist of a variety of personal papers, scrapbooks, audio/visual resources, and photographs from Reagan’s three presidential campaigns in which Laxalt served as the national chairman. Presented here is a small selection of these items that have been digitized and organized according to themes that reflect both Laxalt’s political career and his relationship with Ronald Reagan. </p><br/>

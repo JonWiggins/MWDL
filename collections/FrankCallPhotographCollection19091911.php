@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/FrankCallPhotographCollection19091911.php">
 <!-- Collection #1236 -->
 <!-- Collection Title -->
-<title>Frank Call Photograph Collection%comma% 1909-1911</title>
+<title>Frank Call Photograph Collection, 1909-1911</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/FrankCallPhotographCollection19091911.php&t=Frank Call Photograph Collection%comma% 1909-1911"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/FrankCallPhotographCollection19091911.php&t=Frank Call Photograph Collection, 1909-1911"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/FrankCallPhotographCollection19091911.php&via=@MountainWestDL&text=Frank Call Photograph Collection%comma% 1909-1911"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/FrankCallPhotographCollection19091911.php&via=@MountainWestDL&text=Frank Call Photograph Collection, 1909-1911"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 Ships
 </div>
 <!-- Collection Title-->
-<h4>Frank Call Photograph Collection%comma% 1909-1911</h4>
+<h4>Frank Call Photograph Collection, 1909-1911</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
  
@@ -44,7 +44,7 @@ Ships
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1236&indx=1&bulkSize=50">Browse all record in Frank Call Photograph Collection%comma% 1909-1911</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1236&indx=1&bulkSize=50">Browse all record in Frank Call Photograph Collection, 1909-1911</a>
 </h6>
 <p></p>
 </div>

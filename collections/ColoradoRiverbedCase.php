@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1004.jpg" alt="United States%comma% Complainant vs. the State of Utah%comma% 1931"width="301" height="433"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1004.jpg" alt="United States, Complainant vs. the State of Utah, 1931"width="301" height="433"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-United States%comma% Complainant vs. the State of Utah%comma% 1931
+United States, Complainant vs. the State of Utah, 1931
 </div>
 <!-- Collection Title-->
 <h4>Colorado Riverbed Case</h4>

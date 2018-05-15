@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1109.jpg" alt="Buildings%comma% construction of pavilion"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1109.jpg" alt="Buildings, construction of pavilion"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Buildings%comma% construction of pavilion
+Buildings, construction of pavilion
 </div>
 <!-- Collection Title-->
 <h4>Southwest Utah Livestock Association</h4>

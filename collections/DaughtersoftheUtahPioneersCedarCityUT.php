@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/DaughtersoftheUtahPioneersCedarCityUT.php">
 <!-- Collection #1640 -->
 <!-- Collection Title -->
-<title>Daughters of the Utah Pioneers%comma% Cedar City (UT)</title>
+<title>Daughters of the Utah Pioneers, Cedar City (UT)</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/DaughtersoftheUtahPioneersCedarCityUT.php&t=Daughters of the Utah Pioneers%comma% Cedar City (UT)"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/DaughtersoftheUtahPioneersCedarCityUT.php&t=Daughters of the Utah Pioneers, Cedar City (UT)"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/DaughtersoftheUtahPioneersCedarCityUT.php&via=@MountainWestDL&text=Daughters of the Utah Pioneers%comma% Cedar City (UT)"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/DaughtersoftheUtahPioneersCedarCityUT.php&via=@MountainWestDL&text=Daughters of the Utah Pioneers, Cedar City (UT)"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,16 +35,16 @@
 Ada Wood Webster
 </div>
 <!-- Collection Title-->
-<h4>Daughters of the Utah Pioneers%comma% Cedar City (UT)</h4>
+<h4>Daughters of the Utah Pioneers, Cedar City (UT)</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/DaughtersoftheUtahPioneers%comma%CedarCityUT.php">Daughters of the Utah Pioneers%comma% Cedar City (UT)</a></h6>
+<h6> Published by <a href="../partners/DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></h6>
  
 <!-- Collection Description -->
 <p></p><br/><p>The Daughters of Utah Pioneers is organized for historical, educational, and public purposes related to honoring the names and achievements of the men, women, and children who founded Utah. Their services range from preservation of historic landmarks to maintaining museums. They educate thousands of school children and adults about their pioneer forebears.</p><br/></p>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1640&indx=1&bulkSize=50">Browse all record in Daughters of the Utah Pioneers%comma% Cedar City (UT)</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1640&indx=1&bulkSize=50">Browse all record in Daughters of the Utah Pioneers, Cedar City (UT)</a>
 </h6>
 <p></p>
 </div>

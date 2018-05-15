@@ -1,13 +1,13 @@
 <?php include("../includes/ampheader.php");?>
 <!-- Collection #1627 -->
 <!-- Collection Title -->
-<title>Utah Legislature. Little Hoover Commission%comma% 1965-1966</title>
+<title>Utah Legislature. Little Hoover Commission, 1965-1966</title>
 <!-- Desktop Version Link -->
 <link rel="canonical" href="../collections/UtahLegislatureLittleHooverCommission19651966.php">
 <?php include("../includes/ampstyle.php");?>
  
 <!-- Collection Title -->
-<h3>Utah Legislature. Little Hoover Commission%comma% 1965-1966</h3>
+<h3>Utah Legislature. Little Hoover Commission, 1965-1966</h3>
 <!-- Collection Publisher -->
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
@@ -21,6 +21,6 @@ Council Meeting Minutes
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1627&indx=1&bulkSize=50">Browse all record in Utah Legislature. Little Hoover Commission%comma% 1965-1966</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1627&indx=1&bulkSize=50">Browse all record in Utah Legislature. Little Hoover Commission, 1965-1966</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

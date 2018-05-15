@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php">
 <!-- Collection #1550 -->
 <!-- Collection Title -->
-<title>Extension%comma% Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</title>
+<title>Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php&t=Extension%comma% Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php&t=Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php&via=@MountainWestDL&text=Extension%comma% Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/ExtensionEnterpriseandEducationTheLegacyofCooperativesandCooperationinUtah.php&via=@MountainWestDL&text=Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -30,12 +30,12 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1550.jpg" alt="Postcard of Sunstone from Mormon Temple%comma% Nauvoo%comma% Illinois"width="363" height="321"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1550.jpg" alt="Postcard of Sunstone from Mormon Temple, Nauvoo, Illinois"width="363" height="321"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Postcard of Sunstone from Mormon Temple%comma% Nauvoo%comma% Illinois
+Postcard of Sunstone from Mormon Temple, Nauvoo, Illinois
 </div>
 <!-- Collection Title-->
-<h4>Extension%comma% Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</h4>
+<h4>Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
  
@@ -44,7 +44,7 @@ Postcard of Sunstone from Mormon Temple%comma% Nauvoo%comma% Illinois
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1550&indx=1&bulkSize=50">Browse all record in Extension%comma% Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1550&indx=1&bulkSize=50">Browse all record in Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</a>
 </h6>
 <p></p>
 </div>

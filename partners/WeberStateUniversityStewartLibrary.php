@@ -30,21 +30,21 @@
 <!-- List all Active Collections -->
 <li><a href = "../collections/UtahConstructionUtahInternationalAnnualReports.php">Utah Construction-Utah International Annual Reports</a></li>
 <li><a href = "../collections/WeberStateUniversity50thAnniversary.php">Weber State University 50th Anniversary</a></li>
-<li><a href = "../collections/EcclesDavidBusinessChurchandPersonalCorrespondence.php">Eccles David: Business Church and Personal Correspondence</a></li>
+<li><a href = "../collections/EcclesDavidBusinessChurchandPersonalCorrespondence.php">Eccles, David: Business, Church and Personal Correspondence</a></li>
 <li><a href = "../collections/DeeSchoolofNursingOralHistoryProjectandYearbooks.php">Dee School of Nursing: Oral History Project and Yearbooks</a></li>
-<li><a href = "../collections/DeeFamilyPhotographsCorrespondenceandMarriageRegister.php">Dee Family Photographs Correspondence and Marriage Register</a></li>
+<li><a href = "../collections/DeeFamilyPhotographsCorrespondenceandMarriageRegister.php">Dee Family Photographs, Correspondence and Marriage Register</a></li>
 <li><a href = "../collections/OgdenChurchesandSchools.php">Ogden Churches and Schools</a></li>
 <li><a href = "../collections/WeberNormalCollegeYearbooks19191923.php">Weber Normal College Yearbooks 1919-1923</a></li>
 <li><a href = "../collections/WorldWarIPhotographs.php">World War I Photographs</a></li>
-<li><a href = "../collections/WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php">World War II POW Camp Correspondence Newsletters Oral History and Photographs</a></li>
+<li><a href = "../collections/WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php">World War II POW Camp Correspondence, Newsletters, Oral History and Photographs</a></li>
 <li><a href = "../collections/WeberStateUniversityBuildings1and2APhotoHistory.php">Weber State University Buildings 1 and 2: A Photo History</a></li>
 <li><a href = "../collections/UtahConstructionUtahInternationalPhotographs.php">Utah Construction-Utah International Photographs</a></li>
 <li><a href = "../collections/WeberStateUniversityStudentNewspapers.php">Weber State University Student Newspapers</a></li>
-<li><a href = "../collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">Weber State University Stewart Library Special Collections Encoded Archival Description (EAD) Finding Aids</a></li>
+<li><a href = "../collections/WeberStateUniversityStewartLibrarySpecialCollectionsEncodedArchivalDescriptionEADFindingAids.php">Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</a></li>
 <li><a href = "../collections/UtahConstructionCompanyHooverDamScrapbooks.php">Utah Construction Company Hoover Dam Scrapbooks</a></li>
 <li><a href = "../collections/WeberStateYearbook1905to1982.php">Weber State Yearbook 1905 to 1982</a></li>
-<li><a href = "../collections/DeeAnnieTaylorandAnnieMaudeDeePorterDiaries.php">Dee Annie Taylor and Annie Maude Dee Porter Diaries</a></li>
-<li><a href = "../collections/RichDrEdwardIandEmilyAlmiraCozzensDiaries.php">Rich Dr. Edward I. and Emily Almira Cozzens Diaries</a></li>
+<li><a href = "../collections/DeeAnnieTaylorandAnnieMaudeDeePorterDiaries.php">Dee, Annie Taylor and Annie Maude Dee Porter Diaries</a></li>
+<li><a href = "../collections/RichDrEdwardIandEmilyAlmiraCozzensDiaries.php">Rich, Dr. Edward I. and Emily Almira Cozzens Diaries</a></li>
 <li><a href = "../collections/UtahConstructionCompanyHistorybyERLubbers.php">Utah Construction Company History by E. R. Lubbers</a></li>
 <li><a href = "../collections/UtahConstructionCompanySpeechesbyEdmundWattisLittlefield.php">Utah Construction Company Speeches by Edmund Wattis Littlefield</a></li>
 <li><a href = "../collections/MarriottSlatervilleCityUTOralHistory.php">Marriott-Slaterville City (UT) Oral History</a></li>
@@ -58,7 +58,7 @@
 <li><a href = "../collections/WorldWarIServiceCards.php">World War I Service Cards</a></li>
 <li><a href = "../collections/WeberStateHistoricalPublications.php">Weber State Historical Publications</a></li>
 <li><a href = "../collections/WeberStateOralHistoryProject.php">Weber State Oral History Project</a></li>
-<li><a href = "../collections/UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory.php">Utah Construction-Utah International Symposium Speeches Ephemera Oral History</a></li>
+<li><a href = "../collections/UtahConstructionUtahInternationalSymposiumSpeechesEphemeraOralHistory.php">Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History</a></li>
 <li><a href = "../collections/WorldWarIEdmondTedLittlefield.php">World War I Edmond (Ted) Littlefield</a></li>
 <li><a href = "../collections/OgdenBuildingsbyStreet.php">Ogden Buildings by Street</a></li>
 <li><a href = "../collections/WeberStateWhipClubScrapbook.php">Weber State Whip Club Scrapbook</a></li>
@@ -73,7 +73,7 @@
 <li><a href = "../collections/HistoryinYourAttic.php">History in Your Attic</a></li>
 <li><a href = "../collections/BenLomondHighSchoolScrapbooks.php">Ben Lomond High School Scrapbooks</a></li>
 <li><a href = "../collections/OgdenHighSchoolScrapbooks.php">Ogden High School Scrapbooks</a></li>
-<li><a href = "../collections/OgdenStockyardsPhotographsMemorabiliaandOralHIstories.php">Ogden Stockyards Photographs Memorabilia and Oral HIstories</a></li>
+<li><a href = "../collections/OgdenStockyardsPhotographsMemorabiliaandOralHIstories.php">Ogden Stockyards Photographs, Memorabilia and Oral HIstories</a></li>
 <li><a href = "../collections/WeberCountyPolkDirectories.php">Weber County Polk Directories</a></li>
 <li><a href = "../collections/HarrisvilleCityVirtualHistoryMuseum.php">Harrisville City Virtual History Museum</a></li>
 <li><a href = "../collections/WeberStateHistoricalExhibits.php">Weber State Historical Exhibits</a></li>

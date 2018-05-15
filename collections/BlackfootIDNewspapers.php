@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1931.jpg" alt="The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880"width="234" height="307"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1931.jpg" alt="The Blackfoot Register, Volume 1, Number 1, July 10, 1880"width="234" height="307"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-The Blackfoot Register%comma% Volume 1%comma% Number 1%comma% July 10%comma% 1880
+The Blackfoot Register, Volume 1, Number 1, July 10, 1880
 </div>
 <!-- Collection Title-->
 <h4>Blackfoot (ID) Newspapers</h4>

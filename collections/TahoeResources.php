@@ -37,7 +37,7 @@
 <!-- Collection Title-->
 <h4>Tahoe Resources</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
  
 <!-- Collection Description -->
 <p></p><br/><p>The 170 items in this collection are a variety of streaming videos, special reports, historic documents and other locally-held resources intended to complement the content of the Tahoe Research, Scholarship and Outreach website. </p><br/></p>

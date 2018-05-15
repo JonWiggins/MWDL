@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972"width="320" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972"width="320" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Transcript of Mayor J. Bracken Lee's testimonial dinner%comma% Hotel Utah%comma% January 7%comma% 1972
+Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972
 <!-- Article Text -->
 <p></p><br/><p>The J. Bracken Lee collection contains photographs, newspaper articles, campaign ephemera, transcripts, correspondence, and audio recordings that span Lee's entire life, from birth to retirement. While these papers are physically housed at the Utah State University-Eastern in Price, Utah, you can sample some of the most significant documents and recordings from the former governor's remarkable career in this online J. Bracken Lee digital exhibit. </p><br/></p>
 <hr>

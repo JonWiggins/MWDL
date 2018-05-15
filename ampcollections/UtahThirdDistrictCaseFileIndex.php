@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Book 3%comma% A-Z </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="<em>Book 3, A-Z </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-<em>Book 3%comma% A-Z </em>
+<em>Book 3, A-Z </em>
 <!-- Article Text -->
 </p><br/>The territorial Case Index records the names of plaintiffs and defendants involved in court actions and provides assigned case numbers, facilitating clerical management of and access to the case files. Civil cases span the entire period (1871-1896). Criminal cases were indexed in this series from 1871 to 1882, when a separate filing arrangement for criminal case files was implemented. </p><br/>
 <hr>

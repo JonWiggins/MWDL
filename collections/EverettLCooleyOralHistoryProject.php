@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2223.jpg" alt="<em>Christopher Begue and Melissa Moeinvaziri%comma% Salt Lake City%comma% Utah: an interview by John Worsencroft%comma% 4 March 2009</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2223.jpg" alt="<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>"width="250" height="300"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Christopher Begue and Melissa Moeinvaziri%comma% Salt Lake City%comma% Utah: an interview by John Worsencroft%comma% 4 March 2009</em>
+<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>
 </div>
 <!-- Collection Title-->
 <h4>Everett L. Cooley Oral History Project</h4>

@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1113.jpg" alt="Courthouse, St. George%comma% Washington County%comma% Utah"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1113.jpg" alt="Courthouse, St. George, Washington County, Utah"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Courthouse, St. George%comma% Washington County%comma% Utah
+Courthouse, St. George, Washington County, Utah
 </div>
 <!-- Collection Title-->
 <h4>William R. Palmer Photographs</h4>

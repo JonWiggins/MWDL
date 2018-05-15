@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1901.jpg" alt="Miscellaneous biography research material about John Hamilton Morgan%comma% Part 2"width="186" height="284"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1901.jpg" alt="Miscellaneous biography research material about John Hamilton Morgan, Part 2"width="186" height="284"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Miscellaneous biography research material about John Hamilton Morgan%comma% Part 2
+Miscellaneous biography research material about John Hamilton Morgan, Part 2
 </div>
 <!-- Collection Title-->
 <h4>John Hamilton Morgan Papers</h4>

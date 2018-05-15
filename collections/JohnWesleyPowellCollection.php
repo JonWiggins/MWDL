@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1015.jpg" alt="Scientific American Supplement%comma% Vol. VI"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1015.jpg" alt="Scientific American Supplement, Vol. VI"width="320" height="449"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Scientific American Supplement%comma% Vol. VI
+Scientific American Supplement, Vol. VI
 </div>
 <!-- Collection Title-->
 <h4>John Wesley Powell Collection</h4>

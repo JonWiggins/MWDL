@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1090.jpg" alt="Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922"width="171" height="221"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1090.jpg" alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922"width="171" height="221"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Anderson%comma% Betsy (Bengta) Shenstrum 1831-1922
+Anderson, Betsy (Bengta) Shenstrum 1831-1922
 </div>
 <!-- Collection Title-->
 <h4>Upper Snake River Valley Idaho Histories</h4>

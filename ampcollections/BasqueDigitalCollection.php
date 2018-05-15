@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Basque Digital Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada%comma% Reno%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="A Basque Man Playing Pelota"width="358" height ="242"  layout = "responsive"></amp-img>

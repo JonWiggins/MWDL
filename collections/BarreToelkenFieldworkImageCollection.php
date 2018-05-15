@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2116.jpg" alt="Barre Toelken playing a guitar and singing%comma% Salzburg%comma% Austria%comma% 2001 (1 of 2)."width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2116.jpg" alt="Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2)."width="250" height="400"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Barre Toelken playing a guitar and singing%comma% Salzburg%comma% Austria%comma% 2001 (1 of 2).
+Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2).
 </div>
 <!-- Collection Title-->
 <h4>Barre Toelken Fieldwork Image Collection</h4>

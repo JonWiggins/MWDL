@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1107.jpg" alt="Industries%comma% Croft Pearson sawmill"width="311" height="314"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1107.jpg" alt="Industries, Croft Pearson sawmill"width="311" height="314"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Industries%comma% Croft Pearson sawmill
+Industries, Croft Pearson sawmill
 </div>
 <!-- Collection Title-->
 <h4>Iron County (UT) Historical Photographs</h4>

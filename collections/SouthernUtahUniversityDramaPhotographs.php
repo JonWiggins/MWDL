@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1258.jpg" alt="Didymus%comma% the Blind%comma% ca. 313-ca. 398"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1258.jpg" alt="Didymus, the Blind, ca. 313-ca. 398"width="378" height="247"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Didymus%comma% the Blind%comma% ca. 313-ca. 398
+Didymus, the Blind, ca. 313-ca. 398
 </div>
 <!-- Collection Title-->
 <h4>Southern Utah University Drama Photographs</h4>

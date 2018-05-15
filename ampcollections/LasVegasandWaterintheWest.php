@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Las Vegas and Water in the West</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Cement plant -- Hoover Dam site"width="387" height ="297"  layout = "responsive"></amp-img>

@@ -37,7 +37,7 @@ Students signing 1945 yearbooks
 <!-- Collection Title-->
 <h4>Topaz Museum Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/TopazMuseumDelta%comma%UT.php">Topaz Museum (Delta%comma% UT)</a></h6>
+<h6> Published by <a href="../partners/TopazMuseumDeltaUT.php">Topaz Museum (Delta, UT)</a></h6>
  
 <!-- Collection Description -->
 </p><br/>From 1942 to 1945, over 100,000 Japanese-Americans were interned in camps throughout the American West. Topaz Camp, located near Delta, Utah, held around 8,000 of these individuals. This collection contains an assortment of historical photos depicting the hardships met by these prisoners. </p><br/>

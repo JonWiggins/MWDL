@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/SocotwaGlenCanyonVoyage.php">
 <!-- Collection #1110 -->
 <!-- Collection Title -->
-<title>Socotwa%comma% Glen Canyon Voyage</title>
+<title>Socotwa, Glen Canyon Voyage</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/SocotwaGlenCanyonVoyage.php&t=Socotwa%comma% Glen Canyon Voyage"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/SocotwaGlenCanyonVoyage.php&t=Socotwa, Glen Canyon Voyage"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/SocotwaGlenCanyonVoyage.php&via=@MountainWestDL&text=Socotwa%comma% Glen Canyon Voyage"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/SocotwaGlenCanyonVoyage.php&via=@MountainWestDL&text=Socotwa, Glen Canyon Voyage"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,7 +35,7 @@
 Mountain view
 </div>
 <!-- Collection Title-->
-<h4>Socotwa%comma% Glen Canyon Voyage</h4>
+<h4>Socotwa, Glen Canyon Voyage</h4>
 <!-- Collection Publisher-->
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
  
@@ -44,7 +44,7 @@ Mountain view
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1110&indx=1&bulkSize=50">Browse all record in Socotwa%comma% Glen Canyon Voyage</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1110&indx=1&bulkSize=50">Browse all record in Socotwa, Glen Canyon Voyage</a>
 </h6>
 <p></p>
 </div>

@@ -10,16 +10,16 @@
 <link rel="alternate" media="only screen and (max-width: 640px)" href="../ampcollections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">
 <!-- Collection #1615 -->
 <!-- Collection Title -->
-<title>Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</title>
+<title>Historic Landscape of Nevada: Development, Water, and the Natural Environment</title>
 <?php include("../includes/collectionmenuhead.php");?>
  
 <!-- Share Links -->
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php&t=Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment"
+                                  href="http://www.facebook.com/sharer/sharer.php?u=mwdl.org/collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php&t=Historic Landscape of Nevada: Development, Water, and the Natural Environment"
                                   target="_blank"><img src="../images/facebook.png" alt="facebook"
                                                        height="20" width="20"> Facebook</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
-                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php&via=@MountainWestDL&text=Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment"
+                                  href="http://www.twitter.com/intent/tweet?url=mwdl.org/collections/HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php&via=@MountainWestDL&text=Historic Landscape of Nevada: Development, Water, and the Natural Environment"
                                   target="_blank"><img src="../images/twitter.png" alt="twitter"
                                                        height="20" width="20"> Twitter</a></li>
 <li class="mdl-menu__item"><a class="mdl-navigation__link"
@@ -35,16 +35,16 @@
 Geology and water resources of Las Vegas
 </div>
 <!-- Collection Title-->
-<h4>Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</h4>
+<h4>Historic Landscape of Nevada: Development, Water, and the Natural Environment</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
  
 <!-- Collection Description -->
 </p><br/>The persistence of the natural landscape and predominantly arid ecology of Nevada has created one of the greatest challenges facing the people of Nevada and the American West as we struggle to maintain our built environment. This project, The Historic Landscape of Nevada: Development, Water and the Natural Environment, documents the historic role of water resource management in Southern Nevada.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1615&indx=1&bulkSize=50">Browse all record in Historic Landscape of Nevada: Development%comma% Water%comma% and the Natural Environment</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1615&indx=1&bulkSize=50">Browse all record in Historic Landscape of Nevada: Development, Water, and the Natural Environment</a>
 </h6>
 <p></p>
 </div>

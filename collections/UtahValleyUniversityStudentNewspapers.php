@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1956.jpg" alt="Tradewinds%comma% November 16%comma% 1973"width="172" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1956.jpg" alt="Tradewinds, November 16, 1973"width="172" height="224"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Tradewinds%comma% November 16%comma% 1973
+Tradewinds, November 16, 1973
 </div>
 <!-- Collection Title-->
 <h4>Utah Valley University Student Newspapers</h4>

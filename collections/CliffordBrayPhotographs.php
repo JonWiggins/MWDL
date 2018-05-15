@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1526.jpg" alt="Car in Front of Gus. F. Koehler Co.%comma% Aug. 1935"width="306" height="235"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1526.jpg" alt="Car in Front of Gus. F. Koehler Co., Aug. 1935"width="306" height="235"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Car in Front of Gus. F. Koehler Co.%comma% Aug. 1935
+Car in Front of Gus. F. Koehler Co., Aug. 1935
 </div>
 <!-- Collection Title-->
 <h4>Clifford Bray Photographs</h4>

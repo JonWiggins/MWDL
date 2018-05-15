@@ -9,7 +9,7 @@
 <!-- Collection Title -->
 <h3>Charles Saladino Landscape Architecture Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada%comma% Las Vegas%comma% University Libraries</a></h6>
+<h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/alt="Jonathan Sparer residence"width="369" height ="246"  layout = "responsive"></amp-img>

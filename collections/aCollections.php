@@ -20,7 +20,7 @@
 <!-- Collection #1941 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AfricanAmericanExperience.php">African American Experience</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #2086 -->
 <tr>
@@ -85,7 +85,7 @@
 <!-- Collection #1825 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ArborglyphsonPeavine.php">Arborglyphs on Peavine</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2315 -->
 <tr>
@@ -105,12 +105,12 @@
 <!-- Collection #1823 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BasqueDigitalCollection.php">Basque Digital Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1124 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BasquePosters.php">Basque Posters</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2137 -->
 <tr>
@@ -265,7 +265,7 @@
 <!-- Collection #1558 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum, Price (UT)</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrynerPioneerMuseumPrice%comma%UT.php">Bryner Pioneer Museum (Price, UT)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></td>
 </tr>
 <!-- Collection #2256 -->
 <tr>
@@ -380,7 +380,7 @@
 <!-- Collection #1837 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "CharlesSaladinoLandscapeArchitectureCollection.php">Charles Saladino Landscape Architecture Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #2257 -->
 <tr>
@@ -500,7 +500,7 @@
 <!-- Collection #1640 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DaughtersoftheUtahPioneers%comma%CedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
 </tr>
 <!-- Collection #1895 -->
 <tr>
@@ -510,7 +510,7 @@
 <!-- Collection #1541 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DaughtersoftheUtahPioneers%comma%SpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></td>
 </tr>
 <!-- Collection #1169 -->
 <tr>
@@ -575,7 +575,7 @@
 <!-- Collection #1108 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DixieNationalForestUTPhotographs.php">Dixie National Forest (UT) Photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/USForestService%comma%DixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/USForestServiceDixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></td>
 </tr>
 <!-- Collection #2209 -->
 <tr>
@@ -590,7 +590,7 @@
 <!-- Collection #1836 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DreamingtheSkylineResortArchitectureandtheNewUrbanSpace.php">Dreaming the Skyline: Resort Architecture and the Ne...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #2171 -->
 <tr>
@@ -750,7 +750,7 @@
 <!-- Collection #1301 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "FrontierHomesteadStateParkCedarCityUTPhotographs.php">Frontier Homestead State Park (Cedar City, UT) Photo...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/FrontierHomesteadStateParkCedarCity%comma%UT.php">Frontier Homestead State Park (Cedar City, UT)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/FrontierHomesteadStateParkCedarCityUT.php">Frontier Homestead State Park (Cedar City, UT)</a></td>
 </tr>
 <!-- Collection #1925 -->
 <tr>
@@ -800,7 +800,7 @@
 <!-- Collection #1206 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GreatBasinHistoryofMedicinePhotographArchives.php">Great Basin History of Medicine Photograph Archives</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1194 -->
 <tr>
@@ -870,7 +870,7 @@
 <!-- Collection #1123 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricAerialPhotographsofEarlyNevada.php">Historic Aerial Photographs of Early Nevada</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2177 -->
 <tr>
@@ -880,7 +880,7 @@
 <!-- Collection #1615 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "HistoricLandscapeofNevadaDevelopmentWaterandtheNaturalEnvironment.php">Historic Landscape of Nevada: Development, Water, an...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #2029 -->
 <tr>
@@ -945,7 +945,7 @@
 <!-- Collection #1121 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ImagesofLakeTahoe.php">Images of Lake Tahoe</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1612 -->
 <tr>
@@ -1070,7 +1070,7 @@
 <!-- Collection #1127 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "JustPassinThroughTheLincolnandVictoryHighwaysinNevada.php">Just Passin' Through: The Lincoln and Victory Highwa...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1909 -->
 <tr>
@@ -1100,7 +1100,7 @@
 <!-- Collection #1827 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "LaBaskonia.php">La Baskonia</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1237 -->
 <tr>
@@ -1120,7 +1120,7 @@
 <!-- Collection #1203 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "LasVegasandWaterintheWest.php">Las Vegas and Water in the West</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1229 -->
 <tr>
@@ -1480,7 +1480,7 @@
 <!-- Collection #1828 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MargaretMWheatCollection.php">Margaret M. Wheat Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1079 -->
 <tr>
@@ -1495,7 +1495,7 @@
 <!-- Collection #2300 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MayaMillerPapers.php">Maya Miller Papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1536 -->
 <tr>
@@ -1505,7 +1505,7 @@
 <!-- Collection #1563 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MenusTheArtofDining.php">Menus: The Art of Dining</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1172 -->
 <tr>
@@ -1565,7 +1565,7 @@
 <!-- Collection #1829 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MustangsMXMissilesandRadioactiveWasteSelectedCongressionalHearings.php">Mustangs, MX Missiles and Radioactive Waste: Selecte...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2179 -->
 <tr>
@@ -1665,17 +1665,17 @@
 <!-- Collection #1129 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NevadaAgriculturalPublications.php">Nevada Agricultural Publications</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1227 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NevadaTestSiteOralHistoryProject.php">Nevada Test Site Oral History Project</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1126 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NevadainMaps.php">Nevada in Maps</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2164 -->
 <tr>
@@ -1735,7 +1735,7 @@
 <!-- Collection #1131 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OlgaReifschneiderBotanicalImagesofNorthernNevadaandtheLakeTahoeRegion.php">Olga Reifschneider Botanical Images of Northern Neva...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2418 -->
 <tr>
@@ -1780,7 +1780,7 @@
 <!-- Collection #2301 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "PaulLaxaltandRonaldReagan.php">Paul Laxalt and Ronald Reagan</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1219 -->
 <tr>
@@ -1905,7 +1905,7 @@
 <!-- Collection #1122 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "SagebrushVernacularRuralArchitectureinNevada.php">Sagebrush Vernacular: Rural Architecture in Nevada</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #2175 -->
 <tr>
@@ -1990,7 +1990,7 @@
 <!-- Collection #1830 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "SheepIndustryofNorthernNevada.php">Sheep Industry of Northern Nevada</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1040 -->
 <tr>
@@ -2000,7 +2000,7 @@
 <!-- Collection #1201 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ShowgirlsCollection.php">Showgirls Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1544 -->
 <tr>
@@ -2015,12 +2015,12 @@
 <!-- Collection #1295 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "SouthernNevadaBoomtownYears.php">Southern Nevada Boomtown Years</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1202 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "SouthernNevadaandLasVegasHistoryinMaps.php">Southern Nevada and Las Vegas History in Maps</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1260 -->
 <tr>
@@ -2110,7 +2110,7 @@
 <!-- Collection #1128 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "TahoeResources.php">Tahoe Resources</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1027 -->
 <tr>
@@ -2170,7 +2170,7 @@
 <!-- Collection #1028 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "TopazMuseumCollection.php">Topaz Museum Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/TopazMuseumDelta%comma%UT.php">Topaz Museum (Delta, UT)</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/TopazMuseumDeltaUT.php">Topaz Museum (Delta, UT)</a></td>
 </tr>
 <!-- Collection #1054 -->
 <tr>
@@ -2230,32 +2230,32 @@
 <!-- Collection #1826 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoBookArtsCollection.php">University of Nevada, Reno Book Arts Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1824 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoPosters.php">University of Nevada, Reno Posters</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1205 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoArchivesDocuments.php">University of Nevada, Reno, Archives Documents</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1133 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoArtCollection.php">University of Nevada, Reno, Art Collection</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1125 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoCampusImages.php">University of Nevada, Reno, Campus Images</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1132 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoSpecialCollectionsPhotographs.php">University of Nevada, Reno, Special Collections Phot...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1032 -->
 <tr>
@@ -2950,7 +2950,7 @@
 <!-- Collection #1261 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WelcomeHomeHowardHowardHughesPhotographCollection.php">Welcome Home, Howard! (Howard Hughes Photograph Coll...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%LasVegas%comma%UniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></td>
 </tr>
 <!-- Collection #1792 -->
 <tr>
@@ -2960,7 +2960,7 @@
 <!-- Collection #2299 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WesternShoshoneDefenseProject.php">Western Shoshone Defense Project</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevada%comma%Reno%comma%UniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
 <!-- Collection #1280 -->
 <tr>

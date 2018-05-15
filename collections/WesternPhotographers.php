@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1792.jpg" alt="Grand Canyon%comma% Dismal View"width="343" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1792.jpg" alt="Grand Canyon, Dismal View"width="343" height="236"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Grand Canyon%comma% Dismal View
+Grand Canyon, Dismal View
 </div>
 <!-- Collection Title-->
 <h4>Western Photographers</h4>

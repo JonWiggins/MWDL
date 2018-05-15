@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1054.jpg" alt="Fairbanks%comma% John Boylston 1817–1875"width="381" height="112"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1054.jpg" alt="Fairbanks, John Boylston 1817–1875"width="381" height="112"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Fairbanks%comma% John Boylston 1817–1875
+Fairbanks, John Boylston 1817–1875
 </div>
 <!-- Collection Title-->
 <h4>Trails of Hope: Overland Biographies 1846-1869</h4>

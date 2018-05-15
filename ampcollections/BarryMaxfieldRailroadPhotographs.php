@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Silverton bound train getting ready to leave Durango%comma% Colorado."width="345" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="Silverton bound train getting ready to leave Durango, Colorado."width="345" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Silverton bound train getting ready to leave Durango%comma% Colorado.
+Silverton bound train getting ready to leave Durango, Colorado.
 <!-- Article Text -->
 </p><br/>A collection of trains and railroads around the intermountain west. </p><br/>
 <hr>

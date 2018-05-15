@@ -12,10 +12,10 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28%comma% 1935""width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/alt="" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28, 1935""width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28%comma% 1935"
+" Company 0959_14 - Mess ""Al Fresco"" - Mt. Pleasant - March 28, 1935"
 <!-- Article Text -->
 </p><br/>This photograph collection consists of 314 photographs of Civilian Conservation Corps in the Intermountain West, built in the Depression Era of the 1930s. </p><br/>
 <hr>
