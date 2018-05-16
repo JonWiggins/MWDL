@@ -2,9 +2,16 @@ package org.mwdl.webManagement;
 
 import org.mwdl.data.ProjectConstants;
 
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Comparator;
+import java.util.HashSet;
+
+import static java.util.Collections.sort;
 
 /**
  * Writes Partner Pages
@@ -24,12 +31,13 @@ public class PartnerPageMaker {
      */
     public static void writeGivenPartnerPages(ArrayList<Partner> toWrite){
 
-        writePartnersMapPage();
-
         for(Partner element : toWrite){
             writeAMPPartnerPage(element);
             writeNormalPartnerPage(element);
         }
+
+        writePartnersMapPage();
+        writePartnersListPage(toWrite);
 
     }
 
@@ -190,6 +198,9 @@ public class PartnerPageMaker {
             writer.println("<?php include(\"../includes/plistmenuhead.php\");?>");
             writer.println("<h3>Mountain West Digital Library Partners</h3>");
 
+            writer.println("<a href=\"partnerslist.php\" class=\"mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect\">View List</a>\n");
+            writer.println("<hr>");
+
             //This is a static link to the custom google map, it is setup in the MWDL Google Drive
             //If you are looking for it, it is in /MWDL/Technical/Website/MWDL Partner Map
             // You cannot edit it here, you must open it through google.com/maps/d/ while logged into the MWDL
@@ -208,6 +219,77 @@ public class PartnerPageMaker {
         } catch (IOException e) {
             System.err.println("Could not generate partners map page");
         }
+
+    }
+
+
+    private static void writePartnersListPage(ArrayList<Partner> partnersToWrite){
+
+        //Get an ArrayList of Partners in sorted order by name
+
+        //Do this by getting an array of the names, sorting it, then adding the Partner objects
+        // to a list in the order of the sorted names
+        ArrayList<String> partnerNames = new ArrayList<>();
+
+        for(Partner element : partnersToWrite){
+            partnerNames.add(element.name);
+        }
+
+        sort(partnerNames);
+
+        ArrayList<Partner> sorted = new ArrayList<>();
+
+        for(String name : partnerNames){
+            for(Partner element : partnersToWrite){
+                if(element.name.equals(name))
+                    sorted.add(element);
+            }
+        }
+
+        String FileLocAndName = ProjectConstants.PartnerPageDirectory + "partnerslist.php";
+
+        try {
+            PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
+
+            writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<?php include (\"../includes/linkImports.php\");?>");
+            writer.println("<title>Partners</title>");
+            writer.println("<?php include(\"../includes/plistmenuhead.php\");?>");
+            writer.println("<h3>Mountain West Digital Library Partners</h3>");
+
+            writer.println("<a href=\"partners.php\" class=\"mdl-button mdl-js-button mdl-button--raised mdl-button--colored mdl-js-ripple-effect\">View Map</a>\n");
+            writer.println("<hr>");
+
+            writer.println("<table class=\"mdl-data-table mdl-js-data-table mdl-shadow--2dp\">");
+            writer.println("<thread>");
+            writer.println("<tr>");
+            writer.println("<th class=\"mdl-data-table__cell--non-numeric\">Partner Name</th>");
+            writer.println("</tr>");
+            writer.println("</thread>");
+            writer.println("<tbody>");
+
+            for(Partner element : sorted){
+
+                writer.println("<!-- Partner #" + element.partnerNumber + " -->");
+                writer.println("<tr>");
+                writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + element.urlName + ".php\">" + element.name + "</a></td>");
+                writer.println("</tr>");
+            }
+
+            writer.println("</tbody>");
+            writer.println("</table>");
+
+            writer.println("</div>");
+            writer.println("</div>");
+            writer.println("<?php include(\"../includes/footer.php\");?>");
+            //close writer
+            writer.close();
+
+
+        } catch (FileNotFoundException | UnsupportedEncodingException e) {
+            System.err.println("Could not generate partners map page");
+        }
+
 
     }
 
