@@ -78,7 +78,14 @@ public class DataFetcher {
                         des = des.substring(0, des.length() - 1);
                     }
 
-                    toReturn.add(new Collection(collectionNumber, true, note, title, pub, text, img, imgH, imgW, des));
+                    Collection toAdd = new Collection(collectionNumber, true, note, title, pub, text, img, imgH, imgW, des);
+
+                    toReturn.add(toAdd);
+
+                    //check of a possible error in storage/reading
+                    if(Character.isLowerCase((toAdd.urlTitle.toCharArray())[0]))
+                        System.err.println("Warning: Collection " + collectionNumber + " may have an issue. Reason: Title, \""
+                                + title + "\", begins with a lower letter");
 
                 }
 
@@ -133,7 +140,14 @@ public class DataFetcher {
                     else
                         imgW = Integer.valueOf(rawImgW);
 
-                    toReturn.add(new Partner(partnerNumber, true, note, name, link, text, img, imgH, imgW, des));
+                    Partner toAdd = new Partner(partnerNumber, true, note, name, link, text, img, imgH, imgW, des);
+
+                    toReturn.add(toAdd);
+
+                    //check of a possible error in storage/reading
+                    if(Character.isLowerCase((toAdd.urlName.toCharArray())[0]))
+                        System.err.println("Warning: Partner " + partnerNumber + " may have an issue. Reason: Name, \""
+                                + name + "\", begins with a lower letter");
                 }
 
             }

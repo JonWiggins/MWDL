@@ -1,0 +1,26 @@
+<?php include("../includes/ampheader.php");?>
+<!-- Collection #2450 -->
+<!-- Collection Title -->
+<title>Utah Second District Court John D. Lee Criminal Case File</title>
+<!-- Desktop Version Link -->
+<link rel="canonical" href="../collections/UtahSecondDistrictCourtJohnDLeeCriminalCaseFile.php">
+<?php include("../includes/ampstyle.php");?>
+ 
+<!-- Collection Title -->
+<h3>Utah Second District Court John D. Lee Criminal Case File</h3>
+<!-- Collection Publisher -->
+<h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
+<!-- Collection Image -->
+<div class=amp-img-fill>
+<amp-img src="../images/collection_images/alt="Utah Second District Court John D. Lee Criminal Case File"width="250" height ="250"  layout = "responsive"></amp-img>
+</div>
+<!-- Image Description -->
+Utah Second District Court John D. Lee Criminal Case File
+<!-- Article Text -->
+Case files document criminal cases as they proceed through the court system and subsequently become the official files of individual cases. Case 31 is the John D. Lee trial concerning his involvement in the 1857 Mountain Meadows Massacre.
+<hr>
+<!-- Browse Collection -->
+<h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2450&indx=1&bulkSize=50">Browse all record in Utah Second District Court John D. Lee Criminal Case File</a>
+</h6>
+<?php include("../includes/ampfooter.php");?>

@@ -1,0 +1,26 @@
+<?php include("../includes/ampheader.php");?>
+<!-- Collection #1608 -->
+<!-- Collection Title -->
+<title>Utah Fire and Rescue Academy</title>
+<!-- Desktop Version Link -->
+<link rel="canonical" href="../collections/UtahFireandRescueAcademy.php">
+<?php include("../includes/ampstyle.php");?>
+ 
+<!-- Collection Title -->
+<h3>Utah Fire and Rescue Academy</h3>
+<!-- Collection Publisher -->
+<h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
+<!-- Collection Image -->
+<div class=amp-img-fill>
+<amp-img src="../images/collection_images/alt="Fire and Rescue Academy Logo"width="108" height ="109"  layout = "responsive"></amp-img>
+</div>
+<!-- Image Description -->
+Fire and Rescue Academy Logo
+<!-- Article Text -->
+<p></p><br/><p>UFRA contributes to the safety and security of Utah residents by training fire service emergency responders, creating and maintaining programs and courses related to fire service emergency response, assisting in the development of current and future fire department leaders, and maintaining a certification program that insures a high degree of professionalism in all disciplines of the fire service. </p><br/><p><strong></strong></p><br/></p>
+<hr>
+<!-- Browse Collection -->
+<h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1608&indx=1&bulkSize=50">Browse all record in Utah Fire and Rescue Academy</a>
+</h6>
+<?php include("../includes/ampfooter.php");?>

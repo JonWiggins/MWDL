@@ -17,7 +17,7 @@
 <!-- Image Description -->
 Along the North Platte River, Oregon Trail
 <!-- Article Text -->
-</p><br/>Almost 1,100 images from one of the most renowned 19th century landscape photographers of the American West. The collection includes landscapes of the western United States and Mexico, but also 231 images of Asia and Pacific countries, 60 Native American portraits, and 30 pieces of art.</p><br/>
+</p><br/>Almost 1,100 images from one of the most renowned 19th century landscape photographers of the American West. The collection includes landscapes of the western United States and Mexico, but also 231 images of Asia and Pacific countries, 60 Native American portraits, and 30 pieces of art.</p>
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -1,0 +1,26 @@
+<?php include("../includes/ampheader.php");?>
+<!-- Collection #2217 -->
+<!-- Collection Title -->
+<title>Lyman Wilbur Afghanistan</title>
+<!-- Desktop Version Link -->
+<link rel="canonical" href="../collections/LymanWilburAfghanistan.php">
+<?php include("../includes/ampstyle.php");?>
+ 
+<!-- Collection Title -->
+<h3>Lyman Wilbur Afghanistan</h3>
+<!-- Collection Publisher -->
+<h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
+<!-- Collection Image -->
+<div class=amp-img-fill>
+<amp-img src="../images/collection_images/alt="Lyman and Henrietta Wilbur"width="250" height ="250"  layout = "responsive"></amp-img>
+</div>
+<!-- Image Description -->
+Lyman and Henrietta Wilbur
+<!-- Article Text -->
+Lyman D. Wilbur's slides from his visits to Afghanistan in 1957 and 1958 are part of a larger collection of his papers (MSS 205) donated to Boise State University by his daughter, Olive G. Waugh, in 2001. The collection as a whole documents Wilbur's career as an engineer, including his four decades with the Boise, Idaho-based international engineering and construction firm Morrison-Knudsen
+<hr>
+<!-- Browse Collection -->
+<h6>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2217&indx=1&bulkSize=50">Browse all record in Lyman Wilbur Afghanistan</a>
+</h6>
+<?php include("../includes/ampfooter.php");?>

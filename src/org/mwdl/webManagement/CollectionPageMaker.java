@@ -197,6 +197,13 @@ public class CollectionPageMaker {
 
         String FileLocAndName = ProjectConstants.CollectionPageDirectory + "collections.php";
 
+        ArrayList<Integer> toWriteNumbers = new ArrayList<>();
+
+        for(Collection element : collections)
+            toWriteNumbers.add(element.collectionNumber);
+        sort(toWriteNumbers);
+
+
         try {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
@@ -218,17 +225,21 @@ public class CollectionPageMaker {
             writer.println("</thread>");
             writer.println("<tbody>");
 
-            for (Collection c : collections) {
-                String urlTitle = c.urlTitle;
-                String title = ellipsize(c.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
-                String publisherName = c.publisher.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
-                String urlPub= c.refinedPublisher;
-                writer.println("<!-- Collection #"+ c.collectionNumber+" -->");
+            for (int collectionNumber : toWriteNumbers) {
+                for(Collection element : collections) {
+                    if(element.collectionNumber == collectionNumber) {
+                        String urlTitle = element.urlTitle;
+                        String title = ellipsize(element.title.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ","), 55);
+                        String publisherName = element.publisher.replace("%newline%", "\n").replace("%return%", "/r").replace("%comma%", ",").replace("Published by ", "");
+                        String urlPub = element.refinedPublisher;
+                        writer.println("<!-- Collection #" + element.collectionNumber + " -->");
 
-                writer.println("<tr>");
-                writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
-                writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub + ".php\">"+ publisherName +"</a></td>");
-                writer.println("</tr>");
+                        writer.println("<tr>");
+                        writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"" + urlTitle + ".php\">" + title + "</a></td>");
+                        writer.println("<td class=\"mdl-data-table__cell--non-numeric\"> <a href = \"../partners/" + urlPub + ".php\">" + publisherName + "</a></td>");
+                        writer.println("</tr>");
+                    }
+                }
             }
             writer.println("</tbody>");
             writer.println("</table>");
