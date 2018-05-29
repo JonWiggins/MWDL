@@ -155,6 +155,7 @@ public class CollectionPageMaker {
             writer.println("<h6> Published by <a href=\"../partners/" + toWrite.refinedPublisher + ".php\">"+ toWrite.publisher +"</a></h6>");
             writer.println("<!-- Collection Image -->");
             writer.println("<div class=amp-img-fill>");
+
             if (toWrite.imageName != null)
                 writer.println(
                         "<amp-img src=\"../images/collection_images/" +
@@ -162,6 +163,7 @@ public class CollectionPageMaker {
                         "width=\"" + toWrite.imageWidth + "\" height =\"" + toWrite.imageHeight +"\" " +
                         " layout = \"responsive\"></amp-img>"
                 );
+
             writer.println("</div>");
             writer.println("<!-- Image Description -->");
             if (toWrite.des != null) writer.println(toWrite.des);
