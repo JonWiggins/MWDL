@@ -8,9 +8,9 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /**
- * Run this to create all the Partner landing pages from the newPartnerData.csv in this dir
+ * Run this to create all the Partner landing pages from the active partners given by the partnerData csv
  *
- * It will write all of the Partner landing pages into partners/ and amppartners/
+ * It will write all of the Partner landing pages into the directory given by ProjectConstants
  *
  * @author Jonathan Wiggins
  * @version 5/9/18

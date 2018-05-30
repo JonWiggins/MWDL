@@ -67,6 +67,23 @@ public class Partner {
     }
 
     /**
+     * Just used to print out Partner objects with a bit of formatting for debugging
+     */
+    public String toString(){
+        return "Number: "+ partnerNumber +
+                "\nisActive: " + isActive +
+                "\nNote: " + note +
+                "\nName: " + name +
+                "\nURLName: " + urlName +
+                "\nLink: " + link +
+                "\nText: " + article +
+                "\nImage: " + imageName +
+                "\nImage Height: " + imageHeight +
+                "\nImage Width: " + imageWidth +
+                "\nDescription: " + imageDes;
+    }
+
+    /**
      * Note that the exlibiris browse link is just a search link with the name of the partner in it
      *
      * @return the Exlibirs browse link

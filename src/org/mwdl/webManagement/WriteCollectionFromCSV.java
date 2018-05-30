@@ -9,7 +9,9 @@ import java.util.Date;
 import java.util.Scanner;
 
 /**
- * Run this class to generate all of the Collection Landing Pages from the collectionData.csv file in this dir
+ * Run this class to generate all of the Collection Landing Pages from active collections in the collection data csv file
+ *
+ * Places the resulting full and amp pages in the directory given in ProjectConstants
  *
  * @author Jonathan Wiggins
  * @version 6/20/17

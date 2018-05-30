@@ -22,20 +22,24 @@ import java.util.regex.Pattern;
  *
  * How to do Analytics for a new Month:
  * 1. Add the new Analytics Data to /MasterLists/
+ *      Note that if it is taken directly from Google Analytics, you will need to remove the header and footer text
+ *      If you open the document in a text editor, and open one of the existing documents, it will be very clear
+ *      what text needs to be removed.
  * 2. Name it %monthName%.csv
  * 3. Add the month name to the months ArrayList
- * 4. Add a new ArrayList and needed methods to the AnalyticsPartner class
- * 5. Add the month options to the control statements in this class denoted with //FIXME
- * 6. Run this class's main method
+ * 4. Run this class's main method
  *
  *
- * At this point there should be a folder in the cwd titled GeneratedAnalytics which holds csv files for each hubID
- * Now open up VS and run the MWDLAnalyticsEmails program. It will generated all of the emails you need to send out
+ * At this point the directory given by ProjectConstansts.GeneratedAnalyticsDirectory will hold a csv file for each
+ *  hubID
+ * Now open up VS and change the run the MWDLAnalyticsEmails program.
+ * It will generated all of the emails you need to send out
  *  and save them into the PhpStorm project folder for MWDL.org
+ *
  *
  * Note: If you are not me the directories will be broken and you will need to fix them for your computer
  * Note: The HashMap hubidtoName can be manipulated to get lists for specific partners
- *  One time a partner, not a hubID, wanted their own stats, so you can change that partners code in HubPartnersMap.csv
+ *  One time a partner, not a hub, wanted their own stats, so you can change that partners code in HubPartnersMap.csv
  *   and add that code to hubidtoName, and rerun the program, to get a list for just that partner
  *   make sure to change it back when done.
  *
