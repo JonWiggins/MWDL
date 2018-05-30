@@ -17,7 +17,7 @@
 <!-- Image Description -->
 Sheepherders of Northern Nevada online exhibit
 <!-- Article Text -->
-"</p><br/>Sheep have always played an important role in the economic history of Nevada. This collection of photographs documents almost 80 years of the sheep industry in Northern Nevada, and accompanies the <a href="http://knowledgecenter.unr.edu/sheepherders/default.aspx" target="_blank">Sheepherders of Northern Nevada online exhibit</a>. </p><br/> <a href="http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/sheep&CISOPTR=762&CISOBOX=1&REC=14" target="_blank">Corralling ewes <br> </a>University of Nevada, Reno</p><br/></p>"
+"</p><br/>Sheep have always played an important role in the economic history of Nevada. This collection of photographs documents almost 80 years of the sheep industry in Northern Nevada, and accompanies the <a href=http://knowledgecenter.unr.edu/sheepherders/default.aspx"" target=""_blank"">Sheepherders of Northern Nevada online exhibit</a>. </p><br/> <a href=""http://contentdm.library.unr.edu/cdm4/item_viewer.php?CISOROOT=/sheep&CISOPTR=762&CISOBOX=1&REC=14"" target=""_blank"">Corralling ewes <br> </a>University of Nevada, Reno</p><br/></p>"""
 <hr>
 <!-- Browse Collection -->
 <h6>

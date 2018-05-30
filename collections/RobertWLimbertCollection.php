@@ -40,7 +40,7 @@ The Izaak Walton League, founded in 1922 to save outdoor America for future gene
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
  
 <!-- Collection Description -->
-<p></p><br/><p>&nbsp,</p><br/></p>
+Photos by Limbert and photos of Limbert documenting his exploration of little-known regions of Idaho in the 1910s and 20s, notably what is now known as Craters of the Moon National Monument and Preserve, the Bruneau River canyon, and Sawtooth Mountains. The collection also includes images from his taxidermy business, the Panama-Pacific International Exposition of 1915, and the early years of Redfish Lake Lodge.
 <hr>
 <h6>
 <!-- Browse Link -->

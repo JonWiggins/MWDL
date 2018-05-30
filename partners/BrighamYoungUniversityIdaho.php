@@ -29,8 +29,6 @@
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Brigham+Young+University-Idaho">Browse all records from Brigham Young University-Idaho</a>
 <!-- List all Active Collections -->
 <li><a href = "../collections/BrighamYoungUniversityIdahoCampus.php">Brigham Young University-Idaho Campus</a></li>
-<li><a href = "../collections/BrighamYoungUniversityIdahoOralHistories.php">Brigham Young University-Idaho Oral Histories</a></li>
-<li><a href = "../collections/BrighamYoungUniversityIdahoStudentRays.php">Brigham Young University-Idaho Student Rays</a></li>
 <li><a href = "../collections/HistoricRicksCollegeVikingScroll1.php">Historic Ricks College Viking Scroll 1</a></li>
 <li><a href = "../collections/HistoricRicksCollegeVikingScroll2.php">Historic Ricks College Viking Scroll 2</a></li>
 <li><a href = "../collections/UpperSnakeRiverValleyIdahoHistories.php">Upper Snake River Valley Idaho Histories</a></li>

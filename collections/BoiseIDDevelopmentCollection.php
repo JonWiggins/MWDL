@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2180.jpg" alt="Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning adn Development Committee."width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2180.jpg" alt="Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning and Development Committee."width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning adn Development Committee.
+Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning and Development Committee.
 </div>
 <!-- Collection Title-->
 <h4>Boise (ID) Development Collection</h4>
@@ -40,7 +40,7 @@ Recommendations for revitalizing downtown Boise made by the Urban Lands Institut
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
  
 <!-- Collection Description -->
-<p></p><br/><p>&nbsp,</p><br/></p>
+Reports, brochures, advertisements and other resources that promote, or plan for, growth in the city of Boise, Idaho.<br/>These documents mostly originated from public departments within the city of Boise, but some were authored by local and national consultants.
 <hr>
 <h6>
 <!-- Browse Link -->

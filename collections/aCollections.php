@@ -252,16 +252,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoFlash.php">Brigham Young University-Idaho Flash</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
 </tr>
-<!-- Collection #1056 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoOralHistories.php">Brigham Young University-Idaho Oral Histories</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
-</tr>
-<!-- Collection #1057 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoStudentRays.php">Brigham Young University-Idaho Student Rays</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
-</tr>
 <!-- Collection #1558 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum, Price (UT)</a></td>

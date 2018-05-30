@@ -25,8 +25,6 @@
 </h6>
 <!-- List all Active Collections -->
 <li><a href = "../ampcollections/BrighamYoungUniversityIdahoCampus.php">BrighamYoungUniversityIdahoCampus</a></li>
-<li><a href = "../ampcollections/BrighamYoungUniversityIdahoOralHistories.php">BrighamYoungUniversityIdahoOralHistories</a></li>
-<li><a href = "../ampcollections/BrighamYoungUniversityIdahoStudentRays.php">BrighamYoungUniversityIdahoStudentRays</a></li>
 <li><a href = "../ampcollections/HistoricRicksCollegeVikingScroll1.php">HistoricRicksCollegeVikingScroll1</a></li>
 <li><a href = "../ampcollections/HistoricRicksCollegeVikingScroll2.php">HistoricRicksCollegeVikingScroll2</a></li>
 <li><a href = "../ampcollections/UpperSnakeRiverValleyIdahoHistories.php">UpperSnakeRiverValleyIdahoHistories</a></li>

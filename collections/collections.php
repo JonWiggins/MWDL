@@ -237,16 +237,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoCampus.php">Brigham Young University-Idaho Campus</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
 </tr>
-<!-- Collection #1056 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoOralHistories.php">Brigham Young University-Idaho Oral Histories</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
-</tr>
-<!-- Collection #1057 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityIdahoStudentRays.php">Brigham Young University-Idaho Student Rays</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></td>
-</tr>
 <!-- Collection #1058 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrighamYoungUniversityStudies.php">Brigham Young University Studies</a></td>
