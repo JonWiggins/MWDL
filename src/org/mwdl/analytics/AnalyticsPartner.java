@@ -19,8 +19,13 @@ import java.util.regex.Pattern;
 
 public class AnalyticsPartner {
 
+    //the name of this partner
     public String name;
+
+    //this partner's hubID
     public String hubID;
+
+    //this partner's hubName
     public String hubName;
 
     //Holds the given analytics lines in ArrayList that correspond to the month that they took place in
@@ -38,7 +43,8 @@ public class AnalyticsPartner {
 
         this.name = name.replace("&amp;", "&");
 
-        if(name.equals("")) this.name = "unpublished";
+        if(name.equals(""))
+            this.name = "unpublished";
 
         try {
             setHubName();
@@ -84,10 +90,16 @@ public class AnalyticsPartner {
         hubidtoName.put("unpublished","unpublished");
 
 
+        //Import the HubPartnerMap which will be used to correlate the name of this partner to the Hub
         Scanner s = new Scanner(new File(ProjectConstants.HubPartnerMapCSV));
+
+        //run through each line in the csv
+        // When the name of this partner is found, use regex to extract the hubID
         while(s.hasNextLine()){
             String currentLine = s.nextLine();
             if(currentLine.contains(name)){
+                //Note this use of regex
+                // The capture group is the hubID
                 Pattern pattern = Pattern.compile("\\w*,(\\S{3})-[0-9]{2}-");
                 Matcher matcher = pattern.matcher(currentLine);
                 try {
@@ -100,6 +112,7 @@ public class AnalyticsPartner {
                     System.out.println(name);
                     System.exit(1);
                 }
+                break;
             }
 
         }

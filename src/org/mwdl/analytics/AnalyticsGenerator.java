@@ -63,6 +63,23 @@ public class AnalyticsGenerator {
         partners = new ArrayList<>();
         hubidtoName = new HashMap<>();
 
+
+        //FIXME add the months here
+        //months.add("January");
+        //months.add("February");
+        //months.add("March");
+        months.add("April");
+        //months.add("May");
+        //months.add("June");
+        //months.add("July");
+        //months.add("August");
+        //months.add("September");
+        //months.add("October");
+        //months.add("November");
+        //months.add("December");
+
+
+        //maps the 3 char hub ID to the full name 
         hubidtoName.put("bcc","Buffalo Bill Center");
         hubidtoName.put("bsu","Boise State University");
         hubidtoName.put("byu","Brigham Young University");
@@ -85,23 +102,6 @@ public class AnalyticsGenerator {
 
 
         activeCollections = DataFetcher.getAllActiveCollections();
-
-
-
-        //FIXME add the months here
-        //months.add("January");
-        //months.add("February");
-        //months.add("March");
-        months.add("April");
-        //months.add("May");
-        //months.add("June");
-        //months.add("July");
-        //months.add("August");
-        //months.add("September");
-        //months.add("October");
-        //months.add("November");
-        //months.add("December");
-
 
         //For each month, load the file and give it to parseFileAndAddLines
         //This will populate the partners ArrayList with all of the lines
