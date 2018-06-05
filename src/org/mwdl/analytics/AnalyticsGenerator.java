@@ -79,7 +79,7 @@ public class AnalyticsGenerator {
         //months.add("December");
 
 
-        //maps the 3 char hub ID to the full name 
+        //maps the 3 char hub ID to the full name
         hubidtoName.put("bcc","Buffalo Bill Center");
         hubidtoName.put("bsu","Boise State University");
         hubidtoName.put("byu","Brigham Young University");

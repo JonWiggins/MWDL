@@ -1022,6 +1022,21 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids.php">Department of Heritage and Arts Encoded Archival Des...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
+<!-- Collection #1255 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "EncodedArchivalDescriptionEADFindingAids.php">Encoded Archival Description (EAD) Finding Aids</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #1255 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofHeritageandArtsEncodedArchivalDescriptionEADFindingAids.php">Department of Heritage and Arts Encoded Archival Des...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #1255 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "EncodedArchivalDescriptionEADFindingAids.php">Encoded Archival Description (EAD) Finding Aids</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
 <!-- Collection #1256 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MountainWestDigitalLibraryCollectionBrighamYoungUniversityEncodedArchivalDescriptionEADFindingAids.php">Mountain West Digital Library - Collection: Brigham ...</a></td>
@@ -1877,6 +1892,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "JohnHamiltonMorganPapers.php">John Hamilton Morgan Papers</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
 </tr>
+<!-- Collection #1908 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JuanitaBrooksPhotographCollection19281981.php">Juanita Brooks Photograph Collection, 1928-1981</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
 <!-- Collection #1909 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "KUEDTopazRelocationCenterResidentsCollection.php">KUED Topaz Relocation Center Residents Collection</a></td>
@@ -2322,6 +2342,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "TellingOurStoryAnOralHistoryofUtahValleyUniversity.php">Telling Our Story: An Oral History of Utah Valley Un...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
 </tr>
+<!-- Collection #2208 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "KentDayFamilyCollection.php">Kent Day Family Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
 <!-- Collection #2209 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DocRoachFire.php">Doc Roach Fire</a></td>
@@ -2406,6 +2431,31 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofUtahDaughtersoftheAmericanRevolutionPapers.php">University of Utah Daughters of the American Revolut...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></td>
+</tr>
+<!-- Collection #2229 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "SaltLakeTribuneNegativeCollection.php">Salt Lake Tribune Negative Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2230 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "TheaterProgramsCollection18661995.php">Theater Programs Collection, 1866-1995</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2231 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CRSavageCompanyPortraitCollection.php">C.R. Savage Company Portrait Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2232 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahPowerandLightPhotographs1940s1950s.php">Utah Power and Light Photographs, 1940s-1950s</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2233 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahStateLegislatorsPhotographs18951963.php">Utah State Legislators Photographs, 1895-1963</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
 <!-- Collection #2253 -->
 <tr>
@@ -2801,6 +2851,26 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GracieBPfost.php">Gracie B. Pfost</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></td>
+</tr>
+<!-- Collection #2351 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "AftonWatkinsGardner.php">Afton Watkins Gardner</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2352 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "FredrickandNellieHillSaltLakeCityPhotographCollection.php">Fredrick and Nellie Hill Salt Lake City Photograph C...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2354 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RayKingCollection.php">Ray King Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2355 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JohnPeterSimonsonPhotographCollection.php">John Peter Simonson Photograph Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
 <!-- Collection #2360 -->
 <tr>
@@ -3216,6 +3286,36 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OremUTSchoolYearbooks.php">Orem (UT) School Yearbooks</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/OremUTPublicLibrary.php">Orem (UT) Public Library</a></td>
+</tr>
+<!-- Collection #2463 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "ArtifactCollection.php">Artifact Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2465 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GeneralRefractoriesCompanyCollection.php">General Refractories Company Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2466 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "HarvardPeabodySiteReports.php">Harvard Peabody Site Reports</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2467 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "MoviesMadeinUtah.php">Movies Made in Utah</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2469 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WeRememberWeCelebrateWeBelieveLatinosinUtahExhibitCollection.php">We Remember, We Celebrate, We Believe: Latinos in Ut...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
+</tr>
+<!-- Collection #2470 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UtahNationalRegisterNominationForms.php">Utah National Register Nomination Forms</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
 <!-- Collection #2522 -->
 <tr>

@@ -1,7 +1,12 @@
 package org.mwdl.data;
 
 /**
- * TODO - Fill in class desc
+ * Holds variables that are used throughout the project
+ *
+ * Mostly paths to files and folders that are needed.
+ *
+ * This makes moving the project to a new computer easier, as you can just change the path here
+ *  rather than finding all the uses across the project.
  *
  * @author Jonathan Wiggins
  * @version 5/9/18
@@ -13,7 +18,7 @@ public class ProjectConstants {
      *
      * Every interaction with the Collection Data CSV file should use this pointer
      */
-    public static final String CollectionDataCSV = "collectionData5292018.csv";
+    public static final String CollectionDataCSV = "collectionData60518.csv";
 
     /**
      * Holds the name of the Partner Data CSV file

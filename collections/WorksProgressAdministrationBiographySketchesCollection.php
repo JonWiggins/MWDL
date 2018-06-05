@@ -30,9 +30,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2306.jpg" alt="<em>Emily Hodgetts Lowder</em>"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2306.jpg" alt="fountain Hotel and Leather Pool"width="300" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-<em>Emily Hodgetts Lowder</em>
+fountain Hotel and Leather Pool
 </div>
 <!-- Collection Title-->
 <h4>Works Progress Administration Biography Sketches Collection</h4>

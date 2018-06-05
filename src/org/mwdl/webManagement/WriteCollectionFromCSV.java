@@ -1,6 +1,7 @@
 package org.mwdl.webManagement;
 
 import org.mwdl.data.DataFetcher;
+import org.mwdl.data.ProjectConstants;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -24,7 +25,7 @@ public class WriteCollectionFromCSV {
 
         ArrayList<Collection> toWrite = DataFetcher.getAllActiveCollections();
 
-        System.out.println("Found " + toWrite.size() + " active collections in the Collections Data CSV file.");
+        System.out.println("Found " + toWrite.size() + " active collections in " + ProjectConstants.CollectionDataCSV + ".");
         CollectionPageMaker.writeGivenCollectionPages(toWrite);
         System.out.println("Completed writing collections");
     }

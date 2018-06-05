@@ -1,6 +1,9 @@
 import org.mwdl.data.DataFetcher;
 import org.mwdl.webManagement.Collection;
 
+import javax.xml.crypto.Data;
+import java.util.ArrayList;
+
 /**
  * Just use this to test methods in a *closed* environment
  *
@@ -14,7 +17,7 @@ import org.mwdl.webManagement.Collection;
 public class Test {
 
     public static void main(String[] args) {
-        //also 1955
-        System.out.println(DataFetcher.fetchCollection(1924));
+        for(Collection c : DataFetcher.getAllActiveCollections())
+            System.out.println(c);
     }
 }

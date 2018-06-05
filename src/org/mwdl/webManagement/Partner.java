@@ -49,6 +49,8 @@ public class Partner {
         this.imageDes = imageDes;
 
 
+        //This task required running through all of the collection data on creation of each partner
+        // This should probably be optimized
         activeCollections = DataFetcher.getAllActiveCollectionsFromPartner(name);
 
 

@@ -3,9 +3,7 @@ package org.mwdl.data;
 import org.mwdl.webManagement.Collection;
 import org.mwdl.webManagement.Partner;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
@@ -36,16 +34,16 @@ public class DataFetcher {
         ArrayList<Collection> toReturn = new ArrayList<>();
         try {
 
-            Scanner collectionData = new Scanner(new File(ProjectConstants.CollectionDataCSV));
+            BufferedReader collectionData = new BufferedReader(new FileReader(ProjectConstants.CollectionDataCSV));
             ArrayList<String> toParse = new ArrayList<>();
 
-            while (collectionData.hasNextLine()) {
+            while (collectionData.ready()) {
 
                 //Note that this regex pattern is designed to match will any active collection listing
                 // Note that true can be capital or not
                 // Note the use of greedy modifier so that article text will be maximized
                 Pattern pattern = Pattern.compile("([0-9]{4}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(.*?),(.+),(collection[0-9]{4}.{2,4}),([0-9]*),([0-9]*),(.*)");
-                Matcher matcher = pattern.matcher(collectionData.nextLine());
+                Matcher matcher = pattern.matcher(collectionData.readLine());
                 if (matcher.find()) {
                     //int collectionNumber, boolean isActive, String note, String title, String publisher, String text, String imageName, int height, int width, String des
                     int collectionNumber = Integer.valueOf(matcher.group(1));
@@ -82,7 +80,6 @@ public class DataFetcher {
                     }
 
                     Collection toAdd = new Collection(collectionNumber, true, note, title, pub, text, img, imgH, imgW, des);
-
                     toReturn.add(toAdd);
 
                     //check of a possible error in storage/reading
@@ -95,7 +92,7 @@ public class DataFetcher {
             }
 
         } catch (IOException e) {
-            System.err.println("Could not access the Collection Data csv file at DataFetcher.getAllActivePartners");
+            System.err.println("Could not access the Collection Data csv file at DataFetcher.getAllActiveCollections");
             System.exit(1);
         }
         return toReturn;
@@ -110,15 +107,15 @@ public class DataFetcher {
         ArrayList<Partner> toReturn = new ArrayList<>();
 
         try {
-            Scanner data = new Scanner(new File(ProjectConstants.PartnerDataCSV));
+            BufferedReader data = new BufferedReader(new FileReader(ProjectConstants.PartnerDataCSV));
 
-            while (data.hasNextLine()) {
+            while (data.ready()) {
 
                 //Note that this regex is designed to match with any active partner listing
                 // Note that true can be capital or not
                 // Note the use of greedy modifier so that article text will be maximized
                 Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(http:.*?),(.+),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
-                Matcher matcher = pattern.matcher(data.nextLine());
+                Matcher matcher = pattern.matcher(data.readLine());
 
                 if(matcher.find()){
                     //Partner Number, Passed Inspection, Note, Name, Link, Text, Image Name, Image Height, Image Length, Image Description
@@ -158,7 +155,7 @@ public class DataFetcher {
 
             }
 
-        } catch (FileNotFoundException e) {
+        } catch(IOException e){
             System.err.println("Could not access the Partner Data csv file at DataFetcher.getAllActivePartners");
             System.exit(1);
         }
