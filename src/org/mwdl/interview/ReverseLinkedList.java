@@ -4,7 +4,7 @@ public class ReverseLinkedList {
 
     /**
      * Given Code.
-     * Note that this is a static class
+     * Note that this is a static class, but it does not change its functionality, in this case
      *
      * Note the use of non-private fields.
      *  - Using Getters and Setters is not needed
@@ -19,7 +19,7 @@ public class ReverseLinkedList {
         }
     }
 
-    /**
+    /*
      * Task: Create a method that reverses the ordering of a linked list
      * - A public method
      * - Returns a Node
@@ -31,7 +31,7 @@ public class ReverseLinkedList {
 
     /**
      * Possible solution
-     * Note this is Omega(n)
+     * Note this is Omega(n), an acceptale solution should be
      *
      * @param head the head of a linked list
      * @return The new head of the list
@@ -39,8 +39,7 @@ public class ReverseLinkedList {
     public static Node reverse(Node head){
         Node current = null;
         Node last;
-        Node next;
-        next = head;
+        Node next = head;
 
         while(next != null){
             last = current;
@@ -52,10 +51,10 @@ public class ReverseLinkedList {
     }
 
     /**
-     * Test
+     * Quick Test, should be able to trace such a test by hand
      */
     public static void main(String[] args) {
-        int[] toTest = new int[]{2,3,4,5,6,7,8,9,10};
+        int[] toTest = new int[]{2, 3, 4, 5, 6, 7, 8, 9, 10};
         Node head = new Node(1);
         Node current = head;
 
