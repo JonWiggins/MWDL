@@ -114,7 +114,7 @@ public class DataFetcher {
                 //Note that this regex is designed to match with any active partner listing
                 // Note that true can be capital or not
                 // Note the use of greedy modifier so that article text will be maximized
-                Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(http:.*?),(.+),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
+                Pattern pattern = Pattern.compile("([0-9]{3}),[Tt][Rr][Uu][Ee],(.*?),(.*?),(http.*?),(.+),(partner[0-9]{3}.{2,4}),([0-9]*),([0-9]*),(.*)");
                 Matcher matcher = pattern.matcher(data.readLine());
 
                 if(matcher.find()){

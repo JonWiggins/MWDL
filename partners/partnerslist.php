@@ -41,6 +41,10 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></td>
 </tr>
+<!-- Partner #369 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
+</tr>
 <!-- Partner #217 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
@@ -129,6 +133,10 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></td>
 </tr>
+<!-- Partner #371 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonStateUniversityLibraries.php">Oregon State University Libraries</a></td>
+</tr>
 <!-- Partner #203 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OremUTHeritageMuseum.php">Orem (UT) Heritage Museum</a></td>
@@ -192,6 +200,10 @@
 <!-- Partner #105 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
+</tr>
+<!-- Partner #370 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Partner #205 -->
 <tr>

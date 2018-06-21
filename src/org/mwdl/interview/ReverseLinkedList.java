@@ -26,12 +26,15 @@ public class ReverseLinkedList {
      * - Takes a Node, the head of a linked list
      * - The Node that is returned is the new head of the list
      *  - Previously the tail
+     *
+     *  How would you modify this program if it were included ina linked list class
+     *  - The method is now void and takes no parameter
      */
 
 
     /**
      * Possible solution
-     * Note this is Omega(n), an acceptale solution should be
+     * Note this is Theta(n), an acceptable solution should be
      *
      * @param head the head of a linked list
      * @return The new head of the list

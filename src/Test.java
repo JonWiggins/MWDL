@@ -1,5 +1,6 @@
 import org.mwdl.data.DataFetcher;
 import org.mwdl.webManagement.Collection;
+import org.mwdl.webManagement.Partner;
 
 import javax.xml.crypto.Data;
 import java.util.ArrayList;
@@ -17,7 +18,7 @@ import java.util.ArrayList;
 public class Test {
 
     public static void main(String[] args) {
-        for(Collection c : DataFetcher.getAllActiveCollections())
+        for(Partner c : DataFetcher.getAllActivePartners())
             System.out.println(c);
     }
 }
