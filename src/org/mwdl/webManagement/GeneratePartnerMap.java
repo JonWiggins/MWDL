@@ -49,9 +49,9 @@ public class GeneratePartnerMap {
 
             for(Partner current : partners){
                 if(isForLiveSite)
-                    csv.append("\"" + current.name + "\"" + ",http://mwdl.org/partners/"+current.urlName + ".php\n");
+                    csv.append("\"" + current.name + "\"" + ",http://mwdl.org/partners/" + current.urlName + ".php\n");
                 else
-                    csv.append("\"" + current.name + "\"" + ",http://test.mwdl.org/partners/"+current.urlName + ".php\n");
+                    csv.append("\"" + current.name + "\"" + ",http://test.mwdl.org/partners/" + current.urlName + ".php\n");
 
             }
 

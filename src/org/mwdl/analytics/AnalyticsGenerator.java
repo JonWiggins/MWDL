@@ -30,7 +30,7 @@ import java.util.regex.Pattern;
  * 4. Run this class's main method
  *
  *
- * At this point the directory given by ProjectConstansts.GeneratedAnalyticsDirectory will hold a csv file for each
+ * At this point the directory given by ProjectConstants.GeneratedAnalyticsDirectory will hold a csv file for each
  *  hubID
  * Now open up VS and change the run the MWDLAnalyticsEmails program.
  * It will generated all of the emails you need to send out

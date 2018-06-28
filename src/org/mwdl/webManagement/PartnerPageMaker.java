@@ -86,7 +86,7 @@ public class PartnerPageMaker {
             writer.println("<h3>"+toWrite.name+"</h3>");
             writer.println("<!-- Website Link -->");
             writer.println("<h6><a href=\"" + toWrite.link + "\">"+ toWrite.name+" Website </a></h6>");
-            writer.println("<p></p>");
+            //writer.println("<p></p>");
             writer.println("<!-- Article Text -->");
             writer.println("<p>" + toWrite.article + "</p>");
             writer.println("<hr>");

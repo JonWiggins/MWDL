@@ -1,5 +1,7 @@
 package org.mwdl.interview;
 
+import java.util.ArrayList;
+
 public class ReverseLinkedList {
 
     /**
@@ -86,4 +88,95 @@ public class ReverseLinkedList {
         }
     }
 
+
+    /**
+     * Write a program that pcorints the numbers from 1 to 100.
+     * But for multiples of three print “Fizz” instead of the number
+     * and for the multiples of five print “Buzz”.
+     * For numbers which are multiples of both three and five print “FizzBuzz”
+     */
+    public static void FizzBuzz(){
+
+    }
+
+}
+
+
+class FizzFun {
+
+    //Chuanchao
+    public static void FizzBuzz(){
+        for(int i=1;i<=100;i++){
+            if(i%3 !=0 && i%5 !=0)
+                System.out.print(i);
+            if(i%3==0)
+                System.out.print("Fizz");
+
+            if(i%5==0)
+                System.out.print("Buzz");
+            System.out.println("");
+        }
+    }
+
+    //Arash
+    //Note this is actually wrong because it will print Fizz3 and Fizz6
+    public static void FizzBuzz2(){
+        for(int i = 1; i <= 100; i++){
+            if(i % 3 == 0)
+                System.out.print("Fizz");
+            if( i % 5 == 0)
+                System.out.print("Buzz");
+            else
+                System.out.print(i);
+
+            System.out.println("");
+        }
+    }
+
+
+    //Owen
+    public static void FizzBuzz3(){
+        int i = 1;
+        while(i < 101) {
+            if (i % 3 == 0) {
+                if (i % 5 == 0)
+                    System.out.println("FizzBuzz");
+                else
+                    System.out.println("Fizz");
+            } else if (i % 5 == 0){
+                System.out.println("Buzz");
+            }else{
+                System.out.println(i);
+            }
+
+            i+=1;
+        }
+    }
+
+
+    /**
+     * My quick solution
+     */
+    public static void FizzBuzz4(ArrayList<relation> toTest) {
+        for (int count = 1; count <= 100; count++) {
+            String toPrint = "";
+
+            if (count % 3 == 0)
+                toPrint = toPrint.concat("Fizz");
+            if (count % 5 == 0)
+                toPrint = toPrint.concat("Buzz");
+
+            if (toPrint.length() == 0)
+                System.out.println(count);
+            else
+                System.out.println(toPrint);
+
+        }
+    }
+
+    public class relation{
+
+        String word ="asdf";
+        int target = 5;
+    }
 }
