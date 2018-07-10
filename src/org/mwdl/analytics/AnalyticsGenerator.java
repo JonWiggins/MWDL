@@ -69,8 +69,8 @@ public class AnalyticsGenerator {
         //months.add("February");
         //months.add("March");
         months.add("April");
-        //months.add("May");
-        //months.add("June");
+        months.add("May");
+        months.add("June");
         //months.add("July");
         //months.add("August");
         //months.add("September");
@@ -142,7 +142,7 @@ public class AnalyticsGenerator {
                     writer.println("Page View Statistics for " + currentMonth + " 2018");
 
                     for(AnalyticsPartner currentPartner : partners){
-                        System.out.println(currentHub +" " + currentPartner.name);
+                        System.out.println(currentHub + " " + currentPartner.name);
 
                         if(currentPartner.hubID.equals(currentHub)){
                             ArrayList<String> currentList = currentPartner.getMonthLines(currentMonth);
