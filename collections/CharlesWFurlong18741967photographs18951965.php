@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="Charles W. Furlong (1874-1967) photographs, 1895-1965">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/CharlesWFurlong18741967photographs18951965.php";

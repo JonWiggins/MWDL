@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah UScholar Works, AMP">
 <!-- Collection #1251 -->
 <!-- Collection Title -->
 <title>University of Utah UScholar Works</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Map of Great Basin National Heritage Area"width="317" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1251.jpg"alt="Map of Great Basin National Heritage Area"width="317" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Map of Great Basin National Heritage Area

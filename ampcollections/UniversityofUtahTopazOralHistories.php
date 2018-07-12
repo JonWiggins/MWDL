@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Topaz Oral Histories, AMP">
 <!-- Collection #2062 -->
 <!-- Collection Title -->
 <title>University of Utah Topaz Oral Histories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="John Hada"width="285" height ="403"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2062.jpg"alt="John Hada"width="285" height ="403"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 John Hada

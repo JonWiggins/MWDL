@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: William F. Hoyt Collection, AMP">
 <!-- Collection #1008 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: William F. Hoyt Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Buried drusen"width="212" height ="210"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1008.jpg"alt="Buried drusen"width="212" height ="210"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Buried drusen

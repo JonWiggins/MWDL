@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/LeeDDrake18821957photographsca19101957.php";

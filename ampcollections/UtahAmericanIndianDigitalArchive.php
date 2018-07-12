@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah American Indian Digital Archive, AMP">
 <!-- Collection #1519 -->
 <!-- Collection Title -->
 <title>Utah American Indian Digital Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahAmericanWestCenter.php">University of Utah - American West Center</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="252" height ="334"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1519.jpg"alt=""width="252" height ="334"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

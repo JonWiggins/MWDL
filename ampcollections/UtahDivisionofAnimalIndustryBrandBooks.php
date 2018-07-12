@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Division of Animal Industry Brand Books, AMP">
 <!-- Collection #1208 -->
 <!-- Collection Title -->
 <title>Utah Division of Animal Industry Brand Books</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="December 1874 Book of Marks and Brands"width="390" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1208.jpg"alt="December 1874 Book of Marks and Brands"width="390" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 December 1874 Book of Marks and Brands

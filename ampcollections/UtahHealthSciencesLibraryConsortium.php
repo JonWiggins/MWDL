@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Health Sciences Library Consortium, AMP">
 <!-- Collection #1189 -->
 <!-- Collection Title -->
 <title>Utah Health Sciences Library Consortium</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1984 Meeting Minutes"width="300" height ="188"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1189.jpg"alt="1984 Meeting Minutes"width="300" height ="188"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1984 Meeting Minutes

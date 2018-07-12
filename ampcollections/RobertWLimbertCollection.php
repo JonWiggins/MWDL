@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Robert W. Limbert Collection, AMP">
 <!-- Collection #2178 -->
 <!-- Collection Title -->
 <title>Robert W. Limbert Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Izaak Walton League, founded in 1922 to save outdoor America for future generations, often hired Limbert to perform for their fundraisers. Limbert also wrote a regular column for the league's magazine, Outdoor America, called Revolver Shooting."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2178.jpg"alt="The Izaak Walton League, founded in 1922 to save outdoor America for future generations, often hired Limbert to perform for their fundraisers. Limbert also wrote a regular column for the league's magazine, Outdoor America, called Revolver Shooting."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Izaak Walton League, founded in 1922 to save outdoor America for future generations, often hired Limbert to perform for their fundraisers. Limbert also wrote a regular column for the league's magazine, Outdoor America, called Revolver Shooting.

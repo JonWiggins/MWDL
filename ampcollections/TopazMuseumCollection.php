@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Topaz Museum Collection, AMP">
 <!-- Collection #1028 -->
 <!-- Collection Title -->
 <title>Topaz Museum Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/TopazMuseumDeltaUT.php">Topaz Museum (Delta, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Students signing 1945 yearbooks"width="369" height ="251"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1028.jpg"alt="Students signing 1945 yearbooks"width="369" height ="251"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Students signing 1945 yearbooks

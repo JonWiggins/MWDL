@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Power and Light Photographs, 1940s-1950s, AMP">
 <!-- Collection #2232 -->
 <!-- Collection Title -->
 <title>Utah Power and Light Photographs, 1940s-1950s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="First Security Trust Company Building 1935"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2232.jpg"alt="First Security Trust Company Building 1935"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 First Security Trust Company Building 1935

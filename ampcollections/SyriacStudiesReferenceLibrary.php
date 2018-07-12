@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Syriac Studies Reference Library, AMP">
 <!-- Collection #1217 -->
 <!-- Collection Title -->
 <title>Syriac Studies Reference Library</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Clementis Romani Recognitiones syriace"width="275" height ="432"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1217.jpg"alt="Clementis Romani Recognitiones syriace"width="275" height ="432"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Clementis Romani Recognitiones syriace

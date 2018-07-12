@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="William E. Borah">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/WilliamEBorah.php";

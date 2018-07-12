@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Community College Student Newspapers, AMP">
 <!-- Collection #1606 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Student Newspapers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="SLCC Student Newspapers 1981-04-14"width="248" height ="332"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1606.jpg"alt="SLCC Student Newspapers 1981-04-14"width="248" height ="332"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 SLCC Student Newspapers 1981-04-14

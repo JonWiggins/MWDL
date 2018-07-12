@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Theses and Dissertations, AMP">
 <!-- Collection #1067 -->
 <!-- Collection Title -->
 <title>Brigham Young University Theses and Dissertations</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Resurrecting Lope's Autos"width="203" height ="388"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1067.jpg"alt="Resurrecting Lope's Autos"width="203" height ="388"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Resurrecting Lope's Autos

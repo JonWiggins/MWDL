@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Book Collection, AMP">
 <!-- Collection #1041 -->
 <!-- Collection Title -->
 <title>Western Waters: Book Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Water Rights Law in the Nineteen Western States Volume II"width="252" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1041.jpg"alt="Water Rights Law in the Nineteen Western States Volume II"width="252" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Water Rights Law in the Nineteen Western States Volume II

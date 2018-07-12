@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southern Utah University Drama Photographs, AMP">
 <!-- Collection #1258 -->
 <!-- Collection Title -->
 <title>Southern Utah University Drama Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Didymus, the Blind, ca. 313-ca. 398"width="378" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1258.jpg"alt="Didymus, the Blind, ca. 313-ca. 398"width="378" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Didymus, the Blind, ca. 313-ca. 398

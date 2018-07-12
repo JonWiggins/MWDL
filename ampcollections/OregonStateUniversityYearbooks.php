@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Oregon State University Yearbooks, AMP">
 <!-- Collection #2418 -->
 <!-- Collection Title -->
 <title>Oregon State University Yearbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/OregonStateUniversityLibraries.php">Oregon State University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Hayseed 1894"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2418.jpg"alt="The Hayseed 1894"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Hayseed 1894

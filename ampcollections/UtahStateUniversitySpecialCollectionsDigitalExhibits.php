@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State University Special Collections Digital Exhibits, AMP">
 <!-- Collection #1233 -->
 <!-- Collection Title -->
 <title>Utah State University Special Collections Digital Exhibits</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="E.B. Olesen Photograph Collection- Skiers"width="337" height ="299"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1233.jpg"alt="E.B. Olesen Photograph Collection- Skiers"width="337" height ="299"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 E.B. Olesen Photograph Collection- Skiers

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State University Special Collections Registers (EAD Finding Aids), AMP">
 <!-- Collection #1647 -->
 <!-- Collection Title -->
 <title>Utah State University Special Collections Registers (EAD Finding Aids)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah State University"width="120" height ="90"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1647.jpg"alt="Utah State University"width="120" height ="90"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah State University

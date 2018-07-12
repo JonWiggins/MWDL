@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frederick William Reynolds Lectures, AMP">
 <!-- Collection #1326 -->
 <!-- Collection Title -->
 <title>Frederick William Reynolds Lectures</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1326.jpg"alt=""width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

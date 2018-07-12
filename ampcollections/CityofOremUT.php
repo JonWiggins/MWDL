@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="City of Orem (UT), AMP">
 <!-- Collection #1537 -->
 <!-- Collection Title -->
 <title>City of Orem (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/OremUTPublicLibrary.php">Orem (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="High Schoolers in Formal Wear"width="365" height ="195"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1537.jpg"alt="High Schoolers in Formal Wear"width="365" height ="195"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 High Schoolers in Formal Wear

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Golden Spike Oral History Papers, AMP">
 <!-- Collection #2227 -->
 <!-- Collection Title -->
 <title>Golden Spike Oral History Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2227.jpg"alt="<em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Taro Yagi, Golden Spike Oral History Project, GS-21, American West Center, University of Utah</em>

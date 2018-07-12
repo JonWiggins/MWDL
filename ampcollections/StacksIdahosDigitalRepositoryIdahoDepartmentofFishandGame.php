@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Stacks: Idaho's Digital Repository - Idaho Department of Fish and Game, AMP">
 <!-- Collection #2141 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Idaho Department of Fish and Game</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fisheries Management Plan 2007-2012"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2141.jpg"alt="Fisheries Management Plan 2007-2012"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fisheries Management Plan 2007-2012

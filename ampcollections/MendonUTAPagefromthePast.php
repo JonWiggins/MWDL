@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mendon (UT): A Page from the Past, AMP">
 <!-- Collection #1536 -->
 <!-- Collection Title -->
 <title>Mendon (UT): A Page from the Past</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/MendonUT.php">Mendon (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Diary of Elder A.N. Sorensen"width="249" height ="426"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1536.jpg"alt="Diary of Elder A.N. Sorensen"width="249" height ="426"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Diary of Elder A.N. Sorensen

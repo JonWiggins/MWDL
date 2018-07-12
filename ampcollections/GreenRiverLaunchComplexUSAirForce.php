@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Green River Launch Complex, U.S. Air Force, AMP">
 <!-- Collection #1012 -->
 <!-- Collection Title -->
 <title>Green River Launch Complex, U.S. Air Force</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/GreenRiverUT.php">Green River (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bivouac Area at White Mesa near Blanding, Utah, Black Mesa"width="358" height ="282"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1012.jpg"alt="Bivouac Area at White Mesa near Blanding, Utah, Black Mesa"width="358" height ="282"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bivouac Area at White Mesa near Blanding, Utah, Black Mesa

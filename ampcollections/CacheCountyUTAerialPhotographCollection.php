@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cache County (UT) Aerial Photograph Collection, AMP">
 <!-- Collection #2165 -->
 <!-- Collection Title -->
 <title>Cache County (UT) Aerial Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial photographs covering an area from Lewiston and the Utah/Idaho border, 1959"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2165.jpg"alt="Aerial photographs covering an area from Lewiston and the Utah/Idaho border, 1959"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aerial photographs covering an area from Lewiston and the Utah/Idaho border, 1959

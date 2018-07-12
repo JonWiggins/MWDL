@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Daily Enquirer (Provo, UT) 1, AMP">
 <!-- Collection #1545 -->
 <!-- Collection Title -->
 <title>Daily Enquirer (Provo, UT) 1</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Daily Enquirer (Provo, UT) 2 collection"width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1545.jpg"alt="Daily Enquirer (Provo, UT) 2 collection"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Daily Enquirer (Provo, UT) 2 collection

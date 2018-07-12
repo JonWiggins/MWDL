@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Von Del Chamberlain Cultural Astronomy Collection, AMP">
 <!-- Collection #2420 -->
 <!-- Collection Title -->
 <title>Von Del Chamberlain Cultural Astronomy Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="British Isles - Scotland - Maeshowe sunset"width="250" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2420.jpg"alt="British Isles - Scotland - Maeshowe sunset"width="250" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 British Isles - Scotland - Maeshowe sunset

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Death Valley Region Photograph Collection, AMP">
 <!-- Collection #1138 -->
 <!-- Collection Title -->
 <title>Death Valley Region Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Twenty-mule train near Calico, California, 1905"width="338" height ="305"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1138.jpg"alt="Twenty-mule train near Calico, California, 1905"width="338" height ="305"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Twenty-mule train near Calico, California, 1905

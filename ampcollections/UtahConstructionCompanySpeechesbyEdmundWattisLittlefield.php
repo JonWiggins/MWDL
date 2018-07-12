@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company Speeches by Edmund Wattis Littlefield, AMP">
 <!-- Collection #1843 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Speeches by Edmund Wattis Littlefield</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Congratulatory Letters"width="336" height ="437"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1843.jpg"alt="Congratulatory Letters"width="336" height ="437"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Congratulatory Letters

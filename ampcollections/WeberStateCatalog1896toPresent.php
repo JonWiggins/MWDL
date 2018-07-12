@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State Catalog 1896 to Present, AMP">
 <!-- Collection #2023 -->
 <!-- Collection Title -->
 <title>Weber State Catalog 1896 to Present</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1996-1998 Weber State University Catalog"width="331" height ="439"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2023.jpg"alt="1996-1998 Weber State University Catalog"width="331" height ="439"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1996-1998 Weber State University Catalog

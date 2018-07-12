@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Council of Land Surveyors, AMP">
 <!-- Collection #1296 -->
 <!-- Collection Title -->
 <title>Utah Council of Land Surveyors</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahCouncilofLandSurveyors.php">Utah Council of Land Surveyors</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Utah-Wyoming Corner Monument"width="274" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1296.jpg"alt="The Utah-Wyoming Corner Monument"width="274" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Utah-Wyoming Corner Monument

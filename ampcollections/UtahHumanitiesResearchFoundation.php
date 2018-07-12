@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Humanities Research Foundation, AMP">
 <!-- Collection #2080 -->
 <!-- Collection Title -->
 <title>Utah Humanities Research Foundation</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Pen sketches of University of Utah Presidents"width="271" height ="349"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2080.jpg"alt="Pen sketches of University of Utah Presidents"width="271" height ="349"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Pen sketches of University of Utah Presidents

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="H. Grant Ivins Papers, AMP">
 <!-- Collection #2200 -->
 <!-- Collection Title -->
 <title>H. Grant Ivins Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2200.jpg"alt="<em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Grant Ivins diary, February 5, 1911 to July 8th 1911, No. 2</em>

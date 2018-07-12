@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Fire and Rescue Academy, AMP">
 <!-- Collection #1608 -->
 <!-- Collection Title -->
 <title>Utah Fire and Rescue Academy</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fire and Rescue Academy Logo"width="108" height ="109"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1608.jpg"alt="Fire and Rescue Academy Logo"width="108" height ="109"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fire and Rescue Academy Logo

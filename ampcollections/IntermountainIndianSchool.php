@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Intermountain Indian School, AMP">
 <!-- Collection #1612 -->
 <!-- Collection Title -->
 <title>Intermountain Indian School</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Boy sand painting"width="333" height ="292"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1612.jpg"alt="Boy sand painting"width="333" height ="292"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Boy sand painting

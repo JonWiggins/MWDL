@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Harry Bolam Saltair Photographs, AMP">
 <!-- Collection #2159 -->
 <!-- Collection Title -->
 <title>Harry Bolam Saltair Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Souvenir stand and arcade, remnant of 'Saltair Land.'"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2159.jpg"alt="Souvenir stand and arcade, remnant of 'Saltair Land.'"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Souvenir stand and arcade, remnant of 'Saltair Land.'

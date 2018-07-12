@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Civilization Learning Object Collection, AMP">
 <!-- Collection #1063 -->
 <!-- Collection Title -->
 <title>Civilization Learning Object Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Alexander the Great Coin"width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1063.jpg"alt="Alexander the Great Coin"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Alexander the Great Coin

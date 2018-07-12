@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="Frazier Augustus Boutelle photographs, c. 1865-1900">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/FrazierAugustusBoutellephotographsc18651900.php";

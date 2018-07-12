@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Saga of the Sanpitch, AMP">
 <!-- Collection #1035 -->
 <!-- Collection Title -->
 <title>Saga of the Sanpitch</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SnowCollegeLibraries.php">Snow College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Saga of the Sanpitch Vol 19"width="286" height ="419"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1035.jpg"alt="Saga of the Sanpitch Vol 19"width="286" height ="419"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Saga of the Sanpitch Vol 19

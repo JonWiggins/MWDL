@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="The Ridgway Brothers: Explorers, Scientists, and Illustrators, AMP">
 <!-- Collection #1142 -->
 <!-- Collection Title -->
 <title>The Ridgway Brothers: Explorers, Scientists, and Illustrators</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Drawing of two men in newspaper office"width="260" height ="358"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1142.jpg"alt="Drawing of two men in newspaper office"width="260" height ="358"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Drawing of two men in newspaper office

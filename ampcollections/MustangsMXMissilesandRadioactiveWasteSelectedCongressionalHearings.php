@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings, AMP">
 <!-- Collection #1829 -->
 <!-- Collection Title -->
 <title>Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Hearing on Wild Free-Roaming Horses and Burros Act"width="292" height ="474"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1829.jpg"alt="Hearing on Wild Free-Roaming Horses and Burros Act"width="292" height ="474"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Hearing on Wild Free-Roaming Horses and Burros Act

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Scholar's Archive - Folklore Projects, AMP">
 <!-- Collection #1924 -->
 <!-- Collection Title -->
 <title>Brigham Young University Scholar's Archive - Folklore Projects</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Holy War: BYU vs. Utah Rivalry"width="126" height ="183"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1924.jpg"alt="The Holy War: BYU vs. Utah Rivalry"width="126" height ="183"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Holy War: BYU vs. Utah Rivalry

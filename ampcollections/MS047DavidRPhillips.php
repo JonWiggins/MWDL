@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 047 David R. Phillips, AMP">
 <!-- Collection #2277 -->
 <!-- Collection Title -->
 <title>MS 047 David R. Phillips</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Seated portrait of William F. Cody</em>"width="250" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2277.jpg"alt="<em>Seated portrait of William F. Cody</em>"width="250" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Seated portrait of William F. Cody</em>

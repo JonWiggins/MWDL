@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Topaz Japanese-American Relocation Center Digital Collection, AMP">
 <!-- Collection #1136 -->
 <!-- Collection Title -->
 <title>Topaz Japanese-American Relocation Center Digital Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas"width="260" height ="358"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1136.jpg"alt="Executive Order 9066: authorizing the Secretary of War to prescribe military areas"width="260" height ="358"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Executive Order 9066: authorizing the Secretary of War to prescribe military areas

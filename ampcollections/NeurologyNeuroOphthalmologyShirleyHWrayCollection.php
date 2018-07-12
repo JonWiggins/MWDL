@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neurology/Neuro-Ophthalmology: Shirley H. Wray Collection, AMP">
 <!-- Collection #1049 -->
 <!-- Collection Title -->
 <title>Neurology/Neuro-Ophthalmology: Shirley H. Wray Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="MS Time Lapse MRI"width="258" height ="192"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1049.jpg"alt="MS Time Lapse MRI"width="258" height ="192"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 MS Time Lapse MRI

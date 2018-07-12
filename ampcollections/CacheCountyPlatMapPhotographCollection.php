@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cache County Plat Map Photograph Collection, AMP">
 <!-- Collection #2323 -->
 <!-- Collection Title -->
 <title>Cache County Plat Map Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Plat map of Clarkston including Plats A, B and farms. Created by county surveyor James H. Martineau in 1864 and 1874."width="250" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2320.jpg"alt="Plat map of Clarkston including Plats A, B and farms. Created by county surveyor James H. Martineau in 1864 and 1874."width="250" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Plat map of Clarkston including Plats A, B and farms. Created by county surveyor James H. Martineau in 1864 and 1874.

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cecil D. Andrus, AMP">
 <!-- Collection #2349 -->
 <!-- Collection Title -->
 <title>Cecil D. Andrus</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Portrait of Governor Cecil Andrus"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2349.jpg"alt="Portrait of Governor Cecil Andrus"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Portrait of Governor Cecil Andrus

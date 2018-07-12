@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Special Collections Miscellaneous, AMP">
 <!-- Collection #1539 -->
 <!-- Collection Title -->
 <title>Brigham Young University Special Collections Miscellaneous</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Robert Graves letters and photographs, 1943-1960"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1539.jpg"alt="Robert Graves letters and photographs, 1943-1960"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Robert Graves letters and photographs, 1943-1960

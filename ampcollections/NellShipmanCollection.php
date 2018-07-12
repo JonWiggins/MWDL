@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Nell Shipman Collection, AMP">
 <!-- Collection #2179 -->
 <!-- Collection Title -->
 <title>Nell Shipman Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Actress Nell Shipman 1892-1970"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2179.jpg"alt="Actress Nell Shipman 1892-1970"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Actress Nell Shipman 1892-1970

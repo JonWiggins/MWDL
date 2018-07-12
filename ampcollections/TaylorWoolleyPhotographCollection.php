@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Taylor Woolley Photograph Collection, AMP">
 <!-- Collection #1639 -->
 <!-- Collection Title -->
 <title>Taylor Woolley Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Office Gathering"width="374" height ="208"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1639.jpg"alt="Office Gathering"width="374" height ="208"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Office Gathering

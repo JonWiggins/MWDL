@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Division of Corporations incorporation case files index, 1981, AMP">
 <!-- Collection #1151 -->
 <!-- Collection Title -->
 <title>Utah Division of Corporations incorporation case files index, 1981</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Farm Bureau Case Files F-P"width="289" height ="375"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1151.jpg"alt="Farm Bureau Case Files F-P"width="289" height ="375"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Farm Bureau Case Files F-P

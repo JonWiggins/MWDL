@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Nevada in Maps, AMP">
 <!-- Collection #1126 -->
 <!-- Collection Title -->
 <title>Nevada in Maps</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Carson Sink 1910"width="300" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1126.jpg"alt="Carson Sink 1910"width="300" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Carson Sink 1910

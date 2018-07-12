@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Marcus Bach, AMP">
 <!-- Collection #1077 -->
 <!-- Collection Title -->
 <title>Marcus Bach</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Report to Protestants"width="361" height ="562"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1077.jpg"alt="Report to Protestants"width="361" height ="562"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Report to Protestants

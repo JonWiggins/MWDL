@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Beaver (UT) Murdock Academy Collection, AMP">
 <!-- Collection #1103 -->
 <!-- Collection Title -->
 <title>Beaver (UT) Murdock Academy Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Beaver Murdock Academy Drama Cast"width="370" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1103.jpg"alt="Beaver Murdock Academy Drama Cast"width="370" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Beaver Murdock Academy Drama Cast

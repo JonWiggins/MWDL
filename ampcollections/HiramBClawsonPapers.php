@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Hiram B. Clawson Papers, AMP">
 <!-- Collection #1898 -->
 <!-- Collection Title -->
 <title>Hiram B. Clawson Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890"width="232" height ="378"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1898.jpg"alt="Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890"width="232" height ="378"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Correspondence from Lucille Ardelle Clawson Cummings, 1882-1890

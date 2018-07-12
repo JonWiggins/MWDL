@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Dwellings in the Bosom of Emery County (UT), AMP">
 <!-- Collection #2171 -->
 <!-- Collection Title -->
 <title>Dwellings in the Bosom of Emery County (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/EmeryCountyUTPublicLibraryandEmeryCountyUTArchives.php">Emery County (UT) Public Library and Emery County (UT) Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anderson Hotel"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2171.jpg"alt="Anderson Hotel"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Anderson Hotel

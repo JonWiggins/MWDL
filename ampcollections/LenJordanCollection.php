@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Len Jordan Collection, AMP">
 <!-- Collection #2216 -->
 <!-- Collection Title -->
 <title>Len Jordan Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Republican candidates Len Jordan and Herman Welker campaigning, 1950"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2216.jpg"alt="Republican candidates Len Jordan and Herman Welker campaigning, 1950"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Republican candidates Len Jordan and Herman Welker campaigning, 1950

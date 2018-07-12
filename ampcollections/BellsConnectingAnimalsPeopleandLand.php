@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Bells: Connecting Animals, People, and Land, AMP">
 <!-- Collection #1560 -->
 <!-- Collection Title -->
 <title>Bells: Connecting Animals, People, and Land</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Medium-Sized Blum Bell"width="329" height ="301"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1560.jpg"alt="Medium-Sized Blum Bell"width="329" height ="301"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Medium-Sized Blum Bell

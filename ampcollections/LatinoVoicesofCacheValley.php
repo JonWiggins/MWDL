@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Latino Voices of Cache Valley, AMP">
 <!-- Collection #1229 -->
 <!-- Collection Title -->
 <title>Latino Voices of Cache Valley</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Old Ephraim monument and gravesite"width="341" height ="285"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1229.jpg"alt="Old Ephraim monument and gravesite"width="341" height ="285"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Old Ephraim monument and gravesite

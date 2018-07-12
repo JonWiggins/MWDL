@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Dixie National Forest (UT) Photographs, AMP">
 <!-- Collection #1108 -->
 <!-- Collection Title -->
 <title>Dixie National Forest (UT) Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/USForestServiceDixieNationalForest.php">U.S. Forest Service, Dixie National Forest</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Events: Fires -- Oak Creek fire"width="320" height ="233"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1108.jpg"alt="Events: Fires -- Oak Creek fire"width="320" height ="233"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Events: Fires -- Oak Creek fire

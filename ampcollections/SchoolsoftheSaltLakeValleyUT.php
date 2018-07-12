@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Schools of the Salt Lake Valley (UT), AMP">
 <!-- Collection #1191 -->
 <!-- Collection Title -->
 <title>Schools of the Salt Lake Valley (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Wasatch School"width="356" height ="209"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1191.jpg"alt="Wasatch School"width="356" height ="209"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Wasatch School

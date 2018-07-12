@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="History of Shelley (ID), AMP">
 <!-- Collection #1014 -->
 <!-- Collection Title -->
 <title>History of Shelley (ID)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/NorthBinghamCountyIDDistrictLibrary.php">North Bingham County (ID) District Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Shelley Public Library"width="363" height ="263"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1014.jpg"alt="Shelley Public Library"width="363" height ="263"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Shelley Public Library

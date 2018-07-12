@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cycling Utah, AMP">
 <!-- Collection #1642 -->
 <!-- Collection Title -->
 <title>Cycling Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cycling Utah Vol. 17, No. 7, 2009 September"width="218" height ="314"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1642.jpg"alt="Cycling Utah Vol. 17, No. 7, 2009 September"width="218" height ="314"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cycling Utah Vol. 17, No. 7, 2009 September

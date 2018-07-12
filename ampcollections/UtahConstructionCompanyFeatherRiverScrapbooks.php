@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company Feather River Scrapbooks, AMP">
 <!-- Collection #1849 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Feather River Scrapbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="029_June 1907"width="343" height ="251"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1849.jpg"alt="029_June 1907"width="343" height ="251"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 029_June 1907

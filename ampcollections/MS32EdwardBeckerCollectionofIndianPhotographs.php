@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 32 - Edward Becker Collection of Indian Photographs, AMP">
 <!-- Collection #2333 -->
 <!-- Collection Title -->
 <title>MS 32 - Edward Becker Collection of Indian Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Edward Becker Photograph Album Cover"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2333.jpg"alt="Edward Becker Photograph Album Cover"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Edward Becker Photograph Album Cover

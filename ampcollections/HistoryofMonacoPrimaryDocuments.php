@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="History of Monaco: Primary Documents, AMP">
 <!-- Collection #1922 -->
 <!-- Collection Title -->
 <title>History of Monaco: Primary Documents</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="EuroDocs: Online Sources for European History"width="234" height ="282"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1922.jpg"alt="EuroDocs: Online Sources for European History"width="234" height ="282"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 EuroDocs: Online Sources for European History

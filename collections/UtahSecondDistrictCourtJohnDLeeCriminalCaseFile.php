@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="Utah Second District Court John D. Lee Criminal Case File">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/UtahSecondDistrictCourtJohnDLeeCriminalCaseFile.php";

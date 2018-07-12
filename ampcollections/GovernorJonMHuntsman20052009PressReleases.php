@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Governor Jon M. Huntsman (2005-2009) Press Releases, AMP">
 <!-- Collection #2294 -->
 <!-- Collection Title -->
 <title>Governor Jon M. Huntsman (2005-2009) Press Releases</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>2005, Jan-Feb </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2294.jpg"alt="<em>2005, Jan-Feb </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>2005, Jan-Feb </em>

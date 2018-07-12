@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Sanpete County (Utah). County Clerk Death Register, AMP">
 <!-- Collection #1557 -->
 <!-- Collection Title -->
 <title>Sanpete County (Utah). County Clerk Death Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sanpete County Death Record"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1557.png"alt="Sanpete County Death Record"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Sanpete County Death Record

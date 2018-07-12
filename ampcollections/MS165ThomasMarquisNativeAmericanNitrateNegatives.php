@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 165 Thomas Marquis Native American Nitrate Negatives, AMP">
 <!-- Collection #2281 -->
 <!-- Collection Title -->
 <title>MS 165 Thomas Marquis Native American Nitrate Negatives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Richard Wooden Leg sitting with boy</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2281.jpg"alt="<em>Richard Wooden Leg sitting with boy</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Richard Wooden Leg sitting with boy</em>

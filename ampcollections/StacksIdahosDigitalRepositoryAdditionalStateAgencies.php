@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Stacks: Idaho's Digital Repository - Additional State Agencies, AMP">
 <!-- Collection #2107 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Additional State Agencies</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="State Highway System, 2004"width="250" height ="418"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2107.jpg"alt="State Highway System, 2004"width="250" height ="418"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 State Highway System, 2004

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Forest Ranger Daybooks of Aaron P. Christiansen, AMP">
 <!-- Collection #1789 -->
 <!-- Collection Title -->
 <title>Forest Ranger Daybooks of Aaron P. Christiansen</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917"width="371" height ="256"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1789.jpg"alt="Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917"width="371" height ="256"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aaron P. Christiansen Daybook 6, November, 1916 and January, 1917

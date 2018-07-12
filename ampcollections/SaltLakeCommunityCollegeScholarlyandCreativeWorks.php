@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Community College Scholarly and Creative Works, AMP">
 <!-- Collection #1605 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Scholarly and Creative Works</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Horizon literary journal"width="253" height ="256"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1605.jpg"alt="Horizon literary journal"width="253" height ="256"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Horizon literary journal

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Tahoe Resources, AMP">
 <!-- Collection #1128 -->
 <!-- Collection Title -->
 <title>Tahoe Resources</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="2005 Earth Day Celebrations to Continue Zero Waste Composting"width="300" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1128.jpg"alt="2005 Earth Day Celebrations to Continue Zero Waste Composting"width="300" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 2005 Earth Day Celebrations to Continue Zero Waste Composting

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frank Beckwith Collection, AMP">
 <!-- Collection #1006 -->
 <!-- Collection Title -->
 <title>Frank Beckwith Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DeltaUTCityLibrary.php">Delta (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Beckwith, Frank A"width="295" height ="425"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1006.jpg"alt="Beckwith, Frank A"width="295" height ="425"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Beckwith, Frank A

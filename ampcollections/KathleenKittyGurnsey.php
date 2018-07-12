@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Kathleen (Kitty) Gurnsey, AMP">
 <!-- Collection #2215 -->
 <!-- Collection Title -->
 <title>Kathleen (Kitty) Gurnsey</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Idaho State Representative Kathleen ""Kitty"" Gurnsey, ca 1980""width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2215.jpg"alt=""Idaho State Representative Kathleen ""Kitty"" Gurnsey, ca 1980""width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Idaho State Representative Kathleen ""Kitty"" Gurnsey, ca 1980"

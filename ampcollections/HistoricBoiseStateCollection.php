@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historic Boise State Collection, AMP">
 <!-- Collection #2177 -->
 <!-- Collection Title -->
 <title>Historic Boise State Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Back to School Dance"width="400" height ="232"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2177.jpg"alt="Back to School Dance"width="400" height ="232"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Back to School Dance

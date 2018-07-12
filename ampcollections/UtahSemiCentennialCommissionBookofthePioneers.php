@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Semi-Centennial Commission Book of the Pioneers, AMP">
 <!-- Collection #2287 -->
 <!-- Collection Title -->
 <title>Utah Semi-Centennial Commission Book of the Pioneers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em> Semi-Centennial Commission Book of the Pioneers </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2287.jpg"alt="<em> Semi-Centennial Commission Book of the Pioneers </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em> Semi-Centennial Commission Book of the Pioneers </em>

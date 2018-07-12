@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water, AMP">
 <!-- Collection #1630 -->
 <!-- Collection Title -->
 <title>Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fitts Park channel"width="376" height ="267"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1630.jpg"alt="Fitts Park channel"width="376" height ="267"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fitts Park channel

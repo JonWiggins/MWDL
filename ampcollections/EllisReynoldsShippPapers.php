@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ellis Reynolds Shipp Papers, AMP">
 <!-- Collection #2304 -->
 <!-- Collection Title -->
 <title>Ellis Reynolds Shipp Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Christmas Cards</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2304.jpg"alt="<em>Christmas Cards</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Christmas Cards</em>

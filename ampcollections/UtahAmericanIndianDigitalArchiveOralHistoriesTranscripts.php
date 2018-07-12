@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah American Indian Digital Archive: Oral Histories Transcripts, AMP">
 <!-- Collection #1299 -->
 <!-- Collection Title -->
 <title>Utah American Indian Digital Archive: Oral Histories Transcripts</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahAmericanWestCenter.php">University of Utah - American West Center</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="OEO Legal Services. Recorded by Floyd O'Neil in Denver, Colorado. Dorisduke 1044"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1299.jpg"alt="OEO Legal Services. Recorded by Floyd O'Neil in Denver, Colorado. Dorisduke 1044"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 OEO Legal Services. Recorded by Floyd O'Neil in Denver, Colorado. Dorisduke 1044

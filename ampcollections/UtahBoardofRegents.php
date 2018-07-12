@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Board of Regents, AMP">
 <!-- Collection #1223 -->
 <!-- Collection Title -->
 <title>Utah Board of Regents</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Minutes for the Utah State Board of Regents, June 4, 1969"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1223.jpg"alt="Minutes for the Utah State Board of Regents, June 4, 1969"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Minutes for the Utah State Board of Regents, June 4, 1969

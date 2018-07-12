@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Pioneer Costume Research Project, AMP">
 <!-- Collection #2081 -->
 <!-- Collection Title -->
 <title>Utah Pioneer Costume Research Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Pioneer Costume and Manners Research Project: index of counties and towns"width="375" height ="306"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2081.jpg"alt="Utah Pioneer Costume and Manners Research Project: index of counties and towns"width="375" height ="306"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah Pioneer Costume and Manners Research Project: index of counties and towns

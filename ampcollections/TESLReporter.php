@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="TESL Reporter, AMP">
 <!-- Collection #1092 -->
 <!-- Collection Title -->
 <title>TESL Reporter</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol 28 No 2 TESL Reporter"width="250" height ="384"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1092.jpg"alt="Vol 28 No 2 TESL Reporter"width="250" height ="384"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Vol 28 No 2 TESL Reporter

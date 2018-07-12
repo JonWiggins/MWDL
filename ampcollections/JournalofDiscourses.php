@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Journal of Discourses, AMP">
 <!-- Collection #1073 -->
 <!-- Collection Title -->
 <title>Journal of Discourses</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol. 22 Journal of Discourses"width="326" height ="528"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1073.jpg"alt="Vol. 22 Journal of Discourses"width="326" height ="528"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Vol. 22 Journal of Discourses

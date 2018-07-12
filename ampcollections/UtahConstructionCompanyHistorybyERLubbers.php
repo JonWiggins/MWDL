@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company History by E. R. Lubbers, AMP">
 <!-- Collection #1842 -->
 <!-- Collection Title -->
 <title>Utah Construction Company History by E. R. Lubbers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1965"width="346" height ="448"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1842.jpg"alt="1965"width="346" height ="448"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1965

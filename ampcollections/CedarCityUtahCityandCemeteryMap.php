@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cedar City (Utah) City and Cemetery Map, AMP">
 <!-- Collection #2286 -->
 <!-- Collection Title -->
 <title>Cedar City (Utah) City and Cemetery Map</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Cedar City & Cemetery Map, 1902 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2286.jpg"alt="<em>Cedar City & Cemetery Map, 1902 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Cedar City & Cemetery Map, 1902 </em>

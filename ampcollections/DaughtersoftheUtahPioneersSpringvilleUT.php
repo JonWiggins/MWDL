@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Daughters of the Utah Pioneers, Springville (UT), AMP">
 <!-- Collection #1541 -->
 <!-- Collection Title -->
 <title>Daughters of the Utah Pioneers, Springville (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DaughtersoftheUtahPioneersSpringvilleUT.php">Daughters of the Utah Pioneers, Springville (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Motto """"He Leadeth Me"""" ""width="369" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1541.jpg"alt=""Motto """"He Leadeth Me"""" ""width="369" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Motto """"He Leadeth Me"""" "

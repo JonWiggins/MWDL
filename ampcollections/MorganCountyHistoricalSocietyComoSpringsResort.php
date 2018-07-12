@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Morgan County Historical Society Como Springs Resort, AMP">
 <!-- Collection #2155 -->
 <!-- Collection Title -->
 <title>Morgan County Historical Society Como Springs Resort</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/MorganCountyUTHistoricalSocietyandMorganCountyUTPublicLibrary.php">Morgan County (UT) Historical Society and Morgan County (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1940 Como Springs Resort"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2155.jpg"alt="1940 Como Springs Resort"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1940 Como Springs Resort

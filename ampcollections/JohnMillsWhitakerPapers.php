@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Mills Whitaker Papers, AMP">
 <!-- Collection #1872 -->
 <!-- Collection Title -->
 <title>John Mills Whitaker Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Correspondence between John Mills Whitaker and others, 1898-1899"width="383" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1872.jpg"alt="Correspondence between John Mills Whitaker and others, 1898-1899"width="383" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Correspondence between John Mills Whitaker and others, 1898-1899

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="History of Science, AMP">
 <!-- Collection #1228 -->
 <!-- Collection Title -->
 <title>History of Science</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Thunder 2 at Nye Beach"width="203" height ="308"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1228.jpg"alt="Thunder 2 at Nye Beach"width="203" height ="308"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Thunder 2 at Nye Beach

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cloward Collection of Western American Art, AMP">
 <!-- Collection #2027 -->
 <!-- Collection Title -->
 <title>Cloward Collection of Western American Art</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Eagle Boy, by Stan Johnson"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2027.jpg"alt="Eagle Boy, by Stan Johnson"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Eagle Boy, by Stan Johnson

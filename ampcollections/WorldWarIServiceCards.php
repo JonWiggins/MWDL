@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="World War I Service Cards, AMP">
 <!-- Collection #1857 -->
 <!-- Collection Title -->
 <title>World War I Service Cards</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="LaFon, James draft card"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1857.jpg"alt="LaFon, James draft card"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 LaFon, James draft card

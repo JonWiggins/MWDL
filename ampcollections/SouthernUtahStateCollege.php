@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southern Utah State College, AMP">
 <!-- Collection #1260 -->
 <!-- Collection Title -->
 <title>Southern Utah State College</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="2 men and 2 girls outdoors"width="353" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1260.jpg"alt="2 men and 2 girls outdoors"width="353" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 2 men and 2 girls outdoors

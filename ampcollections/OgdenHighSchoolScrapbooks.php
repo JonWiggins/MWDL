@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden High School Scrapbooks, AMP">
 <!-- Collection #2341 -->
 <!-- Collection Title -->
 <title>Ogden High School Scrapbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1908-1937 Florence Zimmerman Ogden High School Scrapbook"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2341.jpg"alt="1908-1937 Florence Zimmerman Ogden High School Scrapbook"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1908-1937 Florence Zimmerman Ogden High School Scrapbook

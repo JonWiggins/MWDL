@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Rare Books Collection, AMP">
 <!-- Collection #1327 -->
 <!-- Collection Title -->
 <title>University of Utah Rare Books Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="256" height ="344"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1327.jpg"alt=""width="256" height ="344"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

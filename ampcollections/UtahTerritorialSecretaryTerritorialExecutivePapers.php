@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Territorial Secretary Territorial Executive Papers, AMP">
 <!-- Collection #2288 -->
 <!-- Collection Title -->
 <title>Utah Territorial Secretary Territorial Executive Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2288.jpg"alt="<em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Territorial Secretary Territorial Executive Papers, 1849-1896 </em>

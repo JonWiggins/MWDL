@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Walter S. Bowman (1865-1938) photographs, 1880s-1920s, AMP">
 <!-- Collection #2264 -->
 <!-- Collection Title -->
 <title>Walter S. Bowman (1865-1938) photographs, 1880s-1920s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Interior view of William S. Bowman's commercial studio."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2264.jpg"alt="Interior view of William S. Bowman's commercial studio."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Interior view of William S. Bowman's commercial studio.

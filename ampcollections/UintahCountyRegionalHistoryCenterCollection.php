@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Uintah County Regional History Center Collection, AMP">
 <!-- Collection #1029 -->
 <!-- Collection Title -->
 <title>Uintah County Regional History Center Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UintahCountyUTLibrary.php">Uintah County (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ron Stewart along with many other children march in the Children's Day Parade"width="380" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1029.jpg"alt="Ron Stewart along with many other children march in the Children's Day Parade"width="380" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ron Stewart along with many other children march in the Children's Day Parade

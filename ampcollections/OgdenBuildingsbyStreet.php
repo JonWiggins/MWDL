@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden Buildings by Street, AMP">
 <!-- Collection #2014 -->
 <!-- Collection Title -->
 <title>Ogden Buildings by Street</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="281 3rd Street"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2014.jpg"alt="281 3rd Street"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 281 3rd Street

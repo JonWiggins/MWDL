@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historic Postcards of Utah, AMP">
 <!-- Collection #2029 -->
 <!-- Collection Title -->
 <title>Historic Postcards of Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Postcard of ""Utah - The Beehive State""""width="370" height ="236"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2029.jpg"alt=""Postcard of ""Utah - The Beehive State""""width="370" height ="236"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Postcard of ""Utah - The Beehive State"""

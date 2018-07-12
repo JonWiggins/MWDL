@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Peoples of Utah, AMP">
 <!-- Collection #1254 -->
 <!-- Collection Title -->
 <title>Peoples of Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial view of Autobahn"width="335" height ="267"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1254.jpg"alt="Aerial view of Autobahn"width="335" height ="267"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aerial view of Autobahn

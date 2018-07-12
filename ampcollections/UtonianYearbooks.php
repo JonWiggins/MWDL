@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utonian Yearbooks, AMP">
 <!-- Collection #1176 -->
 <!-- Collection Title -->
 <title>Utonian Yearbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1907 Utonian"width="323" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1176.jpg"alt="1907 Utonian"width="323" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1907 Utonian

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Las Vegas and Water in the West, AMP">
 <!-- Collection #1203 -->
 <!-- Collection Title -->
 <title>Las Vegas and Water in the West</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cement plant -- Hoover Dam site"width="387" height ="297"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1203.jpg"alt="Cement plant -- Hoover Dam site"width="387" height ="297"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cement plant -- Hoover Dam site

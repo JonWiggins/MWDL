@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: Randy H. Kardon Collection, AMP">
 <!-- Collection #1187 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Randy H. Kardon Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Irregular Pupil"width="196" height ="153"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1187.jpg"alt="Irregular Pupil"width="196" height ="153"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Irregular Pupil

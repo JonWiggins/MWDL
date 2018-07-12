@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Religious Studies Center, AMP">
 <!-- Collection #1215 -->
 <!-- Collection Title -->
 <title>Religious Studies Center</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="View of the Hebrews"width="179" height ="134"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1215.jpg"alt="View of the Hebrews"width="179" height ="134"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 View of the Hebrews

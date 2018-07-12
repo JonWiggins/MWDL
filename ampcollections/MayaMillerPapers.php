@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Maya Miller Papers, AMP">
 <!-- Collection #2300 -->
 <!-- Collection Title -->
 <title>Maya Miller Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2300.jpg"alt="<em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Advertising flier for Maya Miller's U.S. Senate Campaign, 1974</em>

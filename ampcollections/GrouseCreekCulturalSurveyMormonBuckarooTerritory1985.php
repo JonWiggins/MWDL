@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985, AMP">
 <!-- Collection #1141 -->
 <!-- Collection Title -->
 <title>Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Reese Warburton feeding cows"width="203" height ="308"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1141.jpg"alt="Reese Warburton feeding cows"width="203" height ="308"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Reese Warburton feeding cows

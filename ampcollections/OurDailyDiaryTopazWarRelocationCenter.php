@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Our Daily Diary, Topaz War Relocation Center, AMP">
 <!-- Collection #2303 -->
 <!-- Collection Title -->
 <title>Our Daily Diary, Topaz War Relocation Center</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Our Daily Diary</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2303.jpg"alt="<em>Our Daily Diary</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Our Daily Diary</em>

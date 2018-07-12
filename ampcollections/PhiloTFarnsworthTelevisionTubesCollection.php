@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Philo T. Farnsworth Television Tubes Collection, AMP">
 <!-- Collection #1190 -->
 <!-- Collection Title -->
 <title>Philo T. Farnsworth Television Tubes Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="cathode ray tube"width="165" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1190.jpg"alt="cathode ray tube"width="165" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 cathode ray tube

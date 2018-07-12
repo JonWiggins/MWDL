@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Fire Service History Digital Archive, AMP">
 <!-- Collection #1954 -->
 <!-- Collection Title -->
 <title>Utah Fire Service History Digital Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Enterprise Volunteer Fire Department's American LaFrance"width="230" height ="153"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1954.jpg"alt="Enterprise Volunteer Fire Department's American LaFrance"width="230" height ="153"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Enterprise Volunteer Fire Department's American LaFrance

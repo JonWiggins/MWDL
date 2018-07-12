@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Homer Jones Photographs, AMP">
 <!-- Collection #1164 -->
 <!-- Collection Title -->
 <title>Homer Jones Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bryce Canyon"width="367" height ="252"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1164.jpg"alt="Bryce Canyon"width="367" height ="252"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bryce Canyon

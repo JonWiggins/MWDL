@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="The White and Blue, AMP">
 <!-- Collection #1540 -->
 <!-- Collection Title -->
 <title>The White and Blue</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversity.php">Brigham Young University</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="White and Blue 1919-01-15 vol. 22 no. 3"width="322" height ="457"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1540.jpg"alt="White and Blue 1919-01-15 vol. 22 no. 3"width="322" height ="457"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 White and Blue 1919-01-15 vol. 22 no. 3

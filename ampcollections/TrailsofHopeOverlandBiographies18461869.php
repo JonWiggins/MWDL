@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Trails of Hope: Overland Biographies 1846-1869, AMP">
 <!-- Collection #1054 -->
 <!-- Collection Title -->
 <title>Trails of Hope: Overland Biographies 1846-1869</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fairbanks, John Boylston 1817–1875"width="381" height ="112"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1054.jpg"alt="Fairbanks, John Boylston 1817–1875"width="381" height ="112"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fairbanks, John Boylston 1817–1875

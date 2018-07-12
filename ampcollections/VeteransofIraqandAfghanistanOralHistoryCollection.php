@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Veterans of Iraq and Afghanistan Oral History Collection, AMP">
 <!-- Collection #2118 -->
 <!-- Collection Title -->
 <title>Veterans of Iraq and Afghanistan Oral History Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Joseph Cornell"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2118.jpg"alt="Joseph Cornell"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Joseph Cornell

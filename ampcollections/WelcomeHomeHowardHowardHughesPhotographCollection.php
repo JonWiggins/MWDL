@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Welcome Home, Howard! (Howard Hughes Photograph Collection), AMP">
 <!-- Collection #1261 -->
 <!-- Collection Title -->
 <title>Welcome Home, Howard! (Howard Hughes Photograph Collection)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Henri Lanciaux in uniform"width="316" height ="402"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1261.jpg"alt="Henri Lanciaux in uniform"width="316" height ="402"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Henri Lanciaux in uniform

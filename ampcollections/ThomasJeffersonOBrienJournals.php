@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Thomas Jefferson O'Brien Journals, AMP">
 <!-- Collection #2226 -->
 <!-- Collection Title -->
 <title>Thomas Jefferson O'Brien Journals</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Thomas Jefferson O'Brien journal commencing Nov. 7 1893</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2226.jpg"alt="<em>Thomas Jefferson O'Brien journal commencing Nov. 7 1893</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Thomas Jefferson O'Brien journal commencing Nov. 7 1893</em>

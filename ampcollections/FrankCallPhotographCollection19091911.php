@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frank Call Photograph Collection, 1909-1911, AMP">
 <!-- Collection #1236 -->
 <!-- Collection Title -->
 <title>Frank Call Photograph Collection, 1909-1911</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ships"width="380" height ="325"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1236.jpg"alt="Ships"width="380" height ="325"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ships

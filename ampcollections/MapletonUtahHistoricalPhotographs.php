@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mapleton, Utah Historical Photographs, AMP">
 <!-- Collection #2331 -->
 <!-- Collection Title -->
 <title>Mapleton, Utah Historical Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Wiscombe, Joe, hauling peas"width="500" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2331.jpg"alt="Wiscombe, Joe, hauling peas"width="500" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Wiscombe, Joe, hauling peas

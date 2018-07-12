@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Chicano Scholarship Archive, AMP">
 <!-- Collection #2091 -->
 <!-- Collection Title -->
 <title>Chicano Scholarship Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Chicano/a Scholarship 2012"width="350" height ="197"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2091.jpg"alt="Chicano/a Scholarship 2012"width="350" height ="197"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Chicano/a Scholarship 2012

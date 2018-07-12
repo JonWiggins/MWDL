@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="J. Clayton Tullis Utah State Capitol Collection, AMP">
 <!-- Collection #2158 -->
 <!-- Collection Title -->
 <title>J. Clayton Tullis Utah State Capitol Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Greetings from Utah' postcard copy"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2158.jpg"alt="Greetings from Utah' postcard copy"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Greetings from Utah' postcard copy

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State University Statesman Photograph Collection, AMP">
 <!-- Collection #2430 -->
 <!-- Collection Title -->
 <title>Utah State University Statesman Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah State University Statesman Photograph Collection"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2430.jpg"alt="Utah State University Statesman Photograph Collection"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah State University Statesman Photograph Collection

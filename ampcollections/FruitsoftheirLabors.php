@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Fruits of their Labors, AMP">
 <!-- Collection #1925 -->
 <!-- Collection Title -->
 <title>Fruits of their Labors</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Oral history interview with Ray Allred"width="300" height ="205"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1925.jpg"alt="Oral history interview with Ray Allred"width="300" height ="205"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Oral history interview with Ray Allred

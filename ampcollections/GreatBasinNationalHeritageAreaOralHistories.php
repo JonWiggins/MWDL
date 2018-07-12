@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Great Basin National Heritage Area Oral Histories, AMP">
 <!-- Collection #1312 -->
 <!-- Collection Title -->
 <title>Great Basin National Heritage Area Oral Histories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/GreatBasinNationalHeritagePartnership.php">Great Basin National Heritage Partnership</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="384" height ="184"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1312.jpg"alt=""width="384" height ="184"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

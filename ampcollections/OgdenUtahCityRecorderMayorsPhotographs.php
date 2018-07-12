@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden (Utah) City Recorder Mayors Photographs, AMP">
 <!-- Collection #2293 -->
 <!-- Collection Title -->
 <title>Ogden (Utah) City Recorder Mayors Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>John A. Boyle (1898-1899) </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2293.jpg"alt="<em>John A. Boyle (1898-1899) </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>John A. Boyle (1898-1899) </em>

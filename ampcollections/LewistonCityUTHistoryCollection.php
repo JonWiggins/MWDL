@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lewiston City (UT) History Collection, AMP">
 <!-- Collection #2163 -->
 <!-- Collection Title -->
 <title>Lewiston City (UT) History Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/LewistonCityUTPublicLibrary.php">Lewiston City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fourth of July celebration, Lewiston (Utah)"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2163.jpg"alt="Fourth of July celebration, Lewiston (Utah)"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fourth of July celebration, Lewiston (Utah)

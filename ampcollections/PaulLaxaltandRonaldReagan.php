@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Paul Laxalt and Ronald Reagan, AMP">
 <!-- Collection #2301 -->
 <!-- Collection Title -->
 <title>Paul Laxalt and Ronald Reagan</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Photograph of Paul Laxalt and Ronald Reagan, 1979 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2301.jpg"alt="<em>Photograph of Paul Laxalt and Ronald Reagan, 1979 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Photograph of Paul Laxalt and Ronald Reagan, 1979 </em>

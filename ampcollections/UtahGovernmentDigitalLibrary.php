@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Government Digital Library, AMP">
 <!-- Collection #1559 -->
 <!-- Collection Title -->
 <title>Utah Government Digital Library</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateLibrary.php">Utah State Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Alpine annexation map"width="306" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1559.jpg"alt="Alpine annexation map"width="306" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Alpine annexation map

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: AZ vs. CA, AMP">
 <!-- Collection #1177 -->
 <!-- Collection Title -->
 <title>Western Waters: AZ vs. CA</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="AZ vs. CA:03 California Exhibits"width="262" height ="392"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1177.jpg"alt="AZ vs. CA:03 California Exhibits"width="262" height ="392"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 AZ vs. CA:03 California Exhibits

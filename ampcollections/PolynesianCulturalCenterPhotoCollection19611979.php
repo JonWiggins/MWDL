@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Polynesian Cultural Center Photo Collection, 1961-1979, AMP">
 <!-- Collection #1238 -->
 <!-- Collection Title -->
 <title>Polynesian Cultural Center Photo Collection, 1961-1979</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A view of the Hawaiian village from across the lagoon."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1238.jpg"alt="A view of the Hawaiian village from across the lagoon."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A view of the Hawaiian village from across the lagoon.

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Health Sciences Photograph Collection, AMP">
 <!-- Collection #1188 -->
 <!-- Collection Title -->
 <title>University of Utah Health Sciences Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial Photograph of Medical Center Campus"width="379" height ="295"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1188.jpg"alt="Aerial Photograph of Medical Center Campus"width="379" height ="295"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aerial Photograph of Medical Center Campus

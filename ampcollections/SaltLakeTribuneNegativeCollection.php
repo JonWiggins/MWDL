@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Tribune Negative Collection, AMP">
 <!-- Collection #2229 -->
 <!-- Collection Title -->
 <title>Salt Lake Tribune Negative Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="September 1948 Parade- Horses"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2229.jpg"alt="September 1948 Parade- Horses"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 September 1948 Parade- Horses

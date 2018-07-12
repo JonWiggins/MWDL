@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Encoded Archival Description (EAD) Finding Aids, AMP">
 <!-- Collection #1253 -->
 <!-- Collection Title -->
 <title>University of Utah Encoded Archival Description (EAD) Finding Aids</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1st West and Center"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1253.jpg"alt="1st West and Center"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1st West and Center

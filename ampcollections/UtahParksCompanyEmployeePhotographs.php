@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Parks Company Employee Photographs, AMP">
 <!-- Collection #1105 -->
 <!-- Collection Title -->
 <title>Utah Parks Company Employee Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Penstock damage"width="378" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1105.jpg"alt="Penstock damage"width="378" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Penstock damage

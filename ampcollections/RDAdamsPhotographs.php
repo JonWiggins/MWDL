@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="R. D. Adams Photographs, AMP">
 <!-- Collection #1114 -->
 <!-- Collection Title -->
 <title>R. D. Adams Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial view of farm"width="346" height ="227"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1114.jpg"alt="Aerial view of farm"width="346" height ="227"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aerial view of farm

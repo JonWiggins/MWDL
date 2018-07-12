@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State University Student Newspapers, AMP">
 <!-- Collection #1271 -->
 <!-- Collection Title -->
 <title>Weber State University Student Newspapers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The surgical management of Graves' orbitopathy"width="256" height ="341"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1271.jpg"alt="The surgical management of Graves' orbitopathy"width="256" height ="341"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The surgical management of Graves' orbitopathy

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lee Moorhouse Photographs, AMP">
 <!-- Collection #2414 -->
 <!-- Collection Title -->
 <title>Lee Moorhouse Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A black-and-white photograph of a Native American man, identified as Alexander, Yakima Indian"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2414.jpg"alt="A black-and-white photograph of a Native American man, identified as Alexander, Yakima Indian"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A black-and-white photograph of a Native American man, identified as Alexander, Yakima Indian

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids, AMP">
 <!-- Collection #1256 -->
 <!-- Collection Title -->
 <title>Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Le May De Paris Av Roy"width="225" height ="225"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1564.jpg"alt="Le May De Paris Av Roy"width="225" height ="225"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Le May De Paris Av Roy

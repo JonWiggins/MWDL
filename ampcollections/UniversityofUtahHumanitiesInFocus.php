@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Humanities In Focus, AMP">
 <!-- Collection #2106 -->
 <!-- Collection Title -->
 <title>University of Utah Humanities In Focus</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Artivism: how one community combined art and activism to revitalize hearts and minds"width="300" height ="225"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2106.jpg"alt="Artivism: how one community combined art and activism to revitalize hearts and minds"width="300" height ="225"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Artivism: how one community combined art and activism to revitalize hearts and minds

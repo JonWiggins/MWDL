@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Revised Statutes 1933, AMP">
 <!-- Collection #1303 -->
 <!-- Collection Title -->
 <title>Utah Revised Statutes 1933</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="90" height ="120"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1303.jpg"alt=""width="90" height ="120"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Folklorists Image Collection, AMP">
 <!-- Collection #1561 -->
 <!-- Collection Title -->
 <title>Utah Folklorists Image Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Craig Miller"width="365" height ="334"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1561.jpg"alt="Craig Miller"width="365" height ="334"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Craig Miller

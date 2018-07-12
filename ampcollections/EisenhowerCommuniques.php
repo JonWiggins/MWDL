@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Eisenhower Communiques, AMP">
 <!-- Collection #1066 -->
 <!-- Collection Title -->
 <title>Eisenhower Communiques</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="113-145, August 1944"width="376" height ="224"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1066.jpg"alt="113-145, August 1944"width="376" height ="224"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 113-145, August 1944

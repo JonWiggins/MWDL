@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Convention to Ratify the 21st Amendment (1933) Administrative Records, AMP">
 <!-- Collection #1881 -->
 <!-- Collection Title -->
 <title>Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Proceedings reports"width="307" height ="399"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1881.jpg"alt="Proceedings reports"width="307" height ="399"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Proceedings reports

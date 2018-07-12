@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cookery and Culture, AMP">
 <!-- Collection #1262 -->
 <!-- Collection Title -->
 <title>Cookery and Culture</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1882-05-04 À sa mère To his mother"width="236" height ="348"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1262.jpg"alt="1882-05-04 À sa mère To his mother"width="236" height ="348"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1882-05-04 À sa mère To his mother

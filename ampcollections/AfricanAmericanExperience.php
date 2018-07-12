@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="African American Experience, AMP">
 <!-- Collection #1941 -->
 <!-- Collection Title -->
 <title>African American Experience</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Film negatives of a talent show winner at the Carver House, April 4, 1962"width="289" height ="285"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1941.jpg"alt="Film negatives of a talent show winner at the Carver House, April 4, 1962"width="289" height ="285"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Film negatives of a talent show winner at the Carver House, April 4, 1962

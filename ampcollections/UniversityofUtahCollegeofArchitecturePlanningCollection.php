@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah College of Architecture + Planning Collection, AMP">
 <!-- Collection #1325 -->
 <!-- Collection Title -->
 <title>University of Utah College of Architecture + Planning Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahCollegeofArchitectureandPlanning.php">University of Utah - College of Architecture and Planning</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="College of Architecture & Planning Building"width="312" height ="211"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1325.jpg"alt="College of Architecture & Planning Building"width="312" height ="211"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 College of Architecture & Planning Building

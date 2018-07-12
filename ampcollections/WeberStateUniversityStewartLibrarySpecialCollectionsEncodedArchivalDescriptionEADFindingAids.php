@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids, AMP">
 <!-- Collection #1272 -->
 <!-- Collection Title -->
 <title>Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Penlight-cover Test"width="120" height ="90"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1272.jpg"alt="Penlight-cover Test"width="120" height ="90"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Penlight-cover Test

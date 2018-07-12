@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Park City (UT) Historical Society and Museum Collection, AMP">
 <!-- Collection #1158 -->
 <!-- Collection Title -->
 <title>Park City (UT) Historical Society and Museum Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp.php">Park City (UT) Historical Society &amp</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="American Flag Mine"width="270" height ="305"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1158.jpg"alt="American Flag Mine"width="270" height ="305"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 American Flag Mine

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Valley University Faculty Collection, AMP">
 <!-- Collection #1274 -->
 <!-- Collection Title -->
 <title>Utah Valley University Faculty Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Brigham Young University ""Y"" logo.""width="113" height ="151"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1274.jpg"alt=""Brigham Young University ""Y"" logo.""width="113" height ="151"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Brigham Young University ""Y"" logo."

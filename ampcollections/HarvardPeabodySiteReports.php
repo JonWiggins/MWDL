@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Harvard Peabody Site Reports, AMP">
 <!-- Collection #2466 -->
 <!-- Collection Title -->
 <title>Harvard Peabody Site Reports</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sherds and Metates in Corner of Room 100A"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2466.jpg"alt="Sherds and Metates in Corner of Room 100A"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Sherds and Metates in Corner of Room 100A

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State Oral History Project, AMP">
 <!-- Collection #1863 -->
 <!-- Collection Title -->
 <title>Weber State Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Belnap, O_OH3_012"width="307" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1863.jpg"alt="Belnap, O_OH3_012"width="307" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Belnap, O_OH3_012

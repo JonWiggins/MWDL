@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Life Story Library Collection, AMP">
 <!-- Collection #2147 -->
 <!-- Collection Title -->
 <title>Life Story Library Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/LifeStoryLibraryFoundation.php">Life Story Library Foundation</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Camp Wolters Photo"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2147.jpg"alt="Camp Wolters Photo"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Camp Wolters Photo

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Arborglyphs on Peavine, AMP">
 <!-- Collection #1825 -->
 <!-- Collection Title -->
 <title>Arborglyphs on Peavine</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Carving on a Tree"width="358" height ="242"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1825.jpg"alt="Carving on a Tree"width="358" height ="242"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Carving on a Tree

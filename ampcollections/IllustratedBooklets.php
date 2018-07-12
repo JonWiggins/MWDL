@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Illustrated Booklets, AMP">
 <!-- Collection #2417 -->
 <!-- Collection Title -->
 <title>Illustrated Booklets</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/OregonStateUniversityLibraries.php">Oregon State University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="College and State, January 1923"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2417.jpg"alt="College and State, January 1923"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 College and State, January 1923

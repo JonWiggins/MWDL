@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="C. L. Andrews photographs, 1880s-1948, AMP">
 <!-- Collection #2256 -->
 <!-- Collection Title -->
 <title>C. L. Andrews photographs, 1880s-1948</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Two men at a glacial crevasse"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2256.jpg"alt="Two men at a glacial crevasse"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Two men at a glacial crevasse

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Academic Library Consortium Archives, AMP">
 <!-- Collection #1196 -->
 <!-- Collection Title -->
 <title>Utah Academic Library Consortium Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahAcademicLibraryConsortium.php">Utah Academic Library Consortium</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Annual Report. Utah College Library Council. 1983-1984"width="375" height ="596"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1196.jpg"alt="Annual Report. Utah College Library Council. 1983-1984"width="375" height ="596"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Annual Report. Utah College Library Council. 1983-1984

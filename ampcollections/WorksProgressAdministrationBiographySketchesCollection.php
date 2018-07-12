@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Works Progress Administration Biography Sketches Collection, AMP">
 <!-- Collection #2306 -->
 <!-- Collection Title -->
 <title>Works Progress Administration Biography Sketches Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="fountain Hotel and Leather Pool"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2306.jpg"alt="fountain Hotel and Leather Pool"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 fountain Hotel and Leather Pool

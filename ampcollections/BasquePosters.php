@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Basque Posters, AMP">
 <!-- Collection #1124 -->
 <!-- Collection Title -->
 <title>Basque Posters</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Hendaye Poster"width="182" height ="120"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1124.jpg"alt="Hendaye Poster"width="182" height ="120"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Hendaye Poster

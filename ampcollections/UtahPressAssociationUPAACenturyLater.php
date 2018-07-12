@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Press Association: UPA - A Century Later, AMP">
 <!-- Collection #1175 -->
 <!-- Collection Title -->
 <title>Utah Press Association: UPA - A Century Later</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="UPA A Century Later"width="256" height ="344"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1175.jpg"alt="UPA A Century Later"width="256" height ="344"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 UPA A Century Later

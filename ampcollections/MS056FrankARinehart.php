@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 056 Frank A. Rinehart, AMP">
 <!-- Collection #2279 -->
 <!-- Collection Title -->
 <title>MS 056 Frank A. Rinehart</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Chief Revenger Crow</em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2279.jpg"alt="<em>Chief Revenger Crow</em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Chief Revenger Crow</em>

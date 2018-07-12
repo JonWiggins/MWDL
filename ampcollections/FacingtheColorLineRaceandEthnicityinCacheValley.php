@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Facing the Color Line: Race and Ethnicity in Cache Valley, AMP">
 <!-- Collection #1140 -->
 <!-- Collection Title -->
 <title>Facing the Color Line: Race and Ethnicity in Cache Valley</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Editorial Research Reports - Mixed Marriage"width="229" height ="366"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1140.jpg"alt="Editorial Research Reports - Mixed Marriage"width="229" height ="366"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Editorial Research Reports - Mixed Marriage

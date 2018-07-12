@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Electronic University Archive, AMP">
 <!-- Collection #1231 -->
 <!-- Collection Title -->
 <title>University of Utah Electronic University Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Chronic Myelogenous Leukemia (annotated)"width="251" height ="410"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1231.jpg"alt="Chronic Myelogenous Leukemia (annotated)"width="251" height ="410"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Chronic Myelogenous Leukemia (annotated)

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Trails of Hope: Overland Maps 1846-1869, AMP">
 <!-- Collection #1076 -->
 <!-- Collection Title -->
 <title>Trails of Hope: Overland Maps 1846-1869</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1860 Map exhibiting the routes between Fort Dalles and the Great Salt Lake"width="354" height ="264"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1076.jpg"alt="1860 Map exhibiting the routes between Fort Dalles and the Great Salt Lake"width="354" height ="264"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1860 Map exhibiting the routes between Fort Dalles and the Great Salt Lake

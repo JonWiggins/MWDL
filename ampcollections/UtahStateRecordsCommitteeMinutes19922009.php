@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State Records Committee. Minutes, 1992-2009, AMP">
 <!-- Collection #1629 -->
 <!-- Collection Title -->
 <title>Utah State Records Committee. Minutes, 1992-2009</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="January 2009 Minutes"width="277" height ="371"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1629.jpg"alt="January 2009 Minutes"width="277" height ="371"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 January 2009 Minutes

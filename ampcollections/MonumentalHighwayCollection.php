@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Monumental Highway Collection, AMP">
 <!-- Collection #2075 -->
 <!-- Collection Title -->
 <title>Monumental Highway Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Dolph Andrus's Monumental Highway Expeditions Digital Exhibit"width="380" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2075.jpg"alt="Dolph Andrus's Monumental Highway Expeditions Digital Exhibit"width="380" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Dolph Andrus's Monumental Highway Expeditions Digital Exhibit

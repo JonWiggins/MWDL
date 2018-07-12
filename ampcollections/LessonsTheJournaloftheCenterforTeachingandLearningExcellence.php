@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lessons: The Journal of the Center for Teaching and Learning Excellence, AMP">
 <!-- Collection #1017 -->
 <!-- Collection Title -->
 <title>Lessons: The Journal of the Center for Teaching and Learning Excellence</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Lessons Volume Eight Number 1 Fall 2006"width="319" height ="413"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1017.jpg"alt="Lessons Volume Eight Number 1 Fall 2006"width="319" height ="413"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Lessons Volume Eight Number 1 Fall 2006

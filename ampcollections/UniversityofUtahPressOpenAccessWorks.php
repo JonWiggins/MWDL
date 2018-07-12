@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Press Open Access Works, AMP">
 <!-- Collection #1637 -->
 <!-- Collection Title -->
 <title>University of Utah Press Open Access Works</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahUniversityPress.php">University of Utah - University Press</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Foragers and Farmers of the Northern Kayenta Region"width="319" height ="469"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1637.jpg"alt="Foragers and Farmers of the Northern Kayenta Region"width="319" height ="469"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Foragers and Farmers of the Northern Kayenta Region

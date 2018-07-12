@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Hinckley Journal of Politics, AMP">
 <!-- Collection #1222 -->
 <!-- Collection Title -->
 <title>Hinckley Journal of Politics</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Hinckley Journal of Politics vol 6"width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1222.jpg"alt="Hinckley Journal of Politics vol 6"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Hinckley Journal of Politics vol 6

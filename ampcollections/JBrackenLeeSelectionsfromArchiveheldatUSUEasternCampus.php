@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="J. Bracken Lee: Selections from Archive held at USU Eastern Campus, AMP">
 <!-- Collection #1790 -->
 <!-- Collection Title -->
 <title>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972"width="320" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1790.jpg"alt="Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972"width="320" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 1972

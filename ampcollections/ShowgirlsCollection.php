@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Showgirls Collection, AMP">
 <!-- Collection #1201 -->
 <!-- Collection Title -->
 <title>Showgirls Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Group portrait of Jean Devlyn Dancers"width="336" height ="267"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1201.jpg"alt="Group portrait of Jean Devlyn Dancers"width="336" height ="267"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Group portrait of Jean Devlyn Dancers

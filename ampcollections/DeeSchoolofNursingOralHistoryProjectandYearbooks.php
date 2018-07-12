@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Dee School of Nursing: Oral History Project and Yearbooks, AMP">
 <!-- Collection #1212 -->
 <!-- Collection Title -->
 <title>Dee School of Nursing: Oral History Project and Yearbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1929 The Dee Annual"width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1212.jpg"alt="1929 The Dee Annual"width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1929 The Dee Annual

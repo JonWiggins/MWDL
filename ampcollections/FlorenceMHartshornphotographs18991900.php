@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Florence M. Hartshorn photographs, 1899-1900, AMP">
 <!-- Collection #2254 -->
 <!-- Collection Title -->
 <title>Florence M. Hartshorn photographs, 1899-1900</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mr. Hartshorn, Hazel Hartshorn, and another child at the entrance of a mine."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2254.jpg"alt="Mr. Hartshorn, Hazel Hartshorn, and another child at the entrance of a mine."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mr. Hartshorn, Hazel Hartshorn, and another child at the entrance of a mine.

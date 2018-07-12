@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="European Performance Arts (1600-1899), AMP">
 <!-- Collection #1170 -->
 <!-- Collection Title -->
 <title>European Performance Arts (1600-1899)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="La Danse"width="286" height ="412"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1170.jpg"alt="La Danse"width="286" height ="412"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 La Danse

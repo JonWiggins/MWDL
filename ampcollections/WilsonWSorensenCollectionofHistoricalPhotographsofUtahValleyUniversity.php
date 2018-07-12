@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University, AMP">
 <!-- Collection #1277 -->
 <!-- Collection Title -->
 <title>Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="410" height ="326"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1277.jpg"alt=""width="410" height ="326"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

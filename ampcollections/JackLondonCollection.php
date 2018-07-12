@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Jack London Collection, AMP">
 <!-- Collection #2030 -->
 <!-- Collection Title -->
 <title>Jack London Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="this link"width="247" height ="316"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2030.jpg"alt="this link"width="247" height ="316"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 this link

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Charles R. Savage Photographs 2, AMP">
 <!-- Collection #1060 -->
 <!-- Collection Title -->
 <title>Charles R. Savage Photographs 2</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Charles R. Savage Photographs 1"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1060.jpg"alt="Charles R. Savage Photographs 1"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Charles R. Savage Photographs 1

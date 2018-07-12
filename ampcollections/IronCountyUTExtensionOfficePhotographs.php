@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Iron County (UT) Extension Office Photographs, AMP">
 <!-- Collection #1259 -->
 <!-- Collection Title -->
 <title>Iron County (UT) Extension Office Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Andantino pour harpe ou piano-forte"width="370" height ="199"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1259.jpg"alt="Andantino pour harpe ou piano-forte"width="370" height ="199"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Andantino pour harpe ou piano-forte

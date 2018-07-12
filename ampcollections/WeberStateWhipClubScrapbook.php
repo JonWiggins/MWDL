@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State Whip Club Scrapbook, AMP">
 <!-- Collection #2015 -->
 <!-- Collection Title -->
 <title>Weber State Whip Club Scrapbook</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Front Content"width="231" height ="296"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2015.jpg"alt="Front Content"width="231" height ="296"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Front Content

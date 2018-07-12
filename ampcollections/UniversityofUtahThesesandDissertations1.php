@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Theses and Dissertations 1, AMP">
 <!-- Collection #1249 -->
 <!-- Collection Title -->
 <title>University of Utah Theses and Dissertations 1</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1971 Acorn"width="319" height ="469"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1249.jpg"alt="1971 Acorn"width="319" height ="469"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1971 Acorn

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Second District Court Weber County Index to Civil Actions, AMP">
 <!-- Collection #2440 -->
 <!-- Collection Title -->
 <title>Second District Court Weber County Index to Civil Actions</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Second District Court Weber County Index to Civil Actions"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2440.jpg"alt="Second District Court Weber County Index to Civil Actions"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Second District Court Weber County Index to Civil Actions

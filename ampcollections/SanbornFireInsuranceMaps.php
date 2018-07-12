@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Sanborn Fire Insurance Maps, AMP">
 <!-- Collection #1173 -->
 <!-- Collection Title -->
 <title>Sanborn Fire Insurance Maps</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Salt Lake City, 1889: Key map"width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1173.jpg"alt="Salt Lake City, 1889: Key map"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Salt Lake City, 1889: Key map

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Documents, AMP">
 <!-- Collection #1043 -->
 <!-- Collection Title -->
 <title>Western Waters: Documents</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Upper Colorado Region Comprehensive Framework Study"width="300" height ="423"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1043.jpg"alt="Upper Colorado Region Comprehensive Framework Study"width="300" height ="423"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Upper Colorado Region Comprehensive Framework Study

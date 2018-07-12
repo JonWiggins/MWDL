@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region, AMP">
 <!-- Collection #1131 -->
 <!-- Collection Title -->
 <title>Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bitter Cherry (Prunus emarginata - Rosaceae)"width="300" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1131.jpg"alt="Bitter Cherry (Prunus emarginata - Rosaceae)"width="300" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bitter Cherry (Prunus emarginata - Rosaceae)

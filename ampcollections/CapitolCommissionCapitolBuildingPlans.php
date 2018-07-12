@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Capitol Commission Capitol Building Plans, AMP">
 <!-- Collection #2441 -->
 <!-- Collection Title -->
 <title>Capitol Commission Capitol Building Plans</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Capitol Commission Capitol Building Plans: First Floor Framing Plans"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2441.jpg"alt="Capitol Commission Capitol Building Plans: First Floor Framing Plans"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Capitol Commission Capitol Building Plans: First Floor Framing Plans

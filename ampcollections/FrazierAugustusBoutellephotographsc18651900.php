@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frazier Augustus Boutelle photographs, c. 1865-1900, AMP">
 <!-- Collection #2265 -->
 <!-- Collection Title -->
 <title>Frazier Augustus Boutelle photographs, c. 1865-1900</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Group at the Great Fountain, Sept. 20, 1890. [Two men and two women on horseback."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2265.jpg"alt="Group at the Great Fountain, Sept. 20, 1890. [Two men and two women on horseback."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Group at the Great Fountain, Sept. 20, 1890. [Two men and two women on horseback.

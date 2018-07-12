@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frontier Homestead State Park (Cedar City, UT) Photographs, AMP">
 <!-- Collection #1301 -->
 <!-- Collection Title -->
 <title>Frontier Homestead State Park (Cedar City, UT) Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/FrontierHomesteadStateParkCedarCityUT.php">Frontier Homestead State Park (Cedar City, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="249" height ="366"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1301.jpg"alt=""width="249" height ="366"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

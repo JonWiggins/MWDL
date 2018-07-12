@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Boise (ID) Development Collection, AMP">
 <!-- Collection #2180 -->
 <!-- Collection Title -->
 <title>Boise (ID) Development Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning and Development Committee."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2180.jpg"alt="Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning and Development Committee."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Recommendations for revitalizing downtown Boise made by the Urban Lands Institute Panel, commissioned by the City of Boise Planning and Development Committee.

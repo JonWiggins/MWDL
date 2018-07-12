@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Provo (UT) City Library Historical Photographs, AMP">
 <!-- Collection #1298 -->
 <!-- Collection Title -->
 <title>Provo (UT) City Library Historical Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/ProvoUTCityLibrary.php">Provo (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="356" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1298.jpg"alt=""width="356" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

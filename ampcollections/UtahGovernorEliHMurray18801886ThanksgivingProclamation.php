@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation, AMP">
 <!-- Collection #1880 -->
 <!-- Collection Title -->
 <title>Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Proclamation, 1884"width="307" height ="399"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1880.jpg"alt="Proclamation, 1884"width="307" height ="399"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Proclamation, 1884

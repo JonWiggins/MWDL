@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historical American Fork (UT), AMP">
 <!-- Collection #2148 -->
 <!-- Collection Title -->
 <title>Historical American Fork (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2148.jpg"alt="Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Main Street American Fork, Utah, Looking toward Mount Timpanogos, 1957

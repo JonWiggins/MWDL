@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Clifford Bray Photographs, AMP">
 <!-- Collection #1526 -->
 <!-- Collection Title -->
 <title>Clifford Bray Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Car in Front of Gus. F. Koehler Co., Aug. 1935"width="306" height ="235"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1526.jpg"alt="Car in Front of Gus. F. Koehler Co., Aug. 1935"width="306" height ="235"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Car in Front of Gus. F. Koehler Co., Aug. 1935

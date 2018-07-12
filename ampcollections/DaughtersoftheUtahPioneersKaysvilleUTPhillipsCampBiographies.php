@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies, AMP">
 <!-- Collection #1895 -->
 <!-- Collection Title -->
 <title>Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Souvenir Dedicatory Program, Davis Stake, Kaysville Fourth-Fifth Ward Chapel"width="276" height ="358"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1895.jpg"alt="Souvenir Dedicatory Program, Davis Stake, Kaysville Fourth-Fifth Ward Chapel"width="276" height ="358"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Souvenir Dedicatory Program, Davis Stake, Kaysville Fourth-Fifth Ward Chapel

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southern Nevada and Las Vegas History in Maps, AMP">
 <!-- Collection #1202 -->
 <!-- Collection Title -->
 <title>Southern Nevada and Las Vegas History in Maps</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Maps of flood-prone areas in Las Vegas"width="287" height ="342"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1202.jpg"alt="Maps of flood-prone areas in Las Vegas"width="287" height ="342"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Maps of flood-prone areas in Las Vegas

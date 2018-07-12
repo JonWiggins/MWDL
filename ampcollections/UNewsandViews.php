@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="U-News and Views, AMP">
 <!-- Collection #1224 -->
 <!-- Collection Title -->
 <title>U-News and Views</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Black and white photograph of W. W. Sorensen standing at a pulpit."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1224.jpg"alt="Black and white photograph of W. W. Sorensen standing at a pulpit."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Black and white photograph of W. W. Sorensen standing at a pulpit.

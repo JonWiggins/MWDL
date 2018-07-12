@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lyman Wilbur Afghanistan, AMP">
 <!-- Collection #2217 -->
 <!-- Collection Title -->
 <title>Lyman Wilbur Afghanistan</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Lyman and Henrietta Wilbur"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2217.jpg"alt="Lyman and Henrietta Wilbur"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Lyman and Henrietta Wilbur

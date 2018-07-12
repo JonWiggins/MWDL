@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Commissioner of Indian War Records Indian War Service Affidavits, AMP">
 <!-- Collection #1601 -->
 <!-- Collection Title -->
 <title>Commissioner of Indian War Records Indian War Service Affidavits</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Affidavit Concerning Service in Indian Wars"width="327" height ="553"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1601.jpg"alt="Affidavit Concerning Service in Indian Wars"width="327" height ="553"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Affidavit Concerning Service in Indian Wars

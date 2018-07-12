@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Legislature. House of Representatives Working Bills, 1896-1989, AMP">
 <!-- Collection #2032 -->
 <!-- Collection Title -->
 <title>Utah Legislature. House of Representatives Working Bills, 1896-1989</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Petition from 1897"width="350" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1210.jpg"alt="Petition from 1897"width="350" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Petition from 1897

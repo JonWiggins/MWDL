@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 166 - William F. Cody Divorce Proceedings, AMP">
 <!-- Collection #2336 -->
 <!-- Collection Title -->
 <title>MS 166 - William F. Cody Divorce Proceedings</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Transcript of proceedings at the trial 1"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2336.png"alt="Transcript of proceedings at the trial 1"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Transcript of proceedings at the trial 1

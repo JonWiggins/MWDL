@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cache Valley Diaries, AMP">
 <!-- Collection #1786 -->
 <!-- Collection Title -->
 <title>Cache Valley Diaries</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cache Valley Diaries"width="357" height ="286"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1786.jpg"alt="Cache Valley Diaries"width="357" height ="286"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cache Valley Diaries

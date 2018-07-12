@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Dialogue: A Journal of Mormon Thought, AMP">
 <!-- Collection #1007 -->
 <!-- Collection Title -->
 <title>Dialogue: A Journal of Mormon Thought</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DialogueFoundation.php">Dialogue Foundation</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Veiled Woman with her Child"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1007.jpg"alt="Veiled Woman with her Child"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Veiled Woman with her Child

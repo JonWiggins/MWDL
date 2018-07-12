@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ben Lomond High School Scrapbooks, AMP">
 <!-- Collection #2338 -->
 <!-- Collection Title -->
 <title>Ben Lomond High School Scrapbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cover of 1953-1954 Ben Lomond High School Scrapbook"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2338.jpg"alt="Cover of 1953-1954 Ben Lomond High School Scrapbook"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cover of 1953-1954 Ben Lomond High School Scrapbook

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Thorne Photograph Collection, AMP">
 <!-- Collection #1030 -->
 <!-- Collection Title -->
 <title>Thorne Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UintahCountyUTLibrary.php">Uintah County (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Indian musicians play for the Bear Dance"width="386" height ="221"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1030.jpg"alt="Indian musicians play for the Bear Dance"width="386" height ="221"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Indian musicians play for the Bear Dance

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Sanpete County (Utah). County Clerk Birth Register, AMP">
 <!-- Collection #1600 -->
 <!-- Collection Title -->
 <title>Sanpete County (Utah). County Clerk Birth Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sanpete County Birth Record"width="333" height ="333"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1600.png"alt="Sanpete County Birth Record"width="333" height ="333"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Sanpete County Birth Record

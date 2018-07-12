@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="William R. Palmer Photographs, AMP">
 <!-- Collection #1113 -->
 <!-- Collection Title -->
 <title>William R. Palmer Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Courthouse, St. George, Washington County, Utah"width="238" height ="365"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1113.jpg"alt="Courthouse, St. George, Washington County, Utah"width="238" height ="365"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Courthouse, St. George, Washington County, Utah

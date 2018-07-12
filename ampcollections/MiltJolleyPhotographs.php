@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Milt Jolley Photographs, AMP">
 <!-- Collection #1839 -->
 <!-- Collection Title -->
 <title>Milt Jolley Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ranchers sitting on a fence"width="381" height ="297"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1839.jpg"alt="Ranchers sitting on a fence"width="381" height ="297"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ranchers sitting on a fence

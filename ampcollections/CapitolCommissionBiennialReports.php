@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Capitol Commission Biennial Reports, AMP">
 <!-- Collection #2446 -->
 <!-- Collection Title -->
 <title>Capitol Commission Biennial Reports</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Capitol Commission Biennial Reports"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2446.jpg"alt="Capitol Commission Biennial Reports"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Capitol Commission Biennial Reports

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Westminster College Photograph Collection, AMP">
 <!-- Collection #1010 -->
 <!-- Collection Title -->
 <title>Westminster College Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WestminsterCollegeGiovaleLibrary.php">Westminster College - Giovale Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Westminster College Football Squad"width="361" height ="270"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1010.jpg"alt="Westminster College Football Squad"width="361" height ="270"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Westminster College Football Squad

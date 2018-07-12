@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966, AMP">
 <!-- Collection #1624 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Plan of Organization"width="277" height ="360"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1624.jpg"alt="Plan of Organization"width="277" height ="360"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Plan of Organization

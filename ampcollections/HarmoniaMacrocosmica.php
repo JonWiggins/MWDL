@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Harmonia Macrocosmica, AMP">
 <!-- Collection #1013 -->
 <!-- Collection Title -->
 <title>Harmonia Macrocosmica</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ptolemy's view of the universe"width="233" height ="370"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1013.jpg"alt="Ptolemy's view of the universe"width="233" height ="370"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ptolemy's view of the universe

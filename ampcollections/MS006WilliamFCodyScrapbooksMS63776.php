@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.3776, AMP">
 <!-- Collection #2411 -->
 <!-- Collection Title -->
 <title>MS 006 William F. Cody Scrapbooks MS6.3776</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Buffalo Bill's Wild West Scrapbook of Germany"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2411.jpg"alt="Buffalo Bill's Wild West Scrapbook of Germany"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Buffalo Bill's Wild West Scrapbook of Germany

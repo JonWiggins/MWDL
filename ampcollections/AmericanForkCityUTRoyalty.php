@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="American Fork City (UT) Royalty, AMP">
 <!-- Collection #2134 -->
 <!-- Collection Title -->
 <title>American Fork City (UT) Royalty</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Esther Pulley, Poultry Days Queen 1929"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2134.jpg"alt="Esther Pulley, Poultry Days Queen 1929"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Esther Pulley, Poultry Days Queen 1929

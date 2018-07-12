@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Tanner Trust Book Collection, AMP">
 <!-- Collection #1027 -->
 <!-- Collection Title -->
 <title>Tanner Trust Book Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A Biography of Ezra Thompson Clark"width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1027.jpg"alt="A Biography of Ezra Thompson Clark"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A Biography of Ezra Thompson Clark

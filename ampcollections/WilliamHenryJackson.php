@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="William Henry Jackson, AMP">
 <!-- Collection #1098 -->
 <!-- Collection Title -->
 <title>William Henry Jackson</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Along the North Platte River, Oregon Trail"width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1098.jpg"alt="Along the North Platte River, Oregon Trail"width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Along the North Platte River, Oregon Trail

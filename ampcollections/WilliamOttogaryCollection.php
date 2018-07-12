@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="William Ottogary Collection, AMP">
 <!-- Collection #2431 -->
 <!-- Collection Title -->
 <title>William Ottogary Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="William Ottogary Collection"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2431.jpg"alt="William Ottogary Collection"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 William Ottogary Collection

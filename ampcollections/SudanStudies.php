@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Sudan Studies, AMP">
 <!-- Collection #1091 -->
 <!-- Collection Title -->
 <title>Sudan Studies</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sudan Studies Association Newsletter Vol. 22 No.1 (April 2003)"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1091.jpg"alt="Sudan Studies Association Newsletter Vol. 22 No.1 (April 2003)"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Sudan Studies Association Newsletter Vol. 22 No.1 (April 2003)

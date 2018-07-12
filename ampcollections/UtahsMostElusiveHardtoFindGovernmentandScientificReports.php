@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah's Most Elusive: Hard-to-Find Government and Scientific Reports, AMP">
 <!-- Collection #1139 -->
 <!-- Collection Title -->
 <title>Utah's Most Elusive: Hard-to-Find Government and Scientific Reports</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Interstate 15 through the Bear River Valley"width="337" height ="299"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1139.jpg"alt="Interstate 15 through the Bear River Valley"width="337" height ="299"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Interstate 15 through the Bear River Valley

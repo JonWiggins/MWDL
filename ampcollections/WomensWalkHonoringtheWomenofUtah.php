@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Women's Walk: Honoring the Women of Utah, AMP">
 <!-- Collection #1955 -->
 <!-- Collection Title -->
 <title>Women's Walk: Honoring the Women of Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Doris Okerlund Judd"width="120" height ="120"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1955.jpg"alt="Doris Okerlund Judd"width="120" height ="120"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Doris Okerlund Judd

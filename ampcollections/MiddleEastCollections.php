@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Middle East Collections, AMP">
 <!-- Collection #1172 -->
 <!-- Collection Title -->
 <title>Middle East Collections</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bukharah Qur'an"width="320" height ="449"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1172.jpg"alt="Bukharah Qur'an"width="320" height ="449"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bukharah Qur'an

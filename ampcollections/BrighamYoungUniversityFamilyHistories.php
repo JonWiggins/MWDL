@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Family Histories, AMP">
 <!-- Collection #1923 -->
 <!-- Collection Title -->
 <title>Brigham Young University Family Histories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The John and Inger Sward Johnson family"width="384" height ="262"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1923.jpg"alt="The John and Inger Sward Johnson family"width="384" height ="262"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The John and Inger Sward Johnson family

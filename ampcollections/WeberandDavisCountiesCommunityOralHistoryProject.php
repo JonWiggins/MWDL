@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber and Davis Counties Community Oral History Project, AMP">
 <!-- Collection #2016 -->
 <!-- Collection Title -->
 <title>Weber and Davis Counties Community Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anderson, Edward"width="302" height ="341"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2016.jpg"alt="Anderson, Edward"width="302" height ="341"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Anderson, Edward

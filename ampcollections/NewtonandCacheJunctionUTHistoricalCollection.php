@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Newton and Cache Junction (UT) Historical Collection, AMP">
 <!-- Collection #2164 -->
 <!-- Collection Title -->
 <title>Newton and Cache Junction (UT) Historical Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/NewtonTownUTLibrary.php">Newton Town (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Horse Teams working on the old reservoir (1871-1946)"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2164.jpg"alt="Horse Teams working on the old reservoir (1871-1946)"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Horse Teams working on the old reservoir (1871-1946)

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Capitol Commission Newspaper Clippings, AMP">
 <!-- Collection #2443 -->
 <!-- Collection Title -->
 <title>Capitol Commission Newspaper Clippings</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Capitol Commission Newspaper Clippings, ""What Governor Spry Says about the Proposition to Build a Capitol""width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2443.jpg"alt=""Capitol Commission Newspaper Clippings, ""What Governor Spry Says about the Proposition to Build a Capitol""width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Capitol Commission Newspaper Clippings, ""What Governor Spry Says about the Proposition to Build a Capitol"

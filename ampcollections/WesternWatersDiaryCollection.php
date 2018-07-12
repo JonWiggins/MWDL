@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Diary Collection, AMP">
 <!-- Collection #1042 -->
 <!-- Collection Title -->
 <title>Western Waters: Diary Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Diary of the Galloway/Stone Expedition"width="265" height ="342"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1042.jpg"alt="Diary of the Galloway/Stone Expedition"width="265" height ="342"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Diary of the Galloway/Stone Expedition

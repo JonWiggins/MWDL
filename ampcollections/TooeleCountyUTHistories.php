@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Tooele County (UT) Histories, AMP">
 <!-- Collection #1636 -->
 <!-- Collection Title -->
 <title>Tooele County (UT) Histories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/TooeleUTCityLibrary.php">Tooele (UT) City Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Early Tooele A Documented Chronology"width="286" height ="419"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1636.jpg"alt="Early Tooele A Documented Chronology"width="286" height ="419"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Early Tooele A Documented Chronology

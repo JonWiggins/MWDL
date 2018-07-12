@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="World War II Photographs by J. Malan Heslop, AMP">
 <!-- Collection #1315 -->
 <!-- Collection Title -->
 <title>World War II Photographs by J. Malan Heslop</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1315.jpg"alt=""width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

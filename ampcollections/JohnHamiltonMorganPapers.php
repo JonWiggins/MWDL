@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Hamilton Morgan Papers, AMP">
 <!-- Collection #1901 -->
 <!-- Collection Title -->
 <title>John Hamilton Morgan Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Miscellaneous biography research material about John Hamilton Morgan, Part 2"width="186" height ="284"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1901.jpg"alt="Miscellaneous biography research material about John Hamilton Morgan, Part 2"width="186" height ="284"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Miscellaneous biography research material about John Hamilton Morgan, Part 2

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Community College Audiovisual Archives, AMP">
 <!-- Collection #2112 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Audiovisual Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Promotional Video for Utah Technical College"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2112.jpg"alt="Promotional Video for Utah Technical College"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Promotional Video for Utah Technical College

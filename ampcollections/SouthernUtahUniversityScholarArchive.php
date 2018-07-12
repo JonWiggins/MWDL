@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southern Utah University Scholar Archive, AMP">
 <!-- Collection #1868 -->
 <!-- Collection Title -->
 <title>Southern Utah University Scholar Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons""""width="326" height ="423"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1868.gif"alt=""Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons""""width="326" height ="423"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "Thesis from Southern Utah University Scholar Archive: ""Ubuntu: A person is a person through other persons"""

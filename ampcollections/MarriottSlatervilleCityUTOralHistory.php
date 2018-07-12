@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Marriott-Slaterville City (UT) Oral History, AMP">
 <!-- Collection #1844 -->
 <!-- Collection Title -->
 <title>Marriott-Slaterville City (UT) Oral History</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Autobiography of Ida Marriot Kyle"width="333" height ="430"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1844.jpg"alt="Autobiography of Ida Marriot Kyle"width="333" height ="430"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Autobiography of Ida Marriot Kyle

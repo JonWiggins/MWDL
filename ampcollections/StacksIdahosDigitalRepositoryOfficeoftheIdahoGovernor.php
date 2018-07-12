@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Stacks: Idaho's Digital Repository - Office of the Idaho Governor, AMP">
 <!-- Collection #2142 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Office of the Idaho Governor</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Idaho Children's Trust Fund publication"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2142.jpg"alt="Idaho Children's Trust Fund publication"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Idaho Children's Trust Fund publication

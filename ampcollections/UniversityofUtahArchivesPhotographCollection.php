@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Archives Photograph Collection, AMP">
 <!-- Collection #1032 -->
 <!-- Collection Title -->
 <title>University of Utah Archives Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Volleyball Fd 04 #043"width="321" height ="468"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1032.jpg"alt="Volleyball Fd 04 #043"width="321" height ="468"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Volleyball Fd 04 #043

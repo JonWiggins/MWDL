@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State Historical Society World War Military Listings, AMP">
 <!-- Collection #2434 -->
 <!-- Collection Title -->
 <title>Utah State Historical Society World War Military Listings</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Partial list of Utah Army Boys killed in World War 2 up to and including November 19, 1942."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2434.jpg"alt="Partial list of Utah Army Boys killed in World War 2 up to and including November 19, 1942."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Partial list of Utah Army Boys killed in World War 2 up to and including November 19, 1942.

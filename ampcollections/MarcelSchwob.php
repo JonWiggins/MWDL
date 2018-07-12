@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Marcel Schwob, AMP">
 <!-- Collection #1323 -->
 <!-- Collection Title -->
 <title>Marcel Schwob</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="359" height ="194"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1323.jpg"alt=""width="359" height ="194"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

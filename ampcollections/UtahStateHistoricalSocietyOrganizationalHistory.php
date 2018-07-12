@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State Historical Society Organizational History, AMP">
 <!-- Collection #2436 -->
 <!-- Collection Title -->
 <title>Utah State Historical Society Organizational History</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""""Call to Organize"" July 15, 1897""width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2436.jpg"alt=""""Call to Organize"" July 15, 1897""width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 """Call to Organize"" July 15, 1897"

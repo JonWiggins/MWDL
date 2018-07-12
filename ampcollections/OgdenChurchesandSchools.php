@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden Churches and Schools, AMP">
 <!-- Collection #1244 -->
 <!-- Collection Title -->
 <title>Ogden Churches and Schools</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Henry Rolapp to David Eccles_Personal"width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1244.jpg"alt="Henry Rolapp to David Eccles_Personal"width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Henry Rolapp to David Eccles_Personal

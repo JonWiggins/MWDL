@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="American Folklore Society Papers, AMP">
 <!-- Collection #2422 -->
 <!-- Collection Title -->
 <title>American Folklore Society Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="American Folklore Society Papers"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2422.jpg"alt="American Folklore Society Papers"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 American Folklore Society Papers

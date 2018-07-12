@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Cache County (Utah) Birth Register, AMP">
 <!-- Collection #2435 -->
 <!-- Collection Title -->
 <title>Cache County (Utah) Birth Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Partial of Register of Births for Cache County Pg.1"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2435.jpg"alt="Partial of Register of Births for Cache County Pg.1"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Partial of Register of Births for Cache County Pg.1

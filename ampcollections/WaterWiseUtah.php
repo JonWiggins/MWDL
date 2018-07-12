@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Water Wise Utah, AMP">
 <!-- Collection #1232 -->
 <!-- Collection Title -->
 <title>Water Wise Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="U-News & Views June 2007"width="353" height ="263"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1232.jpg"alt="U-News & Views June 2007"width="353" height ="263"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 U-News & Views June 2007

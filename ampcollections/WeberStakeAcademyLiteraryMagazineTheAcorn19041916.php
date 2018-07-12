@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber Stake Academy Literary Magazine The Acorn 1904-1916, AMP">
 <!-- Collection #2021 -->
 <!-- Collection Title -->
 <title>Weber Stake Academy Literary Magazine The Acorn 1904-1916</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1904 The Acorn Vol. 2 No. 2 December"width="234" height ="340"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2021.jpg"alt="1904 The Acorn Vol. 2 No. 2 December"width="234" height ="340"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1904 The Acorn Vol. 2 No. 2 December

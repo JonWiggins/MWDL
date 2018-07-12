@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Land Use-Transportation Scenario Planning, AMP">
 <!-- Collection #1009 -->
 <!-- Collection Title -->
 <title>Land Use-Transportation Scenario Planning</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Comprehensive Growth Policy Study"width="337" height ="296"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1009.jpg"alt="Comprehensive Growth Policy Study"width="337" height ="296"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Comprehensive Growth Policy Study

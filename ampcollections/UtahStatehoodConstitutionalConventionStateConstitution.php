@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Statehood Constitutional Convention State Constitution, AMP">
 <!-- Collection #1619 -->
 <!-- Collection Title -->
 <title>Utah Statehood Constitutional Convention State Constitution</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="State Constitution"width="268" height ="432"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1619.jpg"alt="State Constitution"width="268" height ="432"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 State Constitution

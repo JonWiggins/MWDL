@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Marriage and Families, AMP">
 <!-- Collection #1079 -->
 <!-- Collection Title -->
 <title>Marriage and Families</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="No. 12 (Spring 2004) Marriage & Families"width="263" height ="340"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1079.jpg"alt="No. 12 (Spring 2004) Marriage & Families"width="263" height ="340"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 No. 12 (Spring 2004) Marriage & Families

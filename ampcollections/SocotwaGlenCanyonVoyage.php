@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Socotwa, Glen Canyon Voyage, AMP">
 <!-- Collection #1110 -->
 <!-- Collection Title -->
 <title>Socotwa, Glen Canyon Voyage</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mountain view"width="348" height ="344"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1110.jpg"alt="Mountain view"width="348" height ="344"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mountain view

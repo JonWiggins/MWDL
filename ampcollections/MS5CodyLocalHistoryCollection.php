@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 5 - Cody Local History Collection, AMP">
 <!-- Collection #2337 -->
 <!-- Collection Title -->
 <title>MS 5 - Cody Local History Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Taxi Service 1907 </em>"width="375" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2337.jpg"alt="<em>Taxi Service 1907 </em>"width="375" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Taxi Service 1907 </em>

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden (Utah) Police Arrest and Jail Record Books, AMP">
 <!-- Collection #2448 -->
 <!-- Collection Title -->
 <title>Ogden (Utah) Police Arrest and Jail Record Books</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ogden (Utah) Police Arrest and Jail Record Books"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2448.jpg"alt="Ogden (Utah) Police Arrest and Jail Record Books"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ogden (Utah) Police Arrest and Jail Record Books

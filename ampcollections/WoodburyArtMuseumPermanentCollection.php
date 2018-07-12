@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Woodbury Art Museum Permanent Collection, AMP">
 <!-- Collection #2419 -->
 <!-- Collection Title -->
 <title>Woodbury Art Museum Permanent Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Painting of Badlands National Park in South Dakota."width="250" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2419.jpg"alt="Painting of Badlands National Park in South Dakota."width="250" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Painting of Badlands National Park in South Dakota.

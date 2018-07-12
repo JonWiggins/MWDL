@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Bryner Pioneer Museum, Price (UT), AMP">
 <!-- Collection #1558 -->
 <!-- Collection Title -->
 <title>Bryner Pioneer Museum, Price (UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrynerPioneerMuseumPriceUT.php">Bryner Pioneer Museum (Price, UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Railway Company Semi-Monthly Time Book"width="262" height ="420"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1558.jpg"alt="Utah Railway Company Semi-Monthly Time Book"width="262" height ="420"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah Railway Company Semi-Monthly Time Book

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="The Electric Studio/O.G. Allen photographs, ca. 1911-1913, AMP">
 <!-- Collection #2259 -->
 <!-- Collection Title -->
 <title>The Electric Studio/O.G. Allen photographs, ca. 1911-1913</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="John Thomas fighting a bull at the Pendleton Round Up"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2259.jpg"alt="John Thomas fighting a bull at the Pendleton Round Up"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 John Thomas fighting a bull at the Pendleton Round Up

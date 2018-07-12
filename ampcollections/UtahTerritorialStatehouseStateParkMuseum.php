@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Territorial Statehouse State Park Museum, AMP">
 <!-- Collection #2145 -->
 <!-- Collection Title -->
 <title>Utah Territorial Statehouse State Park Museum</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahTerritorialStatehouseStateParkMuseum.php">Utah Territorial Statehouse State Park Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Territorial Statehouse Building Looking East"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2145.jpg"alt="Territorial Statehouse Building Looking East"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Territorial Statehouse Building Looking East

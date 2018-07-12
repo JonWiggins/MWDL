@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Great Basin Association Photographs, AMP">
 <!-- Collection #1011 -->
 <!-- Collection Title -->
 <title>Great Basin Association Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/GreatBasinAssociation.php">Great Basin Association</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Entrance to Caves"width="371" height ="196"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1011.jpg"alt="Entrance to Caves"width="371" height ="196"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Entrance to Caves

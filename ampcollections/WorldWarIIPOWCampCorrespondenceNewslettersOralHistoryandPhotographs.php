@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="World War II POW Camp Correspondence, Newsletters, Oral History and Photographs, AMP">
 <!-- Collection #1247 -->
 <!-- Collection Title -->
 <title>World War II POW Camp Correspondence, Newsletters, Oral History and Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Hoover Dam Project Scrapbook Vol. 1"width="255" height ="338"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1247.jpg"alt="Hoover Dam Project Scrapbook Vol. 1"width="255" height ="338"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Hoover Dam Project Scrapbook Vol. 1

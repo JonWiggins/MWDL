@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Department of Heritage and Arts Encoded Archival Description (EAD) Finding Aids, AMP">
 <!-- Collection #1255 -->
 <!-- Collection Title -->
 <title>Department of Heritage and Arts Encoded Archival Description (EAD) Finding Aids</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1593-01-15 Letter to Diego de Orellana de Chaves"width="183" height ="73"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1255.jpg"alt="1593-01-15 Letter to Diego de Orellana de Chaves"width="183" height ="73"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1593-01-15 Letter to Diego de Orellana de Chaves

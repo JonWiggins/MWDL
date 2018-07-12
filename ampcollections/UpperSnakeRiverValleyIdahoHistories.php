@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Upper Snake River Valley Idaho Histories, AMP">
 <!-- Collection #1090 -->
 <!-- Collection Title -->
 <title>Upper Snake River Valley Idaho Histories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922"width="171" height ="221"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1090.jpg"alt="Anderson, Betsy (Bengta) Shenstrum 1831-1922"width="171" height ="221"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Anderson, Betsy (Bengta) Shenstrum 1831-1922

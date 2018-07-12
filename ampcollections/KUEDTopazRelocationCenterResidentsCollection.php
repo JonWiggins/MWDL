@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="KUED Topaz Relocation Center Residents Collection, AMP">
 <!-- Collection #1909 -->
 <!-- Collection Title -->
 <title>KUED Topaz Relocation Center Residents Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Tofu Factory Worker"width="387" height ="486"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1909.jpe"alt="Tofu Factory Worker"width="387" height ="486"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Tofu Factory Worker

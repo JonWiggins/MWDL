@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 010 Count Otto Franc Von Lichtenstein Collection, AMP">
 <!-- Collection #2273 -->
 <!-- Collection Title -->
 <title>MS 010 Count Otto Franc Von Lichtenstein Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2273.jpg"alt="<em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Journal #1 of Count Otto Franc von Lichtenstein from the Pitchfork Ranch</em>

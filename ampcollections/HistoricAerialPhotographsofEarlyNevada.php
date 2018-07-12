@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historic Aerial Photographs of Early Nevada, AMP">
 <!-- Collection #1123 -->
 <!-- Collection Title -->
 <title>Historic Aerial Photographs of Early Nevada</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="One of a series of aerial photos taken in 1938-39 for a forest and soil survey."width="359" height ="290"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1123.jpg"alt="One of a series of aerial photos taken in 1938-39 for a forest and soil survey."width="359" height ="290"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 One of a series of aerial photos taken in 1938-39 for a forest and soil survey.

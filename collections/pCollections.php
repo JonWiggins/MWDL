@@ -1,4 +1,5 @@
 <?php include ("../includes/header.php");?>
+<meta name="description" content="Collections in the MWDL sorted by Partner">
 <?php include ("../includes/linkImports.php");?>
 <title>Collections</title>
 <?php include("../includes/clistmenuhead.php");?>

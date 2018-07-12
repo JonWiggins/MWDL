@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="San Francisco (CA) Earthquake Snapshots, AMP">
 <!-- Collection #2136 -->
 <!-- Collection Title -->
 <title>San Francisco (CA) Earthquake Snapshots</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake, San Francisco, California, April 20, 1906"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2136.jpg"alt="View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake, San Francisco, California, April 20, 1906"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and Earthquake, San Francisco, California, April 20, 1906

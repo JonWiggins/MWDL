@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="North Logan (UT) History Collection, AMP">
 <!-- Collection #2166 -->
 <!-- Collection Title -->
 <title>North Logan (UT) History Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="" 5 sets of twins born in North Logan on ""Twin Street""""width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2166.jpg"alt="" 5 sets of twins born in North Logan on ""Twin Street""""width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 " 5 sets of twins born in North Logan on ""Twin Street"""

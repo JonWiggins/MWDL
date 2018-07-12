@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Alta (UT) Avalanche Study Center, AMP">
 <!-- Collection #1500 -->
 <!-- Collection Title -->
 <title>Alta (UT) Avalanche Study Center</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1500.jpg"alt=""width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

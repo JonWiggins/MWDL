@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Audio-Video Collection, AMP">
 <!-- Collection #1178 -->
 <!-- Collection Title -->
 <title>Western Waters: Audio-Video Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Lifeblood of the Southwest"width="320" height ="192"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1178.jpg"alt="Lifeblood of the Southwest"width="320" height ="192"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Lifeblood of the Southwest

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Shoshone Defense Project, AMP">
 <!-- Collection #2299 -->
 <!-- Collection Title -->
 <title>Western Shoshone Defense Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Photograph of Oro Nevada Mining Company Protests </em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2299.jpg"alt="<em>Photograph of Oro Nevada Mining Company Protests </em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Photograph of Oro Nevada Mining Company Protests </em>

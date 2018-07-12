@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Taylor A. Woolley Papers, AMP">
 <!-- Collection #1940 -->
 <!-- Collection Title -->
 <title>Taylor A. Woolley Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="STE Revelle development house drawing"width="394" height ="340"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1940.jpg"alt="STE Revelle development house drawing"width="394" height ="340"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 STE Revelle development house drawing

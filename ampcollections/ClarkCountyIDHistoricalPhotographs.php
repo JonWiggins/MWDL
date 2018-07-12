@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Clark County (ID) Historical Photographs, AMP">
 <!-- Collection #1933 -->
 <!-- Collection Title -->
 <title>Clark County (ID) Historical Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="$1000 gold sack - Wood Livestock"width="274" height ="403"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1933.jpg"alt="$1000 gold sack - Wood Livestock"width="274" height ="403"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 $1000 gold sack - Wood Livestock

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Fifth District: Beaver County Case Indexes, AMP">
 <!-- Collection #1266 -->
 <!-- Collection Title -->
 <title>Utah Fifth District: Beaver County Case Indexes</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Copts and Christian Civilization"width="300" height ="410"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1266.jpg"alt="The Copts and Christian Civilization"width="300" height ="410"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Copts and Christian Civilization

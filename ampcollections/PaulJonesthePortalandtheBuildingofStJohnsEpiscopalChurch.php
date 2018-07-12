@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Paul Jones, the Portal, and the Building of St. John's Episcopal Church, AMP">
 <!-- Collection #1613 -->
 <!-- Collection Title -->
 <title>Paul Jones, the Portal, and the Building of St. John's Episcopal Church</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Portal, v. 3, no. 6"width="223" height ="315"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1613.jpg"alt="Portal, v. 3, no. 6"width="223" height ="315"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Portal, v. 3, no. 6

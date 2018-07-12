@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden Architects Hodgson and Piers, AMP">
 <!-- Collection #1846 -->
 <!-- Collection Title -->
 <title>Ogden Architects Hodgson and Piers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Humphris, C. J._Residential"width="265" height ="357"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1846.jpg"alt="Humphris, C. J._Residential"width="265" height ="357"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Humphris, C. J._Residential

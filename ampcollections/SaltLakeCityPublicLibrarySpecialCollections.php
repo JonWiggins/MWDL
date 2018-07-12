@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake City Public Library Special Collections, AMP">
 <!-- Collection #2146 -->
 <!-- Collection Title -->
 <title>Salt Lake City Public Library Special Collections</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCityUTPublicLibrary.php">Salt Lake City (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="" Floaters on Great Salt Lake Utah. ""Nothing Like It""""width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2146.jpg"alt="" Floaters on Great Salt Lake Utah. ""Nothing Like It""""width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 " Floaters on Great Salt Lake Utah. ""Nothing Like It"""

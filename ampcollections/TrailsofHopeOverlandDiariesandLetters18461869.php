@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Trails of Hope: Overland Diaries and Letters 1846-1869, AMP">
 <!-- Collection #1064 -->
 <!-- Collection Title -->
 <title>Trails of Hope: Overland Diaries and Letters 1846-1869</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Grantham, William"width="354" height ="328"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1064.jpg"alt="Grantham, William"width="354" height ="328"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Grantham, William

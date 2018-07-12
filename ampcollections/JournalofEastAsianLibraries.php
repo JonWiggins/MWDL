@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Journal of East Asian Libraries, AMP">
 <!-- Collection #1074 -->
 <!-- Collection Title -->
 <title>Journal of East Asian Libraries</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="No. 134 Journal of East Asian Libraries"width="309" height ="414"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1074.jpg"alt="No. 134 Journal of East Asian Libraries"width="309" height ="414"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 No. 134 Journal of East Asian Libraries

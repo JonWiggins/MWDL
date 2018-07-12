@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Branch Normal School Catalogs, AMP">
 <!-- Collection #1104 -->
 <!-- Collection Title -->
 <title>Branch Normal School Catalogs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1900-1901 Catalog"width="268" height ="393"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1104.jpg"alt="1900-1901 Catalog"width="268" height ="393"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1900-1901 Catalog

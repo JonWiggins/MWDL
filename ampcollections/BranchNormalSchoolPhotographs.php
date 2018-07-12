@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Branch Normal School Photographs, AMP">
 <!-- Collection #1102 -->
 <!-- Collection Title -->
 <title>Branch Normal School Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="First business graduates of the Branch Normal School"width="400" height ="323"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1102.jpg"alt="First business graduates of the Branch Normal School"width="400" height ="323"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 First business graduates of the Branch Normal School

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Pioneers In Your Attic from Utah Valley University, AMP">
 <!-- Collection #2061 -->
 <!-- Collection Title -->
 <title>Pioneers In Your Attic from Utah Valley University</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wight."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2061.jpg"alt="Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wight."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Boy in Pilgrim costume from Fox and Symons Studio. Contributed by Carol Ann Wight.

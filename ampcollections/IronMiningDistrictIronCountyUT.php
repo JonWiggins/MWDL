@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Iron Mining District (Iron County, UT), AMP">
 <!-- Collection #1106 -->
 <!-- Collection Title -->
 <title>Iron Mining District (Iron County, UT)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="52-M after falling into blast hole"width="377" height ="255"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1106.jpg"alt="52-M after falling into blast hole"width="377" height ="255"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 52-M after falling into blast hole

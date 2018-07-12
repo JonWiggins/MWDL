@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Great Basin History of Medicine Photograph Archives, AMP">
 <!-- Collection #1206 -->
 <!-- Collection Title -->
 <title>Great Basin History of Medicine Photograph Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Big Mouth Charlie's Medicine Bowl"width="277" height ="222"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1206.jpg"alt="Big Mouth Charlie's Medicine Bowl"width="277" height ="222"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Big Mouth Charlie's Medicine Bowl

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Technical College Women's Association Scrapbooks, AMP">
 <!-- Collection #2170 -->
 <!-- Collection Title -->
 <title>Utah Technical College Women's Association Scrapbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Technical College Women's Association Scrapbook 1974-1975"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2170.jpg"alt="Utah Technical College Women's Association Scrapbook 1974-1975"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah Technical College Women's Association Scrapbook 1974-1975

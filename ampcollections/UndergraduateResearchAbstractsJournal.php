@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Undergraduate Research Abstracts Journal, AMP">
 <!-- Collection #1031 -->
 <!-- Collection Title -->
 <title>Undergraduate Research Abstracts Journal</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahUndergraduateResearchOpportunitiesProgram.php">University of Utah - Undergraduate Research Opportunities Program</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007"width="317" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1031.jpg"alt="University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007"width="317" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 University of Utah Undergraduate Research Abstracts, Volume 7, Spring 2007

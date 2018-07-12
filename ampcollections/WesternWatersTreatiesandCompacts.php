@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Treaties and Compacts, AMP">
 <!-- Collection #1045 -->
 <!-- Collection Title -->
 <title>Western Waters: Treaties and Compacts</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Interstate Compacts: A Compilation of Articles from Various Sources"width="270" height ="360"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1045.jpg"alt="Interstate Compacts: A Compilation of Articles from Various Sources"width="270" height ="360"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Interstate Compacts: A Compilation of Articles from Various Sources

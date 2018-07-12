@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: Robert B. Daroff Collection, AMP">
 <!-- Collection #1300 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Robert B. Daroff Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Gold and Blue 1905 02 17"width="196" height ="153"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1300.jpg"alt="Gold and Blue 1905 02 17"width="196" height ="153"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Gold and Blue 1905 02 17

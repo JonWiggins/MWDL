@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Historical Photographs: Walter M. Camp Collection, AMP">
 <!-- Collection #1071 -->
 <!-- Collection Title -->
 <title>Brigham Young University Historical Photographs: Walter M. Camp Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Red Cloud"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1071.jpg"alt="Red Cloud"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Red Cloud

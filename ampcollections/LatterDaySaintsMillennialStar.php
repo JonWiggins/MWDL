@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Latter-Day Saints' Millennial Star, AMP">
 <!-- Collection #1324 -->
 <!-- Collection Title -->
 <title>Latter-Day Saints' Millennial Star</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="242" height ="395"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1324.jpg"alt=""width="242" height ="395"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

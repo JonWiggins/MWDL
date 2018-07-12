@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Wesley Williamson Photographs, AMP">
 <!-- Collection #1622 -->
 <!-- Collection Title -->
 <title>John Wesley Williamson Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Fort Laramie"width="346" height ="227"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1622.jpg"alt="Fort Laramie"width="346" height ="227"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Fort Laramie

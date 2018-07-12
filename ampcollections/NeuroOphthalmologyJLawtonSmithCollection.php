@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: J. Lawton Smith Collection, AMP">
 <!-- Collection #1183 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: J. Lawton Smith Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Neuro-Ophthalmic Presentations of Cone Dysfunction"width="297" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1183.jpg"alt="Neuro-Ophthalmic Presentations of Cone Dysfunction"width="297" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Neuro-Ophthalmic Presentations of Cone Dysfunction

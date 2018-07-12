@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="De Naturae Simia, AMP">
 <!-- Collection #1169 -->
 <!-- Collection Title -->
 <title>De Naturae Simia</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="De Naturae Simia"width="309" height ="453"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1169.jpg"alt="De Naturae Simia"width="309" height ="453"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 De Naturae Simia

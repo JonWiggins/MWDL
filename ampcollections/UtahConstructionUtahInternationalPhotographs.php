@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction-Utah International Photographs, AMP">
 <!-- Collection #1268 -->
 <!-- Collection Title -->
 <title>Utah Construction-Utah International Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="260" height ="331"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1268.jpg"alt=""width="260" height ="331"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

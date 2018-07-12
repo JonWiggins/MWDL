@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="LDS Business College Yearbooks, AMP">
 <!-- Collection #1318 -->
 <!-- Collection Title -->
 <title>LDS Business College Yearbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/LDSBusinessCollege.php">LDS Business College</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Gold and Blue 1905 02 17"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1318.jpg"alt="Gold and Blue 1905 02 17"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Gold and Blue 1905 02 17

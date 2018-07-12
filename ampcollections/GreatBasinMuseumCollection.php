@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Great Basin Museum Collection, AMP">
 <!-- Collection #1194 -->
 <!-- Collection Title -->
 <title>Great Basin Museum Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/GreatBasinMuseum.php">Great Basin Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Burtner Dam"width="380" height ="248"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1194.jpg"alt="Burtner Dam"width="380" height ="248"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Burtner Dam

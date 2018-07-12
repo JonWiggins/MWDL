@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Images of Lake Tahoe, AMP">
 <!-- Collection #1121 -->
 <!-- Collection Title -->
 <title>Images of Lake Tahoe</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Auto barge across Lake Tahoe"width="277" height ="222"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1121.jpg"alt="Auto barge across Lake Tahoe"width="277" height ="222"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Auto barge across Lake Tahoe

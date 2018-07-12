@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Department of Health Sheep Radiation Studies, AMP">
 <!-- Collection #2447 -->
 <!-- Collection Title -->
 <title>Utah Department of Health Sheep Radiation Studies</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Department of Health Sheep Radiation Studies"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2447.jpg"alt="Utah Department of Health Sheep Radiation Studies"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah Department of Health Sheep Radiation Studies

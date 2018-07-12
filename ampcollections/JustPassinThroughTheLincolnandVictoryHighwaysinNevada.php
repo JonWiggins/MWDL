@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Just Passin' Through: The Lincoln and Victory Highways in Nevada, AMP">
 <!-- Collection #1127 -->
 <!-- Collection Title -->
 <title>Just Passin' Through: The Lincoln and Victory Highways in Nevada</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Battle Mountain, Nevada"width="277" height ="222"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1127.jpg"alt="Battle Mountain, Nevada"width="277" height ="222"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Battle Mountain, Nevada

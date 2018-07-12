@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southwest Utah Livestock Association, AMP">
 <!-- Collection #1109 -->
 <!-- Collection Title -->
 <title>Southwest Utah Livestock Association</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Buildings, construction of pavilion"width="378" height ="247"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1109.jpg"alt="Buildings, construction of pavilion"width="378" height ="247"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Buildings, construction of pavilion

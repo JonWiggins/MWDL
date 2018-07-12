@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Karl Bodmer Aquatint Collection, AMP">
 <!-- Collection #1016 -->
 <!-- Collection Title -->
 <title>Karl Bodmer Aquatint Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Niagara Falls"width="349" height ="275"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1016.jpg"alt="Niagara Falls"width="349" height ="275"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Niagara Falls

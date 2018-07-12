@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Nevada, Reno, Art Collection, AMP">
 <!-- Collection #1133 -->
 <!-- Collection Title -->
 <title>University of Nevada, Reno, Art Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Big Sur Coastline"width="346" height ="227"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1133.jpg"alt="Big Sur Coastline"width="346" height ="227"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Big Sur Coastline

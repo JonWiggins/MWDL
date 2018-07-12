@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State Capitol Building, AMP">
 <!-- Collection #2298 -->
 <!-- Collection Title -->
 <title>Utah State Capitol Building</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2298.jpg"alt="<em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Design Submissions, Submission by J. E. Tourtellote & Co. </em>

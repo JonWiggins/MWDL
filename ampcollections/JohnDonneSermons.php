@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Donne Sermons, AMP">
 <!-- Collection #1094 -->
 <!-- Collection Title -->
 <title>John Donne Sermons</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A Sermon Preached at Saint Dunstans"width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1094.jpg"alt="A Sermon Preached at Saint Dunstans"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A Sermon Preached at Saint Dunstans

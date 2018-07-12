@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Legislature. Little Hoover Commission, 1965-1966, AMP">
 <!-- Collection #1627 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Little Hoover Commission, 1965-1966</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Council Meeting Minutes"width="339" height ="454"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1627.jpg"alt="Council Meeting Minutes"width="339" height ="454"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Council Meeting Minutes

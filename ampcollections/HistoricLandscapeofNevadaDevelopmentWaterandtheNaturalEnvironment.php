@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historic Landscape of Nevada: Development, Water, and the Natural Environment, AMP">
 <!-- Collection #1615 -->
 <!-- Collection Title -->
 <title>Historic Landscape of Nevada: Development, Water, and the Natural Environment</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Geology and water resources of Las Vegas"width="189" height ="291"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1615.jpg"alt="Geology and water resources of Las Vegas"width="189" height ="291"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Geology and water resources of Las Vegas

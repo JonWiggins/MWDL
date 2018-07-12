@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Orem (UT) Heritage Museum, AMP">
 <!-- Collection #1538 -->
 <!-- Collection Title -->
 <title>Orem (UT) Heritage Museum</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/OremUTHeritageMuseum.php">Orem (UT) Heritage Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Three Men Kneeling in a Field"width="357" height ="282"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1538.jpg"alt="Three Men Kneeling in a Field"width="357" height ="282"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Three Men Kneeling in a Field

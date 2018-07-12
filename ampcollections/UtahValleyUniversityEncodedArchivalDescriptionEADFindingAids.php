@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Valley University Encoded Archival Description (EAD) Finding Aids, AMP">
 <!-- Collection #1623 -->
 <!-- Collection Title -->
 <title>Utah Valley University Encoded Archival Description (EAD) Finding Aids</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Utah Valley University"width="120" height ="90"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1623.jpg"alt="Utah Valley University"width="120" height ="90"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Utah Valley University

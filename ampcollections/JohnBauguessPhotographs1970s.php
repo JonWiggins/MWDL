@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Bauguess Photographs, 1970s, AMP">
 <!-- Collection #2262 -->
 <!-- Collection Title -->
 <title>John Bauguess Photographs, 1970s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Black and white image of a man identified as Herb seated at a table at the Brass Rail tavern with a beer in his hand. Other men and women are standing behind him in the background."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2262.jpg"alt="Black and white image of a man identified as Herb seated at a table at the Brass Rail tavern with a beer in his hand. Other men and women are standing behind him in the background."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Black and white image of a man identified as Herb seated at a table at the Brass Rail tavern with a beer in his hand. Other men and women are standing behind him in the background.

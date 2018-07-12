@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Nevada Agricultural Publications, AMP">
 <!-- Collection #1129 -->
 <!-- Collection Title -->
 <title>Nevada Agricultural Publications</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Sugar Beets"width="272" height ="350"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1129.jpg"alt="Sugar Beets"width="272" height ="350"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Sugar Beets

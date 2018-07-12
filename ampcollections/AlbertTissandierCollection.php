@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Albert Tissandier Collection, AMP">
 <!-- Collection #1033 -->
 <!-- Collection Title -->
 <title>Albert Tissandier Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahUtahMuseumofFineArts.php">University of Utah - Utah Museum of Fine Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1885 and 1886"width="347" height ="245"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1033.jpg"alt="1885 and 1886"width="347" height ="245"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1885 and 1886

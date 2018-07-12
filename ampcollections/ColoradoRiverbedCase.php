@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Colorado Riverbed Case, AMP">
 <!-- Collection #1004 -->
 <!-- Collection Title -->
 <title>Colorado Riverbed Case</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="United States, Complainant vs. the State of Utah, 1931"width="301" height ="433"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1004.jpg"alt="United States, Complainant vs. the State of Utah, 1931"width="301" height ="433"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 United States, Complainant vs. the State of Utah, 1931

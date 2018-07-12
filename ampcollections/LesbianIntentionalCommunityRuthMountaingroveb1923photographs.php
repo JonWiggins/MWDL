@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs, AMP">
 <!-- Collection #2266 -->
 <!-- Collection Title -->
 <title>Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Photograph from the Ruth Mountaingrove papers, 1950-1999"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2266.jpg"alt="Photograph from the Ruth Mountaingrove papers, 1950-1999"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Photograph from the Ruth Mountaingrove papers, 1950-1999

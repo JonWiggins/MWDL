@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="John Peter Simonson Photograph Collection, AMP">
 <!-- Collection #2355 -->
 <!-- Collection Title -->
 <title>John Peter Simonson Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Book Cliffs (Utah and Colorado)"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2355.jpg"alt="Book Cliffs (Utah and Colorado)"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Book Cliffs (Utah and Colorado)

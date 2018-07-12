@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Religious Educator, AMP">
 <!-- Collection #1089 -->
 <!-- Collection Title -->
 <title>Religious Educator</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol. 03 No. 2 Religious Educator"width="304" height ="483"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1089.jpg"alt="Vol. 03 No. 2 Religious Educator"width="304" height ="483"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Vol. 03 No. 2 Religious Educator

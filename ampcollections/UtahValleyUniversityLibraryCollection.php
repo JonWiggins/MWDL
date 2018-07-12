@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Valley University Library Collection, AMP">
 <!-- Collection #1275 -->
 <!-- Collection Title -->
 <title>Utah Valley University Library Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Library Connection Newsletter Fall 2011"width="354" height ="448"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1275.jpg"alt="The Library Connection Newsletter Fall 2011"width="354" height ="448"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Library Connection Newsletter Fall 2011

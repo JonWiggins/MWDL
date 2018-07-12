@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Central Utah Project: Capturing Utah's Share of the Colorado River, AMP">
 <!-- Collection #2117 -->
 <!-- Collection Title -->
 <title>Central Utah Project: Capturing Utah's Share of the Colorado River</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Frances Poowegup and Phillip Chimburas interview, September 12, 2012"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2117.jpg"alt="Frances Poowegup and Phillip Chimburas interview, September 12, 2012"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Frances Poowegup and Phillip Chimburas interview, September 12, 2012

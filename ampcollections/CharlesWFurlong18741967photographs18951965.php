@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Charles W. Furlong (1874-1967) photographs, 1895-1965, AMP">
 <!-- Collection #2257 -->
 <!-- Collection Title -->
 <title>Charles W. Furlong (1874-1967) photographs, 1895-1965</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bonnie McCarroll at the Pendleton Round Up"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2257.jpg"alt="Bonnie McCarroll at the Pendleton Round Up"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bonnie McCarroll at the Pendleton Round Up

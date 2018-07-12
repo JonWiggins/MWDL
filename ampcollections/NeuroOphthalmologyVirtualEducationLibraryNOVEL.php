@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology Virtual Education Library (NOVEL), AMP">
 <!-- Collection #1186 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology Virtual Education Library (NOVEL)</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Optic Neuritis (French)"width="333" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1186.jpg"alt="Optic Neuritis (French)"width="333" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Optic Neuritis (French)

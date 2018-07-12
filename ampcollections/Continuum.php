@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Continuum, AMP">
 <!-- Collection #1221 -->
 <!-- Collection Title -->
 <title>Continuum</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtah.php">University of Utah</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Continuum 1993 Summer (Vol. 3, no. 1)"width="220" height ="290"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1221.jpg"alt="Continuum 1993 Summer (Vol. 3, no. 1)"width="220" height ="290"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Continuum 1993 Summer (Vol. 3, no. 1)

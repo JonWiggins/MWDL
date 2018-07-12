@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah College of Law Publications, AMP">
 <!-- Collection #1527 -->
 <!-- Collection Title -->
 <title>University of Utah College of Law Publications</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJamesEFaustLawLibrary.php">University of Utah - James E. Faust Law Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Transparency and Privacy: Clashing Paradigms in a Web 2.0 World</em>"width="338" height ="437"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1527.gif"alt="<em>Transparency and Privacy: Clashing Paradigms in a Web 2.0 World</em>"width="338" height ="437"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Transparency and Privacy: Clashing Paradigms in a Web 2.0 World</em>

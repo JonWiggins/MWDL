@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Rich, Dr. Edward I. and Emily Almira Cozzens Diaries, AMP">
 <!-- Collection #1841 -->
 <!-- Collection Title -->
 <title>Rich, Dr. Edward I. and Emily Almira Cozzens Diaries</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1899 Emily Almira C. Rich Diary"width="226" height ="356"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1841.jpg"alt="1899 Emily Almira C. Rich Diary"width="226" height ="356"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1899 Emily Almira C. Rich Diary

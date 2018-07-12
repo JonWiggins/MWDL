@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="George Edward Anderson Photographs, AMP">
 <!-- Collection #1068 -->
 <!-- Collection Title -->
 <title>George Edward Anderson Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Great Elm on Dairy Hill"width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1068.jpg"alt="Great Elm on Dairy Hill"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Great Elm on Dairy Hill

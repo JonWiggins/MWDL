@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Southern Nevada Boomtown Years, AMP">
 <!-- Collection #1295 -->
 <!-- Collection Title -->
 <title>Southern Nevada Boomtown Years</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Two Men on Porch with Hound Dogs"width="287" height ="342"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1295.jpg"alt="Two Men on Porch with Hound Dogs"width="287" height ="342"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Two Men on Porch with Hound Dogs

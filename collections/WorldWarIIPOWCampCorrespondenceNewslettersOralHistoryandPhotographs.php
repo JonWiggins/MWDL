@@ -1,5 +1,6 @@
-<?php include ("../includes/header.php");?>
-<?php include ("../includes/linkImports.php");?>
+<?php include ("../includes/collectionhead.php");?>
+<meta name="description" content="World War II POW Camp Correspondence, Newsletters, Oral History and Photographs">
+<?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
   		window.location = "../ampcollections/WorldWarIIPOWCampCorrespondenceNewslettersOralHistoryandPhotographs.php";

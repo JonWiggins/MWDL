@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Historic Ricks College Viking Scroll 1, AMP">
 <!-- Collection #1069 -->
 <!-- Collection Title -->
 <title>Historic Ricks College Viking Scroll 1</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Historic Ricks College Viking Scroll 2"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1069.jpg"alt="Historic Ricks College Viking Scroll 2"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Historic Ricks College Viking Scroll 2

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University-Hawaii Collection, AMP">
 <!-- Collection #1220 -->
 <!-- Collection Title -->
 <title>Brigham Young University-Hawaii Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="First Faculty for CCH"width="374" height ="277"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1220.jpg"alt="First Faculty for CCH"width="374" height ="277"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 First Faculty for CCH

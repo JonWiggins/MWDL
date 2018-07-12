@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State Literary Publications 1904 to 1980, AMP">
 <!-- Collection #2024 -->
 <!-- Collection Title -->
 <title>Weber State Literary Publications 1904 to 1980</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1969 Probe Fall"width="339" height ="438"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2024.jpg"alt="1969 Probe Fall"width="339" height ="438"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1969 Probe Fall

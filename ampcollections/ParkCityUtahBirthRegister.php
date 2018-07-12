@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Park City (Utah) Birth Register, AMP">
 <!-- Collection #2439 -->
 <!-- Collection Title -->
 <title>Park City (Utah) Birth Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Partial Image of Park City (Utah) Birth Register"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2439.jpg"alt="Partial Image of Park City (Utah) Birth Register"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Partial Image of Park City (Utah) Birth Register

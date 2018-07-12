@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Everett L. Cooley Oral History Project, AMP">
 <!-- Collection #2223 -->
 <!-- Collection Title -->
 <title>Everett L. Cooley Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2223.jpg"alt="<em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Christopher Begue and Melissa Moeinvaziri, Salt Lake City, Utah: an interview by John Worsencroft, 4 March 2009</em>

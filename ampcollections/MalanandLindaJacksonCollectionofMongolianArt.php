@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Malan and Linda Jackson Collection of Mongolian Art, AMP">
 <!-- Collection #2028 -->
 <!-- Collection Title -->
 <title>Malan and Linda Jackson Collection of Mongolian Art</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mother and Child"width="388" height ="268"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2028.jpg"alt="Mother and Child"width="388" height ="268"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mother and Child

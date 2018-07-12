@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Collecting Memories: Oral Histories of American Folklorists, AMP">
 <!-- Collection #1787 -->
 <!-- Collection Title -->
 <title>Collecting Memories: Oral Histories of American Folklorists</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Oral Histories of American Folklorists"width="383" height ="277"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1787.jpg"alt="Oral Histories of American Folklorists"width="383" height ="277"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Oral Histories of American Folklorists

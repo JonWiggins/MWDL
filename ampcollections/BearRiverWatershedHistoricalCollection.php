@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Bear River Watershed Historical Collection, AMP">
 <!-- Collection #1134 -->
 <!-- Collection Title -->
 <title>Bear River Watershed Historical Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Canal waterfall"width="207" height ="318"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1134.jpg"alt="Canal waterfall"width="207" height ="318"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Canal waterfall

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Civilization Hamblin, AMP">
 <!-- Collection #1062 -->
 <!-- Collection Title -->
 <title>Civilization Hamblin</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Adoration of the Magi"width="337" height ="301"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1062.jpg"alt="Adoration of the Magi"width="337" height ="301"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Adoration of the Magi

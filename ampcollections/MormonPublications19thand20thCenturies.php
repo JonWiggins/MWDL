@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mormon Publications: 19th and 20th Centuries, AMP">
 <!-- Collection #1085 -->
 <!-- Collection Title -->
 <title>Mormon Publications: 19th and 20th Centuries</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Nineteenth Century Mormon Publications: 1847 to 1877"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1085.jpg"alt="Nineteenth Century Mormon Publications: 1847 to 1877"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Nineteenth Century Mormon Publications: 1847 to 1877

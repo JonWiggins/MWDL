@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Design Workshop Landscape Architecture Archive, AMP">
 <!-- Collection #1611 -->
 <!-- Collection Title -->
 <title>Design Workshop Landscape Architecture Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mountains in Kananaskis Country, Alberta"width="357" height ="272"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1611.jpg"alt="Mountains in Kananaskis Country, Alberta"width="357" height ="272"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mountains in Kananaskis Country, Alberta

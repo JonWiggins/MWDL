@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Benson Institute Theses, AMP">
 <!-- Collection #1053 -->
 <!-- Collection Title -->
 <title>Benson Institute Theses</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Deteccion de anticuerpos contra Brucella abortus en bovinos"width="263" height ="330"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1053.jpg"alt="Deteccion de anticuerpos contra Brucella abortus en bovinos"width="263" height ="330"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Deteccion de anticuerpos contra Brucella abortus en bovinos

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: Journal of Neuro-Ophthalmology, AMP">
 <!-- Collection #1311 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Journal of Neuro-Ophthalmology</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="323" height ="430"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1311.jpg"alt=""width="323" height ="430"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

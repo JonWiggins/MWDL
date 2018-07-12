@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: Electronic Resources, AMP">
 <!-- Collection #1044 -->
 <!-- Collection Title -->
 <title>Western Waters: Electronic Resources</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Water Quality in South-Central Texas"width="375" height ="484"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1044.jpg"alt="Water Quality in South-Central Texas"width="375" height ="484"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Water Quality in South-Central Texas

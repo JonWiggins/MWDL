@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Edward K. Bryant Photo Collection, 1942-1945, AMP">
 <!-- Collection #1239 -->
 <!-- Collection Title -->
 <title>Edward K. Bryant Photo Collection, 1942-1945</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cerebellar Eye Signs"width="317" height ="256"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1239.jpg"alt="Cerebellar Eye Signs"width="317" height ="256"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cerebellar Eye Signs

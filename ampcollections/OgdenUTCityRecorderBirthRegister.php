@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden (UT) City Recorder Birth Register, AMP">
 <!-- Collection #1609 -->
 <!-- Collection Title -->
 <title>Ogden (UT) City Recorder Birth Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ogden City Birth Record"width="311" height ="311"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1609.png"alt="Ogden City Birth Record"width="311" height ="311"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ogden City Birth Record

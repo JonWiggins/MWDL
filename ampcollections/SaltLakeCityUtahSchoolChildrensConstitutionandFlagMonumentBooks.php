@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake City (Utah) School Children's Constitution and Flag Monument Books, AMP">
 <!-- Collection #2449 -->
 <!-- Collection Title -->
 <title>Salt Lake City (Utah) School Children's Constitution and Flag Monument Books</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Salt Lake City (Utah) School Children's Constitution and Flag Monument Books"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2449.jpg"alt="Salt Lake City (Utah) School Children's Constitution and Flag Monument Books"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Salt Lake City (Utah) School Children's Constitution and Flag Monument Books

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Blackfoot (ID) Newspapers, AMP">
 <!-- Collection #1931 -->
 <!-- Collection Title -->
 <title>Blackfoot (ID) Newspapers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Blackfoot Register, Volume 1, Number 1, July 10, 1880"width="234" height ="307"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1931.jpg"alt="The Blackfoot Register, Volume 1, Number 1, July 10, 1880"width="234" height ="307"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Blackfoot Register, Volume 1, Number 1, July 10, 1880

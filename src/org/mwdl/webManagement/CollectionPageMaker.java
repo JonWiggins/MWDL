@@ -55,8 +55,9 @@ public class CollectionPageMaker {
 
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
-            writer.println("<?php include (\"../includes/header.php\");?>");
-            writer.println("<?php include (\"../includes/linkImports.php\");?>");
+            writer.println("<?php include (\"../includes/collectionhead.php\");?>");
+            writer.println("<meta name=\"description\" content=\"" + toWrite.title + "\">");
+            writer.println("<?php include (\"../includes/collectionlinkimports.php\");?>");
             writer.println("<script type=\"text/javascript\">\n" +
                     "\tif (screen.width <= 800) {\n" +
                     "  \t\twindow.location = \"../ampcollections/"+ toWrite.urlTitle +".php\";\n" +
@@ -142,6 +143,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include(\"../includes/ampheader.php\");?>");
+            writer.println("<meta name=\"description\" content=\""+ toWrite.title +", AMP\">");
             writer.println("<!-- Collection #" + toWrite.collectionNumber + " -->");
             writer.println("<!-- Collection Title -->");
             writer.println("<title>" + toWrite.title + "</title>");
@@ -158,8 +160,8 @@ public class CollectionPageMaker {
 
             if (toWrite.imageName != null)
                 writer.println(
-                        "<amp-img src=\"../images/collection_images/" +
-                        "alt=\"" + toWrite.des +"\"" +
+                        "<amp-img src=\"../images/collection_images/" + toWrite.imageName +
+                        "\"alt=\"" + toWrite.des +"\"" +
                         "width=\"" + toWrite.imageWidth + "\" height =\"" + toWrite.imageHeight +"\" " +
                         " layout = \"responsive\"></amp-img>"
                 );
@@ -210,6 +212,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<meta name=\"description\" content=\"Collections in the MWDL\">");
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<title>Collections</title>");
             writer.println("<?php include(\"../includes/clistmenuhead.php\");?>");
@@ -273,6 +276,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<meta name=\"description\" content=\"Collections in the MWDL sorted Alphabetically\">");
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<title>Collections</title>");
             writer.println("<?php include(\"../includes/clistmenuhead.php\");?>");
@@ -355,6 +359,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<meta name=\"description\" content=\"Collections in the MWDL sorted by Partner\">");
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<title>Collections</title>");
             writer.println("<?php include(\"../includes/clistmenuhead.php\");?>");

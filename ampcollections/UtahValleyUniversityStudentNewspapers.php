@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Valley University Student Newspapers, AMP">
 <!-- Collection #1956 -->
 <!-- Collection Title -->
 <title>Utah Valley University Student Newspapers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Tradewinds, November 16, 1973"width="172" height ="224"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1956.jpg"alt="Tradewinds, November 16, 1973"width="172" height ="224"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Tradewinds, November 16, 1973

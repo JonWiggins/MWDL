@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Vietnam Era Oral History Project, AMP">
 <!-- Collection #1953 -->
 <!-- Collection Title -->
 <title>Vietnam Era Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ray Hill, U.S. Air Force"width="159" height ="101"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1953.jpg"alt="Ray Hill, U.S. Air Force"width="159" height ="101"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ray Hill, U.S. Air Force

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Valley University Course Catalogs, AMP">
 <!-- Collection #2157 -->
 <!-- Collection Title -->
 <title>Utah Valley University Course Catalogs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2157.jpg"alt="1965-1966 Utah Trade Technical Institute Course Catalog"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1965-1966 Utah Trade Technical Institute Course Catalog

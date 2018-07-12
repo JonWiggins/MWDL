@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Case Records, AMP">
 <!-- Collection #2295 -->
 <!-- Collection Title -->
 <title>Utah Governor William Spry (1909-1917) Joseph Hillstrom Case Records</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Essays on Radicalism </em>"width="250" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2295.jpg"alt="<em>Essays on Radicalism </em>"width="250" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Essays on Radicalism </em>

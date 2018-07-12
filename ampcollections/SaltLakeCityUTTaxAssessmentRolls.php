@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake City (UT) Tax Assessment Rolls, AMP">
 <!-- Collection #2175 -->
 <!-- Collection Title -->
 <title>Salt Lake City (UT) Tax Assessment Rolls</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1878 by John R. Winder (duplicate)"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2175.jpg"alt="1878 by John R. Winder (duplicate)"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1878 by John R. Winder (duplicate)

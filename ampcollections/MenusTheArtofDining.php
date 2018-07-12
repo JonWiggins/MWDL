@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Menus: The Art of Dining, AMP">
 <!-- Collection #1563 -->
 <!-- Collection Title -->
 <title>Menus: The Art of Dining</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Fountain House, menu, pages 2-3"width="387" height ="297"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1563.jpg"alt="The Fountain House, menu, pages 2-3"width="387" height ="297"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Fountain House, menu, pages 2-3

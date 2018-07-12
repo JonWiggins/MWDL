@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection, AMP">
 <!-- Collection #1549 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Ocular Motor palsy"width="353" height ="422"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1549.jpg"alt="Ocular Motor palsy"width="353" height ="422"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Ocular Motor palsy

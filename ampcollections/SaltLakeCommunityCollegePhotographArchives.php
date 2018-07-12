@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Community College Photograph Archives, AMP">
 <!-- Collection #1567 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Photograph Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Graduation photo, Nursing Program"width="256" height ="220"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1567.jpg"alt="Graduation photo, Nursing Program"width="256" height ="220"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Graduation photo, Nursing Program

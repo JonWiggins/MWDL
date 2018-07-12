@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Department of Transportation Official Photographs Index, AMP">
 <!-- Collection #1833 -->
 <!-- Collection Title -->
 <title>Utah Department of Transportation Official Photographs Index</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="boundary map for UDOT districts"width="329" height ="413"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1833.jpg"alt="boundary map for UDOT districts"width="329" height ="413"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 boundary map for UDOT districts

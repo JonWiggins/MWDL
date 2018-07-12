@@ -56,6 +56,7 @@ public class PartnerPageMaker {
         try{
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
             writer.println("<?php include(\"../includes/header.php\"); ?>");
+            writer.println("<meta name=\"description\" content=\"" + toWrite.name+ ", a Partner of the MWDL\">");
             writer.println("<?php include(\"../includes/linkImports.php\");?>");
             writer.println("<script type=\"text/javascript\">\n" +
                     "\tif (screen.width <= 800) {\n" +
@@ -126,6 +127,7 @@ public class PartnerPageMaker {
 
 
             writer.println("<?php include(\"../includes/ampheader.php\");?>");
+            writer.println("<meta name=\"description\" content=\"" + toWrite.name+ ", a Partner of the MWDL\">");
             writer.println("<!-- Partner #" + toWrite.partnerNumber + " -->");
             writer.println("<!-- Partner Name -->");
             writer.println("<title>" + toWrite.name + "</title>");
@@ -142,7 +144,7 @@ public class PartnerPageMaker {
             if (toWrite.imageName != null)
                 writer.println("<amp-img src=\"../images/partner_images/" +
                         toWrite.imageName +
-                        " alt=\"" + toWrite.imageDes +"\"" +
+                        "\" alt=\"" + toWrite.imageDes +"\"" +
                         " width=\"" + toWrite.imageWidth + "\"" +
                         " height=\""+ toWrite.imageHeight +"\"" +
                         " layout = \"responsive\"></amp-img>"
@@ -193,6 +195,7 @@ public class PartnerPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<meta name=\"description\" content=\"A Map of MWDL Partners\">");
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<title>Partners</title>");
             writer.println("<?php include(\"../includes/plistmenuhead.php\");?>");
@@ -252,6 +255,7 @@ public class PartnerPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/header.php\");?>");
+            writer.println("<meta name=\"description\" content=\"A List of the Partners of MWDL\">");
             writer.println("<?php include (\"../includes/linkImports.php\");?>");
             writer.println("<title>Partners</title>");
             writer.println("<?php include(\"../includes/plistmenuhead.php\");?>");

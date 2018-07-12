@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Laie Plantation and Community Photo Collection, 1879-1965, AMP">
 <!-- Collection #1237 -->
 <!-- Collection Title -->
 <title>Laie Plantation and Community Photo Collection, 1879-1965</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHawaii.php">Brigham Young University-Hawaii</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Church Building"width="371" height ="283"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1237.jpg"alt="Church Building"width="371" height ="283"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Church Building

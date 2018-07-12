@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Nevada Test Site Oral History Project, AMP">
 <!-- Collection #1227 -->
 <!-- Collection Title -->
 <title>Nevada Test Site Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="San Rafael Swell -- Mining -- Uranium"width="272" height ="353"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1227.jpg"alt="San Rafael Swell -- Mining -- Uranium"width="272" height ="353"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 San Rafael Swell -- Mining -- Uranium

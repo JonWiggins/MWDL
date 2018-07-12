@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company: Stockholder Ledgers, AMP">
 <!-- Collection #1853 -->
 <!-- Collection Title -->
 <title>Utah Construction Company: Stockholder Ledgers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Stockholder Ledgers 1936-1949"width="391" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1853.jpg"alt="Stockholder Ledgers 1936-1949"width="391" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Stockholder Ledgers 1936-1949

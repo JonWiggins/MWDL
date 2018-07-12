@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Angelus Studio photographs, 1880s-1940s, AMP">
 <!-- Collection #2255 -->
 <!-- Collection Title -->
 <title>Angelus Studio photographs, 1880s-1940s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Crowds of people fill the streets of Portland, Oregon for the Third Libery Loan rally"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2255.jpg"alt="Crowds of people fill the streets of Portland, Oregon for the Third Libery Loan rally"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Crowds of people fill the streets of Portland, Oregon for the Third Libery Loan rally

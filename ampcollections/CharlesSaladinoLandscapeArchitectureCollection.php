@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Charles Saladino Landscape Architecture Collection, AMP">
 <!-- Collection #1837 -->
 <!-- Collection Title -->
 <title>Charles Saladino Landscape Architecture Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaLasVegasUniversityLibraries.php">University of Nevada, Las Vegas, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Jonathan Sparer residence"width="369" height ="246"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1837.jpg"alt="Jonathan Sparer residence"width="369" height ="246"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Jonathan Sparer residence

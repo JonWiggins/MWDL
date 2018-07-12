@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="American Travelers in Italy, AMP">
 <!-- Collection #1216 -->
 <!-- Collection Title -->
 <title>American Travelers in Italy</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Harriet Beecher Stowe : the story of her life"width="172" height ="273"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1216.jpg"alt="Harriet Beecher Stowe : the story of her life"width="172" height ="273"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Harriet Beecher Stowe : the story of her life

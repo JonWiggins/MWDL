@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="La Baskonia, AMP">
 <!-- Collection #1827 -->
 <!-- Collection Title -->
 <title>La Baskonia</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="La Baskonia 1907 -- Issue no. 478"width="281" height ="366"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1827.jpg"alt="La Baskonia 1907 -- Issue no. 478"width="281" height ="366"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 La Baskonia 1907 -- Issue no. 478

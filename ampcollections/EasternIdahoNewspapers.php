@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Eastern Idaho Newspapers, AMP">
 <!-- Collection #1930 -->
 <!-- Collection Title -->
 <title>Eastern Idaho Newspapers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Ashton Herald 1933-12-14 Vol 15 No 35"width="350" height ="513"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1930.jpg"alt="The Ashton Herald 1933-12-14 Vol 15 No 35"width="350" height ="513"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Ashton Herald 1933-12-14 Vol 15 No 35

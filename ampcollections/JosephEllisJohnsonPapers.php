@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Joseph Ellis Johnson Papers, AMP">
 <!-- Collection #2225 -->
 <!-- Collection Title -->
 <title>Joseph Ellis Johnson Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Joseph Ellis Johnson autobiography</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2225.jpg"alt="<em>Joseph Ellis Johnson autobiography</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Joseph Ellis Johnson autobiography</em>

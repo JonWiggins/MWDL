@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Vernal (UT) Express Photograph Collection, AMP">
 <!-- Collection #1047 -->
 <!-- Collection Title -->
 <title>Vernal (UT) Express Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UintahCountyUTLibrary.php">Uintah County (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Buildings and equipment display evidence of a once-active Dyer Mine operation"width="395" height ="278"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1047.jpg"alt="Buildings and equipment display evidence of a once-active Dyer Mine operation"width="395" height ="278"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Buildings and equipment display evidence of a once-active Dyer Mine operation

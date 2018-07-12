@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 007 George Armstrong Custer Collection, AMP">
 <!-- Collection #2272 -->
 <!-- Collection Title -->
 <title>MS 007 George Armstrong Custer Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>"width="409" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2272.jpg"alt="<em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>"width="409" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>General Terry's second report to General George Crook on the Battle of the Little Bighorn</em>

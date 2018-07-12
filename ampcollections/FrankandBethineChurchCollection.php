@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Frank and Bethine Church Collection, AMP">
 <!-- Collection #2213 -->
 <!-- Collection Title -->
 <title>Frank and Bethine Church Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Frank Church, Bethine Church, Forrest in Sun Valley, Idaho with Chase and Jean Clark."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2213.jpg"alt="Frank Church, Bethine Church, Forrest in Sun Valley, Idaho with Chase and Jean Clark."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Frank Church, Bethine Church, Forrest in Sun Valley, Idaho with Chase and Jean Clark.

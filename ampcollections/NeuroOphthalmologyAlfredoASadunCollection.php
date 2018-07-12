@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: Alfredo A. Sadun Collection, AMP">
 <!-- Collection #1509 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Alfredo A. Sadun Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="347" height ="264"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1509.jpg"alt=""width="347" height ="264"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

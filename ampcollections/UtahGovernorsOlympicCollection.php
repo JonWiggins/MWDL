@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor's Olympic Collection, AMP">
 <!-- Collection #1039 -->
 <!-- Collection Title -->
 <title>Utah Governor's Olympic Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Torch Celebration Fireworks"width="325" height ="215"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1039.jpg"alt="Torch Celebration Fireworks"width="325" height ="215"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Torch Celebration Fireworks

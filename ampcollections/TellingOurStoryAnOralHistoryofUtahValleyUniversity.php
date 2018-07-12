@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Telling Our Story: An Oral History of Utah Valley University, AMP">
 <!-- Collection #2206 -->
 <!-- Collection Title -->
 <title>Telling Our Story: An Oral History of Utah Valley University</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Interview with Michael Freeman</em>"width="409" height ="527"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2206.jpg"alt="<em>Interview with Michael Freeman</em>"width="409" height ="527"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Interview with Michael Freeman</em>

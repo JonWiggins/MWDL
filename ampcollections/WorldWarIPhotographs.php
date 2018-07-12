@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="World War I Photographs, AMP">
 <!-- Collection #1246 -->
 <!-- Collection Title -->
 <title>World War I Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Hoover Dam Project Scrapbook Vol. 1"width="352" height ="215"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1246.jpg"alt="Hoover Dam Project Scrapbook Vol. 1"width="352" height ="215"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Hoover Dam Project Scrapbook Vol. 1

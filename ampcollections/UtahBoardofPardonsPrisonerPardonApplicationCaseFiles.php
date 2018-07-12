@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Board of Pardons: Prisoner Pardon Application Case Files, AMP">
 <!-- Collection #1209 -->
 <!-- Collection Title -->
 <title>Utah Board of Pardons: Prisoner Pardon Application Case Files</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Alma Murdock's Pardon Application"width="286" height ="404"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1209.jpg"alt="Alma Murdock's Pardon Application"width="286" height ="404"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Alma Murdock's Pardon Application

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Crawford Family, Zion National Park, AMP">
 <!-- Collection #1112 -->
 <!-- Collection Title -->
 <title>Crawford Family, Zion National Park</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mojave Desert"width="353" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1112.jpg"alt="Mojave Desert"width="353" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mojave Desert

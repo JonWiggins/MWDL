@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Journal of Mormon History, AMP">
 <!-- Collection #1649 -->
 <!-- Collection Title -->
 <title>Journal of Mormon History</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/MormonHistoryAssociation.php">Mormon History Association</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Journal of Mormon History, Volume 07, 1980"width="258" height ="397"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1649.jpg"alt="Journal of Mormon History, Volume 07, 1980"width="258" height ="397"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Journal of Mormon History, Volume 07, 1980

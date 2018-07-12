@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Barre Toelken Fieldwork Image Collection, AMP">
 <!-- Collection #2116 -->
 <!-- Collection Title -->
 <title>Barre Toelken Fieldwork Image Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2)."width="250" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2116.jpg"alt="Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2)."width="250" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2).

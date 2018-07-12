@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Hal Wing Photography Collection, AMP">
 <!-- Collection #2026 -->
 <!-- Collection Title -->
 <title>Hal Wing Photography Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityWoodburyArtMuseum.php">Utah Valley University - Woodbury Art Museum</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Violinist, Japan, 1961-62, By Eugene W. Smith"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2026.jpg"alt="Violinist, Japan, 1961-62, By Eugene W. Smith"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Violinist, Japan, 1961-62, By Eugene W. Smith

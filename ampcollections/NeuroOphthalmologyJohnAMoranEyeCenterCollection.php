@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: John A. Moran Eye Center Collection, AMP">
 <!-- Collection #1184 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: John A. Moran Eye Center Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Anatomy of the pupillary light reflex pathway"width="330" height ="207"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1184.jpg"alt="Anatomy of the pupillary light reflex pathway"width="330" height ="207"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Anatomy of the pupillary light reflex pathway

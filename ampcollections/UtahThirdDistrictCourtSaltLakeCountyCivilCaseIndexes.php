@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Third District Court: Salt Lake County Civil Case Indexes, AMP">
 <!-- Collection #2290 -->
 <!-- Collection Title -->
 <title>Utah Third District Court: Salt Lake County Civil Case Indexes</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Third District Court Salt Lake County Civil Case Indexes 6071-61807_0707 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2290.jpg"alt="<em>Third District Court Salt Lake County Civil Case Indexes 6071-61807_0707 </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Third District Court Salt Lake County Civil Case Indexes 6071-61807_0707 </em>

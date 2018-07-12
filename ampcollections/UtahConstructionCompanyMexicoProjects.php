@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company Mexico Projects, AMP">
 <!-- Collection #1852 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Mexico Projects</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="193_Mazatlan Breakwater"width="350" height ="234"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1852.jpg"alt="193_Mazatlan Breakwater"width="350" height ="234"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 193_Mazatlan Breakwater

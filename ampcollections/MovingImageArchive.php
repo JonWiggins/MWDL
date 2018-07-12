@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Moving Image Archive, AMP">
 <!-- Collection #1174 -->
 <!-- Collection Title -->
 <title>Moving Image Archive</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Bob Theobald"width="221" height ="164"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1174.jpg"alt="Bob Theobald"width="221" height ="164"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Bob Theobald

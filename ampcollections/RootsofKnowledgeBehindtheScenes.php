@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Roots of Knowledge: Behind the Scenes, AMP">
 <!-- Collection #2330 -->
 <!-- Collection Title -->
 <title>Roots of Knowledge: Behind the Scenes</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Step 01: artist Cameron Oscarson drawing concept art at Holdman Studio."width="500" height ="500"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2330.jpg"alt="Step 01: artist Cameron Oscarson drawing concept art at Holdman Studio."width="500" height ="500"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Step 01: artist Cameron Oscarson drawing concept art at Holdman Studio.

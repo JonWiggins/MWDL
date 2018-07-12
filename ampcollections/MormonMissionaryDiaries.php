@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Mormon Missionary Diaries, AMP">
 <!-- Collection #1218 -->
 <!-- Collection Title -->
 <title>Mormon Missionary Diaries</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Boyle, Henry Green vol. 04, 1858-1867"width="306" height ="437"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1218.jpg"alt="Boyle, Henry Green vol. 04, 1858-1867"width="306" height ="437"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Boyle, Henry Green vol. 04, 1858-1867

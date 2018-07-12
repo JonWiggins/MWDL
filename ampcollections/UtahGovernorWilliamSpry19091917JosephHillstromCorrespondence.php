@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence, AMP">
 <!-- Collection #2296 -->
 <!-- Collection Title -->
 <title>Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2296.jpg"alt="<em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Swedish Minister's and President Woodrow Wilson's Requests for Postponements of Execution and Spry's Reactions </em>

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Evelyn and York Jones Books, AMP">
 <!-- Collection #1200 -->
 <!-- Collection Title -->
 <title>Evelyn and York Jones Books</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mayors of Cedar City"width="157" height ="137"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1200.jpg"alt="Mayors of Cedar City"width="157" height ="137"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mayors of Cedar City

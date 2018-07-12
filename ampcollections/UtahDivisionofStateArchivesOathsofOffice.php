@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Division of State Archives Oaths of Office, AMP">
 <!-- Collection #1302 -->
 <!-- Collection Title -->
 <title>Utah Division of State Archives Oaths of Office</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="362" height ="362"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1302.jpg"alt=""width="362" height ="362"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

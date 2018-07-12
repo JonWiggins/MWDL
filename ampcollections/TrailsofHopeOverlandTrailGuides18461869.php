@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Trails of Hope: Overland Trail Guides 1846-1869, AMP">
 <!-- Collection #1095 -->
 <!-- Collection Title -->
 <title>Trails of Hope: Overland Trail Guides 1846-1869</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Latter-day Saints' emigrants' guide"width="306" height ="437"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1095.jpg"alt="The Latter-day Saints' emigrants' guide"width="306" height ="437"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Latter-day Saints' emigrants' guide

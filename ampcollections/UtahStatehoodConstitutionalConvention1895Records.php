@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Statehood Constitutional Convention (1895) Records, AMP">
 <!-- Collection #1834 -->
 <!-- Collection Title -->
 <title>Utah Statehood Constitutional Convention (1895) Records</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Federal enabling act"width="328" height ="465"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1834.jpg"alt="Federal enabling act"width="328" height ="465"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Federal enabling act

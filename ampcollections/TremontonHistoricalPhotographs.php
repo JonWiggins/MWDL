@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Tremonton Historical Photographs, AMP">
 <!-- Collection #2156 -->
 <!-- Collection Title -->
 <title>Tremonton Historical Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/TremontonCityUTLibrary.php">Tremonton City (UT) Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Main Street, Tremonton, Utah"width="300" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2156.jpg"alt="Main Street, Tremonton, Utah"width="300" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Main Street, Tremonton, Utah

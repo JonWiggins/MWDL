@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History, AMP">
 <!-- Collection #1864 -->
 <!-- Collection Title -->
 <title>Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="2007-2 The Beginning of an Era Public Invitation"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1864.jpg"alt="2007-2 The Beginning of an Era Public Invitation"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 2007-2 The Beginning of an Era Public Invitation

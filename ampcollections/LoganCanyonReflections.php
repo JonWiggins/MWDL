@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Logan Canyon Reflections, AMP">
 <!-- Collection #1791 -->
 <!-- Collection Title -->
 <title>Logan Canyon Reflections</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Lodge at Camp Lomia, summer home of the Boy Scouts"width="399" height ="276"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1791.jpg"alt="Lodge at Camp Lomia, summer home of the Boy Scouts"width="399" height ="276"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Lodge at Camp Lomia, summer home of the Boy Scouts

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Health Education Assets Library, AMP">
 <!-- Collection #1282 -->
 <!-- Collection Title -->
 <title>Health Education Assets Library</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/HealthEducationAssetsLibrary.php">Health Education Assets Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="364" height ="238"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1282.jpg"alt=""width="364" height ="238"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

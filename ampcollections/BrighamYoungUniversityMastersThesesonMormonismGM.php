@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Master's Theses on Mormonism: G-M, AMP">
 <!-- Collection #1100 -->
 <!-- Collection Title -->
 <title>Brigham Young University Master's Theses on Mormonism: G-M</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Brigham Young University Master's Theses on Mormonism: A-F"width="290" height ="364"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1100.jpg"alt="Brigham Young University Master's Theses on Mormonism: A-F"width="290" height ="364"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Brigham Young University Master's Theses on Mormonism: A-F

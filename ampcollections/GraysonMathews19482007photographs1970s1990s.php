@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Grayson Mathews (1948-2007) photographs, 1970s-1990s, AMP">
 <!-- Collection #2260 -->
 <!-- Collection Title -->
 <title>Grayson Mathews (1948-2007) photographs, 1970s-1990s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A rodeo clown sits on a fence with a hand raised towards the camera."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2260.jpg"alt="A rodeo clown sits on a fence with a hand raised towards the camera."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A rodeo clown sits on a fence with a hand raised towards the camera.

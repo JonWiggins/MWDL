@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Legislature. Senate Working Bills, AMP">
 <!-- Collection #1618 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Senate Working Bills</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1896 Session Bill 1"width="218" height ="416"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1618.jpg"alt="1896 Session Bill 1"width="218" height ="416"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1896 Session Bill 1

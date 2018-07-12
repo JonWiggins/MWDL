@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: Helmut Wilhelm Collection, AMP">
 <!-- Collection #1548 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Helmut Wilhelm Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Nystagmus latens"width="336" height ="138"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1548.jpg"alt="Nystagmus latens"width="336" height ="138"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Nystagmus latens

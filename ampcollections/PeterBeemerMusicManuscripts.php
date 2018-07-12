@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Peter Beemer Music Manuscripts, AMP">
 <!-- Collection #2220 -->
 <!-- Collection Title -->
 <title>Peter Beemer Music Manuscripts</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Peter Beemer manuscript : dance music collected in the gold mining camp of Warren's Diggins, Idaho in the 1860?s"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2220.jpg"alt="The Peter Beemer manuscript : dance music collected in the gold mining camp of Warren's Diggins, Idaho in the 1860?s"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Peter Beemer manuscript : dance music collected in the gold mining camp of Warren's Diggins, Idaho in the 1860?s

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Religious Education, AMP">
 <!-- Collection #1088 -->
 <!-- Collection Title -->
 <title>Religious Education</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="10 Commandments Tablets"width="354" height ="293"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1088.jpg"alt="10 Commandments Tablets"width="354" height ="293"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 10 Commandments Tablets

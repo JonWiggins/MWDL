@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Movies Made in Utah, AMP">
 <!-- Collection #2467 -->
 <!-- Collection Title -->
 <title>Movies Made in Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Claire Trever and Glen Ford in a scene from the Columbia production, Texas."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2467.jpg"alt="Claire Trever and Glen Ford in a scene from the Columbia production, Texas."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Claire Trever and Glen Ford in a scene from the Columbia production, Texas.

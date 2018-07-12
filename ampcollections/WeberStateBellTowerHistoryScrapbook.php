@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber State Bell Tower History Scrapbook, AMP">
 <!-- Collection #2020 -->
 <!-- Collection Title -->
 <title>Weber State Bell Tower History Scrapbook</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cover"width="280" height ="219"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2020.jpg"alt="Cover"width="280" height ="219"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cover

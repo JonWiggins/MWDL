@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Journal of Microfinance, AMP">
 <!-- Collection #1075 -->
 <!-- Collection Title -->
 <title>Journal of Microfinance</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol. 01 No. 1 Journal of Microfinance"width="256" height ="412"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1075.jpg"alt="Vol. 01 No. 1 Journal of Microfinance"width="256" height ="412"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Vol. 01 No. 1 Journal of Microfinance

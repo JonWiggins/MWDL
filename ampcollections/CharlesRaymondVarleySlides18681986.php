@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Charles Raymond Varley Slides, 1868-1986, AMP">
 <!-- Collection #2311 -->
 <!-- Collection Title -->
 <title>Charles Raymond Varley Slides, 1868-1986</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>West Side of Main Street </em>"width="375" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2311.jpg"alt="<em>West Side of Main Street </em>"width="375" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>West Side of Main Street </em>

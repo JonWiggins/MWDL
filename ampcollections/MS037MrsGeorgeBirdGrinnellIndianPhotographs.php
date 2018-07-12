@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="MS 037 Mrs. George Bird Grinnell Indian Photographs, AMP">
 <!-- Collection #2276 -->
 <!-- Collection Title -->
 <title>MS 037 Mrs. George Bird Grinnell Indian Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Northern Cheyenne woman doing quillwork </em>"width="250" height ="400"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2276.jpg"alt="<em>Northern Cheyenne woman doing quillwork </em>"width="250" height ="400"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Northern Cheyenne woman doing quillwork </em>

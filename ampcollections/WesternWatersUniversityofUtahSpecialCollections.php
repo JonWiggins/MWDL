@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Western Waters: University of Utah Special Collections, AMP">
 <!-- Collection #1633 -->
 <!-- Collection Title -->
 <title>Western Waters: University of Utah Special Collections</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Flaming Gorge Photo Set"width="256" height ="320"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1633.jpg"alt="Flaming Gorge Photo Set"width="256" height ="320"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Flaming Gorge Photo Set

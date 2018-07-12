@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Campus Photographs, AMP">
 <!-- Collection #1086 -->
 <!-- Collection Title -->
 <title>Brigham Young University Campus Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1st Board of Trustees"width="356" height ="239"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1086.jpg"alt="1st Board of Trustees"width="356" height ="239"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1st Board of Trustees

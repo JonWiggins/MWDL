@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Practicing Medicine: A Historical Glimpse at Utah and Beyond, AMP">
 <!-- Collection #1167 -->
 <!-- Collection Title -->
 <title>Practicing Medicine: A Historical Glimpse at Utah and Beyond</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Salt Lake Sanitarian"width="223" height ="315"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1167.jpg"alt="The Salt Lake Sanitarian"width="223" height ="315"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Salt Lake Sanitarian

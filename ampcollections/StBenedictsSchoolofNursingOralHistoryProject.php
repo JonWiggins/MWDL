@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="St. Benedict's School of Nursing: Oral History Project, AMP">
 <!-- Collection #1847 -->
 <!-- Collection Title -->
 <title>St. Benedict's School of Nursing: Oral History Project</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Young, K_OH6_045"width="303" height ="397"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1847.jpg"alt="Young, K_OH6_045"width="303" height ="397"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Young, K_OH6_045

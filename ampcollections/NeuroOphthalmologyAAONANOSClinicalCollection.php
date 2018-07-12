@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: AAO-NANOS Clinical Collection, AMP">
 <!-- Collection #1048 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: AAO-NANOS Clinical Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Neuro-Ophthalmic Consequences of Therapy"width="202" height ="168"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1048.jpg"alt="Neuro-Ophthalmic Consequences of Therapy"width="202" height ="168"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Neuro-Ophthalmic Consequences of Therapy

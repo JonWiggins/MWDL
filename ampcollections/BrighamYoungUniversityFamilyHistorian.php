@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University Family Historian, AMP">
 <!-- Collection #1093 -->
 <!-- Collection Title -->
 <title>Brigham Young University Family Historian</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Vol 1 Fall 2002 The BYU Family Historian"width="339" height ="429"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1093.jpg"alt="Vol 1 Fall 2002 The BYU Family Historian"width="339" height ="429"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Vol 1 Fall 2002 The BYU Family Historian

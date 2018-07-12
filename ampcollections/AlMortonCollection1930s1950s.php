@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Al Morton Collection 1930s-1950s, AMP">
 <!-- Collection #2086 -->
 <!-- Collection Title -->
 <title>Al Morton Collection 1930s-1950s</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Cataract Canyon"width="391" height ="325"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2086.jpe"alt="Cataract Canyon"width="391" height ="325"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Cataract Canyon

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah State University Historical Photograph Collection, AMP">
 <!-- Collection #1137 -->
 <!-- Collection Title -->
 <title>Utah State University Historical Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="USAC faculty group portrait"width="361" height ="231"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1137.jpg"alt="USAC faculty group portrait"width="361" height ="231"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 USAC faculty group portrait

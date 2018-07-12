@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Orem (UT) School Yearbooks, AMP">
 <!-- Collection #2454 -->
 <!-- Collection Title -->
 <title>Orem (UT) School Yearbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/OremUTPublicLibrary.php">Orem (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Orem High School Tigerama 2012 It's An Ambush"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2454.jpg"alt="Orem High School Tigerama 2012 It's An Ambush"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Orem High School Tigerama 2012 It's An Ambush

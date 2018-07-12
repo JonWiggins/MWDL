@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Pete Cennarusa Collection, AMP">
 <!-- Collection #2219 -->
 <!-- Collection Title -->
 <title>Pete Cennarusa Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Pete Cenarrusa, right, at a Basque festival in Boise's Basque Block with Alan Virta and Jim Duran from the Boise State University Library, Special Collections and Archives."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2219.jpg"alt="Pete Cenarrusa, right, at a Basque festival in Boise's Basque Block with Alan Virta and Jim Duran from the Boise State University Library, Special Collections and Archives."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Pete Cenarrusa, right, at a Basque festival in Boise's Basque Block with Alan Virta and Jim Duran from the Boise State University Library, Special Collections and Archives.

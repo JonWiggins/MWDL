@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957, AMP">
 <!-- Collection #2263 -->
 <!-- Collection Title -->
 <title>Lee D. Drake (1882-1957) photographs, ca. 1910-1957</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A smiling woman in Native American attire holds a sleeping baby that is secured in a cradleboard."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2263.jpg"alt="A smiling woman in Native American attire holds a sleeping baby that is secured in a cradleboard."width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A smiling woman in Native American attire holds a sleeping baby that is secured in a cradleboard.

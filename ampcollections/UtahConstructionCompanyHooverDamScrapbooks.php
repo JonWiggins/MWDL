@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Construction Company Hoover Dam Scrapbooks, AMP">
 <!-- Collection #1308 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Hoover Dam Scrapbooks</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1308.jpg"alt=""width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Didymus Papyri, AMP">
 <!-- Collection #1319 -->
 <!-- Collection Title -->
 <title>Didymus Papyri</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1319.jpg"alt=""width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

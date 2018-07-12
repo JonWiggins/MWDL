@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Dee Family Photographs, Correspondence and Marriage Register, AMP">
 <!-- Collection #1243 -->
 <!-- Collection Title -->
 <title>Dee Family Photographs, Correspondence and Marriage Register</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="First Presidency to Grant Geddes_LDS"width="366" height ="258"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1243.jpg"alt="First Presidency to Grant Geddes_LDS"width="366" height ="258"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 First Presidency to Grant Geddes_LDS

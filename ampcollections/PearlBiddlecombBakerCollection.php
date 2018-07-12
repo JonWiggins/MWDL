@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Pearl Biddlecomb Baker Collection, AMP">
 <!-- Collection #1161 -->
 <!-- Collection Title -->
 <title>Pearl Biddlecomb Baker Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/GreenRiverUTPublicLibrary.php">Green River (UT) Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Pearl and Jody Baker"width="374" height ="248"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1161.jpg"alt="Pearl and Jody Baker"width="374" height ="248"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Pearl and Jody Baker

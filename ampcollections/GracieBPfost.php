@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Gracie B. Pfost, AMP">
 <!-- Collection #2350 -->
 <!-- Collection Title -->
 <title>Gracie B. Pfost</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Gracie Pfost portrait with legislative bills"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2350.jpg"alt="Gracie Pfost portrait with legislative bills"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Gracie Pfost portrait with legislative bills

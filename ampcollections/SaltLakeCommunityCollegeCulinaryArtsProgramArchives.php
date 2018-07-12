@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake Community College Culinary Arts Program Archives, AMP">
 <!-- Collection #2111 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Culinary Arts Program Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SaltLakeCommunityCollegeLibraries.php">Salt Lake Community College Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Old Salt City Jail Dinner Menu"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2111.jpg"alt="The Old Salt City Jail Dinner Menu"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Old Salt City Jail Dinner Menu

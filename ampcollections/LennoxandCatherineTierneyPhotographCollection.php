@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Lennox and Catherine Tierney Photograph Collection, AMP">
 <!-- Collection #1635 -->
 <!-- Collection Title -->
 <title>Lennox and Catherine Tierney Photograph Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Aerial view of the Mikata-goko (Mikata Five Lakes) region in the Japanese Alps"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1635.jpg"alt="Aerial view of the Mikata-goko (Mikata Five Lakes) region in the Japanese Alps"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Aerial view of the Mikata-goko (Mikata Five Lakes) region in the Japanese Alps

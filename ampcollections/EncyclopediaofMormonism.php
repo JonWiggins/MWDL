@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Encyclopedia of Mormonism, AMP">
 <!-- Collection #1214 -->
 <!-- Collection Title -->
 <title>Encyclopedia of Mormonism</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Encyclopedia of Mormonism"width="335" height ="337"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1214.jpg"alt="Encyclopedia of Mormonism"width="335" height ="337"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Encyclopedia of Mormonism

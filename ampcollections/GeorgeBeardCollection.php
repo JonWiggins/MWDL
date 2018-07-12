@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="George Beard Collection, AMP">
 <!-- Collection #1235 -->
 <!-- Collection Title -->
 <title>George Beard Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="A man by a lake"width="322" height ="451"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1235.jpg"alt="A man by a lake"width="322" height ="451"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 A man by a lake

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor Arthur L. Thomas (1889-1893) Correspondence, AMP">
 <!-- Collection #1879 -->
 <!-- Collection Title -->
 <title>Utah Governor Arthur L. Thomas (1889-1893) Correspondence</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Department of Justice Letter 1890"width="364" height ="453"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1879.jpg"alt="Department of Justice Letter 1890"width="364" height ="453"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Department of Justice Letter 1890

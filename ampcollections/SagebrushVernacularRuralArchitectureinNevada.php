@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Sagebrush Vernacular: Rural Architecture in Nevada, AMP">
 <!-- Collection #1122 -->
 <!-- Collection Title -->
 <title>Sagebrush Vernacular: Rural Architecture in Nevada</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Grayson Ranch Barn"width="300" height ="249"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1122.jpg"alt="Grayson Ranch Barn"width="300" height ="249"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Grayson Ranch Barn

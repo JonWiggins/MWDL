@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Nelson Higgins Papers, AMP">
 <!-- Collection #2201 -->
 <!-- Collection Title -->
 <title>Nelson Higgins Papers</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Message from Brigham Young dated 25 July 1872 regarding upcoming election for Congressional delegate</em>"width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2201.jpg"alt="<em>Message from Brigham Young dated 25 July 1872 regarding upcoming election for Congressional delegate</em>"width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Message from Brigham Young dated 25 July 1872 regarding upcoming election for Congressional delegate</em>

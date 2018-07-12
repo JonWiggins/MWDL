@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake City (Utah) Fire Department Photographs, AMP">
 <!-- Collection #2292 -->
 <!-- Collection Title -->
 <title>Salt Lake City (Utah) Fire Department Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Unknown Fire Fighter </em>"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2292.jpg"alt="<em>Unknown Fire Fighter </em>"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Unknown Fire Fighter </em>

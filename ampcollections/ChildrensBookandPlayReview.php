@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Children's Book and Play Review, AMP">
 <!-- Collection #1061 -->
 <!-- Collection Title -->
 <title>Children's Book and Play Review</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityHaroldBLeeLibrary.php">Brigham Young University - Harold B. Lee Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Annotated Alice: The Definitive [book review]"width="380" height ="199"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1061.jpg"alt="The Annotated Alice: The Definitive [book review]"width="380" height ="199"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Annotated Alice: The Definitive [book review]

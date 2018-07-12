@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="University of Utah Photograph Archives, AMP">
 <!-- Collection #1252 -->
 <!-- Collection Title -->
 <title>University of Utah Photograph Archives</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Because the Bible Tells Me So"width="354" height ="286"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1252.jpg"alt="Because the Bible Tells Me So"width="354" height ="286"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Because the Bible Tells Me So

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Carbon County Cookbook, AMP">
 <!-- Collection #2302 -->
 <!-- Collection Title -->
 <title>Carbon County Cookbook</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="<em>Carbon County Community Cookbook</em>"width="350" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2302.jpg"alt="<em>Carbon County Community Cookbook</em>"width="350" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 <em>Carbon County Community Cookbook</em>

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Brigham Young University-Idaho Flash, AMP">
 <!-- Collection #1096 -->
 <!-- Collection Title -->
 <title>Brigham Young University-Idaho Flash</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/BrighamYoungUniversityIdaho.php">Brigham Young University-Idaho</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="The Purple Flash"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1096.jpg"alt="The Purple Flash"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 The Purple Flash

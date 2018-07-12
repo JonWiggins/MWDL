@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah 2002 Olympic Legacy Collection, AMP">
 <!-- Collection #1051 -->
 <!-- Collection Title -->
 <title>Utah 2002 Olympic Legacy Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="BRONZE SCULPTURE, SKATER BY DENNIS SMITH"width="232" height ="320"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1051.jpg"alt="BRONZE SCULPTURE, SKATER BY DENNIS SMITH"width="232" height ="320"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 BRONZE SCULPTURE, SKATER BY DENNIS SMITH

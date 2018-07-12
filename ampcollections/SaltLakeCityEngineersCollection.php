@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Salt Lake City Engineers Collection, AMP">
 <!-- Collection #1036 -->
 <!-- Collection Title -->
 <title>Salt Lake City Engineers Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Mountain Dell Dam Construction"width="292" height ="231"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1036.jpg"alt="Mountain Dell Dam Construction"width="292" height ="231"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Mountain Dell Dam Construction

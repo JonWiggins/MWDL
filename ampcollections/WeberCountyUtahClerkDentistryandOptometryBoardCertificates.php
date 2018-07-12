@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Weber County (Utah) Clerk Dentistry and Optometry Board Certificates, AMP">
 <!-- Collection #2452 -->
 <!-- Collection Title -->
 <title>Weber County (Utah) Clerk Dentistry and Optometry Board Certificates</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Weber County (Utah) Clerk Dentistry and Optometry Board Certificates"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2452.jpg"alt="Weber County (Utah) Clerk Dentistry and Optometry Board Certificates"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Weber County (Utah) Clerk Dentistry and Optometry Board Certificates

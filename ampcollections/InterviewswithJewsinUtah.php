@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Interviews with Jews in Utah, AMP">
 <!-- Collection #2202 -->
 <!-- Collection Title -->
 <title>Interviews with Jews in Utah</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>""width="250" height ="300"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2202.jpg"alt=""<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>""width="250" height ="300"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 "<em>I. J. ""Izzie"" Wagner, Interviews with Jews in Utah, Accn 998</em>"

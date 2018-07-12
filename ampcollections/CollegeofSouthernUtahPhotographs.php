@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="College of Southern Utah Photographs, AMP">
 <!-- Collection #1620 -->
 <!-- Collection Title -->
 <title>College of Southern Utah Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Scene from CSU production of The Bad Seed"width="353" height ="241"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1620.jpg"alt="Scene from CSU production of The Bad Seed"width="353" height ="241"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Scene from CSU production of The Bad Seed

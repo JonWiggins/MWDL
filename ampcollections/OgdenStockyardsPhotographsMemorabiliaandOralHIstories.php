@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Ogden Stockyards Photographs, Memorabilia and Oral HIstories, AMP">
 <!-- Collection #2342 -->
 <!-- Collection Title -->
 <title>Ogden Stockyards Photographs, Memorabilia and Oral HIstories</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="1920-1930 Cow"width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2342.jpg"alt="1920-1930 Cow"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 1920-1930 Cow

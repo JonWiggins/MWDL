@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Neuro-Ophthalmology: David E. Newman-Toker Collection, AMP">
 <!-- Collection #1510 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: David E. Newman-Toker Collection</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php">University of Utah - Spencer S. Eccles Health Sciences Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="208" height ="156"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1510.jpg"alt=""width="208" height ="156"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 

@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Utah Governor Jon M. Huntsman (2005-2009). Schedule, AMP">
 <!-- Collection #1625 -->
 <!-- Collection Title -->
 <title>Utah Governor Jon M. Huntsman (2005-2009). Schedule</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt="Jon Huntsman's Schedule January 2005"width="334" height ="448"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1625.jpg"alt="Jon Huntsman's Schedule January 2005"width="334" height ="448"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Jon Huntsman's Schedule January 2005

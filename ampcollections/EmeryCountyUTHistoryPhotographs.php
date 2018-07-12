@@ -1,4 +1,5 @@
 <?php include("../includes/ampheader.php");?>
+<meta name="description" content="Emery County (UT) History Photographs, AMP">
 <!-- Collection #1279 -->
 <!-- Collection Title -->
 <title>Emery County (UT) History Photographs</title>
@@ -12,7 +13,7 @@
 <h6> Published by <a href="../partners/EmeryCountyUTArchives.php">Emery County (UT) Archives</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/alt=""width="320" height ="233"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1279.jpg"alt=""width="320" height ="233"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 
