@@ -142,6 +142,7 @@ public class AnalyticsGenerator {
                     writer.println("Page View Statistics for " + currentMonth + " 2018");
 
                     for(AnalyticsPartner currentPartner : partners){
+
                         System.out.println(currentHub + " " + currentPartner.name);
 
                         if(currentPartner.hubID.equals(currentHub)){
@@ -149,7 +150,7 @@ public class AnalyticsGenerator {
 
                             if(currentList.size() > 0){
                                 writer.println(currentPartner.name);
-
+                                writer.println("Page,Pageviews,Unique Pageviews,Avg. Time on Page,Entrances,Bounce Rate,% Exit,Page Value");
                                 for(String line : currentList){
                                     writer.println(line);
                                 }
