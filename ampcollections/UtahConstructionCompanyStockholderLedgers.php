@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company: Stockholder Ledgers, AMP">
+<meta name="description" content="Utah Construction Company: Stockholder Ledgers, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1853 -->
 <!-- Collection Title -->
 <title>Utah Construction Company: Stockholder Ledgers</title>

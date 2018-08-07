@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Legislature. House of Representatives Working Bills, 1896-1989, AMP">
+<meta name="description" content="Utah Legislature. House of Representatives Working Bills, 1896-1989, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2032 -->
 <!-- Collection Title -->
 <title>Utah Legislature. House of Representatives Working Bills, 1896-1989</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="FolkBistro, AMP">
+<meta name="description" content="FolkBistro, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1264 -->
 <!-- Collection Title -->
 <title>FolkBistro</title>

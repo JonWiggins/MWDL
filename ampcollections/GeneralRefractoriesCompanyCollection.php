@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="General Refractories Company Collection, AMP">
+<meta name="description" content="General Refractories Company Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2465 -->
 <!-- Collection Title -->
 <title>General Refractories Company Collection</title>

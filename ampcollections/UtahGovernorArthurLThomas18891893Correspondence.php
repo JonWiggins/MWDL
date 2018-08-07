@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor Arthur L. Thomas (1889-1893) Correspondence, AMP">
+<meta name="description" content="Utah Governor Arthur L. Thomas (1889-1893) Correspondence, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1879 -->
 <!-- Collection Title -->
 <title>Utah Governor Arthur L. Thomas (1889-1893) Correspondence</title>

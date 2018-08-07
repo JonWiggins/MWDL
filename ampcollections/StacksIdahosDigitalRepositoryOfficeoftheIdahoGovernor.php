@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Stacks: Idaho's Digital Repository - Office of the Idaho Governor, AMP">
+<meta name="description" content="Stacks: Idaho's Digital Repository - Office of the Idaho Governor, a MWDL collection, presented by Idaho Commission for Libraries">
 <!-- Collection #2142 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Office of the Idaho Governor</title>

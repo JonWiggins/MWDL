@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Technical College Women's Association Scrapbooks, AMP">
+<meta name="description" content="Utah Technical College Women's Association Scrapbooks, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2170 -->
 <!-- Collection Title -->
 <title>Utah Technical College Women's Association Scrapbooks</title>

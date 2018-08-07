@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Hiram B. Clawson Papers, AMP">
+<meta name="description" content="Hiram B. Clawson Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1898 -->
 <!-- Collection Title -->
 <title>Hiram B. Clawson Papers</title>

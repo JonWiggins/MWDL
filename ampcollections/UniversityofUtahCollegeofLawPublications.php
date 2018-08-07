@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah College of Law Publications, AMP">
+<meta name="description" content="University of Utah College of Law Publications, a MWDL collection, presented by University of Utah - James E. Faust Law Library">
 <!-- Collection #1527 -->
 <!-- Collection Title -->
 <title>University of Utah College of Law Publications</title>

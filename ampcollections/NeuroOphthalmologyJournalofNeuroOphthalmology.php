@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Journal of Neuro-Ophthalmology, AMP">
+<meta name="description" content="Neuro-Ophthalmology: Journal of Neuro-Ophthalmology, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1311 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Journal of Neuro-Ophthalmology</title>

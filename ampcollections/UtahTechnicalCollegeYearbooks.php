@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Technical College Yearbooks, AMP">
+<meta name="description" content="Utah Technical College Yearbooks, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1278 -->
 <!-- Collection Title -->
 <title>Utah Technical College Yearbooks</title>

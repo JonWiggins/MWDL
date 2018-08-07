@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lyman Wilbur Afghanistan, AMP">
+<meta name="description" content="Lyman Wilbur Afghanistan, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2217 -->
 <!-- Collection Title -->
 <title>Lyman Wilbur Afghanistan</title>

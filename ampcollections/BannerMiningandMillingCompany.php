@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Banner Mining and Milling Company, AMP">
+<meta name="description" content="Banner Mining and Milling Company, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2315 -->
 <!-- Collection Title -->
 <title>Banner Mining and Milling Company</title>

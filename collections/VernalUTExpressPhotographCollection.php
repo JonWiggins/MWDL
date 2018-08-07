@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Vernal (UT) Express Photograph Collection">
+<meta name="description" content="Vernal (UT) Express Photograph Collection, a MWDL collection, presented by Uintah County (UT) Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

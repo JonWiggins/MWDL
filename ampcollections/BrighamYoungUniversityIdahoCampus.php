@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University-Idaho Campus, AMP">
+<meta name="description" content="Brigham Young University-Idaho Campus, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1055 -->
 <!-- Collection Title -->
 <title>Brigham Young University-Idaho Campus</title>

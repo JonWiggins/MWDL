@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Fife Slide Collection of Western U.S. Vernacular Architecture, AMP">
+<meta name="description" content="Fife Slide Collection of Western U.S. Vernacular Architecture, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1135 -->
 <!-- Collection Title -->
 <title>Fife Slide Collection of Western U.S. Vernacular Architecture</title>

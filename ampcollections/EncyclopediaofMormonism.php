@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Encyclopedia of Mormonism, AMP">
+<meta name="description" content="Encyclopedia of Mormonism, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1214 -->
 <!-- Collection Title -->
 <title>Encyclopedia of Mormonism</title>

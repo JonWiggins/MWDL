@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Juanita Brooks Photograph Collection, 1928-1981, AMP">
+<meta name="description" content="Juanita Brooks Photograph Collection, 1928-1981, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1908 -->
 <!-- Collection Title -->
 <title>Juanita Brooks Photograph Collection, 1928-1981</title>

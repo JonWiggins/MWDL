@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Historical Statutes, AMP">
+<meta name="description" content="Utah Historical Statutes, a MWDL collection, presented by University of Utah - James E. Faust Law Library">
 <!-- Collection #1166 -->
 <!-- Collection Title -->
 <title>Utah Historical Statutes</title>

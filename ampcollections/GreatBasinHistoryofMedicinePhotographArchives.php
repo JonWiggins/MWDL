@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Great Basin History of Medicine Photograph Archives, AMP">
+<meta name="description" content="Great Basin History of Medicine Photograph Archives, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1206 -->
 <!-- Collection Title -->
 <title>Great Basin History of Medicine Photograph Archives</title>

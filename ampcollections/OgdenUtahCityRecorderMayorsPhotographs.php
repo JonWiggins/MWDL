@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden (Utah) City Recorder Mayors Photographs, AMP">
+<meta name="description" content="Ogden (Utah) City Recorder Mayors Photographs, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2293 -->
 <!-- Collection Title -->
 <title>Ogden (Utah) City Recorder Mayors Photographs</title>

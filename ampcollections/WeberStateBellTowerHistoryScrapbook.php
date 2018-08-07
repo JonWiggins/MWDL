@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Bell Tower History Scrapbook, AMP">
+<meta name="description" content="Weber State Bell Tower History Scrapbook, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2020 -->
 <!-- Collection Title -->
 <title>Weber State Bell Tower History Scrapbook</title>

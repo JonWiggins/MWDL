@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor's Olympic Collection, AMP">
+<meta name="description" content="Utah Governor's Olympic Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1039 -->
 <!-- Collection Title -->
 <title>Utah Governor's Olympic Collection</title>

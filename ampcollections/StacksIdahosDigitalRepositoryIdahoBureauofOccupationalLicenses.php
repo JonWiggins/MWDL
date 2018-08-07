@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Stacks: Idaho's Digital Repository - Idaho Bureau of Occupational Licenses, AMP">
+<meta name="description" content="Stacks: Idaho's Digital Repository - Idaho Bureau of Occupational Licenses, a MWDL collection, presented by Idaho Commission for Libraries">
 <!-- Collection #2144 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Idaho Bureau of Occupational Licenses</title>

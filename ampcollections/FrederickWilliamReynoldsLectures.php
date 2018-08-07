@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frederick William Reynolds Lectures, AMP">
+<meta name="description" content="Frederick William Reynolds Lectures, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1326 -->
 <!-- Collection Title -->
 <title>Frederick William Reynolds Lectures</title>

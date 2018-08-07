@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cache County Plat Map Photograph Collection, AMP">
+<meta name="description" content="Cache County Plat Map Photograph Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2323 -->
 <!-- Collection Title -->
 <title>Cache County Plat Map Photograph Collection</title>

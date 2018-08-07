@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Newton and Cache Junction (UT) Historical Collection, AMP">
+<meta name="description" content="Newton and Cache Junction (UT) Historical Collection, a MWDL collection, presented by Newton Town (UT) Library">
 <!-- Collection #2164 -->
 <!-- Collection Title -->
 <title>Newton and Cache Junction (UT) Historical Collection</title>

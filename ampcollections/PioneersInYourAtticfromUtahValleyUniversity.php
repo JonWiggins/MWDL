@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Pioneers In Your Attic from Utah Valley University, AMP">
+<meta name="description" content="Pioneers In Your Attic from Utah Valley University, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2061 -->
 <!-- Collection Title -->
 <title>Pioneers In Your Attic from Utah Valley University</title>

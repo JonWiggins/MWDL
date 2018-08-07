@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="J. Bracken Lee: Selections from Archive held at USU Eastern Campus, AMP">
+<meta name="description" content="J. Bracken Lee: Selections from Archive held at USU Eastern Campus, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1790 -->
 <!-- Collection Title -->
 <title>J. Bracken Lee: Selections from Archive held at USU Eastern Campus</title>

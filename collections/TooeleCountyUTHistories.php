@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Tooele County (UT) Histories">
+<meta name="description" content="Tooele County (UT) Histories, a MWDL collection, presented by Tooele (UT) City Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

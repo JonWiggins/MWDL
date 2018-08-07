@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Fredrick and Nellie Hill Salt Lake City Photograph Collection, AMP">
+<meta name="description" content="Fredrick and Nellie Hill Salt Lake City Photograph Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2352 -->
 <!-- Collection Title -->
 <title>Fredrick and Nellie Hill Salt Lake City Photograph Collection</title>

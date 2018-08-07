@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Logan Public Library - Logan, Utah Digital Collection">
+<meta name="description" content="Logan Public Library - Logan, Utah Digital Collection, a MWDL collection, presented by Logan (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

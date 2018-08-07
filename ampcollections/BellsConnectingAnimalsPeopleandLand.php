@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Bells: Connecting Animals, People, and Land, AMP">
+<meta name="description" content="Bells: Connecting Animals, People, and Land, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1560 -->
 <!-- Collection Title -->
 <title>Bells: Connecting Animals, People, and Land</title>

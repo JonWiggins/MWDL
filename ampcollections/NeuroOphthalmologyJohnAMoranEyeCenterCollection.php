@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: John A. Moran Eye Center Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: John A. Moran Eye Center Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1184 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: John A. Moran Eye Center Collection</title>

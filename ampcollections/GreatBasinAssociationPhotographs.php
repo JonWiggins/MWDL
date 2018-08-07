@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Great Basin Association Photographs, AMP">
+<meta name="description" content="Great Basin Association Photographs, a MWDL collection, presented by Great Basin Association">
 <!-- Collection #1011 -->
 <!-- Collection Title -->
 <title>Great Basin Association Photographs</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Colorado Riverbed Case, AMP">
+<meta name="description" content="Colorado Riverbed Case, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1004 -->
 <!-- Collection Title -->
 <title>Colorado Riverbed Case</title>

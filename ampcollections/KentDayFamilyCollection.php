@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Kent Day Family Collection, AMP">
+<meta name="description" content="Kent Day Family Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2208 -->
 <!-- Collection Title -->
 <title>Kent Day Family Collection</title>

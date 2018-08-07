@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Historical Exhibits, AMP">
+<meta name="description" content="Weber State Historical Exhibits, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2345 -->
 <!-- Collection Title -->
 <title>Weber State Historical Exhibits</title>

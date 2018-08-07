@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Orem (UT) Heritage Museum">
+<meta name="description" content="Orem (UT) Heritage Museum, a MWDL collection, presented by Orem (UT) Heritage Museum">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State University Special Collections Digital Exhibits, AMP">
+<meta name="description" content="Utah State University Special Collections Digital Exhibits, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1233 -->
 <!-- Collection Title -->
 <title>Utah State University Special Collections Digital Exhibits</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Frank Beckwith Collection">
+<meta name="description" content="Frank Beckwith Collection, a MWDL collection, presented by Delta (UT) City Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

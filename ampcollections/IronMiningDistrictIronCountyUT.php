@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Iron Mining District (Iron County, UT), AMP">
+<meta name="description" content="Iron Mining District (Iron County, UT), a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1106 -->
 <!-- Collection Title -->
 <title>Iron Mining District (Iron County, UT)</title>

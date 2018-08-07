@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 010 Count Otto Franc Von Lichtenstein Collection, AMP">
+<meta name="description" content="MS 010 Count Otto Franc Von Lichtenstein Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2273 -->
 <!-- Collection Title -->
 <title>MS 010 Count Otto Franc Von Lichtenstein Collection</title>

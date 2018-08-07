@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="George Cannon Young Architecture, AMP">
+<meta name="description" content="George Cannon Young Architecture, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2224 -->
 <!-- Collection Title -->
 <title>George Cannon Young Architecture</title>

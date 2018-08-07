@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: John S. Kennerdell Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: John S. Kennerdell Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1185 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: John S. Kennerdell Collection</title>

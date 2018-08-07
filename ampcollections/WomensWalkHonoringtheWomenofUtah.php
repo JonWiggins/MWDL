@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Women's Walk: Honoring the Women of Utah, AMP">
+<meta name="description" content="Women's Walk: Honoring the Women of Utah, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1955 -->
 <!-- Collection Title -->
 <title>Women's Walk: Honoring the Women of Utah</title>

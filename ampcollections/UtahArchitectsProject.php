@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Architects Project, AMP">
+<meta name="description" content="Utah Architects Project, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1644 -->
 <!-- Collection Title -->
 <title>Utah Architects Project</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Journal of Mormon History">
+<meta name="description" content="Journal of Mormon History, a MWDL collection, presented by Mormon History Association">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

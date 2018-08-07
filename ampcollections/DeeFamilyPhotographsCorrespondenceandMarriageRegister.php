@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dee Family Photographs, Correspondence and Marriage Register, AMP">
+<meta name="description" content="Dee Family Photographs, Correspondence and Marriage Register, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1243 -->
 <!-- Collection Title -->
 <title>Dee Family Photographs, Correspondence and Marriage Register</title>

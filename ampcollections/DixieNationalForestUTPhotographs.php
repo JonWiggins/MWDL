@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dixie National Forest (UT) Photographs, AMP">
+<meta name="description" content="Dixie National Forest (UT) Photographs, a MWDL collection, presented by U.S. Forest Service, Dixie National Forest">
 <!-- Collection #1108 -->
 <!-- Collection Title -->
 <title>Dixie National Forest (UT) Photographs</title>

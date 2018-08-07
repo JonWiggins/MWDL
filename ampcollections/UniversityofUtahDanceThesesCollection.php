@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Dance Theses Collection, AMP">
+<meta name="description" content="University of Utah Dance Theses Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2064 -->
 <!-- Collection Title -->
 <title>University of Utah Dance Theses Collection</title>

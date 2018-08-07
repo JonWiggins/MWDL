@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Third District Case File Index, AMP">
+<meta name="description" content="Utah Third District Case File Index, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2289 -->
 <!-- Collection Title -->
 <title>Utah Third District Case File Index</title>

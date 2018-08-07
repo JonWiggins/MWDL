@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 294 William Bell, AMP">
+<meta name="description" content="MS 294 William Bell, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2283 -->
 <!-- Collection Title -->
 <title>MS 294 William Bell</title>

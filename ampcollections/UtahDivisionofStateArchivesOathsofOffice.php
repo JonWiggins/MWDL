@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Division of State Archives Oaths of Office, AMP">
+<meta name="description" content="Utah Division of State Archives Oaths of Office, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1302 -->
 <!-- Collection Title -->
 <title>Utah Division of State Archives Oaths of Office</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mormon Pacific Historical Society, AMP">
+<meta name="description" content="Mormon Pacific Historical Society, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1082 -->
 <!-- Collection Title -->
 <title>Mormon Pacific Historical Society</title>

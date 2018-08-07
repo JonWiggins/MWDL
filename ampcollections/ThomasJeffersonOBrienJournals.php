@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Thomas Jefferson O'Brien Journals, AMP">
+<meta name="description" content="Thomas Jefferson O'Brien Journals, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2226 -->
 <!-- Collection Title -->
 <title>Thomas Jefferson O'Brien Journals</title>

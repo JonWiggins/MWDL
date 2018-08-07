@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State University Press Publications, AMP">
+<meta name="description" content="Utah State University Press Publications, a MWDL collection, presented by Utah State University - USU Press">
 <!-- Collection #1650 -->
 <!-- Collection Title -->
 <title>Utah State University Press Publications</title>

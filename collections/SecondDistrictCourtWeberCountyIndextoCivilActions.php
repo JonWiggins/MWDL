@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Second District Court Weber County Index to Civil Actions">
+<meta name="description" content="Second District Court Weber County Index to Civil Actions, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

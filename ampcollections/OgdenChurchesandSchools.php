@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden Churches and Schools, AMP">
+<meta name="description" content="Ogden Churches and Schools, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1244 -->
 <!-- Collection Title -->
 <title>Ogden Churches and Schools</title>

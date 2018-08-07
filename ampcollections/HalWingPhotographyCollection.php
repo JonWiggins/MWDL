@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Hal Wing Photography Collection, AMP">
+<meta name="description" content="Hal Wing Photography Collection, a MWDL collection, presented by Utah Valley University - Woodbury Art Museum">
 <!-- Collection #2026 -->
 <!-- Collection Title -->
 <title>Hal Wing Photography Collection</title>

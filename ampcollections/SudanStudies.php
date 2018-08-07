@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Sudan Studies, AMP">
+<meta name="description" content="Sudan Studies, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1091 -->
 <!-- Collection Title -->
 <title>Sudan Studies</title>

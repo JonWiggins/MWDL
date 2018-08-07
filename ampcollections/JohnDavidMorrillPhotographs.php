@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John David Morrill Photographs, AMP">
+<meta name="description" content="John David Morrill Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1621 -->
 <!-- Collection Title -->
 <title>John David Morrill Photographs</title>

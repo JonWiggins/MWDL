@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="De Viller's Book of Hours: 15th Century Illuminated Manuscript, AMP">
+<meta name="description" content="De Viller's Book of Hours: 15th Century Illuminated Manuscript, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1240 -->
 <!-- Collection Title -->
 <title>De Viller's Book of Hours: 15th Century Illuminated Manuscript</title>

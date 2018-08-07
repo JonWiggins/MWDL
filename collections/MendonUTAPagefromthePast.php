@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Mendon (UT): A Page from the Past">
+<meta name="description" content="Mendon (UT): A Page from the Past, a MWDL collection, presented by Mendon (UT)">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

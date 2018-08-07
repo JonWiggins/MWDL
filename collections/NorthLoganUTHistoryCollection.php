@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="North Logan (UT) History Collection">
+<meta name="description" content="North Logan (UT) History Collection, a MWDL collection, presented by North Logan City (UT) Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

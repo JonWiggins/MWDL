@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="History of Monaco: Primary Documents, AMP">
+<meta name="description" content="History of Monaco: Primary Documents, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1922 -->
 <!-- Collection Title -->
 <title>History of Monaco: Primary Documents</title>

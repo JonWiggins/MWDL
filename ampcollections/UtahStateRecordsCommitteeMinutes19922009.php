@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State Records Committee. Minutes, 1992-2009, AMP">
+<meta name="description" content="Utah State Records Committee. Minutes, 1992-2009, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1629 -->
 <!-- Collection Title -->
 <title>Utah State Records Committee. Minutes, 1992-2009</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Our Daily Diary, Topaz War Relocation Center, AMP">
+<meta name="description" content="Our Daily Diary, Topaz War Relocation Center, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2303 -->
 <!-- Collection Title -->
 <title>Our Daily Diary, Topaz War Relocation Center</title>

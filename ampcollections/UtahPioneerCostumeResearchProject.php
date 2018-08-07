@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Pioneer Costume Research Project, AMP">
+<meta name="description" content="Utah Pioneer Costume Research Project, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2081 -->
 <!-- Collection Title -->
 <title>Utah Pioneer Costume Research Project</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah American Indian Digital Archive">
+<meta name="description" content="Utah American Indian Digital Archive, a MWDL collection, presented by University of Utah - American West Center">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

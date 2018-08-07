@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utonian Yearbooks, AMP">
+<meta name="description" content="Utonian Yearbooks, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1176 -->
 <!-- Collection Title -->
 <title>Utonian Yearbooks</title>

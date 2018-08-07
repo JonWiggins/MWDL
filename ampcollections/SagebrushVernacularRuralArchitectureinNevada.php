@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Sagebrush Vernacular: Rural Architecture in Nevada, AMP">
+<meta name="description" content="Sagebrush Vernacular: Rural Architecture in Nevada, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1122 -->
 <!-- Collection Title -->
 <title>Sagebrush Vernacular: Rural Architecture in Nevada</title>

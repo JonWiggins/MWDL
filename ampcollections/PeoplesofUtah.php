@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Peoples of Utah, AMP">
+<meta name="description" content="Peoples of Utah, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1254 -->
 <!-- Collection Title -->
 <title>Peoples of Utah</title>

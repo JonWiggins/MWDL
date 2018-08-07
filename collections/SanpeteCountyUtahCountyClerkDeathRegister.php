@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Sanpete County (Utah). County Clerk Death Register">
+<meta name="description" content="Sanpete County (Utah). County Clerk Death Register, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

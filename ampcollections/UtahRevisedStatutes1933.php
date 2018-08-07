@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Revised Statutes 1933, AMP">
+<meta name="description" content="Utah Revised Statutes 1933, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1303 -->
 <!-- Collection Title -->
 <title>Utah Revised Statutes 1933</title>

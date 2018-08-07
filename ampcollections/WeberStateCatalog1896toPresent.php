@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Catalog 1896 to Present, AMP">
+<meta name="description" content="Weber State Catalog 1896 to Present, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2023 -->
 <!-- Collection Title -->
 <title>Weber State Catalog 1896 to Present</title>

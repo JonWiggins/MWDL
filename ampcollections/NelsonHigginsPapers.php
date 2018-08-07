@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Nelson Higgins Papers, AMP">
+<meta name="description" content="Nelson Higgins Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2201 -->
 <!-- Collection Title -->
 <title>Nelson Higgins Papers</title>

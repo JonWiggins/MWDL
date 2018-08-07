@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Nell Shipman Collection, AMP">
+<meta name="description" content="Nell Shipman Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2179 -->
 <!-- Collection Title -->
 <title>Nell Shipman Collection</title>

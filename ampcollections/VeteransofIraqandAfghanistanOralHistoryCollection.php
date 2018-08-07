@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Veterans of Iraq and Afghanistan Oral History Collection, AMP">
+<meta name="description" content="Veterans of Iraq and Afghanistan Oral History Collection, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2118 -->
 <!-- Collection Title -->
 <title>Veterans of Iraq and Afghanistan Oral History Collection</title>

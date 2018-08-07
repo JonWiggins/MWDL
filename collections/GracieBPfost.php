@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Gracie B. Pfost">
+<meta name="description" content="Gracie B. Pfost, a MWDL collection, presented by Boise State University - Albertsons Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

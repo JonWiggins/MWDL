@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="University of Utah College of Architecture + Planning Collection">
+<meta name="description" content="University of Utah College of Architecture + Planning Collection, a MWDL collection, presented by University of Utah - College of Architecture and Planning">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

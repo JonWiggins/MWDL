@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958">
+<meta name="description" content="Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

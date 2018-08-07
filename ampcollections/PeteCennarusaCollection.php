@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Pete Cennarusa Collection, AMP">
+<meta name="description" content="Pete Cennarusa Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2219 -->
 <!-- Collection Title -->
 <title>Pete Cennarusa Collection</title>

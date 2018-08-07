@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Kathleen (Kitty) Gurnsey, AMP">
+<meta name="description" content="Kathleen (Kitty) Gurnsey, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2215 -->
 <!-- Collection Title -->
 <title>Kathleen (Kitty) Gurnsey</title>

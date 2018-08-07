@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cedar City (Utah) City and Cemetery Map, AMP">
+<meta name="description" content="Cedar City (Utah) City and Cemetery Map, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2286 -->
 <!-- Collection Title -->
 <title>Cedar City (Utah) City and Cemetery Map</title>

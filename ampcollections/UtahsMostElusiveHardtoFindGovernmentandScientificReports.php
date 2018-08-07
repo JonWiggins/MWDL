@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah's Most Elusive: Hard-to-Find Government and Scientific Reports, AMP">
+<meta name="description" content="Utah's Most Elusive: Hard-to-Find Government and Scientific Reports, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1139 -->
 <!-- Collection Title -->
 <title>Utah's Most Elusive: Hard-to-Find Government and Scientific Reports</title>

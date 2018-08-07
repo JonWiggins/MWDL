@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: David G. Cogan Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: David G. Cogan Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1180 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: David G. Cogan Collection</title>

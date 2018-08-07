@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Capitol Commission Capitol Building Plans, AMP">
+<meta name="description" content="Capitol Commission Capitol Building Plans, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2441 -->
 <!-- Collection Title -->
 <title>Capitol Commission Capitol Building Plans</title>

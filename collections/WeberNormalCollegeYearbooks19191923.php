@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Weber Normal College Yearbooks 1919-1923">
+<meta name="description" content="Weber Normal College Yearbooks 1919-1923, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

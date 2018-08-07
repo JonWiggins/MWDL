@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Evelyn and York Jones Books, AMP">
+<meta name="description" content="Evelyn and York Jones Books, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1200 -->
 <!-- Collection Title -->
 <title>Evelyn and York Jones Books</title>

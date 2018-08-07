@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="American Fork City (UT) Royalty">
+<meta name="description" content="American Fork City (UT) Royalty, a MWDL collection, presented by American Fork City (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

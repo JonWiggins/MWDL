@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Collecting Memories: Oral Histories of American Folklorists, AMP">
+<meta name="description" content="Collecting Memories: Oral Histories of American Folklorists, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1787 -->
 <!-- Collection Title -->
 <title>Collecting Memories: Oral Histories of American Folklorists</title>

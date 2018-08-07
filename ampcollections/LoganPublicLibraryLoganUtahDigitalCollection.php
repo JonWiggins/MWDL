@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Logan Public Library - Logan, Utah Digital Collection, AMP">
+<meta name="description" content="Logan Public Library - Logan, Utah Digital Collection, a MWDL collection, presented by Logan (UT) Public Library">
 <!-- Collection #2203 -->
 <!-- Collection Title -->
 <title>Logan Public Library - Logan, Utah Digital Collection</title>

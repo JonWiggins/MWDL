@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Humanities In Focus, AMP">
+<meta name="description" content="University of Utah Humanities In Focus, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2106 -->
 <!-- Collection Title -->
 <title>University of Utah Humanities In Focus</title>

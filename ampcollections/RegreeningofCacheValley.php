@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Regreening of Cache Valley, AMP">
+<meta name="description" content="Regreening of Cache Valley, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1867 -->
 <!-- Collection Title -->
 <title>Regreening of Cache Valley</title>

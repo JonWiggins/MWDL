@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Campus Photographs, AMP">
+<meta name="description" content="Brigham Young University Campus Photographs, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1086 -->
 <!-- Collection Title -->
 <title>Brigham Young University Campus Photographs</title>

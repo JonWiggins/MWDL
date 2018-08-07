@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Park City (UT) Historical Society and Museum Collection">
+<meta name="description" content="Park City (UT) Historical Society and Museum Collection, a MWDL collection, presented by Park City (UT) Historical Society &amp">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

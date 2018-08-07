@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden Buildings by Street, AMP">
+<meta name="description" content="Ogden Buildings by Street, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2014 -->
 <!-- Collection Title -->
 <title>Ogden Buildings by Street</title>

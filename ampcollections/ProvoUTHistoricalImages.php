@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Provo (UT) Historical Images, AMP">
+<meta name="description" content="Provo (UT) Historical Images, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1314 -->
 <!-- Collection Title -->
 <title>Provo (UT) Historical Images</title>

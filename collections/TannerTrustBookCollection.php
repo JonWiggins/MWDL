@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Tanner Trust Book Collection">
+<meta name="description" content="Tanner Trust Book Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

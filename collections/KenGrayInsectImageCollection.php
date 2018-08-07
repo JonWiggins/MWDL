@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Ken Gray Insect Image Collection">
+<meta name="description" content="Ken Gray Insect Image Collection, a MWDL collection, presented by Oregon State University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

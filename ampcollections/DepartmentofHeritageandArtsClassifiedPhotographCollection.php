@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Department of Heritage and Arts Classified Photograph Collection, AMP">
+<meta name="description" content="Department of Heritage and Arts Classified Photograph Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1038 -->
 <!-- Collection Title -->
 <title>Department of Heritage and Arts Classified Photograph Collection</title>

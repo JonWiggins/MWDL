@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State Historical Society Organizational History, AMP">
+<meta name="description" content="Utah State Historical Society Organizational History, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2436 -->
 <!-- Collection Title -->
 <title>Utah State Historical Society Organizational History</title>

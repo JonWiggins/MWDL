@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Historical Photographs: Walter M. Camp Collection, AMP">
+<meta name="description" content="Brigham Young University Historical Photographs: Walter M. Camp Collection, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1071 -->
 <!-- Collection Title -->
 <title>Brigham Young University Historical Photographs: Walter M. Camp Collection</title>

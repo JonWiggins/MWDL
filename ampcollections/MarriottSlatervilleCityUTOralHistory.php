@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Marriott-Slaterville City (UT) Oral History, AMP">
+<meta name="description" content="Marriott-Slaterville City (UT) Oral History, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1844 -->
 <!-- Collection Title -->
 <title>Marriott-Slaterville City (UT) Oral History</title>

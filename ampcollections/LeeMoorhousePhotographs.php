@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lee Moorhouse Photographs, AMP">
+<meta name="description" content="Lee Moorhouse Photographs, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2414 -->
 <!-- Collection Title -->
 <title>Lee Moorhouse Photographs</title>

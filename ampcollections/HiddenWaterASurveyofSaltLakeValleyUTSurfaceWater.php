@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water, AMP">
+<meta name="description" content="Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1630 -->
 <!-- Collection Title -->
 <title>Hidden Water: A Survey of Salt Lake Valley (UT) Surface Water</title>

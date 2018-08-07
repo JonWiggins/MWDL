@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Weber State University Buildings 1 and 2: A Photo History">
+<meta name="description" content="Weber State University Buildings 1 and 2: A Photo History, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

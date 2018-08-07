@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Power and Light Photographs, 1940s-1950s, AMP">
+<meta name="description" content="Utah Power and Light Photographs, 1940s-1950s, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2232 -->
 <!-- Collection Title -->
 <title>Utah Power and Light Photographs, 1940s-1950s</title>

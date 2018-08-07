@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Legislature. Senate Working Bills, AMP">
+<meta name="description" content="Utah Legislature. Senate Working Bills, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1618 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Senate Working Bills</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Orem (UT) Heritage Museum, AMP">
+<meta name="description" content="Orem (UT) Heritage Museum, a MWDL collection, presented by Orem (UT) Heritage Museum">
 <!-- Collection #1538 -->
 <!-- Collection Title -->
 <title>Orem (UT) Heritage Museum</title>

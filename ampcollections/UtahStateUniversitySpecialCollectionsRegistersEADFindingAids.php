@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State University Special Collections Registers (EAD Finding Aids), AMP">
+<meta name="description" content="Utah State University Special Collections Registers (EAD Finding Aids), a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1647 -->
 <!-- Collection Title -->
 <title>Utah State University Special Collections Registers (EAD Finding Aids)</title>

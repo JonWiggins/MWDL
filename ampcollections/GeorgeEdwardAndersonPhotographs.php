@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="George Edward Anderson Photographs, AMP">
+<meta name="description" content="George Edward Anderson Photographs, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1068 -->
 <!-- Collection Title -->
 <title>George Edward Anderson Photographs</title>

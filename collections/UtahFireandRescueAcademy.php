@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Fire and Rescue Academy">
+<meta name="description" content="Utah Fire and Rescue Academy, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

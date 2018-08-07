@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Daughters of the American Revolution Papers, AMP">
+<meta name="description" content="University of Utah Daughters of the American Revolution Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2228 -->
 <!-- Collection Title -->
 <title>University of Utah Daughters of the American Revolution Papers</title>

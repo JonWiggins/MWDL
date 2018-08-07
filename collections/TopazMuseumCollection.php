@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Topaz Museum Collection">
+<meta name="description" content="Topaz Museum Collection, a MWDL collection, presented by Topaz Museum (Delta, UT)">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

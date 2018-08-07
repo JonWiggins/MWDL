@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985, AMP">
+<meta name="description" content="Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1141 -->
 <!-- Collection Title -->
 <title>Grouse Creek Cultural Survey: Mormon Buckaroo Territory, 1985</title>

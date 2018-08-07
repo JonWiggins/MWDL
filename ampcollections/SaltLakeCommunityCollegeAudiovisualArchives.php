@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake Community College Audiovisual Archives, AMP">
+<meta name="description" content="Salt Lake Community College Audiovisual Archives, a MWDL collection, presented by Salt Lake Community College Libraries">
 <!-- Collection #2112 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Audiovisual Archives</title>

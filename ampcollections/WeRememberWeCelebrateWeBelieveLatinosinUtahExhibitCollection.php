@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="We Remember, We Celebrate, We Believe: Latinos in Utah Exhibit Collection, AMP">
+<meta name="description" content="We Remember, We Celebrate, We Believe: Latinos in Utah Exhibit Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2469 -->
 <!-- Collection Title -->
 <title>We Remember, We Celebrate, We Believe: Latinos in Utah Exhibit Collection</title>

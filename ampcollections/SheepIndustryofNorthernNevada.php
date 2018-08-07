@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Sheep Industry of Northern Nevada, AMP">
+<meta name="description" content="Sheep Industry of Northern Nevada, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1830 -->
 <!-- Collection Title -->
 <title>Sheep Industry of Northern Nevada</title>

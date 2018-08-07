@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Florence M. Hartshorn photographs, 1899-1900">
+<meta name="description" content="Florence M. Hartshorn photographs, 1899-1900, a MWDL collection, presented by University of Oregon Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

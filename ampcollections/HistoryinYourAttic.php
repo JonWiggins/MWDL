@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="History in Your Attic, AMP">
+<meta name="description" content="History in Your Attic, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2154 -->
 <!-- Collection Title -->
 <title>History in Your Attic</title>

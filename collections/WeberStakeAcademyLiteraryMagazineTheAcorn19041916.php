@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Weber Stake Academy Literary Magazine The Acorn 1904-1916">
+<meta name="description" content="Weber Stake Academy Literary Magazine The Acorn 1904-1916, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

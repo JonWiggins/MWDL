@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="World War I Edmond (Ted) Littlefield, AMP">
+<meta name="description" content="World War I Edmond (Ted) Littlefield, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1865 -->
 <!-- Collection Title -->
 <title>World War I Edmond (Ted) Littlefield</title>

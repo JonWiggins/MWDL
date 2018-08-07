@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Telling Our Story: An Oral History of Utah Valley University">
+<meta name="description" content="Telling Our Story: An Oral History of Utah Valley University, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

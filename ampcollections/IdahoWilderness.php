@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Idaho Wilderness, AMP">
+<meta name="description" content="Idaho Wilderness, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2214 -->
 <!-- Collection Title -->
 <title>Idaho Wilderness</title>

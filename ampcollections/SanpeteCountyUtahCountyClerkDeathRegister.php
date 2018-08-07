@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Sanpete County (Utah). County Clerk Death Register, AMP">
+<meta name="description" content="Sanpete County (Utah). County Clerk Death Register, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1557 -->
 <!-- Collection Title -->
 <title>Sanpete County (Utah). County Clerk Death Register</title>

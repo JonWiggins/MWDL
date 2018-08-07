@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ellis Reynolds Shipp Papers, AMP">
+<meta name="description" content="Ellis Reynolds Shipp Papers, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2304 -->
 <!-- Collection Title -->
 <title>Ellis Reynolds Shipp Papers</title>

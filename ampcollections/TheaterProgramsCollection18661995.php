@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Theater Programs Collection, 1866-1995, AMP">
+<meta name="description" content="Theater Programs Collection, 1866-1995, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2230 -->
 <!-- Collection Title -->
 <title>Theater Programs Collection, 1866-1995</title>

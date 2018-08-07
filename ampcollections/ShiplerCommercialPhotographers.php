@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Shipler Commercial Photographers, AMP">
+<meta name="description" content="Shipler Commercial Photographers, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1040 -->
 <!-- Collection Title -->
 <title>Shipler Commercial Photographers</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="European Performance Arts (1600-1899), AMP">
+<meta name="description" content="European Performance Arts (1600-1899), a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1170 -->
 <!-- Collection Title -->
 <title>European Performance Arts (1600-1899)</title>

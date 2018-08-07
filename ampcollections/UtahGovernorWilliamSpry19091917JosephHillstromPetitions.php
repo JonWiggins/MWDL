@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Petitions, AMP">
+<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Petitions, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2297 -->
 <!-- Collection Title -->
 <title>Utah Governor William Spry (1909-1917) Joseph Hillstrom Petitions</title>

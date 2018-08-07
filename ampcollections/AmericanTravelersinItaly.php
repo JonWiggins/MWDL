@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="American Travelers in Italy, AMP">
+<meta name="description" content="American Travelers in Italy, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1216 -->
 <!-- Collection Title -->
 <title>American Travelers in Italy</title>

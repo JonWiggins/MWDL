@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Images of Lake Tahoe, AMP">
+<meta name="description" content="Images of Lake Tahoe, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1121 -->
 <!-- Collection Title -->
 <title>Images of Lake Tahoe</title>

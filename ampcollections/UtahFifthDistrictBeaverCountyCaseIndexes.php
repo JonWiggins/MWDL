@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Fifth District: Beaver County Case Indexes, AMP">
+<meta name="description" content="Utah Fifth District: Beaver County Case Indexes, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1266 -->
 <!-- Collection Title -->
 <title>Utah Fifth District: Beaver County Case Indexes</title>

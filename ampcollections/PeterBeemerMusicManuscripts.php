@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Peter Beemer Music Manuscripts, AMP">
+<meta name="description" content="Peter Beemer Music Manuscripts, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2220 -->
 <!-- Collection Title -->
 <title>Peter Beemer Music Manuscripts</title>

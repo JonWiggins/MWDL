@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Larson Studio Negative Collection, AMP">
+<meta name="description" content="Larson Studio Negative Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1603 -->
 <!-- Collection Title -->
 <title>Larson Studio Negative Collection</title>

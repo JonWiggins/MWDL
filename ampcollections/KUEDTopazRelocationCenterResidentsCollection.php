@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="KUED Topaz Relocation Center Residents Collection, AMP">
+<meta name="description" content="KUED Topaz Relocation Center Residents Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1909 -->
 <!-- Collection Title -->
 <title>KUED Topaz Relocation Center Residents Collection</title>

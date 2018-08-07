@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Interviews with Japanese in Utah, AMP">
+<meta name="description" content="University of Utah Interviews with Japanese in Utah, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2063 -->
 <!-- Collection Title -->
 <title>University of Utah Interviews with Japanese in Utah</title>

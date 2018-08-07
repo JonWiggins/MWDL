@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="American Fork City (UT) Royalty, AMP">
+<meta name="description" content="American Fork City (UT) Royalty, a MWDL collection, presented by American Fork City (UT) Public Library">
 <!-- Collection #2134 -->
 <!-- Collection Title -->
 <title>American Fork City (UT) Royalty</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dan Powell photographs, 1970s-2000s, AMP">
+<meta name="description" content="Dan Powell photographs, 1970s-2000s, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2258 -->
 <!-- Collection Title -->
 <title>Dan Powell photographs, 1970s-2000s</title>

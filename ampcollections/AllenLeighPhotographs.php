@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Allen Leigh Photographs, AMP">
+<meta name="description" content="Allen Leigh Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1257 -->
 <!-- Collection Title -->
 <title>Allen Leigh Photographs</title>

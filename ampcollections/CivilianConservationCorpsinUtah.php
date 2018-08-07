@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Civilian Conservation Corps in Utah, AMP">
+<meta name="description" content="Civilian Conservation Corps in Utah, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1037 -->
 <!-- Collection Title -->
 <title>Civilian Conservation Corps in Utah</title>

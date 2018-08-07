@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Middle East Collections, AMP">
+<meta name="description" content="Middle East Collections, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1172 -->
 <!-- Collection Title -->
 <title>Middle East Collections</title>

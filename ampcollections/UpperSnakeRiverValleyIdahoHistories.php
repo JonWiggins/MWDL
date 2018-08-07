@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Upper Snake River Valley Idaho Histories, AMP">
+<meta name="description" content="Upper Snake River Valley Idaho Histories, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1090 -->
 <!-- Collection Title -->
 <title>Upper Snake River Valley Idaho Histories</title>

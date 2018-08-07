@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Fifth District: Beaver County Case Indexes">
+<meta name="description" content="Utah Fifth District: Beaver County Case Indexes, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

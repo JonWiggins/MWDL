@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Southern Utah University Drama Photographs, AMP">
+<meta name="description" content="Southern Utah University Drama Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1258 -->
 <!-- Collection Title -->
 <title>Southern Utah University Drama Photographs</title>

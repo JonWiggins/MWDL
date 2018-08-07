@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Journal of Discourses, AMP">
+<meta name="description" content="Journal of Discourses, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1073 -->
 <!-- Collection Title -->
 <title>Journal of Discourses</title>

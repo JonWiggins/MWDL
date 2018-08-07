@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Historic Boise State Collection, AMP">
+<meta name="description" content="Historic Boise State Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2177 -->
 <!-- Collection Title -->
 <title>Historic Boise State Collection</title>

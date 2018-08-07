@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden (Utah) Police Arrest and Jail Record Books, AMP">
+<meta name="description" content="Ogden (Utah) Police Arrest and Jail Record Books, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2448 -->
 <!-- Collection Title -->
 <title>Ogden (Utah) Police Arrest and Jail Record Books</title>

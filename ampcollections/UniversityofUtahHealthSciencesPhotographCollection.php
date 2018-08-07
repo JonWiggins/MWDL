@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Health Sciences Photograph Collection, AMP">
+<meta name="description" content="University of Utah Health Sciences Photograph Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1188 -->
 <!-- Collection Title -->
 <title>University of Utah Health Sciences Photograph Collection</title>

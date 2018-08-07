@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Charles Ford Photographs, AMP">
+<meta name="description" content="Charles Ford Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1882 -->
 <!-- Collection Title -->
 <title>Charles Ford Photographs</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Orem (UT) School Yearbooks">
+<meta name="description" content="Orem (UT) School Yearbooks, a MWDL collection, presented by Orem (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

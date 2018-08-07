@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Territorial Militia Records Index">
+<meta name="description" content="Utah Territorial Militia Records Index, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

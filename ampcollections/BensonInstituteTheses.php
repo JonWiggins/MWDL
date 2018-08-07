@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Benson Institute Theses, AMP">
+<meta name="description" content="Benson Institute Theses, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1053 -->
 <!-- Collection Title -->
 <title>Benson Institute Theses</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dialogue: A Journal of Mormon Thought, AMP">
+<meta name="description" content="Dialogue: A Journal of Mormon Thought, a MWDL collection, presented by Dialogue Foundation">
 <!-- Collection #1007 -->
 <!-- Collection Title -->
 <title>Dialogue: A Journal of Mormon Thought</title>

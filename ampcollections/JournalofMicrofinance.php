@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Journal of Microfinance, AMP">
+<meta name="description" content="Journal of Microfinance, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1075 -->
 <!-- Collection Title -->
 <title>Journal of Microfinance</title>

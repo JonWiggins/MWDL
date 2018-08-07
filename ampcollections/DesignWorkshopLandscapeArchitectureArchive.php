@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Design Workshop Landscape Architecture Archive, AMP">
+<meta name="description" content="Design Workshop Landscape Architecture Archive, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1611 -->
 <!-- Collection Title -->
 <title>Design Workshop Landscape Architecture Archive</title>

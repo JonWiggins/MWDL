@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company Hoover Dam Scrapbooks, AMP">
+<meta name="description" content="Utah Construction Company Hoover Dam Scrapbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1308 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Hoover Dam Scrapbooks</title>

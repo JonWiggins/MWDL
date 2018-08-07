@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Daughters of the Utah Pioneers, Springville (UT), AMP">
+<meta name="description" content="Daughters of the Utah Pioneers, Springville (UT), a MWDL collection, presented by Daughters of the Utah Pioneers, Springville (UT)">
 <!-- Collection #1541 -->
 <!-- Collection Title -->
 <title>Daughters of the Utah Pioneers, Springville (UT)</title>

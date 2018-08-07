@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Emery County (UT) History Photographs, AMP">
+<meta name="description" content="Emery County (UT) History Photographs, a MWDL collection, presented by Emery County (UT) Archives">
 <!-- Collection #1279 -->
 <!-- Collection Title -->
 <title>Emery County (UT) History Photographs</title>

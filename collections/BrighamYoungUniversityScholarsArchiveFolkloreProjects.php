@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Brigham Young University Scholar's Archive - Folklore Projects">
+<meta name="description" content="Brigham Young University Scholar's Archive - Folklore Projects, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

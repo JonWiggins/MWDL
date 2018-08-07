@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="World War II POW Camp Correspondence, Newsletters, Oral History and Photographs, AMP">
+<meta name="description" content="World War II POW Camp Correspondence, Newsletters, Oral History and Photographs, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1247 -->
 <!-- Collection Title -->
 <title>World War II POW Camp Correspondence, Newsletters, Oral History and Photographs</title>

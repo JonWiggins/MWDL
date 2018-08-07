@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Board of Pardons: Prisoner Pardon Application Case Files, AMP">
+<meta name="description" content="Utah Board of Pardons: Prisoner Pardon Application Case Files, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1209 -->
 <!-- Collection Title -->
 <title>Utah Board of Pardons: Prisoner Pardon Application Case Files</title>

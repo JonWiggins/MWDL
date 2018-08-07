@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cecil D. Andrus, AMP">
+<meta name="description" content="Cecil D. Andrus, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2349 -->
 <!-- Collection Title -->
 <title>Cecil D. Andrus</title>

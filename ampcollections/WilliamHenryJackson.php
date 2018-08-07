@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="William Henry Jackson, AMP">
+<meta name="description" content="William Henry Jackson, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1098 -->
 <!-- Collection Title -->
 <title>William Henry Jackson</title>

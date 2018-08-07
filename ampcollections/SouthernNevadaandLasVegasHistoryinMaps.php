@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Southern Nevada and Las Vegas History in Maps, AMP">
+<meta name="description" content="Southern Nevada and Las Vegas History in Maps, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1202 -->
 <!-- Collection Title -->
 <title>Southern Nevada and Las Vegas History in Maps</title>

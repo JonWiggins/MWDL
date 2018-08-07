@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake City Public Library Special Collections, AMP">
+<meta name="description" content="Salt Lake City Public Library Special Collections, a MWDL collection, presented by Salt Lake City (UT) Public Library">
 <!-- Collection #2146 -->
 <!-- Collection Title -->
 <title>Salt Lake City Public Library Special Collections</title>

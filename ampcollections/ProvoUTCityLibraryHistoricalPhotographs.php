@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Provo (UT) City Library Historical Photographs, AMP">
+<meta name="description" content="Provo (UT) City Library Historical Photographs, a MWDL collection, presented by Provo (UT) City Library">
 <!-- Collection #1298 -->
 <!-- Collection Title -->
 <title>Provo (UT) City Library Historical Photographs</title>

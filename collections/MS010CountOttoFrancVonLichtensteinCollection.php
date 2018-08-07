@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 010 Count Otto Franc Von Lichtenstein Collection">
+<meta name="description" content="MS 010 Count Otto Franc Von Lichtenstein Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Chicano Scholarship Archive, AMP">
+<meta name="description" content="Chicano Scholarship Archive, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2091 -->
 <!-- Collection Title -->
 <title>Chicano Scholarship Archive</title>

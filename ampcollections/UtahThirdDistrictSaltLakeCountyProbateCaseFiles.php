@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Third District: Salt Lake County Probate Case Files, AMP">
+<meta name="description" content="Utah Third District: Salt Lake County Probate Case Files, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2433 -->
 <!-- Collection Title -->
 <title>Utah Third District: Salt Lake County Probate Case Files</title>

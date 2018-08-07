@@ -49,7 +49,7 @@ import java.util.regex.Pattern;
  */
 public class AnalyticsGenerator {
 
-    public static HashSet<String> months;
+    public static ArrayList<String> months;
     public static ArrayList<AnalyticsPartner> partners;
     public static ArrayList<Collection> activeCollections;
     public static HashMap<String, String> hubidtoName;
@@ -59,7 +59,7 @@ public class AnalyticsGenerator {
     public static void main(String[] args) {
 
         //init boi
-        months = new HashSet<>();
+        months = new ArrayList<>();
         partners = new ArrayList<>();
         hubidtoName = new HashMap<>();
 
@@ -71,7 +71,7 @@ public class AnalyticsGenerator {
         months.add("April");
         months.add("May");
         months.add("June");
-        //months.add("July");
+        months.add("July");
         //months.add("August");
         //months.add("September");
         //months.add("October");
@@ -85,7 +85,7 @@ public class AnalyticsGenerator {
         hubidtoName.put("byu","Brigham Young University");
         hubidtoName.put("icl","Idaho Commission for Libraries");
         hubidtoName.put("ihs","Idaho State Historical Society");
-        hubidtoName.put("ore","University of Oregon Libraries");
+        hubidtoName.put("ore","Oregon Digital");
         hubidtoName.put("slc","Salt Lake Community College Libraries");
         hubidtoName.put("suu","Southern Utah University");
         hubidtoName.put("uam","Utah Division of Arts and Museums");

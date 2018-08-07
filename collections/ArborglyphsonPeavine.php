@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Arborglyphs on Peavine">
+<meta name="description" content="Arborglyphs on Peavine, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

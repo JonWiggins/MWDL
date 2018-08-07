@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Jackson Hole Dude Ranching Tradition: Triangle X 2017">
+<meta name="description" content="Jackson Hole Dude Ranching Tradition: Triangle X 2017, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

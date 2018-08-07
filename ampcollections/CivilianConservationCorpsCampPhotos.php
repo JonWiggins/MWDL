@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Civilian Conservation Corps Camp Photos, AMP">
+<meta name="description" content="Civilian Conservation Corps Camp Photos, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2153 -->
 <!-- Collection Title -->
 <title>Civilian Conservation Corps Camp Photos</title>

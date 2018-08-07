@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="African American Experience, AMP">
+<meta name="description" content="African American Experience, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1941 -->
 <!-- Collection Title -->
 <title>African American Experience</title>

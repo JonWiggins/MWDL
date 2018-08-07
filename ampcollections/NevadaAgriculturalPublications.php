@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Nevada Agricultural Publications, AMP">
+<meta name="description" content="Nevada Agricultural Publications, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1129 -->
 <!-- Collection Title -->
 <title>Nevada Agricultural Publications</title>

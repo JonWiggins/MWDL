@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ken Gray Insect Image Collection, AMP">
+<meta name="description" content="Ken Gray Insect Image Collection, a MWDL collection, presented by Oregon State University Libraries">
 <!-- Collection #2416 -->
 <!-- Collection Title -->
 <title>Ken Gray Insect Image Collection</title>

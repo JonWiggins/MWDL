@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Valley University Student Newspapers, AMP">
+<meta name="description" content="Utah Valley University Student Newspapers, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1956 -->
 <!-- Collection Title -->
 <title>Utah Valley University Student Newspapers</title>

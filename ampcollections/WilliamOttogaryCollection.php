@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="William Ottogary Collection, AMP">
+<meta name="description" content="William Ottogary Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2431 -->
 <!-- Collection Title -->
 <title>William Ottogary Collection</title>

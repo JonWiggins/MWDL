@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dissociation and Trauma Archives, AMP">
+<meta name="description" content="Dissociation and Trauma Archives, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2522 -->
 <!-- Collection Title -->
 <title>Dissociation and Trauma Archives</title>

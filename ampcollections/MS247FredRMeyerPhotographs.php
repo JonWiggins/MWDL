@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 247 Fred R. Meyer Photographs, AMP">
+<meta name="description" content="MS 247 Fred R. Meyer Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2282 -->
 <!-- Collection Title -->
 <title>MS 247 Fred R. Meyer Photographs</title>

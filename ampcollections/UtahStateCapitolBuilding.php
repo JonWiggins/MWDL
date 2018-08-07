@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State Capitol Building, AMP">
+<meta name="description" content="Utah State Capitol Building, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2298 -->
 <!-- Collection Title -->
 <title>Utah State Capitol Building</title>

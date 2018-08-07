@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Parks Company Employee Photographs, AMP">
+<meta name="description" content="Utah Parks Company Employee Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1105 -->
 <!-- Collection Title -->
 <title>Utah Parks Company Employee Photographs</title>

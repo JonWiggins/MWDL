@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Doris Ulmann Photographs, AMP">
+<meta name="description" content="Doris Ulmann Photographs, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2253 -->
 <!-- Collection Title -->
 <title>Doris Ulmann Photographs</title>

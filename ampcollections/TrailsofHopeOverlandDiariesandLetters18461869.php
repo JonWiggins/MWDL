@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Trails of Hope: Overland Diaries and Letters 1846-1869, AMP">
+<meta name="description" content="Trails of Hope: Overland Diaries and Letters 1846-1869, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1064 -->
 <!-- Collection Title -->
 <title>Trails of Hope: Overland Diaries and Letters 1846-1869</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mapleton, Utah Historical Photographs, AMP">
+<meta name="description" content="Mapleton, Utah Historical Photographs, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2331 -->
 <!-- Collection Title -->
 <title>Mapleton, Utah Historical Photographs</title>

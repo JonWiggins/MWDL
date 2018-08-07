@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Frontier Homestead State Park (Cedar City, UT) Photographs">
+<meta name="description" content="Frontier Homestead State Park (Cedar City, UT) Photographs, a MWDL collection, presented by Frontier Homestead State Park (Cedar City, UT)">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

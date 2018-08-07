@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="William E. Borah, AMP">
+<meta name="description" content="William E. Borah, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2211 -->
 <!-- Collection Title -->
 <title>William E. Borah</title>

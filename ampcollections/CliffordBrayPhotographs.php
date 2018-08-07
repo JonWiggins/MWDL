@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Clifford Bray Photographs, AMP">
+<meta name="description" content="Clifford Bray Photographs, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1526 -->
 <!-- Collection Title -->
 <title>Clifford Bray Photographs</title>

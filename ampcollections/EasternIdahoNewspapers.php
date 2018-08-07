@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Eastern Idaho Newspapers, AMP">
+<meta name="description" content="Eastern Idaho Newspapers, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1930 -->
 <!-- Collection Title -->
 <title>Eastern Idaho Newspapers</title>

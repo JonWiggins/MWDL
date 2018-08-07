@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 331 William Clark">
+<meta name="description" content="MS 331 William Clark, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

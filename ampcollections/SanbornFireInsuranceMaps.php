@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Sanborn Fire Insurance Maps, AMP">
+<meta name="description" content="Sanborn Fire Insurance Maps, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1173 -->
 <!-- Collection Title -->
 <title>Sanborn Fire Insurance Maps</title>

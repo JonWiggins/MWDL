@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="The Ridgway Brothers: Explorers, Scientists, and Illustrators, AMP">
+<meta name="description" content="The Ridgway Brothers: Explorers, Scientists, and Illustrators, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1142 -->
 <!-- Collection Title -->
 <title>The Ridgway Brothers: Explorers, Scientists, and Illustrators</title>

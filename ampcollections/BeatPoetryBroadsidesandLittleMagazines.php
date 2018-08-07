@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Beat Poetry, Broadsides, and Little Magazines, AMP">
+<meta name="description" content="Beat Poetry, Broadsides, and Little Magazines, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1785 -->
 <!-- Collection Title -->
 <title>Beat Poetry, Broadsides, and Little Magazines</title>

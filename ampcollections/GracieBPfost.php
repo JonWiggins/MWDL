@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Gracie B. Pfost, AMP">
+<meta name="description" content="Gracie B. Pfost, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2350 -->
 <!-- Collection Title -->
 <title>Gracie B. Pfost</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="The White and Blue, AMP">
+<meta name="description" content="The White and Blue, a MWDL collection, presented by Brigham Young University">
 <!-- Collection #1540 -->
 <!-- Collection Title -->
 <title>The White and Blue</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="James Cloutier Collection, AMP">
+<meta name="description" content="James Cloutier Collection, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2261 -->
 <!-- Collection Title -->
 <title>James Cloutier Collection</title>

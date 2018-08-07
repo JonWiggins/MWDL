@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Capitol Commission Biennial Reports, AMP">
+<meta name="description" content="Capitol Commission Biennial Reports, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2446 -->
 <!-- Collection Title -->
 <title>Capitol Commission Biennial Reports</title>

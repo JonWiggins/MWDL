@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Daily Enquirer (Provo, UT) 1, AMP">
+<meta name="description" content="Daily Enquirer (Provo, UT) 1, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1545 -->
 <!-- Collection Title -->
 <title>Daily Enquirer (Provo, UT) 1</title>

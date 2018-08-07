@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Saga of the Sanpitch">
+<meta name="description" content="Saga of the Sanpitch, a MWDL collection, presented by Snow College Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

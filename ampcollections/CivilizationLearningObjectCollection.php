@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Civilization Learning Object Collection, AMP">
+<meta name="description" content="Civilization Learning Object Collection, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1063 -->
 <!-- Collection Title -->
 <title>Civilization Learning Object Collection</title>

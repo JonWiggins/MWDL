@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake City (Utah) Fire Department Photographs, AMP">
+<meta name="description" content="Salt Lake City (Utah) Fire Department Photographs, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2292 -->
 <!-- Collection Title -->
 <title>Salt Lake City (Utah) Fire Department Photographs</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Rich, Dr. Edward I. and Emily Almira Cozzens Diaries">
+<meta name="description" content="Rich, Dr. Edward I. and Emily Almira Cozzens Diaries, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

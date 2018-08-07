@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah 2002 Olympic Legacy Collection">
+<meta name="description" content="Utah 2002 Olympic Legacy Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber Stake Academy Literary Magazine The Acorn 1904-1916, AMP">
+<meta name="description" content="Weber Stake Academy Literary Magazine The Acorn 1904-1916, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2021 -->
 <!-- Collection Title -->
 <title>Weber Stake Academy Literary Magazine The Acorn 1904-1916</title>

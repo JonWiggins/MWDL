@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Mormon Pacific Historical Society">
+<meta name="description" content="Mormon Pacific Historical Society, a MWDL collection, presented by Brigham Young University-Hawaii">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

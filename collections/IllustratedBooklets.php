@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Illustrated Booklets">
+<meta name="description" content="Illustrated Booklets, a MWDL collection, presented by Oregon State University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

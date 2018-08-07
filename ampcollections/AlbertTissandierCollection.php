@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Albert Tissandier Collection, AMP">
+<meta name="description" content="Albert Tissandier Collection, a MWDL collection, presented by University of Utah - Utah Museum of Fine Arts">
 <!-- Collection #1033 -->
 <!-- Collection Title -->
 <title>Albert Tissandier Collection</title>

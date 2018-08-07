@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Vietnam Era Oral History Project">
+<meta name="description" content="Vietnam Era Oral History Project, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

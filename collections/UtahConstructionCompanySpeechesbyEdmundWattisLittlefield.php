@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Construction Company Speeches by Edmund Wattis Littlefield">
+<meta name="description" content="Utah Construction Company Speeches by Edmund Wattis Littlefield, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

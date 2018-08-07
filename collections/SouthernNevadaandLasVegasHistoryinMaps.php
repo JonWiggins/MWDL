@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Southern Nevada and Las Vegas History in Maps">
+<meta name="description" content="Southern Nevada and Las Vegas History in Maps, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

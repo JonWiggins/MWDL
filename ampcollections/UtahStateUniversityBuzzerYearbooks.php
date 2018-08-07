@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State University Buzzer Yearbooks, AMP">
+<meta name="description" content="Utah State University Buzzer Yearbooks, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1241 -->
 <!-- Collection Title -->
 <title>Utah State University Buzzer Yearbooks</title>

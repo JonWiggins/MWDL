@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="George Beard Collection, AMP">
+<meta name="description" content="George Beard Collection, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1235 -->
 <!-- Collection Title -->
 <title>George Beard Collection</title>

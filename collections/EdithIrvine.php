@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Edith Irvine">
+<meta name="description" content="Edith Irvine, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

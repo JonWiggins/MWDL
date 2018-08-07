@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Polynesian Cultural Center Photo Collection, 1961-1979">
+<meta name="description" content="Polynesian Cultural Center Photo Collection, 1961-1979, a MWDL collection, presented by Brigham Young University-Hawaii">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

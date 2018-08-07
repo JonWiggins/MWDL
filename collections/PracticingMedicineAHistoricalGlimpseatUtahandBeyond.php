@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Practicing Medicine: A Historical Glimpse at Utah and Beyond">
+<meta name="description" content="Practicing Medicine: A Historical Glimpse at Utah and Beyond, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

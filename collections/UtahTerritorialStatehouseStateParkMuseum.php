@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Territorial Statehouse State Park Museum">
+<meta name="description" content="Utah Territorial Statehouse State Park Museum, a MWDL collection, presented by Utah Territorial Statehouse State Park Museum">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

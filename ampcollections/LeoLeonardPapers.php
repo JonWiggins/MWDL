@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Leo Leonard Papers, AMP">
+<meta name="description" content="Leo Leonard Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2078 -->
 <!-- Collection Title -->
 <title>Leo Leonard Papers</title>

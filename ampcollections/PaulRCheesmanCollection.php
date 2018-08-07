@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Paul R. Cheesman Collection, AMP">
+<meta name="description" content="Paul R. Cheesman Collection, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1219 -->
 <!-- Collection Title -->
 <title>Paul R. Cheesman Collection</title>

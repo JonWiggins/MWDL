@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 5 - Cody Local History Collection, AMP">
+<meta name="description" content="MS 5 - Cody Local History Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2337 -->
 <!-- Collection Title -->
 <title>MS 5 - Cody Local History Collection</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Museum of Contemporary Art Collection">
+<meta name="description" content="Utah Museum of Contemporary Art Collection, a MWDL collection, presented by Utah Museum of Contemporary Art">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

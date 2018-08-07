@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Fire and Rescue Academy, AMP">
+<meta name="description" content="Utah Fire and Rescue Academy, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1608 -->
 <!-- Collection Title -->
 <title>Utah Fire and Rescue Academy</title>

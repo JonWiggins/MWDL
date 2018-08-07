@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Board of Pardons: Prisoner Pardon Application Case Files">
+<meta name="description" content="Utah Board of Pardons: Prisoner Pardon Application Case Files, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

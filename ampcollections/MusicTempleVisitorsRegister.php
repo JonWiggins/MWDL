@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Music Temple Visitors Register, AMP">
+<meta name="description" content="Music Temple Visitors Register, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1019 -->
 <!-- Collection Title -->
 <title>Music Temple Visitors Register</title>

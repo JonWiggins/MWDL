@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Swaner Legacy - Oral History Project, AMP">
+<meta name="description" content="Swaner Legacy - Oral History Project, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2428 -->
 <!-- Collection Title -->
 <title>Swaner Legacy - Oral History Project</title>

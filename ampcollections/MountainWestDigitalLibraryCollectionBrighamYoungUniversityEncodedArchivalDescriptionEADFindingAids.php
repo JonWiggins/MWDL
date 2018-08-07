@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids, AMP">
+<meta name="description" content="Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1256 -->
 <!-- Collection Title -->
 <title>Mountain West Digital Library - Collection: Brigham Young University Encoded Archival Description (EAD) Finding Aids</title>

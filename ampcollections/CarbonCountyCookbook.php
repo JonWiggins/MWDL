@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Carbon County Cookbook, AMP">
+<meta name="description" content="Carbon County Cookbook, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2302 -->
 <!-- Collection Title -->
 <title>Carbon County Cookbook</title>

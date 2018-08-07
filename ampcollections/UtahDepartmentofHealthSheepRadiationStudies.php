@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Department of Health Sheep Radiation Studies, AMP">
+<meta name="description" content="Utah Department of Health Sheep Radiation Studies, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2447 -->
 <!-- Collection Title -->
 <title>Utah Department of Health Sheep Radiation Studies</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Territorial Militia Records Index, AMP">
+<meta name="description" content="Utah Territorial Militia Records Index, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2453 -->
 <!-- Collection Title -->
 <title>Utah Territorial Militia Records Index</title>

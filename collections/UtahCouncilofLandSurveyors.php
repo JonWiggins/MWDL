@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Council of Land Surveyors">
+<meta name="description" content="Utah Council of Land Surveyors, a MWDL collection, presented by Utah Council of Land Surveyors">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

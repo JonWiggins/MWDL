@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Museum of Contemporary Art Collection, AMP">
+<meta name="description" content="Utah Museum of Contemporary Art Collection, a MWDL collection, presented by Utah Museum of Contemporary Art">
 <!-- Collection #2113 -->
 <!-- Collection Title -->
 <title>Utah Museum of Contemporary Art Collection</title>

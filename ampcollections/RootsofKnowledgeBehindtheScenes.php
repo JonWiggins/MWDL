@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Roots of Knowledge: Behind the Scenes, AMP">
+<meta name="description" content="Roots of Knowledge: Behind the Scenes, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2330 -->
 <!-- Collection Title -->
 <title>Roots of Knowledge: Behind the Scenes</title>

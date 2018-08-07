@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Robert W. Limbert Collection, AMP">
+<meta name="description" content="Robert W. Limbert Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2178 -->
 <!-- Collection Title -->
 <title>Robert W. Limbert Collection</title>

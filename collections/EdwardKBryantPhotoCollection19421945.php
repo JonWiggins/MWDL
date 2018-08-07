@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Edward K. Bryant Photo Collection, 1942-1945">
+<meta name="description" content="Edward K. Bryant Photo Collection, 1942-1945, a MWDL collection, presented by Brigham Young University-Hawaii">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John W. Fitzgerald Collection, AMP">
+<meta name="description" content="John W. Fitzgerald Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1171 -->
 <!-- Collection Title -->
 <title>John W. Fitzgerald Collection</title>

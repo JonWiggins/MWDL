@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Great Basin National Heritage Area Oral Histories">
+<meta name="description" content="Great Basin National Heritage Area Oral Histories, a MWDL collection, presented by Great Basin National Heritage Partnership">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

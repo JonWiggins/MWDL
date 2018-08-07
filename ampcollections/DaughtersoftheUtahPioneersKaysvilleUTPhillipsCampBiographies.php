@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies, AMP">
+<meta name="description" content="Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1895 -->
 <!-- Collection Title -->
 <title>Daughters of the Utah Pioneers, Kaysville (UT) - Phillips Camp Biographies</title>

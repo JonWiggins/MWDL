@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State University Student Newspapers, AMP">
+<meta name="description" content="Weber State University Student Newspapers, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1271 -->
 <!-- Collection Title -->
 <title>Weber State University Student Newspapers</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State Historical Society World War Military Listings, AMP">
+<meta name="description" content="Utah State Historical Society World War Military Listings, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2434 -->
 <!-- Collection Title -->
 <title>Utah State Historical Society World War Military Listings</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="American Westward Migration, AMP">
+<meta name="description" content="American Westward Migration, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1001 -->
 <!-- Collection Title -->
 <title>American Westward Migration</title>

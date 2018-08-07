@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="C.R. Savage Company Portrait Collection, AMP">
+<meta name="description" content="C.R. Savage Company Portrait Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2231 -->
 <!-- Collection Title -->
 <title>C.R. Savage Company Portrait Collection</title>

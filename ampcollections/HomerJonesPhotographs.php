@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Homer Jones Photographs, AMP">
+<meta name="description" content="Homer Jones Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1164 -->
 <!-- Collection Title -->
 <title>Homer Jones Photographs</title>

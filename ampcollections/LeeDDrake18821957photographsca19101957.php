@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957, AMP">
+<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2263 -->
 <!-- Collection Title -->
 <title>Lee D. Drake (1882-1957) photographs, ca. 1910-1957</title>

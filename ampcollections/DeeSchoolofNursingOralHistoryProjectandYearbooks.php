@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dee School of Nursing: Oral History Project and Yearbooks, AMP">
+<meta name="description" content="Dee School of Nursing: Oral History Project and Yearbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1212 -->
 <!-- Collection Title -->
 <title>Dee School of Nursing: Oral History Project and Yearbooks</title>

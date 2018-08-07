@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor Brigham Young (1850-1857) Special Election Proclamation, AMP">
+<meta name="description" content="Utah Governor Brigham Young (1850-1857) Special Election Proclamation, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1835 -->
 <!-- Collection Title -->
 <title>Utah Governor Brigham Young (1850-1857) Special Election Proclamation</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="R. D. Adams Photographs, AMP">
+<meta name="description" content="R. D. Adams Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1114 -->
 <!-- Collection Title -->
 <title>R. D. Adams Photographs</title>

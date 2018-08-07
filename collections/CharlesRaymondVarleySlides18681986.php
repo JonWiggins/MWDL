@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Charles Raymond Varley Slides, 1868-1986">
+<meta name="description" content="Charles Raymond Varley Slides, 1868-1986, a MWDL collection, presented by Department of Heritage and Arts">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

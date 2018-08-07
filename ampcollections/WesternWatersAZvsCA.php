@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Waters: AZ vs. CA, AMP">
+<meta name="description" content="Western Waters: AZ vs. CA, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1177 -->
 <!-- Collection Title -->
 <title>Western Waters: AZ vs. CA</title>

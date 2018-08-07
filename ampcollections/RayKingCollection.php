@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ray King Collection, AMP">
+<meta name="description" content="Ray King Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2354 -->
 <!-- Collection Title -->
 <title>Ray King Collection</title>

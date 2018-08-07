@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 165 Thomas Marquis Native American Nitrate Negatives, AMP">
+<meta name="description" content="MS 165 Thomas Marquis Native American Nitrate Negatives, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2281 -->
 <!-- Collection Title -->
 <title>MS 165 Thomas Marquis Native American Nitrate Negatives</title>

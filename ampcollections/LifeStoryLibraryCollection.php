@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Life Story Library Collection, AMP">
+<meta name="description" content="Life Story Library Collection, a MWDL collection, presented by Life Story Library Foundation">
 <!-- Collection #2147 -->
 <!-- Collection Title -->
 <title>Life Story Library Collection</title>

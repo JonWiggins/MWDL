@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber and Davis Counties Community Oral History Project, AMP">
+<meta name="description" content="Weber and Davis Counties Community Oral History Project, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2016 -->
 <!-- Collection Title -->
 <title>Weber and Davis Counties Community Oral History Project</title>

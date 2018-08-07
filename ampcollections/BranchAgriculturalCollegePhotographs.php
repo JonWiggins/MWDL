@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Branch Agricultural College Photographs, AMP">
+<meta name="description" content="Branch Agricultural College Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1111 -->
 <!-- Collection Title -->
 <title>Branch Agricultural College Photographs</title>

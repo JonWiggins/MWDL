@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 228 - Buffalo Bill Museum Photographs, AMP">
+<meta name="description" content="MS 228 - Buffalo Bill Museum Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2335 -->
 <!-- Collection Title -->
 <title>MS 228 - Buffalo Bill Museum Photographs</title>

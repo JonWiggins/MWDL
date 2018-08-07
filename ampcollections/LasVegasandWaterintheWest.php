@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Las Vegas and Water in the West, AMP">
+<meta name="description" content="Las Vegas and Water in the West, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1203 -->
 <!-- Collection Title -->
 <title>Las Vegas and Water in the West</title>

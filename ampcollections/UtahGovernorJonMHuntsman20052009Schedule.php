@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor Jon M. Huntsman (2005-2009). Schedule, AMP">
+<meta name="description" content="Utah Governor Jon M. Huntsman (2005-2009). Schedule, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1625 -->
 <!-- Collection Title -->
 <title>Utah Governor Jon M. Huntsman (2005-2009). Schedule</title>

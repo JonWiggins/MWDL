@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction-Utah International Annual Reports, AMP">
+<meta name="description" content="Utah Construction-Utah International Annual Reports, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1155 -->
 <!-- Collection Title -->
 <title>Utah Construction-Utah International Annual Reports</title>

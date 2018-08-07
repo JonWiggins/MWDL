@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University Neighborhood Partners Program, AMP">
+<meta name="description" content="University Neighborhood Partners Program, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1225 -->
 <!-- Collection Title -->
 <title>University Neighborhood Partners Program</title>

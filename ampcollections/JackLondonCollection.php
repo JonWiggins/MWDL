@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Jack London Collection, AMP">
+<meta name="description" content="Jack London Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2030 -->
 <!-- Collection Title -->
 <title>Jack London Collection</title>

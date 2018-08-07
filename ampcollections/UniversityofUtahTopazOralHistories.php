@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Topaz Oral Histories, AMP">
+<meta name="description" content="University of Utah Topaz Oral Histories, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2062 -->
 <!-- Collection Title -->
 <title>University of Utah Topaz Oral Histories</title>

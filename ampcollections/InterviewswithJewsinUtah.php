@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Interviews with Jews in Utah, AMP">
+<meta name="description" content="Interviews with Jews in Utah, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2202 -->
 <!-- Collection Title -->
 <title>Interviews with Jews in Utah</title>

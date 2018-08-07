@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Weber County (Utah) Clerk Dentistry and Optometry Board Certificates">
+<meta name="description" content="Weber County (Utah) Clerk Dentistry and Optometry Board Certificates, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

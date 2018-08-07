@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Letters of Philip II, King of Spain, AMP">
+<meta name="description" content="Letters of Philip II, King of Spain, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1316 -->
 <!-- Collection Title -->
 <title>Letters of Philip II, King of Spain</title>

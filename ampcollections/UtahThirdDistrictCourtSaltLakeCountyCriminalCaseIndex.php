@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Third District Court Salt Lake County Criminal Case Index, AMP">
+<meta name="description" content="Utah Third District Court Salt Lake County Criminal Case Index, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2432 -->
 <!-- Collection Title -->
 <title>Utah Third District Court Salt Lake County Criminal Case Index</title>

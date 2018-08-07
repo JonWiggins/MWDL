@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Alfredo A. Sadun Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: Alfredo A. Sadun Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1509 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Alfredo A. Sadun Collection</title>

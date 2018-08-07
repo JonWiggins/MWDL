@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Irene E. Loewenfeld Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: Irene E. Loewenfeld Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1182 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Irene E. Loewenfeld Collection</title>

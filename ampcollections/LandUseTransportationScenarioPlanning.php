@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Land Use-Transportation Scenario Planning, AMP">
+<meta name="description" content="Land Use-Transportation Scenario Planning, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1009 -->
 <!-- Collection Title -->
 <title>Land Use-Transportation Scenario Planning</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah International - General Electric Merger Documents, AMP">
+<meta name="description" content="Utah International - General Electric Merger Documents, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1854 -->
 <!-- Collection Title -->
 <title>Utah International - General Electric Merger Documents</title>

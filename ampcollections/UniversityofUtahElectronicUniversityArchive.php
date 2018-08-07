@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Electronic University Archive, AMP">
+<meta name="description" content="University of Utah Electronic University Archive, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1231 -->
 <!-- Collection Title -->
 <title>University of Utah Electronic University Archive</title>

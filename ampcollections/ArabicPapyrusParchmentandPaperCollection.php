@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Arabic Papyrus, Parchment, and Paper Collection, AMP">
+<meta name="description" content="Arabic Papyrus, Parchment, and Paper Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1168 -->
 <!-- Collection Title -->
 <title>Arabic Papyrus, Parchment, and Paper Collection</title>

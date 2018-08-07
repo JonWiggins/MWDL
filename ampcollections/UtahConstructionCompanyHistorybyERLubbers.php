@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company History by E. R. Lubbers, AMP">
+<meta name="description" content="Utah Construction Company History by E. R. Lubbers, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1842 -->
 <!-- Collection Title -->
 <title>Utah Construction Company History by E. R. Lubbers</title>

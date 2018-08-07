@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dwellings in the Bosom of Emery County (UT), AMP">
+<meta name="description" content="Dwellings in the Bosom of Emery County (UT), a MWDL collection, presented by Emery County (UT) Public Library and Emery County (UT) Archives">
 <!-- Collection #2171 -->
 <!-- Collection Title -->
 <title>Dwellings in the Bosom of Emery County (UT)</title>

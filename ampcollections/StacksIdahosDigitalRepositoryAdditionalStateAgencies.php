@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Stacks: Idaho's Digital Repository - Additional State Agencies, AMP">
+<meta name="description" content="Stacks: Idaho's Digital Repository - Additional State Agencies, a MWDL collection, presented by Idaho Commission for Libraries">
 <!-- Collection #2107 -->
 <!-- Collection Title -->
 <title>Stacks: Idaho's Digital Repository - Additional State Agencies</title>

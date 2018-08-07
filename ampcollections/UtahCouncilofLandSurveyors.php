@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Council of Land Surveyors, AMP">
+<meta name="description" content="Utah Council of Land Surveyors, a MWDL collection, presented by Utah Council of Land Surveyors">
 <!-- Collection #1296 -->
 <!-- Collection Title -->
 <title>Utah Council of Land Surveyors</title>

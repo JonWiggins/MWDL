@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Taylor Woolley Photograph Collection, AMP">
+<meta name="description" content="Taylor Woolley Photograph Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1639 -->
 <!-- Collection Title -->
 <title>Taylor Woolley Photograph Collection</title>

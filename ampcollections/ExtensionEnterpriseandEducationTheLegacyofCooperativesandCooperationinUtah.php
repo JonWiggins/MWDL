@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah, AMP">
+<meta name="description" content="Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1550 -->
 <!-- Collection Title -->
 <title>Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah</title>

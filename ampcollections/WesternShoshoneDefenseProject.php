@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Shoshone Defense Project, AMP">
+<meta name="description" content="Western Shoshone Defense Project, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #2299 -->
 <!-- Collection Title -->
 <title>Western Shoshone Defense Project</title>

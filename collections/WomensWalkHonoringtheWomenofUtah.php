@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Women's Walk: Honoring the Women of Utah">
+<meta name="description" content="Women's Walk: Honoring the Women of Utah, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

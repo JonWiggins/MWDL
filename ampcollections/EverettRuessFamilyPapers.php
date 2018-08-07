@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Everett Ruess Family Papers, AMP">
+<meta name="description" content="Everett Ruess Family Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2222 -->
 <!-- Collection Title -->
 <title>Everett Ruess Family Papers</title>

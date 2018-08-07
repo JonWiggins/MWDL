@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Oregon State University Yearbooks, AMP">
+<meta name="description" content="Oregon State University Yearbooks, a MWDL collection, presented by Oregon State University Libraries">
 <!-- Collection #2418 -->
 <!-- Collection Title -->
 <title>Oregon State University Yearbooks</title>

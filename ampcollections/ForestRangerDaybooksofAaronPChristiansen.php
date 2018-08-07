@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Forest Ranger Daybooks of Aaron P. Christiansen, AMP">
+<meta name="description" content="Forest Ranger Daybooks of Aaron P. Christiansen, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1789 -->
 <!-- Collection Title -->
 <title>Forest Ranger Daybooks of Aaron P. Christiansen</title>

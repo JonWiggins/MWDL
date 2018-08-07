@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake City (Utah) School Children's Constitution and Flag Monument Books, AMP">
+<meta name="description" content="Salt Lake City (Utah) School Children's Constitution and Flag Monument Books, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2449 -->
 <!-- Collection Title -->
 <title>Salt Lake City (Utah) School Children's Constitution and Flag Monument Books</title>

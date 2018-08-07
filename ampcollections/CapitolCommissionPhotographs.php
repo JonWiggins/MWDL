@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Capitol Commission Photographs, AMP">
+<meta name="description" content="Capitol Commission Photographs, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2445 -->
 <!-- Collection Title -->
 <title>Capitol Commission Photographs</title>

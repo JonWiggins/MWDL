@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Division of Corporations incorporation case files index, 1981, AMP">
+<meta name="description" content="Utah Division of Corporations incorporation case files index, 1981, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1151 -->
 <!-- Collection Title -->
 <title>Utah Division of Corporations incorporation case files index, 1981</title>

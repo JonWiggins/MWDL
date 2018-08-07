@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: William F. Hoyt Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: William F. Hoyt Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1008 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: William F. Hoyt Collection</title>

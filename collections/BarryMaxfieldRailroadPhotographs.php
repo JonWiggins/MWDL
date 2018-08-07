@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Barry Maxfield Railroad Photographs">
+<meta name="description" content="Barry Maxfield Railroad Photographs, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

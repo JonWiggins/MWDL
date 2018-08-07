@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Great Basin Museum Collection, AMP">
+<meta name="description" content="Great Basin Museum Collection, a MWDL collection, presented by Great Basin Museum">
 <!-- Collection #1194 -->
 <!-- Collection Title -->
 <title>Great Basin Museum Collection</title>

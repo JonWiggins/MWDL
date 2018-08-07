@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Administrative Code, AMP">
+<meta name="description" content="Utah Administrative Code, a MWDL collection, presented by Utah Department of Administrative Services - Division of Administrative Rules">
 <!-- Collection #2167 -->
 <!-- Collection Title -->
 <title>Utah Administrative Code</title>

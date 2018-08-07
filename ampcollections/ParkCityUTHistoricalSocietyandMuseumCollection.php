@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Park City (UT) Historical Society and Museum Collection, AMP">
+<meta name="description" content="Park City (UT) Historical Society and Museum Collection, a MWDL collection, presented by Park City (UT) Historical Society &amp">
 <!-- Collection #1158 -->
 <!-- Collection Title -->
 <title>Park City (UT) Historical Society and Museum Collection</title>

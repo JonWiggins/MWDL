@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Charles Saladino Landscape Architecture Collection, AMP">
+<meta name="description" content="Charles Saladino Landscape Architecture Collection, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1837 -->
 <!-- Collection Title -->
 <title>Charles Saladino Landscape Architecture Collection</title>

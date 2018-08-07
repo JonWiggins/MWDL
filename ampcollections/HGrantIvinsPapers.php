@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="H. Grant Ivins Papers, AMP">
+<meta name="description" content="H. Grant Ivins Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2200 -->
 <!-- Collection Title -->
 <title>H. Grant Ivins Papers</title>

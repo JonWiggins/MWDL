@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Alta (UT) Avalanche Study Center, AMP">
+<meta name="description" content="Alta (UT) Avalanche Study Center, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1500 -->
 <!-- Collection Title -->
 <title>Alta (UT) Avalanche Study Center</title>

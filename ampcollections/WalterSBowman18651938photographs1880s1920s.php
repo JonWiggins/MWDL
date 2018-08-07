@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Walter S. Bowman (1865-1938) photographs, 1880s-1920s, AMP">
+<meta name="description" content="Walter S. Bowman (1865-1938) photographs, 1880s-1920s, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2264 -->
 <!-- Collection Title -->
 <title>Walter S. Bowman (1865-1938) photographs, 1880s-1920s</title>

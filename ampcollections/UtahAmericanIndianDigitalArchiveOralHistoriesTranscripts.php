@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah American Indian Digital Archive: Oral Histories Transcripts, AMP">
+<meta name="description" content="Utah American Indian Digital Archive: Oral Histories Transcripts, a MWDL collection, presented by University of Utah - American West Center">
 <!-- Collection #1299 -->
 <!-- Collection Title -->
 <title>Utah American Indian Digital Archive: Oral Histories Transcripts</title>

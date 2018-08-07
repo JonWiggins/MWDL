@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="U-News and Views, AMP">
+<meta name="description" content="U-News and Views, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1224 -->
 <!-- Collection Title -->
 <title>U-News and Views</title>

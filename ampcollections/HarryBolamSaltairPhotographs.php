@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Harry Bolam Saltair Photographs, AMP">
+<meta name="description" content="Harry Bolam Saltair Photographs, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2159 -->
 <!-- Collection Title -->
 <title>Harry Bolam Saltair Photographs</title>

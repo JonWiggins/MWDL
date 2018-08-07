@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Nevada in Maps, AMP">
+<meta name="description" content="Nevada in Maps, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1126 -->
 <!-- Collection Title -->
 <title>Nevada in Maps</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber County Polk Directories, AMP">
+<meta name="description" content="Weber County Polk Directories, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2344 -->
 <!-- Collection Title -->
 <title>Weber County Polk Directories</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Peace Activists Oral History, AMP">
+<meta name="description" content="Utah Peace Activists Oral History, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1562 -->
 <!-- Collection Title -->
 <title>Utah Peace Activists Oral History</title>

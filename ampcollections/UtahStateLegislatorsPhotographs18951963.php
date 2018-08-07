@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State Legislators Photographs, 1895-1963, AMP">
+<meta name="description" content="Utah State Legislators Photographs, 1895-1963, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2233 -->
 <!-- Collection Title -->
 <title>Utah State Legislators Photographs, 1895-1963</title>

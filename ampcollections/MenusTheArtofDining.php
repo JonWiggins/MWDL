@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Menus: The Art of Dining, AMP">
+<meta name="description" content="Menus: The Art of Dining, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1563 -->
 <!-- Collection Title -->
 <title>Menus: The Art of Dining</title>

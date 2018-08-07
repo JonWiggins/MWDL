@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Convention to Ratify the 21st Amendment (1933) Administrative Records, AMP">
+<meta name="description" content="Utah Convention to Ratify the 21st Amendment (1933) Administrative Records, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1881 -->
 <!-- Collection Title -->
 <title>Utah Convention to Ratify the 21st Amendment (1933) Administrative Records</title>

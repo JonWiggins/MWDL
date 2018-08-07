@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Special Collections Miscellaneous, AMP">
+<meta name="description" content="Brigham Young University Special Collections Miscellaneous, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1539 -->
 <!-- Collection Title -->
 <title>Brigham Young University Special Collections Miscellaneous</title>

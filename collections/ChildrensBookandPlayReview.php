@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Children's Book and Play Review">
+<meta name="description" content="Children's Book and Play Review, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

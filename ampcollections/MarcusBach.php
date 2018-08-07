@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Marcus Bach, AMP">
+<meta name="description" content="Marcus Bach, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1077 -->
 <!-- Collection Title -->
 <title>Marcus Bach</title>

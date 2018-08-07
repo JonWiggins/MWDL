@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Health Sciences Library Consortium">
+<meta name="description" content="Utah Health Sciences Library Consortium, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

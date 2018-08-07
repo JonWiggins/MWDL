@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Trails of Hope: Overland Diaries and Letters 1846-1869">
+<meta name="description" content="Trails of Hope: Overland Diaries and Letters 1846-1869, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

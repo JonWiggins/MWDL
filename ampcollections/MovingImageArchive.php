@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Moving Image Archive, AMP">
+<meta name="description" content="Moving Image Archive, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1174 -->
 <!-- Collection Title -->
 <title>Moving Image Archive</title>

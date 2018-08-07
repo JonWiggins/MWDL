@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cloward Collection of Western American Art, AMP">
+<meta name="description" content="Cloward Collection of Western American Art, a MWDL collection, presented by Utah Valley University - Woodbury Art Museum">
 <!-- Collection #2027 -->
 <!-- Collection Title -->
 <title>Cloward Collection of Western American Art</title>

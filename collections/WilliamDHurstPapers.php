@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="William D. Hurst Papers">
+<meta name="description" content="William D. Hurst Papers, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

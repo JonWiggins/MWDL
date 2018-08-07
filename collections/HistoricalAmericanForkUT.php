@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Historical American Fork (UT)">
+<meta name="description" content="Historical American Fork (UT), a MWDL collection, presented by American Fork City (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

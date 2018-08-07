@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Alf Engen Papers, AMP">
+<meta name="description" content="Alf Engen Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2199 -->
 <!-- Collection Title -->
 <title>Alf Engen Papers</title>

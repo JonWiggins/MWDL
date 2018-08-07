@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 32 - Edward Becker Collection of Indian Photographs, AMP">
+<meta name="description" content="MS 32 - Edward Becker Collection of Indian Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2333 -->
 <!-- Collection Title -->
 <title>MS 32 - Edward Becker Collection of Indian Photographs</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="San Francisco (CA) Earthquake Snapshots, AMP">
+<meta name="description" content="San Francisco (CA) Earthquake Snapshots, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2136 -->
 <!-- Collection Title -->
 <title>San Francisco (CA) Earthquake Snapshots</title>

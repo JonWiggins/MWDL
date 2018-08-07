@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Von Del Chamberlain Cultural Astronomy Collection, AMP">
+<meta name="description" content="Von Del Chamberlain Cultural Astronomy Collection, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2420 -->
 <!-- Collection Title -->
 <title>Von Del Chamberlain Cultural Astronomy Collection</title>

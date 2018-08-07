@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ranch Family Documentation, AMP">
+<meta name="description" content="Ranch Family Documentation, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1866 -->
 <!-- Collection Title -->
 <title>Ranch Family Documentation</title>

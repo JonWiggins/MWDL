@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 007 George Armstrong Custer Collection, AMP">
+<meta name="description" content="MS 007 George Armstrong Custer Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2272 -->
 <!-- Collection Title -->
 <title>MS 007 George Armstrong Custer Collection</title>

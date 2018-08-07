@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Rich, Dr. Edward I. and Emily Almira Cozzens Diaries, AMP">
+<meta name="description" content="Rich, Dr. Edward I. and Emily Almira Cozzens Diaries, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1841 -->
 <!-- Collection Title -->
 <title>Rich, Dr. Edward I. and Emily Almira Cozzens Diaries</title>

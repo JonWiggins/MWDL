@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Westminster College Textual Works Collection, AMP">
+<meta name="description" content="Westminster College Textual Works Collection, a MWDL collection, presented by Westminster College - Giovale Library">
 <!-- Collection #1160 -->
 <!-- Collection Title -->
 <title>Westminster College Textual Works Collection</title>

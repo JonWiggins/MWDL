@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University, AMP">
+<meta name="description" content="Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1277 -->
 <!-- Collection Title -->
 <title>Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University</title>

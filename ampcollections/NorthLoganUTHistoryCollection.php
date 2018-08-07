@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="North Logan (UT) History Collection, AMP">
+<meta name="description" content="North Logan (UT) History Collection, a MWDL collection, presented by North Logan City (UT) Library">
 <!-- Collection #2166 -->
 <!-- Collection Title -->
 <title>North Logan (UT) History Collection</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Malan and Linda Jackson Collection of Mongolian Art, AMP">
+<meta name="description" content="Malan and Linda Jackson Collection of Mongolian Art, a MWDL collection, presented by Utah Valley University - Woodbury Art Museum">
 <!-- Collection #2028 -->
 <!-- Collection Title -->
 <title>Malan and Linda Jackson Collection of Mongolian Art</title>

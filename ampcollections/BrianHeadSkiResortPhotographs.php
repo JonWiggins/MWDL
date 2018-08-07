@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brian Head Ski Resort Photographs, AMP">
+<meta name="description" content="Brian Head Ski Resort Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #2176 -->
 <!-- Collection Title -->
 <title>Brian Head Ski Resort Photographs</title>

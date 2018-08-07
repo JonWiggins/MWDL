@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Huntington Bagley Photograph Collection, AMP">
+<meta name="description" content="Huntington Bagley Photograph Collection, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1321 -->
 <!-- Collection Title -->
 <title>Huntington Bagley Photograph Collection</title>

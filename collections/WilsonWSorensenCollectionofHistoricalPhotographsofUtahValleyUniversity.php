@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University">
+<meta name="description" content="Wilson W. Sorensen Collection of Historical Photographs of Utah Valley University, a MWDL collection, presented by Utah Valley University Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

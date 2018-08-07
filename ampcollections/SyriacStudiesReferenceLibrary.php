@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Syriac Studies Reference Library, AMP">
+<meta name="description" content="Syriac Studies Reference Library, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1217 -->
 <!-- Collection Title -->
 <title>Syriac Studies Reference Library</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Whip Club Scrapbook, AMP">
+<meta name="description" content="Weber State Whip Club Scrapbook, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2015 -->
 <!-- Collection Title -->
 <title>Weber State Whip Club Scrapbook</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Crawford Family, Zion National Park, AMP">
+<meta name="description" content="Crawford Family, Zion National Park, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1112 -->
 <!-- Collection Title -->
 <title>Crawford Family, Zion National Park</title>

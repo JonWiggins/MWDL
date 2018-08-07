@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Monumental Highway Collection, AMP">
+<meta name="description" content="Monumental Highway Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2075 -->
 <!-- Collection Title -->
 <title>Monumental Highway Collection</title>

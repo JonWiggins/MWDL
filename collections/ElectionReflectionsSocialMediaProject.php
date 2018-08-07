@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Election Reflections Social Media Project">
+<meta name="description" content="Election Reflections Social Media Project, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

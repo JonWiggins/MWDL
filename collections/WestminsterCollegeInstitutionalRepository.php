@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Westminster College Institutional Repository">
+<meta name="description" content="Westminster College Institutional Repository, a MWDL collection, presented by Westminster College - Giovale Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Logan Canyon Reflections, AMP">
+<meta name="description" content="Logan Canyon Reflections, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1791 -->
 <!-- Collection Title -->
 <title>Logan Canyon Reflections</title>

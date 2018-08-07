@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber County (Utah) Court Clerk 1850 Census Population Schedule, AMP">
+<meta name="description" content="Weber County (Utah) Court Clerk 1850 Census Population Schedule, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2438 -->
 <!-- Collection Title -->
 <title>Weber County (Utah) Court Clerk 1850 Census Population Schedule</title>

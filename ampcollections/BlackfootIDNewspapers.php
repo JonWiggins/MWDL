@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Blackfoot (ID) Newspapers, AMP">
+<meta name="description" content="Blackfoot (ID) Newspapers, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1931 -->
 <!-- Collection Title -->
 <title>Blackfoot (ID) Newspapers</title>

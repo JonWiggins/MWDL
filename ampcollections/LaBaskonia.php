@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="La Baskonia, AMP">
+<meta name="description" content="La Baskonia, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1827 -->
 <!-- Collection Title -->
 <title>La Baskonia</title>

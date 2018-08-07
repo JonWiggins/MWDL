@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Capitol Commission Capitol Design Competition Renderings, AMP">
+<meta name="description" content="Capitol Commission Capitol Design Competition Renderings, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2442 -->
 <!-- Collection Title -->
 <title>Capitol Commission Capitol Design Competition Renderings</title>

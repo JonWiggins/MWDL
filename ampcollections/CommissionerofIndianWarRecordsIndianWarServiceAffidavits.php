@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Commissioner of Indian War Records Indian War Service Affidavits, AMP">
+<meta name="description" content="Commissioner of Indian War Records Indian War Service Affidavits, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1601 -->
 <!-- Collection Title -->
 <title>Commissioner of Indian War Records Indian War Service Affidavits</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Crime in Utah Collection, AMP">
+<meta name="description" content="Crime in Utah Collection, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2437 -->
 <!-- Collection Title -->
 <title>Crime in Utah Collection</title>

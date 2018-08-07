@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company Speeches by Edmund Wattis Littlefield, AMP">
+<meta name="description" content="Utah Construction Company Speeches by Edmund Wattis Littlefield, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1843 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Speeches by Edmund Wattis Littlefield</title>

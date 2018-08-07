@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Dee School of Nursing: Oral History Project and Yearbooks">
+<meta name="description" content="Dee School of Nursing: Oral History Project and Yearbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

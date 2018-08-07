@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966, AMP">
+<meta name="description" content="Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1624 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966</title>

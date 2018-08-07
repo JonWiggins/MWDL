@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Topaz Japanese-American Relocation Center Digital Collection, AMP">
+<meta name="description" content="Topaz Japanese-American Relocation Center Digital Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1136 -->
 <!-- Collection Title -->
 <title>Topaz Japanese-American Relocation Center Digital Collection</title>

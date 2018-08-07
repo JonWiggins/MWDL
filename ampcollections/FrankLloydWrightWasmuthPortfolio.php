@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frank Lloyd Wright: Wasmuth Portfolio, AMP">
+<meta name="description" content="Frank Lloyd Wright: Wasmuth Portfolio, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1050 -->
 <!-- Collection Title -->
 <title>Frank Lloyd Wright: Wasmuth Portfolio</title>

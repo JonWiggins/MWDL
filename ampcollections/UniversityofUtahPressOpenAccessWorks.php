@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Press Open Access Works, AMP">
+<meta name="description" content="University of Utah Press Open Access Works, a MWDL collection, presented by University of Utah - University Press">
 <!-- Collection #1637 -->
 <!-- Collection Title -->
 <title>University of Utah Press Open Access Works</title>

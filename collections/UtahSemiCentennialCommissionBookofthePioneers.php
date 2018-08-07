@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Semi-Centennial Commission Book of the Pioneers">
+<meta name="description" content="Utah Semi-Centennial Commission Book of the Pioneers, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

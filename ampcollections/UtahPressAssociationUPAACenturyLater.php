@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Press Association: UPA - A Century Later, AMP">
+<meta name="description" content="Utah Press Association: UPA - A Century Later, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1175 -->
 <!-- Collection Title -->
 <title>Utah Press Association: UPA - A Century Later</title>

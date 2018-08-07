@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Religious Education, AMP">
+<meta name="description" content="Religious Education, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1088 -->
 <!-- Collection Title -->
 <title>Religious Education</title>

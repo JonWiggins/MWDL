@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor Scott M. Matheson (1977-1984). Committee on Executive Reorganization, 1978, AMP">
+<meta name="description" content="Utah Governor Scott M. Matheson (1977-1984). Committee on Executive Reorganization, 1978, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1626 -->
 <!-- Collection Title -->
 <title>Utah Governor Scott M. Matheson (1977-1984). Committee on Executive Reorganization, 1978</title>

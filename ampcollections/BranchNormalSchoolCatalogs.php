@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Branch Normal School Catalogs, AMP">
+<meta name="description" content="Branch Normal School Catalogs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1104 -->
 <!-- Collection Title -->
 <title>Branch Normal School Catalogs</title>

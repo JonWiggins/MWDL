@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Territorial Secretary Territorial Executive Papers, AMP">
+<meta name="description" content="Utah Territorial Secretary Territorial Executive Papers, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2288 -->
 <!-- Collection Title -->
 <title>Utah Territorial Secretary Territorial Executive Papers</title>

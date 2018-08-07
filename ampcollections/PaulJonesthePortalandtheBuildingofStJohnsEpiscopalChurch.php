@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Paul Jones, the Portal, and the Building of St. John's Episcopal Church, AMP">
+<meta name="description" content="Paul Jones, the Portal, and the Building of St. John's Episcopal Church, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1613 -->
 <!-- Collection Title -->
 <title>Paul Jones, the Portal, and the Building of St. John's Episcopal Church</title>

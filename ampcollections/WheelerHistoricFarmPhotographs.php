@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Wheeler Historic Farm Photographs, AMP">
+<meta name="description" content="Wheeler Historic Farm Photographs, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2291 -->
 <!-- Collection Title -->
 <title>Wheeler Historic Farm Photographs</title>

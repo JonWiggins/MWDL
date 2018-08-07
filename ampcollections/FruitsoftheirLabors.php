@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Fruits of their Labors, AMP">
+<meta name="description" content="Fruits of their Labors, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1925 -->
 <!-- Collection Title -->
 <title>Fruits of their Labors</title>

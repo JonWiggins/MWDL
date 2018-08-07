@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Westminster College Photograph Collection, AMP">
+<meta name="description" content="Westminster College Photograph Collection, a MWDL collection, presented by Westminster College - Giovale Library">
 <!-- Collection #1010 -->
 <!-- Collection Title -->
 <title>Westminster College Photograph Collection</title>

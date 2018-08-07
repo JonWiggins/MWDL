@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Second District Court Weber County Index to Civil Actions, AMP">
+<meta name="description" content="Second District Court Weber County Index to Civil Actions, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2440 -->
 <!-- Collection Title -->
 <title>Second District Court Weber County Index to Civil Actions</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 037 Mrs. George Bird Grinnell Indian Photographs, AMP">
+<meta name="description" content="MS 037 Mrs. George Bird Grinnell Indian Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2276 -->
 <!-- Collection Title -->
 <title>MS 037 Mrs. George Bird Grinnell Indian Photographs</title>

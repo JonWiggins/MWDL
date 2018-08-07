@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 021 Yellowstone National Park, AMP">
+<meta name="description" content="MS 021 Yellowstone National Park, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2332 -->
 <!-- Collection Title -->
 <title>MS 021 Yellowstone National Park</title>

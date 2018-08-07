@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Children's Book and Play Review, AMP">
+<meta name="description" content="Children's Book and Play Review, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1061 -->
 <!-- Collection Title -->
 <title>Children's Book and Play Review</title>

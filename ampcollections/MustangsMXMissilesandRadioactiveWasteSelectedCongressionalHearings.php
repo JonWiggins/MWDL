@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings, AMP">
+<meta name="description" content="Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1829 -->
 <!-- Collection Title -->
 <title>Mustangs, MX Missiles and Radioactive Waste: Selected Congressional Hearings</title>

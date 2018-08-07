@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Angelus Studio photographs, 1880s-1940s, AMP">
+<meta name="description" content="Angelus Studio photographs, 1880s-1940s, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2255 -->
 <!-- Collection Title -->
 <title>Angelus Studio photographs, 1880s-1940s</title>

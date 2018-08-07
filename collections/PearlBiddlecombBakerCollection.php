@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Pearl Biddlecomb Baker Collection">
+<meta name="description" content="Pearl Biddlecomb Baker Collection, a MWDL collection, presented by Green River (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

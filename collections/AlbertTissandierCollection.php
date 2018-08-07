@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Albert Tissandier Collection">
+<meta name="description" content="Albert Tissandier Collection, a MWDL collection, presented by University of Utah - Utah Museum of Fine Arts">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

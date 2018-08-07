@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lincoln Ellison, U.S. Forest Service, AMP">
+<meta name="description" content="Lincoln Ellison, U.S. Forest Service, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1616 -->
 <!-- Collection Title -->
 <title>Lincoln Ellison, U.S. Forest Service</title>

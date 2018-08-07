@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Southwest Utah Livestock Association, AMP">
+<meta name="description" content="Southwest Utah Livestock Association, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1109 -->
 <!-- Collection Title -->
 <title>Southwest Utah Livestock Association</title>

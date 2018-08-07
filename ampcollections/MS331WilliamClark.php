@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 331 William Clark, AMP">
+<meta name="description" content="MS 331 William Clark, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2284 -->
 <!-- Collection Title -->
 <title>MS 331 William Clark</title>

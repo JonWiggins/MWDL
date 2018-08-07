@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frank Call Photograph Collection, 1909-1911, AMP">
+<meta name="description" content="Frank Call Photograph Collection, 1909-1911, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1236 -->
 <!-- Collection Title -->
 <title>Frank Call Photograph Collection, 1909-1911</title>

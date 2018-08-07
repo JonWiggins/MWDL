@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Polynesian Cultural Center Photo Collection, 1961-1979, AMP">
+<meta name="description" content="Polynesian Cultural Center Photo Collection, 1961-1979, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1238 -->
 <!-- Collection Title -->
 <title>Polynesian Cultural Center Photo Collection, 1961-1979</title>

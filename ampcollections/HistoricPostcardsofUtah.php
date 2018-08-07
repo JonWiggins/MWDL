@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Historic Postcards of Utah, AMP">
+<meta name="description" content="Historic Postcards of Utah, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2029 -->
 <!-- Collection Title -->
 <title>Historic Postcards of Utah</title>

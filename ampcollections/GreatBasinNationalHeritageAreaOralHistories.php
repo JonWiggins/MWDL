@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Great Basin National Heritage Area Oral Histories, AMP">
+<meta name="description" content="Great Basin National Heritage Area Oral Histories, a MWDL collection, presented by Great Basin National Heritage Partnership">
 <!-- Collection #1312 -->
 <!-- Collection Title -->
 <title>Great Basin National Heritage Area Oral Histories</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Len Jordan Collection, AMP">
+<meta name="description" content="Len Jordan Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2216 -->
 <!-- Collection Title -->
 <title>Len Jordan Collection</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="World War I Photographs, AMP">
+<meta name="description" content="World War I Photographs, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1246 -->
 <!-- Collection Title -->
 <title>World War I Photographs</title>

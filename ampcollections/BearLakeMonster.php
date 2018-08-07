@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Bear Lake Monster, AMP">
+<meta name="description" content="Bear Lake Monster, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2137 -->
 <!-- Collection Title -->
 <title>Bear Lake Monster</title>

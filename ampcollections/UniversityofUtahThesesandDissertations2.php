@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Theses and Dissertations 2, AMP">
+<meta name="description" content="University of Utah Theses and Dissertations 2, a MWDL collection, presented by University of Utah">
 <!-- Collection #1250 -->
 <!-- Collection Title -->
 <title>University of Utah Theses and Dissertations 2</title>

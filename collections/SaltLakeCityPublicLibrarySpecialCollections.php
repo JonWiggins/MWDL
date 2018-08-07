@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Salt Lake City Public Library Special Collections">
+<meta name="description" content="Salt Lake City Public Library Special Collections, a MWDL collection, presented by Salt Lake City (UT) Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

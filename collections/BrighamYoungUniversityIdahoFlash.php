@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Brigham Young University-Idaho Flash">
+<meta name="description" content="Brigham Young University-Idaho Flash, a MWDL collection, presented by Brigham Young University-Idaho">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

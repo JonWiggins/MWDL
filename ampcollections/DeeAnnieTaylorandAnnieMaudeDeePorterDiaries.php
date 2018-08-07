@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dee, Annie Taylor and Annie Maude Dee Porter Diaries, AMP">
+<meta name="description" content="Dee, Annie Taylor and Annie Maude Dee Porter Diaries, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1840 -->
 <!-- Collection Title -->
 <title>Dee, Annie Taylor and Annie Maude Dee Porter Diaries</title>

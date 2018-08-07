@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Uintah County Regional History Center Collection, AMP">
+<meta name="description" content="Uintah County Regional History Center Collection, a MWDL collection, presented by Uintah County (UT) Library">
 <!-- Collection #1029 -->
 <!-- Collection Title -->
 <title>Uintah County Regional History Center Collection</title>

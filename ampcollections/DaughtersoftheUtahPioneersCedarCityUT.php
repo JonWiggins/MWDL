@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Daughters of the Utah Pioneers, Cedar City (UT), AMP">
+<meta name="description" content="Daughters of the Utah Pioneers, Cedar City (UT), a MWDL collection, presented by Daughters of the Utah Pioneers, Cedar City (UT)">
 <!-- Collection #1640 -->
 <!-- Collection Title -->
 <title>Daughters of the Utah Pioneers, Cedar City (UT)</title>

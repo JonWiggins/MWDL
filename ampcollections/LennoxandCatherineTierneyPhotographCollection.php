@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lennox and Catherine Tierney Photograph Collection, AMP">
+<meta name="description" content="Lennox and Catherine Tierney Photograph Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1635 -->
 <!-- Collection Title -->
 <title>Lennox and Catherine Tierney Photograph Collection</title>

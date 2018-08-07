@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Writers Series Digital Editions, AMP">
+<meta name="description" content="Western Writers Series Digital Editions, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2221 -->
 <!-- Collection Title -->
 <title>Western Writers Series Digital Editions</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Golden Spike Oral History Papers, AMP">
+<meta name="description" content="Golden Spike Oral History Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2227 -->
 <!-- Collection Title -->
 <title>Golden Spike Oral History Papers</title>

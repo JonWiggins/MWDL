@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Woodbury Art Museum Permanent Collection, AMP">
+<meta name="description" content="Woodbury Art Museum Permanent Collection, a MWDL collection, presented by Utah Valley University - Woodbury Art Museum">
 <!-- Collection #2419 -->
 <!-- Collection Title -->
 <title>Woodbury Art Museum Permanent Collection</title>

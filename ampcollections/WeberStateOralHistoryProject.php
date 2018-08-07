@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Oral History Project, AMP">
+<meta name="description" content="Weber State Oral History Project, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1863 -->
 <!-- Collection Title -->
 <title>Weber State Oral History Project</title>

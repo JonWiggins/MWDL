@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Central Utah Project: Capturing Utah's Share of the Colorado River">
+<meta name="description" content="Central Utah Project: Capturing Utah's Share of the Colorado River, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

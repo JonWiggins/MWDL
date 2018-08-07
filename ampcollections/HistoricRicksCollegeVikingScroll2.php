@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Historic Ricks College Viking Scroll 2, AMP">
+<meta name="description" content="Historic Ricks College Viking Scroll 2, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1070 -->
 <!-- Collection Title -->
 <title>Historic Ricks College Viking Scroll 2</title>

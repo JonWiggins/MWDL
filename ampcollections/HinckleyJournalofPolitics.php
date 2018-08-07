@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Hinckley Journal of Politics, AMP">
+<meta name="description" content="Hinckley Journal of Politics, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1222 -->
 <!-- Collection Title -->
 <title>Hinckley Journal of Politics</title>

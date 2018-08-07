@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cache Valley Drug Court Oral History Project, AMP">
+<meta name="description" content="Cache Valley Drug Court Oral History Project, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2421 -->
 <!-- Collection Title -->
 <title>Cache Valley Drug Court Oral History Project</title>

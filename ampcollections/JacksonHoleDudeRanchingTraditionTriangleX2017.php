@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Jackson Hole Dude Ranching Tradition: Triangle X 2017, AMP">
+<meta name="description" content="Jackson Hole Dude Ranching Tradition: Triangle X 2017, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2425 -->
 <!-- Collection Title -->
 <title>Jackson Hole Dude Ranching Tradition: Triangle X 2017</title>

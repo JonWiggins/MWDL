@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Laie Plantation and Community Photo Collection, 1879-1965, AMP">
+<meta name="description" content="Laie Plantation and Community Photo Collection, 1879-1965, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1237 -->
 <!-- Collection Title -->
 <title>Laie Plantation and Community Photo Collection, 1879-1965</title>

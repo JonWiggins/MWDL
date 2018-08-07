@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="City of Orem (UT), AMP">
+<meta name="description" content="City of Orem (UT), a MWDL collection, presented by Orem (UT) Public Library">
 <!-- Collection #1537 -->
 <!-- Collection Title -->
 <title>City of Orem (UT)</title>

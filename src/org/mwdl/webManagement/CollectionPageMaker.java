@@ -56,7 +56,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include (\"../includes/collectionhead.php\");?>");
-            writer.println("<meta name=\"description\" content=\"" + toWrite.title + ", a collection in the MWDL, presented by" +
+            writer.println("<meta name=\"description\" content=\"" + toWrite.title + ", a MWDL collection, presented by " +
                     toWrite.publisher + "\">");
             writer.println("<?php include (\"../includes/collectionlinkimports.php\");?>");
             writer.println("<script type=\"text/javascript\">\n" +
@@ -144,7 +144,7 @@ public class CollectionPageMaker {
             PrintWriter writer = new PrintWriter(FileLocAndName, "UTF-8");
 
             writer.println("<?php include(\"../includes/ampheader.php\");?>");
-            writer.println("<meta name=\"description\" content=\"" + toWrite.title + ", a collection in the MWDL, presented by" +
+            writer.println("<meta name=\"description\" content=\"" + toWrite.title + ", a MWDL collection, presented by " +
                     toWrite.publisher + "\">");
             writer.println("<!-- Collection #" + toWrite.collectionNumber + " -->");
             writer.println("<!-- Collection Title -->");

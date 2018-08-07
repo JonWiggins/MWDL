@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Lyman Wilbur Afghanistan">
+<meta name="description" content="Lyman Wilbur Afghanistan, a MWDL collection, presented by Boise State University - Albertsons Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

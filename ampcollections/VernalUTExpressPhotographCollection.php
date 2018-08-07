@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Vernal (UT) Express Photograph Collection, AMP">
+<meta name="description" content="Vernal (UT) Express Photograph Collection, a MWDL collection, presented by Uintah County (UT) Library">
 <!-- Collection #1047 -->
 <!-- Collection Title -->
 <title>Vernal (UT) Express Photograph Collection</title>

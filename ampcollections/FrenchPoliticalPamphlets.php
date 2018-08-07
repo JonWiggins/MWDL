@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="French Political Pamphlets, AMP">
+<meta name="description" content="French Political Pamphlets, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1317 -->
 <!-- Collection Title -->
 <title>French Political Pamphlets</title>

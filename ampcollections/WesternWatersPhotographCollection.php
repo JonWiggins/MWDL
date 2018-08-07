@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Waters: Photograph Collection, AMP">
+<meta name="description" content="Western Waters: Photograph Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1046 -->
 <!-- Collection Title -->
 <title>Western Waters: Photograph Collection</title>

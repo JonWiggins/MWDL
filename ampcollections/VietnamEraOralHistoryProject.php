@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Vietnam Era Oral History Project, AMP">
+<meta name="description" content="Vietnam Era Oral History Project, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1953 -->
 <!-- Collection Title -->
 <title>Vietnam Era Oral History Project</title>

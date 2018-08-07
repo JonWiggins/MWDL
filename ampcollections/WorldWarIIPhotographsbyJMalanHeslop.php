@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="World War II Photographs by J. Malan Heslop, AMP">
+<meta name="description" content="World War II Photographs by J. Malan Heslop, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1315 -->
 <!-- Collection Title -->
 <title>World War II Photographs by J. Malan Heslop</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah College of Architecture + Planning Collection, AMP">
+<meta name="description" content="University of Utah College of Architecture + Planning Collection, a MWDL collection, presented by University of Utah - College of Architecture and Planning">
 <!-- Collection #1325 -->
 <!-- Collection Title -->
 <title>University of Utah College of Architecture + Planning Collection</title>

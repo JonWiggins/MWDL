@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University-Hawaii Collection, AMP">
+<meta name="description" content="Brigham Young University-Hawaii Collection, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1220 -->
 <!-- Collection Title -->
 <title>Brigham Young University-Hawaii Collection</title>

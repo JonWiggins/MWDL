@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Southern Utah University Scholar Archive, AMP">
+<meta name="description" content="Southern Utah University Scholar Archive, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1868 -->
 <!-- Collection Title -->
 <title>Southern Utah University Scholar Archive</title>

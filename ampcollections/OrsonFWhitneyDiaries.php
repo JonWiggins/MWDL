@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Orson F. Whitney Diaries, AMP">
+<meta name="description" content="Orson F. Whitney Diaries, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2427 -->
 <!-- Collection Title -->
 <title>Orson F. Whitney Diaries</title>

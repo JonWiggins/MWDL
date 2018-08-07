@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Statehood Constitutional Convention (1895) Records, AMP">
+<meta name="description" content="Utah Statehood Constitutional Convention (1895) Records, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1834 -->
 <!-- Collection Title -->
 <title>Utah Statehood Constitutional Convention (1895) Records</title>

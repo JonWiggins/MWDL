@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Menus: The Art of Dining">
+<meta name="description" content="Menus: The Art of Dining, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

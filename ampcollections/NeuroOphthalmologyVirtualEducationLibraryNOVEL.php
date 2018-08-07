@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology Virtual Education Library (NOVEL), AMP">
+<meta name="description" content="Neuro-Ophthalmology Virtual Education Library (NOVEL), a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1186 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology Virtual Education Library (NOVEL)</title>

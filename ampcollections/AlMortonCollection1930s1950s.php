@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Al Morton Collection 1930s-1950s, AMP">
+<meta name="description" content="Al Morton Collection 1930s-1950s, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2086 -->
 <!-- Collection Title -->
 <title>Al Morton Collection 1930s-1950s</title>

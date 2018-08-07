@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Green River Launch Complex, U.S. Air Force">
+<meta name="description" content="Green River Launch Complex, U.S. Air Force, a MWDL collection, presented by Green River (UT)">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

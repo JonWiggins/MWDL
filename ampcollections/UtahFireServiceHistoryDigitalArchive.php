@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Fire Service History Digital Archive, AMP">
+<meta name="description" content="Utah Fire Service History Digital Archive, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1954 -->
 <!-- Collection Title -->
 <title>Utah Fire Service History Digital Archive</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Second District Court John D. Lee Criminal Case File, AMP">
+<meta name="description" content="Utah Second District Court John D. Lee Criminal Case File, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2450 -->
 <!-- Collection Title -->
 <title>Utah Second District Court John D. Lee Criminal Case File</title>

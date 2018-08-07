@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden Stockyards Photographs, Memorabilia and Oral HIstories, AMP">
+<meta name="description" content="Ogden Stockyards Photographs, Memorabilia and Oral HIstories, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2342 -->
 <!-- Collection Title -->
 <title>Ogden Stockyards Photographs, Memorabilia and Oral HIstories</title>

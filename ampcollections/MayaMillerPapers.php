@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Maya Miller Papers, AMP">
+<meta name="description" content="Maya Miller Papers, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #2300 -->
 <!-- Collection Title -->
 <title>Maya Miller Papers</title>

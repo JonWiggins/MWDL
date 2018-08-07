@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Civilization Hamblin, AMP">
+<meta name="description" content="Civilization Hamblin, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1062 -->
 <!-- Collection Title -->
 <title>Civilization Hamblin</title>

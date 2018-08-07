@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957">
+<meta name="description" content="Lee D. Drake (1882-1957) photographs, ca. 1910-1957, a MWDL collection, presented by University of Oregon Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

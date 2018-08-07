@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Provo (UT) Municipal Council and Commission Minutes">
+<meta name="description" content="Provo (UT) Municipal Council and Commission Minutes, a MWDL collection, presented by Provo (UT) City">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

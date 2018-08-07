@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Department of Transportation Official Photographs Index, AMP">
+<meta name="description" content="Utah Department of Transportation Official Photographs Index, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1833 -->
 <!-- Collection Title -->
 <title>Utah Department of Transportation Official Photographs Index</title>

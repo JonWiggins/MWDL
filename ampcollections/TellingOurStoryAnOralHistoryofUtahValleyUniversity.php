@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Telling Our Story: An Oral History of Utah Valley University, AMP">
+<meta name="description" content="Telling Our Story: An Oral History of Utah Valley University, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2206 -->
 <!-- Collection Title -->
 <title>Telling Our Story: An Oral History of Utah Valley University</title>

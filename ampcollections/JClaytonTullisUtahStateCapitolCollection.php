@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="J. Clayton Tullis Utah State Capitol Collection, AMP">
+<meta name="description" content="J. Clayton Tullis Utah State Capitol Collection, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #2158 -->
 <!-- Collection Title -->
 <title>J. Clayton Tullis Utah State Capitol Collection</title>

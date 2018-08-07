@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 017 Charles Rapp Collection, AMP">
+<meta name="description" content="MS 017 Charles Rapp Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2274 -->
 <!-- Collection Title -->
 <title>MS 017 Charles Rapp Collection</title>

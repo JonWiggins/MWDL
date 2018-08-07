@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Academic Library Consortium Archives, AMP">
+<meta name="description" content="Utah Academic Library Consortium Archives, a MWDL collection, presented by Utah Academic Library Consortium">
 <!-- Collection #1196 -->
 <!-- Collection Title -->
 <title>Utah Academic Library Consortium Archives</title>

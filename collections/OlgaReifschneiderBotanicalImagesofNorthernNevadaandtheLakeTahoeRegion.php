@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region">
+<meta name="description" content="Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

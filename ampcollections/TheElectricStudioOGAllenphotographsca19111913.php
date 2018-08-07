@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="The Electric Studio/O.G. Allen photographs, ca. 1911-1913, AMP">
+<meta name="description" content="The Electric Studio/O.G. Allen photographs, ca. 1911-1913, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2259 -->
 <!-- Collection Title -->
 <title>The Electric Studio/O.G. Allen photographs, ca. 1911-1913</title>

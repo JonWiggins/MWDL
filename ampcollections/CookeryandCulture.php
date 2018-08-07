@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cookery and Culture, AMP">
+<meta name="description" content="Cookery and Culture, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1262 -->
 <!-- Collection Title -->
 <title>Cookery and Culture</title>

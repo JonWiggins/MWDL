@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governors Executive Orders and Proclamations, AMP">
+<meta name="description" content="Utah Governors Executive Orders and Proclamations, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1146 -->
 <!-- Collection Title -->
 <title>Utah Governors Executive Orders and Proclamations</title>

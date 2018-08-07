@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Orem (UT) School Yearbooks, AMP">
+<meta name="description" content="Orem (UT) School Yearbooks, a MWDL collection, presented by Orem (UT) Public Library">
 <!-- Collection #2454 -->
 <!-- Collection Title -->
 <title>Orem (UT) School Yearbooks</title>

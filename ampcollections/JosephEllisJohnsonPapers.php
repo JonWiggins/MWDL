@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Joseph Ellis Johnson Papers, AMP">
+<meta name="description" content="Joseph Ellis Johnson Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2225 -->
 <!-- Collection Title -->
 <title>Joseph Ellis Johnson Papers</title>

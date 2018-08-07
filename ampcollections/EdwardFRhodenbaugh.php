@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Edward F. Rhodenbaugh, AMP">
+<meta name="description" content="Edward F. Rhodenbaugh, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2360 -->
 <!-- Collection Title -->
 <title>Edward F. Rhodenbaugh</title>

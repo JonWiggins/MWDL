@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="University of Utah Interviews with Japanese in Utah">
+<meta name="description" content="University of Utah Interviews with Japanese in Utah, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

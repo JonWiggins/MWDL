@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Division of Animal Industry Brand Books, AMP">
+<meta name="description" content="Utah Division of Animal Industry Brand Books, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1208 -->
 <!-- Collection Title -->
 <title>Utah Division of Animal Industry Brand Books</title>

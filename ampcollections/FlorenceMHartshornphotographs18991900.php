@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Florence M. Hartshorn photographs, 1899-1900, AMP">
+<meta name="description" content="Florence M. Hartshorn photographs, 1899-1900, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2254 -->
 <!-- Collection Title -->
 <title>Florence M. Hartshorn photographs, 1899-1900</title>

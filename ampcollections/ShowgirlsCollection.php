@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Showgirls Collection, AMP">
+<meta name="description" content="Showgirls Collection, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1201 -->
 <!-- Collection Title -->
 <title>Showgirls Collection</title>

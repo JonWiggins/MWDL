@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="William D. Hurst Papers, AMP">
+<meta name="description" content="William D. Hurst Papers, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1638 -->
 <!-- Collection Title -->
 <title>William D. Hurst Papers</title>

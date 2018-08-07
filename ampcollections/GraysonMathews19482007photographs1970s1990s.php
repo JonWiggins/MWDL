@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Grayson Mathews (1948-2007) photographs, 1970s-1990s, AMP">
+<meta name="description" content="Grayson Mathews (1948-2007) photographs, 1970s-1990s, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2260 -->
 <!-- Collection Title -->
 <title>Grayson Mathews (1948-2007) photographs, 1970s-1990s</title>

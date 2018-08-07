@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Nevada, Reno, Special Collections Photographs, AMP">
+<meta name="description" content="University of Nevada, Reno, Special Collections Photographs, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1132 -->
 <!-- Collection Title -->
 <title>University of Nevada, Reno, Special Collections Photographs</title>

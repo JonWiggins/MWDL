@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence, AMP">
+<meta name="description" content="Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2296 -->
 <!-- Collection Title -->
 <title>Utah Governor William Spry (1909-1917) Joseph Hillstrom Correspondence</title>

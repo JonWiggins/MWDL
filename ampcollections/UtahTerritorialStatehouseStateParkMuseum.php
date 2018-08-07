@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Territorial Statehouse State Park Museum, AMP">
+<meta name="description" content="Utah Territorial Statehouse State Park Museum, a MWDL collection, presented by Utah Territorial Statehouse State Park Museum">
 <!-- Collection #2145 -->
 <!-- Collection Title -->
 <title>Utah Territorial Statehouse State Park Museum</title>

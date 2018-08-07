@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Schools of the Salt Lake Valley (UT)">
+<meta name="description" content="Schools of the Salt Lake Valley (UT), a MWDL collection, presented by Department of Heritage and Arts">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Legislature. House of Representatives Working Bills, 1896-1989">
+<meta name="description" content="Utah Legislature. House of Representatives Working Bills, 1896-1989, a MWDL collection, presented by Utah State Archives">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

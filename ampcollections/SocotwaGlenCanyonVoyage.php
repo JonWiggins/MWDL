@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Socotwa, Glen Canyon Voyage, AMP">
+<meta name="description" content="Socotwa, Glen Canyon Voyage, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1110 -->
 <!-- Collection Title -->
 <title>Socotwa, Glen Canyon Voyage</title>

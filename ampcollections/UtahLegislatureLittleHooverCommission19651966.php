@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Legislature. Little Hoover Commission, 1965-1966, AMP">
+<meta name="description" content="Utah Legislature. Little Hoover Commission, 1965-1966, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1627 -->
 <!-- Collection Title -->
 <title>Utah Legislature. Little Hoover Commission, 1965-1966</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Edith Irvine, AMP">
+<meta name="description" content="Edith Irvine, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1065 -->
 <!-- Collection Title -->
 <title>Edith Irvine</title>

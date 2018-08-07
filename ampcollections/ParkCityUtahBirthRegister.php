@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Park City (Utah) Birth Register, AMP">
+<meta name="description" content="Park City (Utah) Birth Register, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2439 -->
 <!-- Collection Title -->
 <title>Park City (Utah) Birth Register</title>

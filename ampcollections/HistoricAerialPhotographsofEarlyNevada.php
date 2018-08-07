@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Historic Aerial Photographs of Early Nevada, AMP">
+<meta name="description" content="Historic Aerial Photographs of Early Nevada, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1123 -->
 <!-- Collection Title -->
 <title>Historic Aerial Photographs of Early Nevada</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frances Winton Champ Music Collection, AMP">
+<meta name="description" content="Frances Winton Champ Music Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1793 -->
 <!-- Collection Title -->
 <title>Frances Winton Champ Music Collection</title>

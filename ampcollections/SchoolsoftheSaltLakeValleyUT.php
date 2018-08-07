@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Schools of the Salt Lake Valley (UT), AMP">
+<meta name="description" content="Schools of the Salt Lake Valley (UT), a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1191 -->
 <!-- Collection Title -->
 <title>Schools of the Salt Lake Valley (UT)</title>

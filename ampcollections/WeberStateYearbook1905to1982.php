@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Yearbook 1905 to 1982, AMP">
+<meta name="description" content="Weber State Yearbook 1905 to 1982, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1310 -->
 <!-- Collection Title -->
 <title>Weber State Yearbook 1905 to 1982</title>

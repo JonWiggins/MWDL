@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Government Digital Library, AMP">
+<meta name="description" content="Utah Government Digital Library, a MWDL collection, presented by Utah State Library">
 <!-- Collection #1559 -->
 <!-- Collection Title -->
 <title>Utah Government Digital Library</title>

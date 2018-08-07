@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah 2002 Olympic Legacy Collection, AMP">
+<meta name="description" content="Utah 2002 Olympic Legacy Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1051 -->
 <!-- Collection Title -->
 <title>Utah 2002 Olympic Legacy Collection</title>

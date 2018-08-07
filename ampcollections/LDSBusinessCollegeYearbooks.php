@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="LDS Business College Yearbooks, AMP">
+<meta name="description" content="LDS Business College Yearbooks, a MWDL collection, presented by LDS Business College">
 <!-- Collection #1318 -->
 <!-- Collection Title -->
 <title>LDS Business College Yearbooks</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Ski Archives Newsletter, AMP">
+<meta name="description" content="Utah Ski Archives Newsletter, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1034 -->
 <!-- Collection Title -->
 <title>Utah Ski Archives Newsletter</title>

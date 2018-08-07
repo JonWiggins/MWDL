@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State University Buildings 1 and 2: A Photo History, AMP">
+<meta name="description" content="Weber State University Buildings 1 and 2: A Photo History, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1248 -->
 <!-- Collection Title -->
 <title>Weber State University Buildings 1 and 2: A Photo History</title>

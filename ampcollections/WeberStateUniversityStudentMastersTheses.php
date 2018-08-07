@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State University Student Master's Theses, AMP">
+<meta name="description" content="Weber State University Student Master's Theses, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2019 -->
 <!-- Collection Title -->
 <title>Weber State University Student Master's Theses</title>

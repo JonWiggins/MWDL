@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Marcus Bach Outreach, AMP">
+<meta name="description" content="Marcus Bach Outreach, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1078 -->
 <!-- Collection Title -->
 <title>Marcus Bach Outreach</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Harrisville City Virtual History Museum, AMP">
+<meta name="description" content="Harrisville City Virtual History Museum, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2413 -->
 <!-- Collection Title -->
 <title>Harrisville City Virtual History Museum</title>

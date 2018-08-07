@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company Feather River Scrapbooks, AMP">
+<meta name="description" content="Utah Construction Company Feather River Scrapbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1849 -->
 <!-- Collection Title -->
 <title>Utah Construction Company Feather River Scrapbooks</title>

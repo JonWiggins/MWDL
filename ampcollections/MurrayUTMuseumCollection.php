@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Murray (UT) Museum Collection, AMP">
+<meta name="description" content="Murray (UT) Museum Collection, a MWDL collection, presented by Murray (UT) Museum">
 <!-- Collection #1543 -->
 <!-- Collection Title -->
 <title>Murray (UT) Museum Collection</title>

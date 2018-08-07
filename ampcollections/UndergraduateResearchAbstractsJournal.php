@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Undergraduate Research Abstracts Journal, AMP">
+<meta name="description" content="Undergraduate Research Abstracts Journal, a MWDL collection, presented by University of Utah - Undergraduate Research Opportunities Program">
 <!-- Collection #1031 -->
 <!-- Collection Title -->
 <title>Undergraduate Research Abstracts Journal</title>

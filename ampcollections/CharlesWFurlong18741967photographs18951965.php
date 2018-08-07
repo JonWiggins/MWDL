@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Charles W. Furlong (1874-1967) photographs, 1895-1965, AMP">
+<meta name="description" content="Charles W. Furlong (1874-1967) photographs, 1895-1965, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2257 -->
 <!-- Collection Title -->
 <title>Charles W. Furlong (1874-1967) photographs, 1895-1965</title>

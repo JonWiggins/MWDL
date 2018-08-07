@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs, AMP">
+<meta name="description" content="Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2266 -->
 <!-- Collection Title -->
 <title>Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs</title>

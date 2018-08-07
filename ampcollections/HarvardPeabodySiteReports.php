@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Harvard Peabody Site Reports, AMP">
+<meta name="description" content="Harvard Peabody Site Reports, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2466 -->
 <!-- Collection Title -->
 <title>Harvard Peabody Site Reports</title>

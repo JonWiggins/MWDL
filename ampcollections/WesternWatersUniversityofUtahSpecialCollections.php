@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Waters: University of Utah Special Collections, AMP">
+<meta name="description" content="Western Waters: University of Utah Special Collections, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1633 -->
 <!-- Collection Title -->
 <title>Western Waters: University of Utah Special Collections</title>

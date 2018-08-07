@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Charles Raymond Varley Slides, 1868-1986, AMP">
+<meta name="description" content="Charles Raymond Varley Slides, 1868-1986, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2311 -->
 <!-- Collection Title -->
 <title>Charles Raymond Varley Slides, 1868-1986</title>

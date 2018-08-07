@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden Architects Hodgson and Piers, AMP">
+<meta name="description" content="Ogden Architects Hodgson and Piers, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1846 -->
 <!-- Collection Title -->
 <title>Ogden Architects Hodgson and Piers</title>

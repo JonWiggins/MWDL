@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Historic Landscape of Nevada: Development, Water, and the Natural Environment, AMP">
+<meta name="description" content="Historic Landscape of Nevada: Development, Water, and the Natural Environment, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1615 -->
 <!-- Collection Title -->
 <title>Historic Landscape of Nevada: Development, Water, and the Natural Environment</title>

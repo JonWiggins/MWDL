@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Photographers, AMP">
+<meta name="description" content="Western Photographers, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1792 -->
 <!-- Collection Title -->
 <title>Western Photographers</title>

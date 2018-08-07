@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake City (UT) Tax Assessment Rolls, AMP">
+<meta name="description" content="Salt Lake City (UT) Tax Assessment Rolls, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2175 -->
 <!-- Collection Title -->
 <title>Salt Lake City (UT) Tax Assessment Rolls</title>

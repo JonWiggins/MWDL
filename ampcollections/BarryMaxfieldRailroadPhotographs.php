@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Barry Maxfield Railroad Photographs, AMP">
+<meta name="description" content="Barry Maxfield Railroad Photographs, a MWDL collection, presented by Utah Valley University Library">
 <!-- Collection #1607 -->
 <!-- Collection Title -->
 <title>Barry Maxfield Railroad Photographs</title>

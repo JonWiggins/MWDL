@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Cloward Collection of Western American Art">
+<meta name="description" content="Cloward Collection of Western American Art, a MWDL collection, presented by Utah Valley University - Woodbury Art Museum">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

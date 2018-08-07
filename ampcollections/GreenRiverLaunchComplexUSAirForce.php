@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Green River Launch Complex, U.S. Air Force, AMP">
+<meta name="description" content="Green River Launch Complex, U.S. Air Force, a MWDL collection, presented by Green River (UT)">
 <!-- Collection #1012 -->
 <!-- Collection Title -->
 <title>Green River Launch Complex, U.S. Air Force</title>

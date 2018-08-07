@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Karl Bodmer Aquatint Collection, AMP">
+<meta name="description" content="Karl Bodmer Aquatint Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1016 -->
 <!-- Collection Title -->
 <title>Karl Bodmer Aquatint Collection</title>

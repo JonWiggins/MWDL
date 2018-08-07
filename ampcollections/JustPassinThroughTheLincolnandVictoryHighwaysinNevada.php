@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Just Passin' Through: The Lincoln and Victory Highways in Nevada, AMP">
+<meta name="description" content="Just Passin' Through: The Lincoln and Victory Highways in Nevada, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1127 -->
 <!-- Collection Title -->
 <title>Just Passin' Through: The Lincoln and Victory Highways in Nevada</title>

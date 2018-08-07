@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Robert B. Daroff Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: Robert B. Daroff Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1300 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Robert B. Daroff Collection</title>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="History of Shelley (ID)">
+<meta name="description" content="History of Shelley (ID), a MWDL collection, presented by North Bingham County (ID) District Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

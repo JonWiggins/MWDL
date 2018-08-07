@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Provo (UT) Municipal Council and Commission Minutes, AMP">
+<meta name="description" content="Provo (UT) Municipal Council and Commission Minutes, a MWDL collection, presented by Provo (UT) City">
 <!-- Collection #1297 -->
 <!-- Collection Title -->
 <title>Provo (UT) Municipal Council and Commission Minutes</title>

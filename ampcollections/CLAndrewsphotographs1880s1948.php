@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="C. L. Andrews photographs, 1880s-1948, AMP">
+<meta name="description" content="C. L. Andrews photographs, 1880s-1948, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2256 -->
 <!-- Collection Title -->
 <title>C. L. Andrews photographs, 1880s-1948</title>

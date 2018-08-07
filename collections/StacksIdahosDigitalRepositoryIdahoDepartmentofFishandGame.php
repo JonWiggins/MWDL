@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Stacks: Idaho's Digital Repository - Idaho Department of Fish and Game">
+<meta name="description" content="Stacks: Idaho's Digital Repository - Idaho Department of Fish and Game, a MWDL collection, presented by Idaho Commission for Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

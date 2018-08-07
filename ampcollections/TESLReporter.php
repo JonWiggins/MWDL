@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="TESL Reporter, AMP">
+<meta name="description" content="TESL Reporter, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1092 -->
 <!-- Collection Title -->
 <title>TESL Reporter</title>

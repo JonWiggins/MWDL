@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Master's Theses on Mormonism: N-Z, AMP">
+<meta name="description" content="Brigham Young University Master's Theses on Mormonism: N-Z, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1101 -->
 <!-- Collection Title -->
 <title>Brigham Young University Master's Theses on Mormonism: N-Z</title>

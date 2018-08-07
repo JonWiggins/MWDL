@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake Community College Scholarly and Creative Works, AMP">
+<meta name="description" content="Salt Lake Community College Scholarly and Creative Works, a MWDL collection, presented by Salt Lake Community College Libraries">
 <!-- Collection #1605 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Scholarly and Creative Works</title>

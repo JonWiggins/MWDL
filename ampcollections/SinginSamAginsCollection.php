@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Singin' Sam Agins Collection, AMP">
+<meta name="description" content="Singin' Sam Agins Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1544 -->
 <!-- Collection Title -->
 <title>Singin' Sam Agins Collection</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Philo T. Farnsworth Television Tubes Collection, AMP">
+<meta name="description" content="Philo T. Farnsworth Television Tubes Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1190 -->
 <!-- Collection Title -->
 <title>Philo T. Farnsworth Television Tubes Collection</title>

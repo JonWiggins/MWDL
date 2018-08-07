@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John S. Boyden: Three Score and Ten in Retrospective, AMP">
+<meta name="description" content="John S. Boyden: Three Score and Ten in Retrospective, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1199 -->
 <!-- Collection Title -->
 <title>John S. Boyden: Three Score and Ten in Retrospective</title>

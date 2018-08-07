@@ -74,7 +74,7 @@ public class AnalyticsPartner {
         hubidtoName.put("byu","Brigham Young University");
         hubidtoName.put("icl","Idaho Commission for Libraries");
         hubidtoName.put("ihs","Idaho State Historical Society");
-        hubidtoName.put("ore","University of Oregon Libraries");
+        hubidtoName.put("ore","Oregon Digital");
         hubidtoName.put("slc","Salt Lake Community College Libraries");
         hubidtoName.put("suu","Southern Utah University");
         hubidtoName.put("uam","Utah Division of Arts and Museums");

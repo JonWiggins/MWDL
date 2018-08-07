@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Studies, AMP">
+<meta name="description" content="Brigham Young University Studies, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1058 -->
 <!-- Collection Title -->
 <title>Brigham Young University Studies</title>

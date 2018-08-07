@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Hamilton Morgan Papers, AMP">
+<meta name="description" content="John Hamilton Morgan Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1901 -->
 <!-- Collection Title -->
 <title>John Hamilton Morgan Papers</title>

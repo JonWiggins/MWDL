@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Iron County (UT) Extension Office Photographs, AMP">
+<meta name="description" content="Iron County (UT) Extension Office Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1259 -->
 <!-- Collection Title -->
 <title>Iron County (UT) Extension Office Photographs</title>

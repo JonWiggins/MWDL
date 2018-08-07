@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Nevada Test Site Oral History Project, AMP">
+<meta name="description" content="Nevada Test Site Oral History Project, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1227 -->
 <!-- Collection Title -->
 <title>Nevada Test Site Oral History Project</title>

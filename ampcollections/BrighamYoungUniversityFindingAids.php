@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Finding Aids, AMP">
+<meta name="description" content="Brigham Young University Finding Aids, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1564 -->
 <!-- Collection Title -->
 <title>Brigham Young University Finding Aids</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="St. Benedict's School of Nursing: Oral History Project, AMP">
+<meta name="description" content="St. Benedict's School of Nursing: Oral History Project, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1847 -->
 <!-- Collection Title -->
 <title>St. Benedict's School of Nursing: Oral History Project</title>

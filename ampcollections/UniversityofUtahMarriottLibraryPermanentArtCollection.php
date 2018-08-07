@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Marriott Library Permanent Art Collection, AMP">
+<meta name="description" content="University of Utah Marriott Library Permanent Art Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1634 -->
 <!-- Collection Title -->
 <title>University of Utah Marriott Library Permanent Art Collection</title>

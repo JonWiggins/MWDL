@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Health Education Assets Library, AMP">
+<meta name="description" content="Health Education Assets Library, a MWDL collection, presented by Health Education Assets Library">
 <!-- Collection #1282 -->
 <!-- Collection Title -->
 <title>Health Education Assets Library</title>

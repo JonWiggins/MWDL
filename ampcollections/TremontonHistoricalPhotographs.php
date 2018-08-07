@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Tremonton Historical Photographs, AMP">
+<meta name="description" content="Tremonton Historical Photographs, a MWDL collection, presented by Tremonton City (UT) Library">
 <!-- Collection #2156 -->
 <!-- Collection Title -->
 <title>Tremonton Historical Photographs</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: David E. Newman-Toker Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: David E. Newman-Toker Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1510 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: David E. Newman-Toker Collection</title>

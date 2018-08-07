@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Health Sciences Library Consortium, AMP">
+<meta name="description" content="Utah Health Sciences Library Consortium, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1189 -->
 <!-- Collection Title -->
 <title>Utah Health Sciences Library Consortium</title>

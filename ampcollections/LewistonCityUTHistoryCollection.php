@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lewiston City (UT) History Collection, AMP">
+<meta name="description" content="Lewiston City (UT) History Collection, a MWDL collection, presented by Lewiston City (UT) Public Library">
 <!-- Collection #2163 -->
 <!-- Collection Title -->
 <title>Lewiston City (UT) History Collection</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction Company: Minutes, AMP">
+<meta name="description" content="Utah Construction Company: Minutes, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1850 -->
 <!-- Collection Title -->
 <title>Utah Construction Company: Minutes</title>

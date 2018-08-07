@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah American Indian Digital Archive: Oral Histories Transcripts">
+<meta name="description" content="Utah American Indian Digital Archive: Oral Histories Transcripts, a MWDL collection, presented by University of Utah - American West Center">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

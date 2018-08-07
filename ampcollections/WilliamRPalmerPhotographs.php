@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="William R. Palmer Photographs, AMP">
+<meta name="description" content="William R. Palmer Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1113 -->
 <!-- Collection Title -->
 <title>William R. Palmer Photographs</title>

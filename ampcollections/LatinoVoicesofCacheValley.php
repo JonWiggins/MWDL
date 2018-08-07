@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Latino Voices of Cache Valley, AMP">
+<meta name="description" content="Latino Voices of Cache Valley, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1229 -->
 <!-- Collection Title -->
 <title>Latino Voices of Cache Valley</title>

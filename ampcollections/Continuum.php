@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Continuum, AMP">
+<meta name="description" content="Continuum, a MWDL collection, presented by University of Utah">
 <!-- Collection #1221 -->
 <!-- Collection Title -->
 <title>Continuum</title>

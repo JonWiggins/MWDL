@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction-Utah International Photographs, AMP">
+<meta name="description" content="Utah Construction-Utah International Photographs, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1268 -->
 <!-- Collection Title -->
 <title>Utah Construction-Utah International Photographs</title>

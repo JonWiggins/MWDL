@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Frank Call Photograph Collection, 1909-1911">
+<meta name="description" content="Frank Call Photograph Collection, 1909-1911, a MWDL collection, presented by Brigham Young University-Hawaii">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

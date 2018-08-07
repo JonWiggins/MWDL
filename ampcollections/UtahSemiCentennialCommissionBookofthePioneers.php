@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Semi-Centennial Commission Book of the Pioneers, AMP">
+<meta name="description" content="Utah Semi-Centennial Commission Book of the Pioneers, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2287 -->
 <!-- Collection Title -->
 <title>Utah Semi-Centennial Commission Book of the Pioneers</title>

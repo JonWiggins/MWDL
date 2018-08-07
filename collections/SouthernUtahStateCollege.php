@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Southern Utah State College">
+<meta name="description" content="Southern Utah State College, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

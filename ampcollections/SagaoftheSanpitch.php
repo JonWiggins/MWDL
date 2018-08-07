@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Saga of the Sanpitch, AMP">
+<meta name="description" content="Saga of the Sanpitch, a MWDL collection, presented by Snow College Libraries">
 <!-- Collection #1035 -->
 <!-- Collection Title -->
 <title>Saga of the Sanpitch</title>

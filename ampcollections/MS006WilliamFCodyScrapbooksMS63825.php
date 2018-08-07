@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.3825, AMP">
+<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.3825, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2396 -->
 <!-- Collection Title -->
 <title>MS 006 William F. Cody Scrapbooks MS6.3825</title>

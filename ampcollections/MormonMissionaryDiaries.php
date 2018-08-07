@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mormon Missionary Diaries, AMP">
+<meta name="description" content="Mormon Missionary Diaries, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1218 -->
 <!-- Collection Title -->
 <title>Mormon Missionary Diaries</title>

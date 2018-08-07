@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Old Ephraim, AMP">
+<meta name="description" content="Old Ephraim, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1281 -->
 <!-- Collection Title -->
 <title>Old Ephraim</title>

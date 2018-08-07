@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Peter Beemer Music Manuscripts">
+<meta name="description" content="Peter Beemer Music Manuscripts, a MWDL collection, presented by Boise State University - Albertsons Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

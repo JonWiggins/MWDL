@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ben Lomond High School Scrapbooks, AMP">
+<meta name="description" content="Ben Lomond High School Scrapbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2338 -->
 <!-- Collection Title -->
 <title>Ben Lomond High School Scrapbooks</title>

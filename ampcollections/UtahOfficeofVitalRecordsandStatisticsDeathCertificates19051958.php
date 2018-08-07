@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958, AMP">
+<meta name="description" content="Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1547 -->
 <!-- Collection Title -->
 <title>Utah Office of Vital Records and Statistics. Death Certificates, 1905-1958</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Doc Roach Fire, AMP">
+<meta name="description" content="Doc Roach Fire, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2209 -->
 <!-- Collection Title -->
 <title>Doc Roach Fire</title>

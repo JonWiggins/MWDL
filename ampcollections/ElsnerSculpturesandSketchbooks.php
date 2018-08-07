@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Elsner Sculptures and Sketchbooks, AMP">
+<meta name="description" content="Elsner Sculptures and Sketchbooks, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1263 -->
 <!-- Collection Title -->
 <title>Elsner Sculptures and Sketchbooks</title>

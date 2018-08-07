@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Paul Laxalt and Ronald Reagan, AMP">
+<meta name="description" content="Paul Laxalt and Ronald Reagan, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #2301 -->
 <!-- Collection Title -->
 <title>Paul Laxalt and Ronald Reagan</title>

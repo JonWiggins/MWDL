@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Election Reflections Social Media Project, AMP">
+<meta name="description" content="Election Reflections Social Media Project, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2424 -->
 <!-- Collection Title -->
 <title>Election Reflections Social Media Project</title>

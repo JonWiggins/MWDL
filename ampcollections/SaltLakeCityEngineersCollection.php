@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake City Engineers Collection, AMP">
+<meta name="description" content="Salt Lake City Engineers Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1036 -->
 <!-- Collection Title -->
 <title>Salt Lake City Engineers Collection</title>

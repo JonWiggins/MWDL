@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Artifact Collection, AMP">
+<meta name="description" content="Artifact Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2463 -->
 <!-- Collection Title -->
 <title>Artifact Collection</title>

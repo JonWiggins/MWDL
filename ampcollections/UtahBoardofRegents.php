@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Board of Regents, AMP">
+<meta name="description" content="Utah Board of Regents, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1223 -->
 <!-- Collection Title -->
 <title>Utah Board of Regents</title>

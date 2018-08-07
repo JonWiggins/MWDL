@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="The Ridgway Brothers: Explorers, Scientists, and Illustrators">
+<meta name="description" content="The Ridgway Brothers: Explorers, Scientists, and Illustrators, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

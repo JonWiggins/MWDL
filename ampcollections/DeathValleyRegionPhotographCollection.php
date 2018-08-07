@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Death Valley Region Photograph Collection, AMP">
+<meta name="description" content="Death Valley Region Photograph Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1138 -->
 <!-- Collection Title -->
 <title>Death Valley Region Photograph Collection</title>

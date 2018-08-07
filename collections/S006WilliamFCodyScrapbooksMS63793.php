@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="S 006 William F. Cody Scrapbooks MS6.3793">
+<meta name="description" content="S 006 William F. Cody Scrapbooks MS6.3793, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

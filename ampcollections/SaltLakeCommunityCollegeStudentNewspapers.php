@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake Community College Student Newspapers, AMP">
+<meta name="description" content="Salt Lake Community College Student Newspapers, a MWDL collection, presented by Salt Lake Community College Libraries">
 <!-- Collection #1606 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Student Newspapers</title>

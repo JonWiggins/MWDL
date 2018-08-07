@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="UO Archives Photographs, AMP">
+<meta name="description" content="UO Archives Photographs, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2415 -->
 <!-- Collection Title -->
 <title>UO Archives Photographs</title>

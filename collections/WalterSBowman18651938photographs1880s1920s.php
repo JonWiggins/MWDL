@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Walter S. Bowman (1865-1938) photographs, 1880s-1920s">
+<meta name="description" content="Walter S. Bowman (1865-1938) photographs, 1880s-1920s, a MWDL collection, presented by University of Oregon Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

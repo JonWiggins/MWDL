@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="American Folklore Society Papers, AMP">
+<meta name="description" content="American Folklore Society Papers, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2422 -->
 <!-- Collection Title -->
 <title>American Folklore Society Papers</title>

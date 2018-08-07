@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frazier Augustus Boutelle photographs, c. 1865-1900, AMP">
+<meta name="description" content="Frazier Augustus Boutelle photographs, c. 1865-1900, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2265 -->
 <!-- Collection Title -->
 <title>Frazier Augustus Boutelle photographs, c. 1865-1900</title>

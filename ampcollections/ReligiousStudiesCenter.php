@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Religious Studies Center, AMP">
+<meta name="description" content="Religious Studies Center, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1215 -->
 <!-- Collection Title -->
 <title>Religious Studies Center</title>

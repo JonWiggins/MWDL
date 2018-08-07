@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Clark County (ID) Historical Photographs">
+<meta name="description" content="Clark County (ID) Historical Photographs, a MWDL collection, presented by Brigham Young University-Idaho">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

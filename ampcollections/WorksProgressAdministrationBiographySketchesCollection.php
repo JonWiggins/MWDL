@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Works Progress Administration Biography Sketches Collection, AMP">
+<meta name="description" content="Works Progress Administration Biography Sketches Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2306 -->
 <!-- Collection Title -->
 <title>Works Progress Administration Biography Sketches Collection</title>

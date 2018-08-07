@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Eccles, David: Business, Church and Personal Correspondence, AMP">
+<meta name="description" content="Eccles, David: Business, Church and Personal Correspondence, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1211 -->
 <!-- Collection Title -->
 <title>Eccles, David: Business, Church and Personal Correspondence</title>

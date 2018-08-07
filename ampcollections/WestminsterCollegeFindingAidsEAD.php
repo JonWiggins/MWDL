@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Westminster College Finding Aids (EAD), AMP">
+<meta name="description" content="Westminster College Finding Aids (EAD), a MWDL collection, presented by Westminster College - Giovale Library">
 <!-- Collection #1648 -->
 <!-- Collection Title -->
 <title>Westminster College Finding Aids (EAD)</title>

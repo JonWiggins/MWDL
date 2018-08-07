@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Southern Nevada Boomtown Years, AMP">
+<meta name="description" content="Southern Nevada Boomtown Years, a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1295 -->
 <!-- Collection Title -->
 <title>Southern Nevada Boomtown Years</title>

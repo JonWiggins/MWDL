@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region, AMP">
+<meta name="description" content="Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1131 -->
 <!-- Collection Title -->
 <title>Olga Reifschneider Botanical Images of Northern Nevada and the Lake Tahoe Region</title>

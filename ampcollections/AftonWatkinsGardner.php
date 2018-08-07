@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Afton Watkins Gardner, AMP">
+<meta name="description" content="Afton Watkins Gardner, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2351 -->
 <!-- Collection Title -->
 <title>Afton Watkins Gardner</title>

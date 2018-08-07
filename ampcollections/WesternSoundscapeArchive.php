@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Soundscape Archive, AMP">
+<meta name="description" content="Western Soundscape Archive, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1280 -->
 <!-- Collection Title -->
 <title>Western Soundscape Archive</title>

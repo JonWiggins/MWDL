@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Provo (UT) City Library Historical Photographs">
+<meta name="description" content="Provo (UT) City Library Historical Photographs, a MWDL collection, presented by Provo (UT) City Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

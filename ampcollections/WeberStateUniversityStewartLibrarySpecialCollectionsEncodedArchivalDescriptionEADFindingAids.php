@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids, AMP">
+<meta name="description" content="Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1272 -->
 <!-- Collection Title -->
 <title>Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids</title>

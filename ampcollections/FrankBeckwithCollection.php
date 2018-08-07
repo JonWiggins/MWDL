@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frank Beckwith Collection, AMP">
+<meta name="description" content="Frank Beckwith Collection, a MWDL collection, presented by Delta (UT) City Library">
 <!-- Collection #1006 -->
 <!-- Collection Title -->
 <title>Frank Beckwith Collection</title>

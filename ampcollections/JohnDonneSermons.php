@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Donne Sermons, AMP">
+<meta name="description" content="John Donne Sermons, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1094 -->
 <!-- Collection Title -->
 <title>John Donne Sermons</title>

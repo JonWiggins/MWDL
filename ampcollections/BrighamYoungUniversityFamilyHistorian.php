@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University Family Historian, AMP">
+<meta name="description" content="Brigham Young University Family Historian, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1093 -->
 <!-- Collection Title -->
 <title>Brigham Young University Family Historian</title>

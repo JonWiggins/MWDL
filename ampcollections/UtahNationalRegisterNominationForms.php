@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah National Register Nomination Forms, AMP">
+<meta name="description" content="Utah National Register Nomination Forms, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2470 -->
 <!-- Collection Title -->
 <title>Utah National Register Nomination Forms</title>

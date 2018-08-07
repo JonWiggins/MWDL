@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frank and Bethine Church Collection, AMP">
+<meta name="description" content="Frank and Bethine Church Collection, a MWDL collection, presented by Boise State University - Albertsons Library">
 <!-- Collection #2213 -->
 <!-- Collection Title -->
 <title>Frank and Bethine Church Collection</title>

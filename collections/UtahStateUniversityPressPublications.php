@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah State University Press Publications">
+<meta name="description" content="Utah State University Press Publications, a MWDL collection, presented by Utah State University - USU Press">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

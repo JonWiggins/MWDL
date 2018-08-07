@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Division of State Archives Series Inventories, AMP">
+<meta name="description" content="Utah Division of State Archives Series Inventories, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1267 -->
 <!-- Collection Title -->
 <title>Utah Division of State Archives Series Inventories</title>

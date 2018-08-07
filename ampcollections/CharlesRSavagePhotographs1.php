@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Charles R. Savage Photographs 1, AMP">
+<meta name="description" content="Charles R. Savage Photographs 1, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1059 -->
 <!-- Collection Title -->
 <title>Charles R. Savage Photographs 1</title>

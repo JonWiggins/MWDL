@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs">
+<meta name="description" content="Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs, a MWDL collection, presented by University of Oregon Libraries">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

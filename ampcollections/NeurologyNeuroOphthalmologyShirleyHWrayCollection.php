@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neurology/Neuro-Ophthalmology: Shirley H. Wray Collection, AMP">
+<meta name="description" content="Neurology/Neuro-Ophthalmology: Shirley H. Wray Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1049 -->
 <!-- Collection Title -->
 <title>Neurology/Neuro-Ophthalmology: Shirley H. Wray Collection</title>

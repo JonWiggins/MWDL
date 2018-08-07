@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Soundex Birth Certificate Index, AMP">
+<meta name="description" content="Utah Soundex Birth Certificate Index, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2451 -->
 <!-- Collection Title -->
 <title>Utah Soundex Birth Certificate Index</title>

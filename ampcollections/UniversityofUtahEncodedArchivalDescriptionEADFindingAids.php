@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="University of Utah Encoded Archival Description (EAD) Finding Aids, AMP">
+<meta name="description" content="University of Utah Encoded Archival Description (EAD) Finding Aids, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1253 -->
 <!-- Collection Title -->
 <title>University of Utah Encoded Archival Description (EAD) Finding Aids</title>

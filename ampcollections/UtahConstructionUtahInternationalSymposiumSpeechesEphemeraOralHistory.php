@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History, AMP">
+<meta name="description" content="Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1864 -->
 <!-- Collection Title -->
 <title>Utah Construction-Utah International Symposium Speeches, Ephemera, Oral History</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="World War I Service Cards, AMP">
+<meta name="description" content="World War I Service Cards, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1857 -->
 <!-- Collection Title -->
 <title>World War I Service Cards</title>

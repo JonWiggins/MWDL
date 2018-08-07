@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Illustrated Booklets, AMP">
+<meta name="description" content="Illustrated Booklets, a MWDL collection, presented by Oregon State University Libraries">
 <!-- Collection #2417 -->
 <!-- Collection Title -->
 <title>Illustrated Booklets</title>

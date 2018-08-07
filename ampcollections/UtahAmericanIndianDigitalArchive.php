@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah American Indian Digital Archive, AMP">
+<meta name="description" content="Utah American Indian Digital Archive, a MWDL collection, presented by University of Utah - American West Center">
 <!-- Collection #1519 -->
 <!-- Collection Title -->
 <title>Utah American Indian Digital Archive</title>

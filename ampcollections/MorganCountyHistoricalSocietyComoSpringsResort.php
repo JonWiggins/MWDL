@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Morgan County Historical Society Como Springs Resort, AMP">
+<meta name="description" content="Morgan County Historical Society Como Springs Resort, a MWDL collection, presented by Morgan County (UT) Historical Society and Morgan County (UT) Public Library">
 <!-- Collection #2155 -->
 <!-- Collection Title -->
 <title>Morgan County Historical Society Como Springs Resort</title>

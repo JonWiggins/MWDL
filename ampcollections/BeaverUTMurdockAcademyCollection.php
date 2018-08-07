@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Beaver (UT) Murdock Academy Collection, AMP">
+<meta name="description" content="Beaver (UT) Murdock Academy Collection, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1103 -->
 <!-- Collection Title -->
 <title>Beaver (UT) Murdock Academy Collection</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Bryner Pioneer Museum, Price (UT), AMP">
+<meta name="description" content="Bryner Pioneer Museum, Price (UT), a MWDL collection, presented by Bryner Pioneer Museum (Price, UT)">
 <!-- Collection #1558 -->
 <!-- Collection Title -->
 <title>Bryner Pioneer Museum, Price (UT)</title>

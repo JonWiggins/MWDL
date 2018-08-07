@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Everett L. Cooley Oral History Project, AMP">
+<meta name="description" content="Everett L. Cooley Oral History Project, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #2223 -->
 <!-- Collection Title -->
 <title>Everett L. Cooley Oral History Project</title>

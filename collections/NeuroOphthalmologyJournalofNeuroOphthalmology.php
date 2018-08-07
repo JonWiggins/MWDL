@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Journal of Neuro-Ophthalmology">
+<meta name="description" content="Neuro-Ophthalmology: Journal of Neuro-Ophthalmology, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

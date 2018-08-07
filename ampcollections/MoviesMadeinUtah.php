@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Movies Made in Utah, AMP">
+<meta name="description" content="Movies Made in Utah, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2467 -->
 <!-- Collection Title -->
 <title>Movies Made in Utah</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Central Utah Project: Capturing Utah's Share of the Colorado River, AMP">
+<meta name="description" content="Central Utah Project: Capturing Utah's Share of the Colorado River, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2117 -->
 <!-- Collection Title -->
 <title>Central Utah Project: Capturing Utah's Share of the Colorado River</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cache County (Utah) Birth Register, AMP">
+<meta name="description" content="Cache County (Utah) Birth Register, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2435 -->
 <!-- Collection Title -->
 <title>Cache County (Utah) Birth Register</title>

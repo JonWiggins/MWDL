@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation, AMP">
+<meta name="description" content="Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1880 -->
 <!-- Collection Title -->
 <title>Utah Governor Eli H. Murray (1880-1886) Thanksgiving Proclamation</title>

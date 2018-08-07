@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Wesley Powell Collection, AMP">
+<meta name="description" content="John Wesley Powell Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1015 -->
 <!-- Collection Title -->
 <title>John Wesley Powell Collection</title>

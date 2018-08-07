@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Tooele County (UT) Histories, AMP">
+<meta name="description" content="Tooele County (UT) Histories, a MWDL collection, presented by Tooele (UT) City Library">
 <!-- Collection #1636 -->
 <!-- Collection Title -->
 <title>Tooele County (UT) Histories</title>

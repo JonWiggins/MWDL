@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Statehood Constitutional Convention State Constitution, AMP">
+<meta name="description" content="Utah Statehood Constitutional Convention State Constitution, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #1619 -->
 <!-- Collection Title -->
 <title>Utah Statehood Constitutional Convention State Constitution</title>

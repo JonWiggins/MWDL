@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Helmut Wilhelm Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: Helmut Wilhelm Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1548 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: Helmut Wilhelm Collection</title>

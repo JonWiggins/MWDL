@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Lessons: The Journal of the Center for Teaching and Learning Excellence, AMP">
+<meta name="description" content="Lessons: The Journal of the Center for Teaching and Learning Excellence, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1017 -->
 <!-- Collection Title -->
 <title>Lessons: The Journal of the Center for Teaching and Learning Excellence</title>

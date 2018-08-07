@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Pearl Biddlecomb Baker Collection, AMP">
+<meta name="description" content="Pearl Biddlecomb Baker Collection, a MWDL collection, presented by Green River (UT) Public Library">
 <!-- Collection #1161 -->
 <!-- Collection Title -->
 <title>Pearl Biddlecomb Baker Collection</title>

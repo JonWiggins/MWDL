@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Utah Academic Library Consortium Archives">
+<meta name="description" content="Utah Academic Library Consortium Archives, a MWDL collection, presented by Utah Academic Library Consortium">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="History of Shelley (ID), AMP">
+<meta name="description" content="History of Shelley (ID), a MWDL collection, presented by North Bingham County (ID) District Library">
 <!-- Collection #1014 -->
 <!-- Collection Title -->
 <title>History of Shelley (ID)</title>

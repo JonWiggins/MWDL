@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="De Naturae Simia, AMP">
+<meta name="description" content="De Naturae Simia, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1169 -->
 <!-- Collection Title -->
 <title>De Naturae Simia</title>

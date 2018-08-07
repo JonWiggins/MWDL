@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Neuro-Ophthalmology: Frank B. Walsh Society Archives">
+<meta name="description" content="Neuro-Ophthalmology: Frank B. Walsh Society Archives, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

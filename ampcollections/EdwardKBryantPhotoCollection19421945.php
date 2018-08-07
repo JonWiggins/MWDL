@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Edward K. Bryant Photo Collection, 1942-1945, AMP">
+<meta name="description" content="Edward K. Bryant Photo Collection, 1942-1945, a MWDL collection, presented by Brigham Young University-Hawaii">
 <!-- Collection #1239 -->
 <!-- Collection Title -->
 <title>Edward K. Bryant Photo Collection, 1942-1945</title>

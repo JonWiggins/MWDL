@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Alfred G. Erickson Photograph Collection, AMP">
+<meta name="description" content="Alfred G. Erickson Photograph Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2031 -->
 <!-- Collection Title -->
 <title>Alfred G. Erickson Photograph Collection</title>

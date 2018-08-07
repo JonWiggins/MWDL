@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber Normal College Yearbooks 1919-1923, AMP">
+<meta name="description" content="Weber Normal College Yearbooks 1919-1923, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #1245 -->
 <!-- Collection Title -->
 <title>Weber Normal College Yearbooks 1919-1923</title>

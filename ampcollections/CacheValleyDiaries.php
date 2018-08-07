@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cache Valley Diaries, AMP">
+<meta name="description" content="Cache Valley Diaries, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1786 -->
 <!-- Collection Title -->
 <title>Cache Valley Diaries</title>

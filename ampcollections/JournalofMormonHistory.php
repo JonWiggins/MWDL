@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Journal of Mormon History, AMP">
+<meta name="description" content="Journal of Mormon History, a MWDL collection, presented by Mormon History Association">
 <!-- Collection #1649 -->
 <!-- Collection Title -->
 <title>Journal of Mormon History</title>

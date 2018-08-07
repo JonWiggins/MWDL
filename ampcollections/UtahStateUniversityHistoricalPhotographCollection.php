@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah State University Historical Photograph Collection, AMP">
+<meta name="description" content="Utah State University Historical Photograph Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1137 -->
 <!-- Collection Title -->
 <title>Utah State University Historical Photograph Collection</title>

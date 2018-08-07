@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Ogden High School Scrapbooks, AMP">
+<meta name="description" content="Ogden High School Scrapbooks, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2341 -->
 <!-- Collection Title -->
 <title>Ogden High School Scrapbooks</title>

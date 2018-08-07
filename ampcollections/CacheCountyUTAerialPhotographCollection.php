@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Cache County (UT) Aerial Photograph Collection, AMP">
+<meta name="description" content="Cache County (UT) Aerial Photograph Collection, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #2165 -->
 <!-- Collection Title -->
 <title>Cache County (UT) Aerial Photograph Collection</title>

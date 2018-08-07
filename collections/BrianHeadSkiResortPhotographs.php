@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Brian Head Ski Resort Photographs">
+<meta name="description" content="Brian Head Ski Resort Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mendon (UT): A Page from the Past, AMP">
+<meta name="description" content="Mendon (UT): A Page from the Past, a MWDL collection, presented by Mendon (UT)">
 <!-- Collection #1536 -->
 <!-- Collection Title -->
 <title>Mendon (UT): A Page from the Past</title>

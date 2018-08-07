@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Welcome Home, Howard! (Howard Hughes Photograph Collection), AMP">
+<meta name="description" content="Welcome Home, Howard! (Howard Hughes Photograph Collection), a MWDL collection, presented by University of Nevada, Las Vegas, University Libraries">
 <!-- Collection #1261 -->
 <!-- Collection Title -->
 <title>Welcome Home, Howard! (Howard Hughes Photograph Collection)</title>

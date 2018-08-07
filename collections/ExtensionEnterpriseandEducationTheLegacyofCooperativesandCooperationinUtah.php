@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah">
+<meta name="description" content="Extension, Enterprise and Education: The Legacy of Cooperatives and Cooperation in Utah, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

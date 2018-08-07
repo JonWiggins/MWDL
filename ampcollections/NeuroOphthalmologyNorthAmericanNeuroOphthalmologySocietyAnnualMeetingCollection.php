@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection, AMP">
+<meta name="description" content="Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection, a MWDL collection, presented by University of Utah - Spencer S. Eccles Health Sciences Library">
 <!-- Collection #1549 -->
 <!-- Collection Title -->
 <title>Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</title>

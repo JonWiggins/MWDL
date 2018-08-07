@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Mormon Publications: 19th and 20th Centuries, AMP">
+<meta name="description" content="Mormon Publications: 19th and 20th Centuries, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1085 -->
 <!-- Collection Title -->
 <title>Mormon Publications: 19th and 20th Centuries</title>

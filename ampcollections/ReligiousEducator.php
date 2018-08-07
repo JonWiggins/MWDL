@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Religious Educator, AMP">
+<meta name="description" content="Religious Educator, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1089 -->
 <!-- Collection Title -->
 <title>Religious Educator</title>

@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Latter-Day Saints' Millennial Star, AMP">
+<meta name="description" content="Latter-Day Saints' Millennial Star, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1324 -->
 <!-- Collection Title -->
 <title>Latter-Day Saints' Millennial Star</title>

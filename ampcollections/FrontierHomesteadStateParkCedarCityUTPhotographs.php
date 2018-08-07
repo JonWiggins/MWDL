@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Frontier Homestead State Park (Cedar City, UT) Photographs, AMP">
+<meta name="description" content="Frontier Homestead State Park (Cedar City, UT) Photographs, a MWDL collection, presented by Frontier Homestead State Park (Cedar City, UT)">
 <!-- Collection #1301 -->
 <!-- Collection Title -->
 <title>Frontier Homestead State Park (Cedar City, UT) Photographs</title>

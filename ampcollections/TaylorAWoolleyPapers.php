@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Taylor A. Woolley Papers, AMP">
+<meta name="description" content="Taylor A. Woolley Papers, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1940 -->
 <!-- Collection Title -->
 <title>Taylor A. Woolley Papers</title>

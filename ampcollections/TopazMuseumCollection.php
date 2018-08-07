@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Topaz Museum Collection, AMP">
+<meta name="description" content="Topaz Museum Collection, a MWDL collection, presented by Topaz Museum (Delta, UT)">
 <!-- Collection #1028 -->
 <!-- Collection Title -->
 <title>Topaz Museum Collection</title>

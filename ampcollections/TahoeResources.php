@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Tahoe Resources, AMP">
+<meta name="description" content="Tahoe Resources, a MWDL collection, presented by University of Nevada, Reno, University Libraries">
 <!-- Collection #1128 -->
 <!-- Collection Title -->
 <title>Tahoe Resources</title>

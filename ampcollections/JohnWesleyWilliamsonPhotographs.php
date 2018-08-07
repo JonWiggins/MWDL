@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Wesley Williamson Photographs, AMP">
+<meta name="description" content="John Wesley Williamson Photographs, a MWDL collection, presented by Southern Utah University - Sherratt Library">
 <!-- Collection #1622 -->
 <!-- Collection Title -->
 <title>John Wesley Williamson Photographs</title>

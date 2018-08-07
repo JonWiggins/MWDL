@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Dard Hunter Book Collection, AMP">
+<meta name="description" content="Dard Hunter Book Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1005 -->
 <!-- Collection Title -->
 <title>Dard Hunter Book Collection</title>

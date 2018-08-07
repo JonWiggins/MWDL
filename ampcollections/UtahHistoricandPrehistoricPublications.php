@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Utah Historic and Prehistoric Publications, AMP">
+<meta name="description" content="Utah Historic and Prehistoric Publications, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #1525 -->
 <!-- Collection Title -->
 <title>Utah Historic and Prehistoric Publications</title>

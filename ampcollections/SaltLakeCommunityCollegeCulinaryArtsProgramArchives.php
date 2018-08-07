@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Salt Lake Community College Culinary Arts Program Archives, AMP">
+<meta name="description" content="Salt Lake Community College Culinary Arts Program Archives, a MWDL collection, presented by Salt Lake Community College Libraries">
 <!-- Collection #2111 -->
 <!-- Collection Title -->
 <title>Salt Lake Community College Culinary Arts Program Archives</title>

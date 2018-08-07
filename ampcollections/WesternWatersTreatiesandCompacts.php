@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Western Waters: Treaties and Compacts, AMP">
+<meta name="description" content="Western Waters: Treaties and Compacts, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
 <!-- Collection #1045 -->
 <!-- Collection Title -->
 <title>Western Waters: Treaties and Compacts</title>

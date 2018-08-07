@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Bauguess Photographs, 1970s, AMP">
+<meta name="description" content="John Bauguess Photographs, 1970s, a MWDL collection, presented by University of Oregon Libraries">
 <!-- Collection #2262 -->
 <!-- Collection Title -->
 <title>John Bauguess Photographs, 1970s</title>

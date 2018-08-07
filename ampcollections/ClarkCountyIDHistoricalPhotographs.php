@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Clark County (ID) Historical Photographs, AMP">
+<meta name="description" content="Clark County (ID) Historical Photographs, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1933 -->
 <!-- Collection Title -->
 <title>Clark County (ID) Historical Photographs</title>

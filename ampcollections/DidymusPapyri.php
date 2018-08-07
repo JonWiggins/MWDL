@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Didymus Papyri, AMP">
+<meta name="description" content="Didymus Papyri, a MWDL collection, presented by Brigham Young University - Harold B. Lee Library">
 <!-- Collection #1319 -->
 <!-- Collection Title -->
 <title>Didymus Papyri</title>

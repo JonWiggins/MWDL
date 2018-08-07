@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Peter Simonson Photograph Collection, AMP">
+<meta name="description" content="John Peter Simonson Photograph Collection, a MWDL collection, presented by Department of Heritage and Arts">
 <!-- Collection #2355 -->
 <!-- Collection Title -->
 <title>John Peter Simonson Photograph Collection</title>

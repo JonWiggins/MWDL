@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Governor Jon M. Huntsman (2005-2009) Press Releases, AMP">
+<meta name="description" content="Governor Jon M. Huntsman (2005-2009) Press Releases, a MWDL collection, presented by Utah State Archives">
 <!-- Collection #2294 -->
 <!-- Collection Title -->
 <title>Governor Jon M. Huntsman (2005-2009) Press Releases</title>

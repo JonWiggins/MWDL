@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids">
+<meta name="description" content="Weber State University, Stewart Library, Special Collections Encoded Archival Description (EAD) Finding Aids, a MWDL collection, presented by Weber State University - Stewart Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {

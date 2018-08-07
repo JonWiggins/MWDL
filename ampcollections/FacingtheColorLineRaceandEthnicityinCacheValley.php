@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Facing the Color Line: Race and Ethnicity in Cache Valley, AMP">
+<meta name="description" content="Facing the Color Line: Race and Ethnicity in Cache Valley, a MWDL collection, presented by Utah State University - Merrill-Cazier Library">
 <!-- Collection #1140 -->
 <!-- Collection Title -->
 <title>Facing the Color Line: Race and Ethnicity in Cache Valley</title>

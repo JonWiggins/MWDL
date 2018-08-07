@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Weber State Literary Publications 1904 to 1980, AMP">
+<meta name="description" content="Weber State Literary Publications 1904 to 1980, a MWDL collection, presented by Weber State University - Stewart Library">
 <!-- Collection #2024 -->
 <!-- Collection Title -->
 <title>Weber State Literary Publications 1904 to 1980</title>

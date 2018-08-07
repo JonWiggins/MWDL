@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="Brigham Young University-Idaho Flash, AMP">
+<meta name="description" content="Brigham Young University-Idaho Flash, a MWDL collection, presented by Brigham Young University-Idaho">
 <!-- Collection #1096 -->
 <!-- Collection Title -->
 <title>Brigham Young University-Idaho Flash</title>
