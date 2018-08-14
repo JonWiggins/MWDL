@@ -41,7 +41,7 @@ Juanita Brooks with Daughter
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-The Juanita Brooks Photograph Collection contains images documenting Brooks�s professional writing career from 1934-1971. The collection also provides a glimpse into her personal life with many images of her family, activities, and general life in southern Utah.
+The Juanita Brooks Photograph Collection contains images documenting Brooks's professional writing career from 1934-1971. The collection also provides a glimpse into her personal life with many images of her family, activities, and general life in southern Utah.
 <hr>
 <h6>
 <!-- Browse Link -->

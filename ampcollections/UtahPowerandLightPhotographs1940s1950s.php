@@ -18,7 +18,7 @@
 <!-- Image Description -->
 First Security Trust Company Building 1935
 <!-- Article Text -->
-The Utah Power and Light Collection has images of�various schools, businesses, homes, hospitals, service stations, and street scenes mostly in the Salt Lake Valley. Some of the images highlight the lighting of some of the structures.
+The Utah Power and Light Collection has images of various schools, businesses, homes, hospitals, service stations, and street scenes mostly in the Salt Lake Valley. Some of the images highlight the lighting of some of the structures.
 <hr>
 <!-- Browse Collection -->
 <h6>

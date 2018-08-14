@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Two unit exchange votive slip with double-line border: first/early Autumn scene with three [dogs] playing beneath green-leafed, snow-laden branches
 <!-- Article Text -->
-The University of Oregon Libraries holds the only known collection of Japanese shrine and temple votive slips (n_satsu) in North America. Collected from 1910 to around 1925, the�n_satsu�images in the University of Oregon�s collection cover a wide range of themes and topics including landscapes; depictions of figures from Edo-period popular fiction and theatre; shrines and temples; seasonal celebrations; mythical creatures; firefighters; Japanese toys and collectibles; and prints showing the activities of the�n_satsu-kai�[exchange clubs] members themselves.
+The University of Oregon Libraries holds the only known collection of Japanese shrine and temple votive slips (n_satsu) in North America. Collected from 1910 to around 1925, the n_satsu images in the University of Oregon's collection cover a wide range of themes and topics including landscapes; depictions of figures from Edo-period popular fiction and theatre; shrines and temples; seasonal celebrations; mythical creatures; firefighters; Japanese toys and collectibles; and prints showing the activities of the n_satsu-kai [exchange clubs] members themselves.
 <hr>
 <!-- Browse Collection -->
 <h6>

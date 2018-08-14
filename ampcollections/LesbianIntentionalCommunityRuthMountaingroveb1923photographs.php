@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Photograph from the Ruth Mountaingrove papers, 1950-1999
 <!-- Article Text -->
-Ruth Mountaingrove (1923- ) is a photographer, writer and artist who moved to Oregon in 1971, settling in communes and eventually co-founding Rootworks, a lesbian land in Southern Oregon. Rootworks was home to the Ovular workshops, which Ruth and Tee Corinne, another prominent lesbian photographer, and others, led. The workshops, which ran for six years, were an opportunity for women to learn photography in the context of the Women�s Movement, providing a means for the women to examine the differences between the way men pictured women and the way the women saw themselves. The feminist photography magazine, The Blatant Image, sprang from the Ovular workshops. The Ruth Mountaingrove collection consists of correspondence, diaries, ephemera, and photographs.
+Ruth Mountaingrove (1923- ) is a photographer, writer and artist who moved to Oregon in 1971, settling in communes and eventually co-founding Rootworks, a lesbian land in Southern Oregon. Rootworks was home to the Ovular workshops, which Ruth and Tee Corinne, another prominent lesbian photographer, and others, led. The workshops, which ran for six years, were an opportunity for women to learn photography in the context of the Women's Movement, providing a means for the women to examine the differences between the way men pictured women and the way the women saw themselves. The feminist photography magazine, The Blatant Image, sprang from the Ovular workshops. The Ruth Mountaingrove collection consists of correspondence, diaries, ephemera, and photographs.
 <hr>
 <!-- Browse Collection -->
 <h6>

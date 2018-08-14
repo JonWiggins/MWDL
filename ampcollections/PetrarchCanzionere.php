@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Inc. Queriniano G V 15 (full page version)
 <!-- Article Text -->
-The items in the Petrarch digital collection support the Oregon Petrarch Open Book (OPOB). OPOB is a digital scholarship project directed by Professor Massimo Lollini as an ongoing web-based system devoted to the study and teaching of Petrarch�s Canzoniere.
+The items in the Petrarch digital collection support the Oregon Petrarch Open Book (OPOB). OPOB is a digital scholarship project directed by Professor Massimo Lollini as an ongoing web-based system devoted to the study and teaching of Petrarch's Canzoniere.
 <hr>
 <!-- Browse Collection -->
 <h6>

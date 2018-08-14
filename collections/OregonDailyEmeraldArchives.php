@@ -41,7 +41,7 @@ Game Day, September 1, 2005
 <h6> Published by <a href="../partners/EmeraldMediaGroup.php">Emerald Media Group</a></h6>
  
 <!-- Collection Description -->
-The�Oregon Daily Emerald�(ODE) Archives is a full text searchable database of past ODE issues. The current collection began with issues in September 2005. At this time, there are no plans to digitize older issues of the�Oregon Daily Emerald.
+The Oregon Daily Emerald (ODE) Archives is a full text searchable database of past ODE issues. The current collection began with issues in September 2005. At this time, there are no plans to digitize older issues of the Oregon Daily Emerald.
 <hr>
 <h6>
 <!-- Browse Link -->

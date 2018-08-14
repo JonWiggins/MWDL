@@ -41,7 +41,7 @@ Jane Chase, spinner and weaver, at the loom
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
-Trained as a pictorialist by Clarence White, Doris Ulmann�s early work includes a series of photograph portraits of prominent intellectuals, artists and writers: William Butler Yeats, John Dewey, Max Eastman, Sinclair Lewis, Lewis Mumford, Joseph Wood Krutch, Martha Graham, Anna Pavlova, Paul Robeson, and Lillian Gish. In 1932 Ulmann began her most important series, assembling documentation of Appalachian folk arts and crafts for Allen Eaton�s 1937 book, Handicrafts of the Southern Highlands. From 1927, Ulmann was assisted on her rural travels by John Jacob Niles, a musician and folklorist who collected ballads while Ulmann photographed. Doris Ulmann died August 28, 1934.
+Trained as a pictorialist by Clarence White, Doris Ulmann's early work includes a series of photograph portraits of prominent intellectuals, artists and writers: William Butler Yeats, John Dewey, Max Eastman, Sinclair Lewis, Lewis Mumford, Joseph Wood Krutch, Martha Graham, Anna Pavlova, Paul Robeson, and Lillian Gish. In 1932 Ulmann began her most important series, assembling documentation of Appalachian folk arts and crafts for Allen Eaton's 1937 book, Handicrafts of the Southern Highlands. From 1927, Ulmann was assisted on her rural travels by John Jacob Niles, a musician and folklorist who collected ballads while Ulmann photographed. Doris Ulmann died August 28, 1934.
 <hr>
 <h6>
 <!-- Browse Link -->

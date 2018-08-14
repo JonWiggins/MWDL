@@ -18,51 +18,6 @@
 </tr>
 </thread>
 <tbody>
-<!-- Collection #2506 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "AliceBSheldon.php">"Alice B. Sheldon</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/pennameJamesTiptree.php"> pen name James Tiptree</a></td>
-</tr>
-<!-- Collection #2518 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "Ellmakerfamilypapers.php">"Ellmaker family papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/17682005".php"> 1768-2005"</a></td>
-</tr>
-<!-- Collection #2491 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers.php">"Gertrude Bass Warner Papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/18791954".php">, 1879-1954"</a></td>
-</tr>
-<!-- Collection #2491 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers.php">"Gertrude Bass Warner Papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/18791954".php">, 1879-1954"</a></td>
-</tr>
-<!-- Collection #2507 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "JoannaRusspapers.php">"Joanna Russ papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/19681989".php"> 1968-1989"</a></td>
-</tr>
-<!-- Collection #2517 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "NationalJapaneseAmericanStudentRelocationCouncilrecords.php">"National Japanese American Student Relocation Counc...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/19421946".php"> 1942-1946"</a></td>
-</tr>
-<!-- Collection #2501 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "RandallVMillsTransportationCollection19071952photographs.php">"Randall V. Mills Transportation Collection (1907-19...</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/ca19371952".php"> ca. 1937-1952"</a></td>
-</tr>
-<!-- Collection #2500 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "RoyCAndrewsphotographs.php">"Roy C. Andrews photographs</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/19021955".php"> 1902-1955"</a></td>
-</tr>
-<!-- Collection #2514 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "WillisDunagandiariesandlegalpapers.php">"Willis Dunagan diaries and legal papers</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/18581897".php"> 1858-1897"</a></td>
-</tr>
 <!-- Collection #1941 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AfricanAmericanExperience.php">African American Experience</a></td>
@@ -97,6 +52,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AlfredGEricksonPhotographCollection.php">Alfred G. Erickson Photograph Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
+</tr>
+<!-- Collection #2506 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "AliceBSheldonpennameJamesTiptreeJrpapers19201999.php">Alice B. Sheldon, pen name James Tiptree, Jr., paper...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Collection #1257 -->
 <tr>
@@ -708,6 +668,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "EllisReynoldsShippPapers.php">Ellis Reynolds Shipp Papers</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
+<!-- Collection #2518 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "Ellmakerfamilypapers17682005.php">Ellmaker family papers, 1768-2005</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
 <!-- Collection #1263 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ElsnerSculpturesandSketchbooks.php">Elsner Sculptures and Sketchbooks</a></td>
@@ -872,6 +837,16 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php">Gertrude Bass Warner Collection of Japanese Votive S...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
+<!-- Collection #2491 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers, 1879-1954</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
+<!-- Collection #2490 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers19091923.php">Gertrude Bass Warner Papers, 1909-1923</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Collection #2505 -->
 <tr>
@@ -1116,6 +1091,11 @@
 <!-- Collection #2261 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "JamesCloutierCollection.php">James Cloutier Collection</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
+<!-- Collection #2507 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JoannaRusspapers19681989.php">Joanna Russ papers, 1968-1989</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Collection #2262 -->
@@ -1723,6 +1703,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MustangsMXMissilesandRadioactiveWasteSelectedCongressionalHearings.php">Mustangs, MX Missiles and Radioactive Waste: Selecte...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofNevadaRenoUniversityLibraries.php">University of Nevada, Reno, University Libraries</a></td>
 </tr>
+<!-- Collection #2517 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "NationalJapaneseAmericanStudentRelocationCouncilrecords19421946.php">National Japanese American Student Relocation Counci...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
 <!-- Collection #2179 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NellShipmanCollection.php">Nell Shipman Collection</a></td>
@@ -1928,6 +1913,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OregonMaps.php">Oregon Maps</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/OregonStateHighwayDepartment.php">Oregon State Highway Department</a></td>
 </tr>
+<!-- Collection #2489 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonPercentforArt.php">Oregon Percent for Art</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
 <!-- Collection #2418 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OregonStateUniversityYearbooks.php">Oregon State University Yearbooks</a></td>
@@ -2053,6 +2043,11 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "RanchFamilyDocumentation.php">Ranch Family Documentation</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
+<!-- Collection #2501 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RandallVMillsTransportationCollection19071952photographsca19371952.php">Randall V. Mills Transportation Collection (1907-195...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
 <!-- Collection #2354 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "RayKingCollection.php">Ray King Collection</a></td>
@@ -2097,6 +2092,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "RootsofKnowledgeBehindtheScenes.php">Roots of Knowledge: Behind the Scenes</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahValleyUniversityLibrary.php">Utah Valley University Library</a></td>
+</tr>
+<!-- Collection #2500 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RoyCAndrewsphotographs19021955.php">Roy C. Andrews photographs, 1902-1955</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Collection #2398 -->
 <tr>
@@ -3352,6 +3352,11 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "WilliamRPalmerPhotographs.php">William R. Palmer Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/SouthernUtahUniversitySherrattLibrary.php">Southern Utah University - Sherratt Library</a></td>
+</tr>
+<!-- Collection #2514 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "WillisDunagandiariesandlegalpapers18581897.php">Willis Dunagan diaries and legal papers, 1858-1897</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
 <!-- Collection #1277 -->
 <tr>

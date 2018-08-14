@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Typewritten pages recounting the life of James A. Bushnell, first chair of the Eugene (Oregon) Divinity School Board of Regents, between 1844 and April 2, 1910. With handwritten notes by Maud Skaggs Woodyard.
 <!-- Article Text -->
-Founded as Eugene Divinity School in 1895, Northwest Christian University (NCU) is a private, Christian liberal arts college in Eugene, Oregon. Its name was changed in 1908 to the Eugene Bible University and again in 1930 to the Eugene Bible College. Merging with Spokane University in 1934 it became known as the Northwest Christian College. It was renamed Northwest Christian University in 2008. This small collection of items is from the Kellenberger Library Archives.�
+Founded as Eugene Divinity School in 1895, Northwest Christian University (NCU) is a private, Christian liberal arts college in Eugene, Oregon. Its name was changed in 1908 to the Eugene Bible University and again in 1930 to the Eugene Bible College. Merging with Spokane University in 1934 it became known as the Northwest Christian College. It was renamed Northwest Christian University in 2008. This small collection of items is from the Kellenberger Library Archives.
 <hr>
 <!-- Browse Collection -->
 <h6>

@@ -41,7 +41,7 @@
 <h6> Published by <a href="../partners/OregonStateHighwayDepartment.php">Oregon State Highway Department</a></h6>
  
 <!-- Collection Description -->
-Maps are some of the most information-rich documents that we use to communicate to each other. They visually represent not only the physical terrain, but also our impact upon it. This online selection of maps from the Oregon State University and University of Oregon libraries� collections are but a small sample of what is available in either library. Please contact a local librarian for more information regarding these treasured Oregon collections.
+Maps are some of the most information-rich documents that we use to communicate to each other. They visually represent not only the physical terrain, but also our impact upon it. This online selection of maps from the Oregon State University and University of Oregon libraries collections are but a small sample of what is available in either library. Please contact a local librarian for more information regarding these treasured Oregon collections.
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -41,7 +41,7 @@ Orestes at Delphi (Pottery: red-figured bell-krater (wine-bowl))
 <h6> Published by <a href="../partners/DepartmentofClassicsandtheDepartmentoftheHistoryofArtandArchitectureUniversityofOregon.php">Department of Classics and the Department of the History of Art and Architecture, University of Oregon</a></h6>
  
 <!-- Collection Description -->
-The 35mm slide collection of University of Oregon Classics professor Steven Lowenstam (1945�2003) was compiled over a lifetime of scholarship and inquiry into the visual culture of the Classical world. It is composed primarily of ceramics in European and American museums, architecture and archaeological sites across southern Europe. The collection contains diverse views and details, many of which are unusual or not easily obtained. Information provided about the images is minimal, and assistance from the scholarly community in identifying objects and enriching the metadata will improve usability of the collection.
+The 35mm slide collection of University of Oregon Classics professor Steven Lowenstam (1945-2003) was compiled over a lifetime of scholarship and inquiry into the visual culture of the Classical world. It is composed primarily of ceramics in European and American museums, architecture and archaeological sites across southern Europe. The collection contains diverse views and details, many of which are unusual or not easily obtained. Information provided about the images is minimal, and assistance from the scholarly community in identifying objects and enriching the metadata will improve usability of the collection.
 <hr>
 <h6>
 <!-- Browse Link -->

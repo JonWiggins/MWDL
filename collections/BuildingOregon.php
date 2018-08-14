@@ -41,7 +41,7 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
-Building Oregon: Architecture of Oregon and the Pacific Northwest provides approximately 20,000 images with accompanying documentation about the architectural heritage of the Pacific Northwest with special emphasis on Oregon�s historic sites and built environment. A significant number of images come from slides donated to the University of Oregon Libraries, including the�collections of architectural historian Marion Dean Ross, preservationist Michael Shellenbarger, and architect C. Gilman Davis. As a result of continuing collaboration with the�Oregon State Historic Preservation Office, many documents in the collection represent works listed on the�National Register of Historic Places.
+Building Oregon: Architecture of Oregon and the Pacific Northwest provides approximately 20,000 images with accompanying documentation about the architectural heritage of the Pacific Northwest with special emphasis on Oregon's historic sites and built environment. A significant number of images come from slides donated to the University of Oregon Libraries, including the collections of architectural historian Marion Dean Ross, preservationist Michael Shellenbarger, and architect C. Gilman Davis. As a result of continuing collaboration with the Oregon State Historic Preservation Office, many documents in the collection represent works listed on the National Register of Historic Places.
 <hr>
 <h6>
 <!-- Browse Link -->
