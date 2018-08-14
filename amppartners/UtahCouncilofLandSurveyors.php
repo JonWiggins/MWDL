@@ -18,7 +18,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<br/><p>With the infusion of high technology instrumentation into our profession we are beginning to embrace the broader Geomatics definition while still holding onto the traditional Surveying definition; both are applicable. "Geomatics encompasses disciplines that rely on geospatial data such as: surveying, civil engineering, cartography, land information systems, geodesy, and remote sensing." "Surveying is the art, science, and technology of locating or establishing the relative position of points, lines, or elevations, at, on, above, or below the surface of the earth, on the water or land."</p><br/><p>Our mission statement: "To protect and promote the Land Surveying Profession by setting high standards and providing education for the members and general public."</p>
+"<br/><p>With the infusion of high technology instrumentation into our profession we are beginning to embrace the broader Geomatics definition while still holding onto the traditional Surveying definition; both are applicable. ""Geomatics encompasses disciplines that rely on geospatial data such as: surveying, civil engineering, cartography, land information systems, geodesy, and remote sensing."" ""Surveying is the art, science, and technology of locating or establishing the relative position of points, lines, or elevations, at, on, above, or below the surface of the earth, on the water or land.""</p><br/><p>Our mission statement: ""To protect and promote the Land Surveying Profession by setting high standards and providing education for the members and general public.""</p>"
 <hr>
 <!-- Browse Collections -->
 <h6>

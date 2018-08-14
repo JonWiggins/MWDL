@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2415.jpg" alt="Black and white image of the Memorial Quad from in front of the Library."width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2415.jpg" alt="World War II on campus"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Black and white image of the Memorial Quad from in front of the Library.
+World War II on campus
 </div>
 <!-- Collection Title-->
 <h4>UO Archives Photographs</h4>

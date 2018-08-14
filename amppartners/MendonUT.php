@@ -18,7 +18,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<br/><p>Mendon, Utah is located in northern Utah's beautiful Cache Valley, its many snow-fed streams keeping the valley a lush, cool green for much of the year. Cache Valley, as named in the early 1830's by the fur trappers who first worked these same streams and cached-up their goods near here, has long been a favored resting place. Mendon was to be the first of the new cities established in the Cache Valley, during this year of renewed expansion and colonization, following the peaceful conclusion of the so called, "Utah War" of 1858.</p>
+"<br/><p>Mendon, Utah is located in northern Utah's beautiful Cache Valley, its many snow-fed streams keeping the valley a lush, cool green for much of the year. Cache Valley, as named in the early 1830's by the fur trappers who first worked these same streams and cached-up their goods near here, has long been a favored resting place. Mendon was to be the first of the new cities established in the Cache Valley, during this year of renewed expansion and colonization, following the peaceful conclusion of the so called, ""Utah War"" of 1858.</p>"
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -91,6 +91,11 @@
 <li><a href = "../collections/UtahSoundexBirthCertificateIndex.php">Utah Soundex Birth Certificate Index</a></li>
 <li><a href = "../collections/WeberCountyUtahClerkDentistryandOptometryBoardCertificates.php">Weber County (Utah) Clerk Dentistry and Optometry Board Certificates</a></li>
 <li><a href = "../collections/UtahTerritorialMilitiaRecordsIndex.php">Utah Territorial Militia Records Index</a></li>
+<li><a href = "../collections/TooeleCountyUtahClerkRegisterofBirths.php">Tooele County (Utah) Clerk Register of Births</a></li>
+<li><a href = "../collections/TooeleCountyUtahClerkRegisterofDeaths.php">Tooele County (Utah) Clerk Register of Deaths</a></li>
+<li><a href = "../collections/DavisCountyUtahSheriffAlienEnemyRegistrationForms.php">Davis County (Utah) Sheriff Alien Enemy Registration Forms</a></li>
+<li><a href = "../collections/UtahStateHistoricalSocietyWorldWarIRecordsDeadRoster.php">Utah State Historical Society World War I Records Dead Roster</a></li>
+<li><a href = "../collections/FirstDistrictBoxElderCountyUtahCivilCaseIndexes.php">First District: Box Elder County (Utah) Civil Case Indexes</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

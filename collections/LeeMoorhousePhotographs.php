@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2414.jpg" alt="A black-and-white photograph of a Native American man, identified as Alexander, Yakima Indian"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2414.jpg" alt="Watson-homa, son in law to Shut-A-Mone, Copyrighted by Rutter 1900"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-A black-and-white photograph of a Native American man, identified as Alexander, Yakima Indian
+Watson-homa, son in law to Shut-A-Mone, Copyrighted by Rutter 1900
 </div>
 <!-- Collection Title-->
 <h4>Lee Moorhouse Photographs</h4>

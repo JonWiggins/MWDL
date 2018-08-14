@@ -41,12 +41,15 @@
 <li><a href = "../collections/NeuroOphthalmologyRandyHKardonCollection.php">Neuro-Ophthalmology: Randy H. Kardon Collection</a></li>
 <li><a href = "../collections/UniversityofUtahHealthSciencesPhotographCollection.php">University of Utah Health Sciences Photograph Collection</a></li>
 <li><a href = "../collections/UtahHealthSciencesLibraryConsortium.php">Utah Health Sciences Library Consortium</a></li>
+<li><a href = "../collections/HealthEducationAssetsLibraryHEAL.php">Health Education Assets Library (HEAL)</a></li>
 <li><a href = "../collections/NeuroOphthalmologyRobertBDaroffCollection.php">Neuro-Ophthalmology: Robert B. Daroff Collection</a></li>
 <li><a href = "../collections/NeuroOphthalmologyJournalofNeuroOphthalmology.php">Neuro-Ophthalmology: Journal of Neuro-Ophthalmology</a></li>
 <li><a href = "../collections/NeuroOphthalmologyAlfredoASadunCollection.php">Neuro-Ophthalmology: Alfredo A. Sadun Collection</a></li>
 <li><a href = "../collections/NeuroOphthalmologyDavidENewmanTokerCollection.php">Neuro-Ophthalmology: David E. Newman-Toker Collection</a></li>
 <li><a href = "../collections/NeuroOphthalmologyHelmutWilhelmCollection.php">Neuro-Ophthalmology: Helmut Wilhelm Collection</a></li>
 <li><a href = "../collections/NeuroOphthalmologyNorthAmericanNeuroOphthalmologySocietyAnnualMeetingCollection.php">Neuro-Ophthalmology: North American Neuro-Ophthalmology Society Annual Meeting Collection</a></li>
+<li><a href = "../collections/OnlinePublicHealthLibrary.php">Online Public Health Library</a></li>
+<li><a href = "../collections/GraduateNursingProject.php">Graduate Nursing Project</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

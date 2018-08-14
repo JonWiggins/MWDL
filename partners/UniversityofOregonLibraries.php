@@ -45,6 +45,16 @@ OU Price Science Library
 <li><a href = "../collections/FrazierAugustusBoutellephotographsc18651900.php">Frazier Augustus Boutelle photographs, c. 1865-1900</a></li>
 <li><a href = "../collections/LesbianIntentionalCommunityRuthMountaingroveb1923photographs.php">Lesbian Intentional Community: Ruth Mountaingrove (b.1923) photographs</a></li>
 <li><a href = "../collections/UOArchivesPhotographs.php">UO Archives Photographs</a></li>
+<li><a href = "../collections/LeeMoorhousePhotographs.php">Lee Moorhouse Photographs</a></li>
+<li><a href = "../collections/UOArchivesPhotographs.php">UO Archives Photographs</a></li>
+<li><a href = "../collections/OpalWhiteley18971992photographs.php">Opal Whiteley (1897-1992) photographs</a></li>
+<li><a href = "../collections/BuildingOregon.php">Building Oregon</a></li>
+<li><a href = "../collections/UOAthletics.php">UO Athletics</a></li>
+<li><a href = "../collections/UOStockPhotos.php">UO Stock Photos</a></li>
+<li><a href = "../collections/MayoMethotBogart19041951photographs.php">Mayo Methot Bogart (1904-1951) photographs</a></li>
+<li><a href = "../collections/UniversityofOregonSpecialCollectionsManuscriptsandRareBooks.php">University of Oregon Special Collections Manuscripts and Rare Books</a></li>
+<li><a href = "../collections/UOVeterans.php">UO Veterans</a></li>
+<li><a href = "../collections/HistoricSheetMusicCollection.php">Historic Sheet Music Collection</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>
