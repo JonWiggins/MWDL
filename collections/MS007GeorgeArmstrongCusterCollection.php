@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 007 George Armstrong Custer Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 007 George Armstrong Custer Collection, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@
 <!-- Collection Title-->
 <h4>MS 007 George Armstrong Custer Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 </p><br/>This collection contains various documents concerning the Battle of the Little Big Horn. Most prominent are two original reports of General Alfred H. Terry to General George Crook, the first official reports of the defeat of Custer at the Little Big Horn battlefield. Other documents in the collection include reminiscences of Wilmot Sanford on the battle, a letter from General E. S. Godfrey to E.S. Paxson about the battle, as well as a letter from William F. Cody to Elizabeth Custer regarding a statue of her husband.</p><br/>

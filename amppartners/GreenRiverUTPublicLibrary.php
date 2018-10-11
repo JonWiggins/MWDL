@@ -18,7 +18,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<br/><p>The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible.</p><br/><p> <a href="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/pbb&CISOPTR=205&CISOBOX=1&REC=2" target="_blank" ref="http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/pbb&CISOPTR=205&CISOBOX=1&REC=2">Pearl and Jody Baker<br> </a>Green River (UT) Public Library</p><br/><p>Search within the records from this partner:</p><br/>
+"<br/><p>The Green River Public Library is a repository for historic documents involving the Green River Area. Pearl Biddlecomb Baker played a key role in making the facility possible.</p><br/><p> <a href=""http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/pbb&CISOPTR=205&CISOBOX=1&REC=2"" target=""_blank"" ref=""http://content.lib.utah.edu/cdm4/item_viewer.php?CISOROOT=/pbb&CISOPTR=205&CISOBOX=1&REC=2"">Pearl and Jody Baker<br> </a>Green River (UT) Public Library</p><br/><p>Search within the records from this partner:</p><br/>"
 <hr>
 <!-- Browse Collections -->
 <h6>

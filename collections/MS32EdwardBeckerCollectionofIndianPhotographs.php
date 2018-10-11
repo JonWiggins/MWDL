@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 32 - Edward Becker Collection of Indian Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 32 - Edward Becker Collection of Indian Photographs, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@ Edward Becker Photograph Album Cover
 <!-- Collection Title-->
 <h4>MS 32 - Edward Becker Collection of Indian Photographs</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 Black-and-white photograph album of Edward Becker of American Indians living in Crow Agency, MT in 1898. Becker received a Presidential appointment to serve as Crow Indian Agent in 1898, and his appointment document is included.

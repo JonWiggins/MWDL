@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 002 Victor Arland Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 002 Victor Arland Collection, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <!-- Collection #2271 -->
 <!-- Collection Title -->
 <title>MS 002 Victor Arland Collection</title>
@@ -10,7 +10,7 @@
 <!-- Collection Title -->
 <h3>MS 002 Victor Arland Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/collection2271.jpg"alt="<em>Letter from Victor Arland in Greybull, Wyoming to Camille Dadant 1</em>"width="409" height ="250"  layout = "responsive"></amp-img>

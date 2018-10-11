@@ -41,7 +41,7 @@ Utah Ski Archives Newsletter
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p><br/>This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
+</p><br/>This collection contains back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -88,4 +88,9 @@
 <li><a href = "../ampcollections/UtahSoundexBirthCertificateIndex.php">UtahSoundexBirthCertificateIndex</a></li>
 <li><a href = "../ampcollections/WeberCountyUtahClerkDentistryandOptometryBoardCertificates.php">WeberCountyUtahClerkDentistryandOptometryBoardCertificates</a></li>
 <li><a href = "../ampcollections/UtahTerritorialMilitiaRecordsIndex.php">UtahTerritorialMilitiaRecordsIndex</a></li>
+<li><a href = "../ampcollections/TooeleCountyUtahClerkRegisterofBirths.php">TooeleCountyUtahClerkRegisterofBirths</a></li>
+<li><a href = "../ampcollections/TooeleCountyUtahClerkRegisterofDeaths.php">TooeleCountyUtahClerkRegisterofDeaths</a></li>
+<li><a href = "../ampcollections/DavisCountyUtahSheriffAlienEnemyRegistrationForms.php">DavisCountyUtahSheriffAlienEnemyRegistrationForms</a></li>
+<li><a href = "../ampcollections/UtahStateHistoricalSocietyWorldWarIRecordsDeadRoster.php">UtahStateHistoricalSocietyWorldWarIRecordsDeadRoster</a></li>
+<li><a href = "../ampcollections/FirstDistrictBoxElderCountyUtahCivilCaseIndexes.php">FirstDistrictBoxElderCountyUtahCivilCaseIndexes</a></li>
 <?php include("../includes/ampfooter.php");?>

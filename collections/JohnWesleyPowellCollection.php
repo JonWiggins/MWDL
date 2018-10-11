@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="John Wesley Powell Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
+<meta name="description" content="John Wesley Powell Collection, a MWDL collection, presented by Green River Public Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@ Scientific American Supplement, Vol. VI
 <!-- Collection Title-->
 <h4>John Wesley Powell Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
+<h6> Published by <a href="../partners/GreenRiverPublicLibrary.php">Green River Public Library</a></h6>
  
 <!-- Collection Description -->
 </p><br/>John Wesley Powell, the iconic explorer of the Colorado River, left the American southwest with a rich legacy. During his expeditions he compiled data and a number of sketches describing the landscape. This collection contains various writings and geographical publications to which Powell contributed.</p><br/>

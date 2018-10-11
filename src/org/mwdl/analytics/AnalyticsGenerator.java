@@ -68,12 +68,12 @@ public class AnalyticsGenerator {
         //months.add("January");
         //months.add("February");
         //months.add("March");
-        months.add("April");
-        months.add("May");
-        months.add("June");
+        //months.add("April");
+       // months.add("May");
+       // months.add("June");
         months.add("July");
-        //months.add("August");
-        //months.add("September");
+        months.add("August");
+        months.add("September");
         //months.add("October");
         //months.add("November");
         //months.add("December");
@@ -98,7 +98,9 @@ public class AnalyticsGenerator {
         hubidtoName.put("uvu","Utah Valley University");
         hubidtoName.put("wsu","Weber State University");
         hubidtoName.put("dha","Department of Heritage and Arts");
+        hubidtoName.put("usl", "Utah State Library");
         hubidtoName.put("unpublished","unpublished");
+
 
 
         activeCollections = DataFetcher.getAllActiveCollections();

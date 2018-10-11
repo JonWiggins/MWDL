@@ -13,10 +13,10 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2354.jpg"alt=""Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat""width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2354.jpg"alt="Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-"Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat"
+Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat
 <!-- Article Text -->
 This collection contains images from Utah photographer Ray King. King worked for the Salt Lake Tribune for many years in the mid-twentieth century. These images document his work in Utah but also his personal life as he photographed trips throughout the United States.
 <hr>

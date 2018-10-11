@@ -24,7 +24,7 @@
 <!-- Website Link -->
 <h6><a href="http://www.parkcityhistory.org/">Park City (UT) Historical Society & Museum Website </a></h6>
 <!-- Article Text -->
-<p><p><a href="http://www.parkcityhistory.org/" target="_blank">Park City (UT) Historical Society & Museum Website</a></p><br/><p>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage.</p><br/><p><br/> <!--End straight text --> <strong>Park City Museum</strong></p><br/><p>Search within the records from this partner:</p><br/></p>
+<p>"<p><a href=""http://www.parkcityhistory.org/"" target=""_blank"">Park City (UT) Historical Society & Museum Website</a></p><br/><p>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage.</p><br/><p><br/> <!--End straight text --> <strong>Park City Museum</strong></p><br/><p>Search within the records from this partner:</p><br/>"</p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Park+City+(UT)+Historical+Society+&+Museum">Browse all records from Park City (UT) Historical Society & Museum</a>
 <!-- List all Active Collections -->

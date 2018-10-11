@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 006 William F. Cody Scrapbook MS6.3774, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 006 William F. Cody Scrapbook MS6.3774, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <!-- Collection #2391 -->
 <!-- Collection Title -->
 <title>MS 006 William F. Cody Scrapbook MS6.3774</title>
@@ -10,7 +10,7 @@
 <!-- Collection Title -->
 <h3>MS 006 William F. Cody Scrapbook MS6.3774</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/collection2391.jpg"alt="Buffalo Bill's Wild West Scrapbook of the United Kingdom and France"width="250" height ="250"  layout = "responsive"></amp-img>

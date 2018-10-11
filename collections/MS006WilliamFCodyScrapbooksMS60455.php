@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.0455, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.0455, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@ Diary 1887 Scrapbook - partial
 <!-- Collection Title-->
 <h4>MS 006 William F. Cody Scrapbooks MS6.0455</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 "Correspondence from others to William F. ""Buffalo Bill"" Cody"

@@ -30,6 +30,7 @@
 <!-- List all Active Collections -->
 <li><a href = "../collections/CityofOremUT.php">City of Orem (UT)</a></li>
 <li><a href = "../collections/OremUTSchoolYearbooks.php">Orem (UT) School Yearbooks</a></li>
+<li><a href = "../collections/OremUTSchoolYearbooks.php">Orem (UT) School Yearbooks</a></li>
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

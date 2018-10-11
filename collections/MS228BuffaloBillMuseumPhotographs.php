@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 228 - Buffalo Bill Museum Photographs, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 228 - Buffalo Bill Museum Photographs, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@ Cody, Wyoming
 <!-- Collection Title-->
 <h4>MS 228 - Buffalo Bill Museum Photographs</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 "Photograph collection of over 400 images depicting historic Cody, WY, William ""Buffalo Bill"" Cody, and the original Buffalo Bill Museum."

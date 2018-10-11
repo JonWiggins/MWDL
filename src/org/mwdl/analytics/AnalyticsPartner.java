@@ -87,6 +87,7 @@ public class AnalyticsPartner {
         hubidtoName.put("uvu","Utah Valley University");
         hubidtoName.put("wsu","Weber State University");
         hubidtoName.put("dha","Department of Heritage and Arts");
+        hubidtoName.put("usl", "Utah State Library");
         hubidtoName.put("unpublished","unpublished");
 
 

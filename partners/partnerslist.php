@@ -14,6 +14,10 @@
 </tr>
 </thread>
 <tbody>
+<!-- Partner #372 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "AfricanStudiesProgramUniversityofOregon.php">African Studies Program, University of Oregon</a></td>
+</tr>
 <!-- Partner #350 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "AmericanForkCityUTPublicLibrary.php">American Fork City (UT) Public Library</a></td>
@@ -46,6 +50,10 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></td>
 </tr>
+<!-- Partner #374 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
 <!-- Partner #217 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
@@ -58,13 +66,17 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DeltaUTCityLibrary.php">Delta (UT) City Library</a></td>
 </tr>
+<!-- Partner #381 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofClassicsandtheDepartmentoftheHistoryofArtandArchitectureUniversityofOregon.php">Department of Classics and the Department of the History of Art and Architecture, University of Oregon</a></td>
+</tr>
 <!-- Partner #119 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
-<!-- Partner #125 -->
+<!-- Partner #379 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DialogueFoundation.php">Dialogue Foundation</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "EmeraldMediaGroup.php">Emerald Media Group</a></td>
 </tr>
 <!-- Partner #135 -->
 <tr>
@@ -102,6 +114,18 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "IdahoCommissionforLibraries.php">Idaho Commission for Libraries</a></td>
 </tr>
+<!-- Partner #383 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "IntermountainAcousticMusicAssociation.php">Intermountain Acoustic Music Association</a></td>
+</tr>
+<!-- Partner #375 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "JordanSchnitzerMuseumofArtandtheNationalEndowmantfortheHumanities.php">Jordan Schnitzer Museum of Art and the National Endowmant for the Humanities</a></td>
+</tr>
+<!-- Partner #377 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "LatinoRootsProjectandtheCenterforLatinoaAmericanStudiesUniversityofOregonandSELCOCommunityCreditUnion.php">Latino Roots Project and the Center for Latino/a American Studies, University of Oregon, and SELCO Community Credit Union</a></td>
+</tr>
 <!-- Partner #361 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "LewistonCityUTPublicLibrary.php">Lewiston City (UT) Public Library</a></td>
@@ -122,6 +146,10 @@
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "MurrayUTMuseum.php">Murray (UT) Museum</a></td>
 </tr>
+<!-- Partner #373 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "NationalEndowmentfortheHumanitiesandtheAmericanCouncilofLearnedSocieties.php">National Endowment for the Humanities and the American Council of Learned Societies</a></td>
+</tr>
 <!-- Partner #362 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NewtonTownUTLibrary.php">Newton Town (UT) Library</a></td>
@@ -133,6 +161,14 @@
 <!-- Partner #363 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NorthLoganCityUTLibrary.php">North Logan City (UT) Library</a></td>
+</tr>
+<!-- Partner #382 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "NorthwestChristianUniversity.php">Northwest Christian University</a></td>
+</tr>
+<!-- Partner #380 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonStateHighwayDepartment.php">Oregon State Highway Department</a></td>
 </tr>
 <!-- Partner #371 -->
 <tr>
@@ -157,6 +193,10 @@
 <!-- Partner #139 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "ProvoUTCityLibrary.php">Provo (UT) City Library</a></td>
+</tr>
+<!-- Partner #376 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "RandallVMillsArchivesofNorthwestFolkloreandtheFolkloreProgramUniversityofOregon.php">Randall V. Mills Archives of Northwest Folklore and the Folklore Program, University of Oregon</a></td>
 </tr>
 <!-- Partner #353 -->
 <tr>
@@ -193,6 +233,10 @@
 <!-- Partner #117 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UintahCountyUTLibrary.php">Uintah County (UT) Library</a></td>
+</tr>
+<!-- Partner #378 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "UniversityofCentralFloridaandShandongUniversityofArtandDesign.php">University of Central Florida, and Shandong University of Art and Design</a></td>
 </tr>
 <!-- Partner #104 -->
 <tr>

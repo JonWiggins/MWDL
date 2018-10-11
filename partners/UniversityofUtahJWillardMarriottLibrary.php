@@ -24,7 +24,7 @@
 <!-- Website Link -->
 <h6><a href="http://www.lib.utah.edu/">University of Utah - J. Willard Marriott Library Website </a></h6>
 <!-- Article Text -->
-<p><br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/></p>
+<p>"<br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be ""smart for life,"" with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/>"</p>
 <hr>
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=University+of+Utah+-+J.+Willard+Marriott+Library">Browse all records from University of Utah - J. Willard Marriott Library</a>
 <!-- List all Active Collections -->
@@ -33,7 +33,6 @@
 <li><a href = "../collections/DardHunterBookCollection.php">Dard Hunter Book Collection</a></li>
 <li><a href = "../collections/LandUseTransportationScenarioPlanning.php">Land Use-Transportation Scenario Planning</a></li>
 <li><a href = "../collections/HarmoniaMacrocosmica.php">Harmonia Macrocosmica</a></li>
-<li><a href = "../collections/JohnWesleyPowellCollection.php">John Wesley Powell Collection</a></li>
 <li><a href = "../collections/KarlBodmerAquatintCollection.php">Karl Bodmer Aquatint Collection</a></li>
 <li><a href = "../collections/LessonsTheJournaloftheCenterforTeachingandLearningExcellence.php">Lessons: The Journal of the Center for Teaching and Learning Excellence</a></li>
 <li><a href = "../collections/MusicTempleVisitorsRegister.php">Music Temple Visitors Register</a></li>

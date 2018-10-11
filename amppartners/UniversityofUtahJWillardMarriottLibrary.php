@@ -18,7 +18,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be "smart for life," with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/>
+"<br/><p>The J. Willard Marriott Library at the University of Utah provides research tools, collections and services for students, faculty and researchers. At the J. Willard Marriott Library, we teach our students to be ""smart for life,"" with a solid grounding in critical thinking that will serve them their entire lives. Clearly, libraries have become agents of transformation, development, growth, and opportunity.</p><br/><p>Additionally, the Marriott Library is an active participant in the U Signature Experience initiative, which was established with the mission to invigorate students' college experience through exemplary extra-curricular programs. We offer a host of lectures, workshops, and exhibitions, as well as scholarships and internships in which students attain real-world work experience. And, as always, we work with faculty across campus in integrating our collections into coursework to enrich learning.</p><br/>"
 <hr>
 <!-- Browse Collections -->
 <h6>
@@ -30,7 +30,6 @@
 <li><a href = "../ampcollections/DardHunterBookCollection.php">DardHunterBookCollection</a></li>
 <li><a href = "../ampcollections/LandUseTransportationScenarioPlanning.php">LandUseTransportationScenarioPlanning</a></li>
 <li><a href = "../ampcollections/HarmoniaMacrocosmica.php">HarmoniaMacrocosmica</a></li>
-<li><a href = "../ampcollections/JohnWesleyPowellCollection.php">JohnWesleyPowellCollection</a></li>
 <li><a href = "../ampcollections/KarlBodmerAquatintCollection.php">KarlBodmerAquatintCollection</a></li>
 <li><a href = "../ampcollections/LessonsTheJournaloftheCenterforTeachingandLearningExcellence.php">LessonsTheJournaloftheCenterforTeachingandLearningExcellence</a></li>
 <li><a href = "../ampcollections/MusicTempleVisitorsRegister.php">MusicTempleVisitorsRegister</a></li>

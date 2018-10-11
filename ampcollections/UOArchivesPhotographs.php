@@ -13,10 +13,10 @@
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection2415.jpg"alt="Black and white image of the Memorial Quad from in front of the Library."width="250" height ="250"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection2415.jpg"alt="World War II on campus"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Black and white image of the Memorial Quad from in front of the Library.
+World War II on campus
 <!-- Article Text -->
 The University Archives Photograph Collection contains modern and vintage photographic prints related to the University of Oregon. The photographs depict a variety of buildings, historic scenes, events, students, faculty and staff, and scenes of campus life.
 <hr>

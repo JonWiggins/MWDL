@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2354.jpg" alt=""Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat""width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2354.jpg" alt="Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-"Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat"
+Snapshot of man and woman posing, trees in background, 1932. Individuals from Provo Internation Society of Christian Endeavor retreat
 </div>
 <!-- Collection Title-->
 <h4>Ray King Collection</h4>

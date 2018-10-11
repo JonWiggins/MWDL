@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 047 David R. Phillips, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 047 David R. Phillips, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@
 <!-- Collection Title-->
 <h4>MS 047 David R. Phillips</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 </p><br/>A group of glass plate negatives from the collection of David R. Phillips focusing on William F. “Buffalo Bill” Cody and the Buffalo Bill’s Wild West show..</p><br/>

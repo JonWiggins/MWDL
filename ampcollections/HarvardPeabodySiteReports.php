@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Sherds and Metates in Corner of Room 100A
 <!-- Article Text -->
-"From the Peabody Museum of Archaology and Ethnology at Harvard University, this collection contains over 6,000 images, maps, and documents dating from the early 20th century archaeological sites. Pictographs, pottery and excavation sites are common subjects. Some expeditions were sited in Monument Valley."
+From the Peabody Museum of Archaology and Ethnology at Harvard University, this collection contains over 6,000 images, maps, and documents dating from the early 20th century archaeological sites. Pictographs, pottery and excavation sites are common subjects. Some expeditions were sited in Monument Valley.
 <hr>
 <!-- Browse Collection -->
 <h6>

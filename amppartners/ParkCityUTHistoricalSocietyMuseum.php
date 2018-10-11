@@ -18,7 +18,7 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-<p><a href="http://www.parkcityhistory.org/" target="_blank">Park City (UT) Historical Society & Museum Website</a></p><br/><p>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage.</p><br/><p><br/> <!--End straight text --> <strong>Park City Museum</strong></p><br/><p>Search within the records from this partner:</p><br/>
+"<p><a href=""http://www.parkcityhistory.org/"" target=""_blank"">Park City (UT) Historical Society & Museum Website</a></p><br/><p>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage.</p><br/><p><br/> <!--End straight text --> <strong>Park City Museum</strong></p><br/><p>Search within the records from this partner:</p><br/>"
 <hr>
 <!-- Browse Collections -->
 <h6>

@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Utah Ski Archives Newsletter
 <!-- Article Text -->
-</p><br/>This collection contains 25 back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
+</p><br/>This collection contains back issues of the Utah Ski Archives Newsletter.The Ski Archives serves to find and preserve materials that help document the history of Utah and Inter-mountain skiing.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>

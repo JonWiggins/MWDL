@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="John Wesley Powell Collection, a MWDL collection, presented by University of Utah - J. Willard Marriott Library">
+<meta name="description" content="John Wesley Powell Collection, a MWDL collection, presented by Green River Public Library">
 <!-- Collection #1015 -->
 <!-- Collection Title -->
 <title>John Wesley Powell Collection</title>
@@ -10,7 +10,7 @@
 <!-- Collection Title -->
 <h3>John Wesley Powell Collection</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
+<h6> Published by <a href="../partners/GreenRiverPublicLibrary.php">Green River Public Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/collection1015.jpg"alt="Scientific American Supplement, Vol. VI"width="320" height ="449"  layout = "responsive"></amp-img>

@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 034 Schuyler, Hartley, and Graham, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
+<meta name="description" content="MS 034 Schuyler, Hartley, and Graham, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,7 +38,7 @@
 <!-- Collection Title-->
 <h4>MS 034 Schuyler, Hartley, and Graham</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 </p><br/>Among the items in the collection are letters and shipping orders from Schuyler, Hartley and Graham to H. K. White, correspondence from H. K. White Military Goods to customers, correspondence from individuals and companies seeking to purchase goods from Schuyler, Hartley and Graham and H. K. White Military Goods, correspondence from individuals and companies offering goods and services, business records such as bills, receipts, calling cards, etc., bound memo books, ledger books, inventory books, etc., and a large collection of advertisement materials. Supported by funding from the American Society of Arms Collectors.</p><br/>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4592b18b-72ba-4e04-be11-dc7a4a9347bd" name="MWDL" url="http://mwdl.org">
+        <fileTransfer host="mwdl.org" port="22" rootFolder="/home/sites/mwdl.org" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
