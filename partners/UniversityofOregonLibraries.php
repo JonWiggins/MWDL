@@ -47,11 +47,15 @@ OU Price Science Library
 <li><a href = "../collections/UOArchivesPhotographs.php">UO Archives Photographs</a></li>
 <li><a href = "../collections/LeeMoorhousePhotographs.php">Lee Moorhouse Photographs</a></li>
 <li><a href = "../collections/UOArchivesPhotographs.php">UO Archives Photographs</a></li>
+<<<<<<< HEAD
 <li><a href = "../collections/GertrudeBassWarnerPapers19091923.php">Gertrude Bass Warner Papers, 1909-1923</a></li>
+=======
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <li><a href = "../collections/OpalWhiteley18971992photographs.php">Opal Whiteley (1897-1992) photographs</a></li>
 <li><a href = "../collections/BuildingOregon.php">Building Oregon</a></li>
 <li><a href = "../collections/UOAthletics.php">UO Athletics</a></li>
 <li><a href = "../collections/UOStockPhotos.php">UO Stock Photos</a></li>
+<<<<<<< HEAD
 <li><a href = "../collections/RoyCAndrewsphotographs19021955.php">Roy C. Andrews photographs, 1902-1955</a></li>
 <li><a href = "../collections/RandallVMillsTransportationCollection19071952photographsca19371952.php">Randall V. Mills Transportation Collection (1907-1952) photographs, ca. 1937-1952</a></li>
 <li><a href = "../collections/MayoMethotBogart19041951photographs.php">Mayo Methot Bogart (1904-1951) photographs</a></li>
@@ -63,6 +67,12 @@ OU Price Science Library
 <li><a href = "../collections/WillisDunagandiariesandlegalpapers18581897.php">Willis Dunagan diaries and legal papers, 1858-1897</a></li>
 <li><a href = "../collections/NationalJapaneseAmericanStudentRelocationCouncilrecords19421946.php">National Japanese American Student Relocation Council records, 1942-1946</a></li>
 <li><a href = "../collections/Ellmakerfamilypapers17682005.php">Ellmaker family papers, 1768-2005</a></li>
+=======
+<li><a href = "../collections/MayoMethotBogart19041951photographs.php">Mayo Methot Bogart (1904-1951) photographs</a></li>
+<li><a href = "../collections/UniversityofOregonSpecialCollectionsManuscriptsandRareBooks.php">University of Oregon Special Collections Manuscripts and Rare Books</a></li>
+<li><a href = "../collections/UOVeterans.php">UO Veterans</a></li>
+<li><a href = "../collections/HistoricSheetMusicCollection.php">Historic Sheet Music Collection</a></li>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 </div>
 </div>
 <?php include("../includes/footer.php"); ?>

@@ -44,11 +44,15 @@ The University of Oregon Libraries is an essential partner in the University’s
 <li><a href = "../ampcollections/UOArchivesPhotographs.php">UOArchivesPhotographs</a></li>
 <li><a href = "../ampcollections/LeeMoorhousePhotographs.php">LeeMoorhousePhotographs</a></li>
 <li><a href = "../ampcollections/UOArchivesPhotographs.php">UOArchivesPhotographs</a></li>
+<<<<<<< HEAD
 <li><a href = "../ampcollections/GertrudeBassWarnerPapers19091923.php">GertrudeBassWarnerPapers19091923</a></li>
+=======
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <li><a href = "../ampcollections/OpalWhiteley18971992photographs.php">OpalWhiteley18971992photographs</a></li>
 <li><a href = "../ampcollections/BuildingOregon.php">BuildingOregon</a></li>
 <li><a href = "../ampcollections/UOAthletics.php">UOAthletics</a></li>
 <li><a href = "../ampcollections/UOStockPhotos.php">UOStockPhotos</a></li>
+<<<<<<< HEAD
 <li><a href = "../ampcollections/RoyCAndrewsphotographs19021955.php">RoyCAndrewsphotographs19021955</a></li>
 <li><a href = "../ampcollections/RandallVMillsTransportationCollection19071952photographsca19371952.php">RandallVMillsTransportationCollection19071952photographsca19371952</a></li>
 <li><a href = "../ampcollections/MayoMethotBogart19041951photographs.php">MayoMethotBogart19041951photographs</a></li>
@@ -60,4 +64,10 @@ The University of Oregon Libraries is an essential partner in the University’s
 <li><a href = "../ampcollections/WillisDunagandiariesandlegalpapers18581897.php">WillisDunagandiariesandlegalpapers18581897</a></li>
 <li><a href = "../ampcollections/NationalJapaneseAmericanStudentRelocationCouncilrecords19421946.php">NationalJapaneseAmericanStudentRelocationCouncilrecords19421946</a></li>
 <li><a href = "../ampcollections/Ellmakerfamilypapers17682005.php">Ellmakerfamilypapers17682005</a></li>
+=======
+<li><a href = "../ampcollections/MayoMethotBogart19041951photographs.php">MayoMethotBogart19041951photographs</a></li>
+<li><a href = "../ampcollections/UniversityofOregonSpecialCollectionsManuscriptsandRareBooks.php">UniversityofOregonSpecialCollectionsManuscriptsandRareBooks</a></li>
+<li><a href = "../ampcollections/UOVeterans.php">UOVeterans</a></li>
+<li><a href = "../ampcollections/HistoricSheetMusicCollection.php">HistoricSheetMusicCollection</a></li>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <?php include("../includes/ampfooter.php");?>

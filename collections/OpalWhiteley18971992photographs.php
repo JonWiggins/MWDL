@@ -41,7 +41,11 @@ Black and white image of Opal Whiteley posing while holding a fishing pole and f
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
+<<<<<<< HEAD
 Opal Stanley Whiteley (1897�?) was an author and speaker who studied biology and professed harmony with nature in her book,�The Fairyland Around Us�(Los Angeles, 1918) Whitely was raised in a logging camp in Lane County, Oregon, and later published a poetic diary,�The Story of Opal, purportedly written during her childhood.
+=======
+Opal Stanley Whiteley (1897?) was an author and speaker who studied biology and professed harmony with nature in her book, The Fairyland Around Us(Los Angeles, 1918) Whitely was raised in a logging camp in Lane County, Oregon, and later published a poetic diary, The Story of Opal, purportedly written during her childhood.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->

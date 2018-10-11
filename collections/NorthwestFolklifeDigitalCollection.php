@@ -41,7 +41,11 @@ Elk, in front of lamp by Kiesecker, in living room
 <h6> Published by <a href="../partners/RandallVMillsArchivesofNorthwestFolkloreandtheFolkloreProgramUniversityofOregon.php">Randall V. Mills Archives of Northwest Folklore and the Folklore Program, University of Oregon</a></h6>
  
 <!-- Collection Description -->
+<<<<<<< HEAD
 The Randall V. Mills Archives of Northwest Folklore, established in 1966, is the UO Folklore Program�s repository of multi-format, ethnographic collections documenting the customary beliefs, social practices, and material traits of cultural, religious, occupational, and ethnic groups throughout Oregon and the Northwest. The Archives has grown to become the largest folklife collection in the Northwest, and is an important resource for scholars, students, and the general public interested in the folklife of the region. The Archives holds over 7,000 slides of unique, visual folkloric materials, as well as texts, sound recordings, films, and videotapes.
+=======
+The Randall V. Mills Archives of Northwest Folklore, established in 1966, is the UO Folklore Program's repository of multi-format, ethnographic collections documenting the customary beliefs, social practices, and material traits of cultural, religious, occupational, and ethnic groups throughout Oregon and the Northwest. The Archives has grown to become the largest folklife collection in the Northwest, and is an important resource for scholars, students, and the general public interested in the folklife of the region. The Archives holds over 7,000 slides of unique, visual folkloric materials, as well as texts, sound recordings, films, and videotapes.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->

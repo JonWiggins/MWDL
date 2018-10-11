@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Clay Plant Kilns ca 1956
 <!-- Article Text -->
-This collection documents the expansion to the General Refractories Company in Lehi, Utah in 1955-1956, highlighting the brick trade as part of Utah�s clay industry.
+This collection documents the expansion to the General Refractories Company in Lehi, Utah in 1955-1956, highlighting the brick trade as part of Utah's clay industry.
 <hr>
 <!-- Browse Collection -->
 <h6>

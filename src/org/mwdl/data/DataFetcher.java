@@ -1,5 +1,6 @@
 package org.mwdl.data;
 
+import org.mwdl.toolkit.Section;
 import org.mwdl.webManagement.Collection;
 import org.mwdl.webManagement.Partner;
 
@@ -275,5 +276,41 @@ public class DataFetcher {
         }
         return toReturn;
     }
+
+
+    public static ArrayList<Section> getAllEducationSections() throws IOException {
+        ArrayList<Section> toReturn = new ArrayList<>();
+
+        BufferedReader toolkitData = new BufferedReader(new FileReader(ProjectConstants.EducationToolKitDataCSV));
+
+        //the first line is titles, eat it
+        toolkitData.readLine();
+
+        Section current = new Section();
+
+        while(toolkitData.ready()){
+            String currentline = toolkitData.readLine();
+
+            /*
+            There are 3 types of lines in this file
+             1. start of new section (Title, second Title, Image, Des)
+             2. content in section (,,, Image, Des)
+             3. start of new subsection(,,Title, Image, Des)
+
+            1. If this is the start of a new section, add the current section to the list of completed sections and
+                begin a new section
+            2. If this is content in a section, pull out the image and des and add it to this sections lists
+            3. if this is the start of a new Subsection, parse through it as you would a section and add it to the
+                sub sections list in the current section
+            */
+
+
+
+
+        }
+
+        return toReturn;
+    }
+
 
 }

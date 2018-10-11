@@ -2,177 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bc4125-529e-48bb-aa4a-dd20e051fb0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Old Data/collectionData61318.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collectionData100518.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Boise State University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Boise State University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Brigham Young University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Brigham Young University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Buffalo Bill Center Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Buffalo Bill Center Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Department of Heritage and Arts Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Department of Heritage and Arts Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Idaho Commission for Libraries Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Idaho Commission for Libraries Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Idaho State Historical Society Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Idaho State Historical Society Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Salt Lake Community College Libraries Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Salt Lake Community College Libraries Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Southern Utah University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Southern Utah University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/University of Idaho Library Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/University of Idaho Library Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/University of Nevada - Las Vegas Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/University of Nevada - Las Vegas Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/University of Nevada - Reno Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/University of Nevada - Reno Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/University of Utah Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/University of Utah Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Utah Division of Arts and Museums Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Utah Division of Arts and Museums Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Utah State Archives Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Utah State Archives Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Utah State University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Utah State University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Utah Valley University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Utah Valley University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/Weber State University Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/Weber State University Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GeneratedAnalytics/unpublished Analytics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GeneratedAnalytics/unpublished Analytics.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HubPartnerMap.csv" beforeDir="false" afterPath="$PROJECT_DIR$/HubPartnerMap.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MWDL-Scripts.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MWDL-Scripts.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MasterLists/April.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MasterLists/April.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MasterLists/August.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MasterLists/August.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MasterLists/September.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/HarvardPeabodySiteReports.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/HarvardPeabodySiteReports.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/JohnWesleyPowellCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/JohnWesleyPowellCollection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EducationData81318.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PartnerData81418.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collectionData61318.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/mwdl/toolkit/WriteEducationToolkitFromCSV.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/AfricanPoliticalEphemeraandRealiaProject.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AfricanPoliticalEphemeraandRealiaProject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/AftonWatkinsGardner.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AftonWatkinsGardner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/AmericanFolkloreSocietyPapers.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AmericanFolkloreSocietyPapers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/AngelusStudiophotographs1880s1940s.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/AngelusStudiophotographs1880s1940s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/BuildingOregon.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/BuildingOregon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/ChinaVine.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/ChinaVine.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/DorisUlmannPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/DorisUlmannPhotographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/GeneralRefractoriesCompanyCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/GeneralRefractoriesCompanyCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/GertrudeBassWarner18631951photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/GertrudeBassWarner18631951photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/GertrudeBassWarnerandtheEarlyPhotographyArchiveoftheUniversityArtMuseumJordanSchnitzerMuseumofArt.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/GertrudeBassWarnerandtheEarlyPhotographyArchiveoftheUniversityArtMuseumJordanSchnitzerMuseumofArt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/GraysonMathews19482007photographs1970s1990s.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/GraysonMathews19482007photographs1970s1990s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/JacksonHoleDudeRanchingTraditionTriangleX2017.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/JacksonHoleDudeRanchingTraditionTriangleX2017.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/JamesCloutierCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/JamesCloutierCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/JohnBauguessPhotographs1970s.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/JohnBauguessPhotographs1970s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/JuanitaBrooksPhotographCollection19281981.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/JuanitaBrooksPhotographCollection19281981.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ampcollections/LeeMoorhousePhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/LeeMoorhousePhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS002VictorArlandCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS002VictorArlandCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyPhotoAlbumsP61573.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyPhotoAlbumsP61573.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbookMS63774.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbookMS63774.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS60454.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS60454.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS60455.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS60455.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63664.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63664.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63775.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63775.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63776.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63776.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63777.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63777.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63778.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63778.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63779.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63779.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63781.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63781.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63785.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63785.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63786.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63786.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63787.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63787.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63788.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63788.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63789.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63789.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63790.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63790.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63791.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63791.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63792.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63792.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63799.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63799.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63825.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63825.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63830.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS006WilliamFCodyScrapbooksMS63830.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS007GeorgeArmstrongCusterCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS007GeorgeArmstrongCusterCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS010CountOttoFrancVonLichtensteinCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS010CountOttoFrancVonLichtensteinCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS017CharlesRappCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS017CharlesRappCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS021YellowstoneNationalPark.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS021YellowstoneNationalPark.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS034SchuylerHartleyandGraham.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS034SchuylerHartleyandGraham.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS037MrsGeorgeBirdGrinnellIndianPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS037MrsGeorgeBirdGrinnellIndianPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS047DavidRPhillips.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS047DavidRPhillips.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS056FrankARinehart.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS056FrankARinehart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS165ThomasMarquisNativeAmericanNitrateNegatives.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS165ThomasMarquisNativeAmericanNitrateNegatives.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS166WilliamFCodyDivorceProceedings.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS166WilliamFCodyDivorceProceedings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS228BuffaloBillMuseumPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS228BuffaloBillMuseumPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS247FredRMeyerPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS247FredRMeyerPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS25CoburnCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS25CoburnCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS294WilliamBell.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS294WilliamBell.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS32EdwardBeckerCollectionofIndianPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS32EdwardBeckerCollectionofIndianPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS331WilliamClark.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS331WilliamClark.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/MS5CodyLocalHistoryCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MS5CodyLocalHistoryCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/NellShipmanCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/NellShipmanCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/LesbianIntentionalCommunityRuthMountaingroveb1923photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/LesbianIntentionalCommunityRuthMountaingroveb1923photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/LowenstamCollectionofAncientWesternArtandArchaeology.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/LowenstamCollectionofAncientWesternArtandArchaeology.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/MayoMethotBogart19041951photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/MayoMethotBogart19041951photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/NorthwestChristianUniversity.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/NorthwestChristianUniversity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/NorthwestFolklifeDigitalCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/NorthwestFolklifeDigitalCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/OpalWhiteley18971992photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/OpalWhiteley18971992photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/OregonDailyEmeraldArchives.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/OregonDailyEmeraldArchives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/OregonMaps.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/OregonMaps.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/OregonStateUniversityYearbooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/OregonStateUniversityYearbooks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ampcollections/OremUTSchoolYearbooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/OremUTSchoolYearbooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/RayKingCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/RayKingCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/S006WilliamFCodyScrapbooksMS63793.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/S006WilliamFCodyScrapbooksMS63793.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/UOArchivesPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/UOArchivesPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ampcollections/UtahSkiArchivesNewsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/UtahSkiArchivesNewsletter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/BoiseStateUniversityAlbertsonsLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/BoiseStateUniversityAlbertsonsLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/GreenRiverUTPublicLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/GreenRiverUTPublicLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/MendonUT.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/MendonUT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/MurrayUTMuseum.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/MurrayUTMuseum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/OremUTPublicLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/OremUTPublicLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/ParkCityUTHistoricalSocietyMuseum.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/ParkCityUTHistoricalSocietyMuseum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/USForestServiceDixieNationalForest.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/USForestServiceDixieNationalForest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/PetrarchCanzionere.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/PetrarchCanzionere.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/SaltLakeTribuneNegativeCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/SaltLakeTribuneNegativeCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/SwanerLegacyOralHistoryProject.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/SwanerLegacyOralHistoryProject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/UOAthletics.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/UOAthletics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/UtahPowerandLightPhotographs1940s1950s.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/UtahPowerandLightPhotographs1940s1950s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ampcollections/WeRememberWeCelebrateWeBelieveLatinosinUtahExhibitCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/ampcollections/WeRememberWeCelebrateWeBelieveLatinosinUtahExhibitCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amppartners/CenterforAsianPacificStudiesUniversityofOregon.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/CenterforAsianPacificStudiesUniversityofOregon.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amppartners/UniversityofOregonLibraries.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UniversityofOregonLibraries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/UniversityofUtahJWillardMarriottLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UniversityofUtahJWillardMarriottLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/UtahCouncilofLandSurveyors.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UtahCouncilofLandSurveyors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/UtahStateArchives.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UtahStateArchives.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amppartners/UtahValleyUniversityLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/amppartners/UtahValleyUniversityLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectionData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectionData5292018.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collectionData60518.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/HarvardPeabodySiteReports.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/HarvardPeabodySiteReports.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/JohnWesleyPowellCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/JohnWesleyPowellCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/AfricanPoliticalEphemeraandRealiaProject.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/AfricanPoliticalEphemeraandRealiaProject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/AftonWatkinsGardner.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/AftonWatkinsGardner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/AmericanFolkloreSocietyPapers.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/AmericanFolkloreSocietyPapers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/AngelusStudiophotographs1880s1940s.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/AngelusStudiophotographs1880s1940s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/BuildingOregon.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/BuildingOregon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/ChinaVine.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/ChinaVine.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/DorisUlmannPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/DorisUlmannPhotographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/GeneralRefractoriesCompanyCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/GeneralRefractoriesCompanyCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/GertrudeBassWarner18631951photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/GertrudeBassWarner18631951photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/GertrudeBassWarnerandtheEarlyPhotographyArchiveoftheUniversityArtMuseumJordanSchnitzerMuseumofArt.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/GertrudeBassWarnerandtheEarlyPhotographyArchiveoftheUniversityArtMuseumJordanSchnitzerMuseumofArt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/GraysonMathews19482007photographs1970s1990s.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/GraysonMathews19482007photographs1970s1990s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/JacksonHoleDudeRanchingTraditionTriangleX2017.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/JacksonHoleDudeRanchingTraditionTriangleX2017.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/JamesCloutierCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/JamesCloutierCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/JohnBauguessPhotographs1970s.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/JohnBauguessPhotographs1970s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/JuanitaBrooksPhotographCollection19281981.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/JuanitaBrooksPhotographCollection19281981.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/LeeMoorhousePhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/LeeMoorhousePhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS002VictorArlandCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS002VictorArlandCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyPhotoAlbumsP61573.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyPhotoAlbumsP61573.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbookMS63774.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbookMS63774.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS60454.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS60454.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS60455.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS60455.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63664.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63664.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63775.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63775.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63776.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63776.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63777.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63777.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63778.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63778.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63779.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63779.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63781.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63781.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63785.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63785.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63786.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63786.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63787.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63787.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63788.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63788.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63789.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63789.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63790.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63790.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63791.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63791.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63792.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63792.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63799.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63799.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63825.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63825.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63830.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS006WilliamFCodyScrapbooksMS63830.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS007GeorgeArmstrongCusterCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS007GeorgeArmstrongCusterCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS010CountOttoFrancVonLichtensteinCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS010CountOttoFrancVonLichtensteinCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS017CharlesRappCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS017CharlesRappCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS021YellowstoneNationalPark.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS021YellowstoneNationalPark.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS034SchuylerHartleyandGraham.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS034SchuylerHartleyandGraham.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS037MrsGeorgeBirdGrinnellIndianPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS037MrsGeorgeBirdGrinnellIndianPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS047DavidRPhillips.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS047DavidRPhillips.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS056FrankARinehart.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS056FrankARinehart.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS165ThomasMarquisNativeAmericanNitrateNegatives.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS165ThomasMarquisNativeAmericanNitrateNegatives.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS166WilliamFCodyDivorceProceedings.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS166WilliamFCodyDivorceProceedings.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS228BuffaloBillMuseumPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS228BuffaloBillMuseumPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS247FredRMeyerPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS247FredRMeyerPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS25CoburnCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS25CoburnCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS294WilliamBell.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS294WilliamBell.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS32EdwardBeckerCollectionofIndianPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS32EdwardBeckerCollectionofIndianPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS331WilliamClark.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS331WilliamClark.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/MS5CodyLocalHistoryCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MS5CodyLocalHistoryCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/NellShipmanCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/NellShipmanCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/LesbianIntentionalCommunityRuthMountaingroveb1923photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/LesbianIntentionalCommunityRuthMountaingroveb1923photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/LowenstamCollectionofAncientWesternArtandArchaeology.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/LowenstamCollectionofAncientWesternArtandArchaeology.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/MayoMethotBogart19041951photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/MayoMethotBogart19041951photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/NorthwestChristianUniversity.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/NorthwestChristianUniversity.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/NorthwestFolklifeDigitalCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/NorthwestFolklifeDigitalCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/OpalWhiteley18971992photographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/OpalWhiteley18971992photographs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/OregonDailyEmeraldArchives.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/OregonDailyEmeraldArchives.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/OregonMaps.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/OregonMaps.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/OregonStateUniversityYearbooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/OregonStateUniversityYearbooks.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/OremUTSchoolYearbooks.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/OremUTSchoolYearbooks.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/RayKingCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/RayKingCollection.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/S006WilliamFCodyScrapbooksMS63793.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/S006WilliamFCodyScrapbooksMS63793.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/UOArchivesPhotographs.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/UOArchivesPhotographs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collections/UtahSkiArchivesNewsletter.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/UtahSkiArchivesNewsletter.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/PetrarchCanzionere.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/PetrarchCanzionere.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/SaltLakeTribuneNegativeCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/SaltLakeTribuneNegativeCollection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/SwanerLegacyOralHistoryProject.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/SwanerLegacyOralHistoryProject.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/UOAthletics.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/UOAthletics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/UtahPowerandLightPhotographs1940s1950s.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/UtahPowerandLightPhotographs1940s1950s.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections/WeRememberWeCelebrateWeBelieveLatinosinUtahExhibitCollection.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/WeRememberWeCelebrateWeBelieveLatinosinUtahExhibitCollection.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/aCollections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/aCollections.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/collections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/collections.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/collections/pCollections.php" beforeDir="false" afterPath="$PROJECT_DIR$/collections/pCollections.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/newCollectionData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/newCollectionData.old.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/newPartnerData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/newPartnerData.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnerData copy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnerData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/partnerMapData.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/BoiseStateUniversityAlbertsonsLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/BoiseStateUniversityAlbertsonsLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/GreenRiverUTPublicLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/GreenRiverUTPublicLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/MendonUT.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/MendonUT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/MurrayUTMuseum.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/MurrayUTMuseum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/OremUTPublicLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/OremUTPublicLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/ParkCityUTHistoricalSocietyMuseum.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/ParkCityUTHistoricalSocietyMuseum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/USForestServiceDixieNationalForest.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/USForestServiceDixieNationalForest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MWDL-Scripts/org/mwdl/toolkit/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/partners/CenterforAsianPacificStudiesUniversityofOregon.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/CenterforAsianPacificStudiesUniversityofOregon.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/partners/UniversityofOregonLibraries.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UniversityofOregonLibraries.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/UniversityofUtahJWillardMarriottLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UniversityofUtahJWillardMarriottLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UniversityofUtahSpencerSEcclesHealthSciencesLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/UtahCouncilofLandSurveyors.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UtahCouncilofLandSurveyors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/UtahStateArchives.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UtahStateArchives.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/UtahValleyUniversityLibrary.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/UtahValleyUniversityLibrary.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners/partnerslist.php" beforeDir="false" afterPath="$PROJECT_DIR$/partners/partnerslist.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/mwdl/toolkit/Parser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/mwdl/toolkit/Section.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/mwdl/toolkit/Section.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -211,16 +123,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="41" />
-          <entry key="java" value="41" />
+          <entry key="csv" value="46" />
+          <entry key="java" value="44" />
           <entry key="org" value="1" />
           <entry key="php" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="41" />
-          <entry key="JAVA" value="41" />
+          <entry key="CSV" value="46" />
+          <entry key="JAVA" value="44" />
           <entry key="PHP" value="5" />
           <entry key="UNKNOWN" value="1" />
         </counts>
@@ -247,65 +159,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/collectionData100518.csv">
+        <entry file="file://$PROJECT_DIR$/newPartnerData.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="74" column="96" selection-start-line="74" selection-start-column="96" selection-end-line="74" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasterLists/September.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
-              <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="100" column="8" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="53" />
+            <state relative-caret-position="-1040">
+              <caret line="264" column="24" selection-start-line="264" selection-start-column="24" selection-end-line="264" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java">
+        <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+            <state relative-caret-position="480">
+              <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/Oregon Digital Analytics.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-344" />
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/Buffalo Bill Center Analytics.csv">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MasterLists/August.csv">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -335,12 +203,12 @@
         <option value="&lt;4592b18b-72ba-4e04-be11-dc7a4a9347bd&gt;/getinvolved.php" />
         <option value="$PROJECT_DIR$/collectionData61318.csv" />
         <option value="$PROJECT_DIR$/collectionData100518.csv" />
-        <option value="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" />
         <option value="$PROJECT_DIR$/MasterLists/septembersheet.csv" />
         <option value="$PROJECT_DIR$/MasterLists/September.csv" />
         <option value="$PROJECT_DIR$/HubPartnerMap.csv" />
         <option value="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java" />
         <option value="$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java" />
+        <option value="$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java" />
       </list>
     </option>
   </component>
@@ -394,14 +262,14 @@
               <item name="MWDL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mwdl" type="462c0819:PsiDirectoryNode" />
-              <item name="analytics" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MWDL" type="b2602c69:ProjectViewProjectNode" />
               <item name="MWDL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mwdl" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -419,7 +287,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539290410093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539290784559" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -539,12 +407,12 @@
       <workItem from="1539102949256" duration="408000" />
       <workItem from="1539103814419" duration="2691000" />
       <workItem from="1539115168850" duration="262000" />
-      <workItem from="1539284509311" duration="2276000" />
+      <workItem from="1539284509311" duration="2829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26505000" />
+    <option name="totallyTimeSpent" value="27058000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -557,7 +425,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="823" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49694502" visible="true" weight="0.33547926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -568,7 +435,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.503055" side_tool="true" weight="0.31402004" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32831737" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32831737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32831737" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -609,13 +476,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-14">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -721,13 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newPartnerData.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="269" column="10" selection-start-line="269" selection-start-column="10" selection-end-line="269" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/mwdl/webManagement/WritePartnerFromCSV.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -744,13 +597,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="23" column="50" lean-forward="true" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MasterLists/August.csv">
       <provider selected="true" editor-type-id="text-editor" />
@@ -772,9 +618,46 @@
     <entry file="file://$PROJECT_DIR$/MasterLists/September.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
-          <caret line="399" lean-forward="true" selection-start-line="399" selection-end-line="399" />
+          <caret line="399" selection-start-line="399" selection-end-line="399" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HubPartnerMap.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/DataFetcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-625">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/Utah State Library Analytics.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="100" column="8" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collectionData61318.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/University of Oregon Libraries Analytics.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/Oregon Digital Analytics.csv">
       <provider selected="true" editor-type-id="text-editor">
@@ -784,24 +667,17 @@
     <entry file="file://$PROJECT_DIR$/GeneratedAnalytics/Buffalo Bill Center Analytics.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HubPartnerMap.csv">
+    <entry file="file://$PROJECT_DIR$/newPartnerData.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        <state relative-caret-position="-1040">
+          <caret line="264" column="24" selection-start-line="264" selection-start-column="24" selection-end-line="264" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsGenerator.java">
+    <entry file="file://$PROJECT_DIR$/src/org/mwdl/data/ProjectConstants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="100" column="8" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="100" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/mwdl/analytics/AnalyticsPartner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+        <state relative-caret-position="480">
+          <caret line="32" column="6" lean-forward="true" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
         </state>
       </provider>
     </entry>

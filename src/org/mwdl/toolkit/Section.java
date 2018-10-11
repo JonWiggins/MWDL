@@ -15,10 +15,13 @@ public class Section {
 
     public String title;
     public ArrayList<String> images;
-    public String description;
+    public ArrayList<String> descriptions;
 
     public Section(){
 
+        subsections = new ArrayList<>();
+        images = new ArrayList<>();
+        descriptions = new ArrayList<>();
     }
 
 }

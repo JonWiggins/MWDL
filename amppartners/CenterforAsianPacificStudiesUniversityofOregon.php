@@ -25,7 +25,10 @@ The Center for Asian and Pacific Studies, housed under the�Global Studies Inst
 <a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)=Center+for+Asian+Pacific+Studies,+University+of+Oregon">Browse all records from Center for Asian Pacific Studies, University of Oregon</a>
 </h6>
 <!-- List all Active Collections -->
+<<<<<<< HEAD
 <li><a href = "../ampcollections/GertrudeBassWarnerPapers18791954.php">GertrudeBassWarnerPapers18791954</a></li>
+=======
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <li><a href = "../ampcollections/GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php">GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s</a></li>
 <li><a href = "../ampcollections/GertrudeBassWarner18631951photographs.php">GertrudeBassWarner18631951photographs</a></li>
 <?php include("../includes/ampfooter.php");?>

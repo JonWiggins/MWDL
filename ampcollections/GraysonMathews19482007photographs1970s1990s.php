@@ -18,7 +18,7 @@
 <!-- Image Description -->
 A rodeo clown sits on a fence with a hand raised towards the camera.
 <!-- Article Text -->
-Grayson Layne Mathews (1948-2007) photographed the American West, creating a signature series of rodeo images from 1971�-72 through funding from an NEA fellowship. Following a successful career in freelance photography and university instructor in California, South Carolina and Virginia, he returned home to Klamath Falls, Oregon and documented natural and human transformation of the Klamath Basin landscape. The collection includes darkroom and digital prints.
+Grayson Layne Mathews (1948-2007) photographed the American West, creating a signature series of rodeo images from 1971-72 through funding from an NEA fellowship. Following a successful career in freelance photography and university instructor in California, South Carolina and Virginia, he returned home to Klamath Falls, Oregon and documented natural and human transformation of the Klamath Basin landscape. The collection includes darkroom and digital prints.
 <hr>
 <!-- Browse Collection -->
 <h6>

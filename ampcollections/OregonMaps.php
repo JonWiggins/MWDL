@@ -18,7 +18,11 @@
 <!-- Image Description -->
 1920 automobile road map of Oregon
 <!-- Article Text -->
+<<<<<<< HEAD
 Maps are some of the most information-rich documents that we use to communicate to each other. They visually represent not only the physical terrain, but also our impact upon it. This online selection of maps from the Oregon State University and University of Oregon libraries� collections are but a small sample of what is available in either library. Please contact a local librarian for more information regarding these treasured Oregon collections.
+=======
+Maps are some of the most information-rich documents that we use to communicate to each other. They visually represent not only the physical terrain, but also our impact upon it. This online selection of maps from the Oregon State University and University of Oregon libraries collections are but a small sample of what is available in either library. Please contact a local librarian for more information regarding these treasured Oregon collections.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <!-- Browse Collection -->
 <h6>

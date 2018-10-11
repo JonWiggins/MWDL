@@ -41,7 +41,7 @@ September 1948 Parade- Horses
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
  
 <!-- Collection Description -->
-This collection contains over 171,000 images from the 1930s to the 1960s. The collection is unique in origin as it includes images taken by dozens of different photographers sent out by the newspaper to get the perfect shot, something newsworthy. This results in many �live action� images taken of the everyday activities of life with no posing such as one sees with photograph studios.
+This collection contains over 171,000 images from the 1930s to the 1960s. The collection is unique in origin as it includes images taken by dozens of different photographers sent out by the newspaper to get the perfect shot, something newsworthy. This results in many live action images taken of the everyday activities of life with no posing such as one sees with photograph studios.
 <hr>
 <h6>
 <!-- Browse Link -->

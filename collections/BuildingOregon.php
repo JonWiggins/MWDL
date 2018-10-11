@@ -31,9 +31,15 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
+<<<<<<< HEAD
 <img src="../images/collection_images/collection2497.jpg" alt="Irvington Historic District (Portland, Oregon)"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
 Irvington Historic District (Portland, Oregon)
+=======
+<img src="../images/collection_images/collection2497.jpg" alt=""Irvington Historic District (Portland, Oregon)""width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<!-- Image Description -->
+"Irvington Historic District (Portland, Oregon)"
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 </div>
 <!-- Collection Title-->
 <h4>Building Oregon</h4>
@@ -41,7 +47,11 @@ Irvington Historic District (Portland, Oregon)
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
+<<<<<<< HEAD
 Building Oregon: Architecture of Oregon and the Pacific Northwest provides approximately 20,000 images with accompanying documentation about the architectural heritage of the Pacific Northwest with special emphasis on Oregon�s historic sites and built environment. A significant number of images come from slides donated to the University of Oregon Libraries, including the�collections of architectural historian Marion Dean Ross, preservationist Michael Shellenbarger, and architect C. Gilman Davis. As a result of continuing collaboration with the�Oregon State Historic Preservation Office, many documents in the collection represent works listed on the�National Register of Historic Places.
+=======
+Building Oregon: Architecture of Oregon and the Pacific Northwest provides approximately 20,000 images with accompanying documentation about the architectural heritage of the Pacific Northwest with special emphasis on Oregon's historic sites and built environment. A significant number of images come from slides donated to the University of Oregon Libraries, including the collections of architectural historian Marion Dean Ross, preservationist Michael Shellenbarger, and architect C. Gilman Davis. As a result of continuing collaboration with the Oregon State Historic Preservation Office, many documents in the collection represent works listed on the National Register of Historic Places.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->

@@ -41,7 +41,7 @@ The Hayseed 1894
 <h6> Published by <a href="../partners/OregonStateUniversityLibraries.php">Oregon State University Libraries</a></h6>
  
 <!-- Collection Description -->
-The Oregon State University Yearbooks digital collection includes 111 yearbooks published by the students of Oregon State University, beginning with the 1894 Hayseed. This keyword-searchable digital collection is a major resource for study of Oregon State�s campus history and culture in the twentieth century.
+The Oregon State University Yearbooks digital collection includes 111 yearbooks published by the students of Oregon State University, beginning with the 1894 Hayseed. This keyword-searchable digital collection is a major resource for study of Oregon State's campus history and culture in the twentieth century.
 <hr>
 <h6>
 <!-- Browse Link -->

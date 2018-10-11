@@ -41,7 +41,11 @@ Alyssa Gillespie 2016
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
+<<<<<<< HEAD
 University Archives�documents, photographs, physical objects, and audiovisual materials�tell the story of athletics at the University of Oregon. More than just statistics of accomplishments, this is the story of people and events that changed athletics at the University of Oregon over the past 110 years. It is also the story of athletics in higher education: the relationship and the issues involved between athletics and the academy over time.
+=======
+University Archives documents, photographs, physical objects, and audiovisual materials tell the story of athletics at the University of Oregon. More than just statistics of accomplishments, this is the story of people and events that changed athletics at the University of Oregon over the past 110 years. It is also the story of athletics in higher education: the relationship and the issues involved between athletics and the academy over time.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->

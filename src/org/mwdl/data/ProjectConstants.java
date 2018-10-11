@@ -20,12 +20,13 @@ public class ProjectConstants {
      */
     public static final String CollectionDataCSV = "collectionData100518.csv";
 
+
     /**
      * Holds the name of the Partner Data CSV file
      *
      * Every interaction with the Partner Data CSV file should use this pointer
      */
-    public static final String PartnerDataCSV = "newPartnerData.csv";
+    public static final String PartnerDataCSV = "PartnerData81418.csv";
 
     /**
      * Holds the name of the Hub Partner Map CSV file
@@ -33,6 +34,13 @@ public class ProjectConstants {
      * Every interaction with the Hub Partner Map CSV file should use this pointer
      */
     public static final String HubPartnerMapCSV = "HubPartnerMap.csv";
+
+    /**
+     * Holds the name of the Education Toolkit data CSV file
+     *
+     * Ever interaction with this file should use this pointer
+     */
+    public static final String EducationToolKitDataCSV = "EducationData81318.csv";
 
     /**
      * Holds the directory wherein the Master Lists for Analytics from Google Analytics
@@ -64,5 +72,6 @@ public class ProjectConstants {
      * Holds the directory wherein the AMP Partner Pages will be stored by the PartnerPageMaker
      */
     public static final String AMPPartnerPageDirectory = "amppartners/";
+
 
 }

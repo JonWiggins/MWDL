@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Watson-homa, son in law to Shut-A-Mone, Copyrighted by Rutter 1900
 <!-- Article Text -->
-Major Lee Moorhouse of Pendleton, Oregon was an Indian Agent for the Umatilla Indian Reservation and a photographer. From 1888 to 1916 he produced over 9,000 images which document urban, rural, and Native American life in the Columbia Basin, and particularly Umatilla County, Oregon. So extensive and revealing are Moorhouse�s images that his collection is one of the preeminent social history collections for Oregon. Special Collections & University Archives of the University of Oregon Libraries has a collection of 7000 images by Major Moorhouse.
+Major Lee Moorhouse of Pendleton, Oregon was an Indian Agent for the Umatilla Indian Reservation and a photographer. From 1888 to 1916 he produced over 9,000 images which document urban, rural, and Native American life in the Columbia Basin, and particularly Umatilla County, Oregon. So extensive and revealing are Moorhouse's images that his collection is one of the preeminent social history collections for Oregon. Special Collections & University Archives of the University of Oregon Libraries has a collection of 7000 images by Major Moorhouse.
 <hr>
 <!-- Browse Collection -->
 <h6>

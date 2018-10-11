@@ -593,11 +593,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DesignWorkshopLandscapeArchitectureArchive.php">Design Workshop Landscape Architecture Archive</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UtahStateUniversityMerrillCazierLibrary.php">Utah State University - Merrill-Cazier Library</a></td>
 </tr>
-<!-- Collection #1007 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DialogueAJournalofMormonThought.php">Dialogue: A Journal of Mormon Thought</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DialogueFoundation.php">Dialogue Foundation</a></td>
-</tr>
 <!-- Collection #1319 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DidymusPapyri.php">Didymus Papyri</a></td>
@@ -843,16 +838,27 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php">Gertrude Bass Warner Collection of Japanese Votive S...</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
 </tr>
+<<<<<<< HEAD
+=======
+<!-- Collection #2491 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers, 1879-1954</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2490 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers19091923.php">Gertrude Bass Warner Papers, 1909-1923</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
+<<<<<<< HEAD
 <!-- Collection #2491 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers,, 1879-1954</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
 </tr>
+=======
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2505 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerandtheEarlyPhotographyArchiveoftheUniversityArtMuseumJordanSchnitzerMuseumofArt.php">Gertrude Bass Warner and the Early Photography Archi...</a></td>
@@ -1918,6 +1924,14 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OregonMaps.php">Oregon Maps</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/OregonStateHighwayDepartment.php">Oregon State Highway Department</a></td>
 </tr>
+<<<<<<< HEAD
+=======
+<!-- Collection #2489 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonPercentforArt.php">Oregon Percent for Art</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2418 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "OregonStateUniversityYearbooks.php">Oregon State University Yearbooks</a></td>

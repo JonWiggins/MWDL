@@ -38,11 +38,6 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "FrankBeckwithCollection.php">Frank Beckwith Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DeltaUTCityLibrary.php">Delta (UT) City Library</a></td>
 </tr>
-<!-- Collection #1007 -->
-<tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DialogueAJournalofMormonThought.php">Dialogue: A Journal of Mormon Thought</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DialogueFoundation.php">Dialogue Foundation</a></td>
-</tr>
 <!-- Collection #1008 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "NeuroOphthalmologyWilliamFHoytCollection.php">Neuro-Ophthalmology: William F. Hoyt Collection</a></td>
@@ -3383,6 +3378,14 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahNationalRegisterNominationForms.php">Utah National Register Nomination Forms</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
+<<<<<<< HEAD
+=======
+<!-- Collection #2489 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonPercentforArt.php">Oregon Percent for Art</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2490 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers19091923.php">Gertrude Bass Warner Papers, 1909-1923</a></td>
@@ -3390,7 +3393,11 @@
 </tr>
 <!-- Collection #2491 -->
 <tr>
+<<<<<<< HEAD
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers,, 1879-1954</a></td>
+=======
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers, 1879-1954</a></td>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
 </tr>
 <!-- Collection #2492 -->

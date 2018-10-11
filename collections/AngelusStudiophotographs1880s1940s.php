@@ -41,7 +41,7 @@ Crowds of people fill the streets of Portland, Oregon for the Third Libery Loan 
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
-The Angelus Studio was a professional photographic company located in Portland, Oregon. The collection includes works by George M. Weister (1862�1922) and Arthur M. Prentiss (dates undetermined) among the studio photographers, owner Fred Clark also acquired images by previous local photographers including Partridge. The Angelus Studio collection provides extraordinary documentation of the city of Portland, the Lewis & Clark Exposition of 1905, Oregon landmarks, and commercial operations including logging and fish packing.
+The Angelus Studio was a professional photographic company located in Portland, Oregon. The collection includes works by George M. Weister (1862-1922) and Arthur M. Prentiss (dates undetermined) among the studio photographers, owner Fred Clark also acquired images by previous local photographers including Partridge. The Angelus Studio collection provides extraordinary documentation of the city of Portland, the Lewis & Clark Exposition of 1905, Oregon landmarks, and commercial operations including logging and fish packing.
 <hr>
 <h6>
 <!-- Browse Link -->

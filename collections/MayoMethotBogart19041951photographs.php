@@ -41,7 +41,11 @@ Humphrey Bogart and Mayo Methot in a horse and buggy flanked by motorcycle polic
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
+<<<<<<< HEAD
 Mayo Methot Bogart (1904�1951) was an American film and theatre actress. She was married to Humphrey Bogart from 1938 to 1945. The collection consists of candid shots of the couple and portraits of their friends. Other Bogart images are included in the Von Rhein collection.
+=======
+Mayo Methot Bogart (1904-1951) was an American film and theatre actress. She was married to Humphrey Bogart from 1938 to 1945. The collection consists of candid shots of the couple and portraits of their friends. Other Bogart images are included in the Von Rhein collection.
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->

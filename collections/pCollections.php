@@ -773,6 +773,21 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarner18631951photographs.php">Gertrude Bass Warner (1863-1951) photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
 </tr>
+<!-- Collection #2491 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers18791954.php">Gertrude Bass Warner Papers, 1879-1954</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
+<!-- Collection #2492 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerCollectionofJapaneseVotiveSlipsnsatsu1850sto1930s.php">Gertrude Bass Warner Collection of Japanese Votive S...</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
+<!-- Collection #2494 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarner18631951photographs.php">Gertrude Bass Warner (1863-1951) photographs</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/CenterforAsianPacificStudiesUniversityofOregon.php">Center for Asian Pacific Studies, University of Oregon</a></td>
+</tr>
 <!-- Collection #1640 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "DaughtersoftheUtahPioneersCedarCityUT.php">Daughters of the Utah Pioneers, Cedar City (UT)</a></td>
@@ -993,10 +1008,10 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UtahStateLegislatorsPhotographs18951963.php">Utah State Legislators Photographs, 1895-1963</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></td>
 </tr>
-<!-- Collection #1007 -->
+<!-- Collection #2515 -->
 <tr>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "DialogueAJournalofMormonThought.php">Dialogue: A Journal of Mormon Thought</a></td>
-<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/DialogueFoundation.php">Dialogue Foundation</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonDailyEmeraldArchives.php">Oregon Daily Emerald Archives</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/EmeraldMediaGroup.php">Emerald Media Group</a></td>
 </tr>
 <!-- Collection #2515 -->
 <tr>
@@ -1043,11 +1058,14 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "PearlBiddlecombBakerCollection.php">Pearl Biddlecomb Baker Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/GreenRiverUTPublicLibrary.php">Green River (UT) Public Library</a></td>
 </tr>
+<<<<<<< HEAD
 <!-- Collection #1015 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "JohnWesleyPowellCollection.php">John Wesley Powell Collection</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/GreenRiverPublicLibrary.php">Green River Public Library</a></td>
 </tr>
+=======
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2107 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "StacksIdahosDigitalRepositoryAdditionalStateAgencies.php">Stacks: Idaho's Digital Repository - Additional Stat...</a></td>
@@ -1698,6 +1716,14 @@
 <td class="mdl-data-table__cell--non-numeric"> <a href = "UOArchivesPhotographs.php">UO Archives Photographs</a></td>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
 </tr>
+<<<<<<< HEAD
+=======
+<!-- Collection #2489 -->
+<tr>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "OregonPercentforArt.php">Oregon Percent for Art</a></td>
+<td class="mdl-data-table__cell--non-numeric"> <a href = "../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></td>
+</tr>
+>>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <!-- Collection #2490 -->
 <tr>
 <td class="mdl-data-table__cell--non-numeric"> <a href = "GertrudeBassWarnerPapers19091923.php">Gertrude Bass Warner Papers, 1909-1923</a></td>

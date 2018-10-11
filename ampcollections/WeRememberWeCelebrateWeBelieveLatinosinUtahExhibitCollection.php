@@ -18,7 +18,7 @@
 <!-- Image Description -->
 Brown Berets in Utah
 <!-- Article Text -->
-This�digital exhibit�showcases the�photographic exhibit of Latino history in Utah by Armando Solorzano, professor of Ethnic Studies at the University of Utah. Topics include Aztec history in Utah, Latino settlements in southeastern Utah, Latino miners, railroad workers, migrant workers, Latino religious practices and political influences.
+This digital exhibit showcases the photographic exhibit of Latino history in Utah by Armando Solorzano, professor of Ethnic Studies at the University of Utah. Topics include Aztec history in Utah, Latino settlements in southeastern Utah, Latino miners, railroad workers, migrant workers, Latino religious practices and political influences.
 <hr>
 <!-- Browse Collection -->
 <h6>
