@@ -41,11 +41,11 @@ A rodeo clown sits on a fence with a hand raised towards the camera.
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
-Grayson Layne Mathews (1948-2007) photographed the American West, creating a signature series of rodeo images from 1971-72 through funding from an NEA fellowship. Following a successful career in freelance photography and university instructor in California, South Carolina and Virginia, he returned home to Klamath Falls, Oregon and documented natural and human transformation of the Klamath Basin landscape. The collection includes darkroom and digital prints.
+Grayson Layne Mathews (1948-2007) photographed the American West, creating a signature series of rodeo images from 1971�-72 through funding from an NEA fellowship. Following a successful career in freelance photography and university instructor in California, South Carolina and Virginia, he returned home to Klamath Falls, Oregon and documented natural and human transformation of the Klamath Basin landscape. The collection includes darkroom and digital prints.
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2260&indx=1&bulkSize=50">Browse all record in Grayson Mathews (1948-2007) photographs, 1970s-1990s</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2260&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Grayson Mathews (1948-2007) photographs, 1970s-1990s</a>
 </h6>
 <p></p>
 </div>

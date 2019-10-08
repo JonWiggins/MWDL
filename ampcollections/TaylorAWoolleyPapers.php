@@ -13,15 +13,15 @@
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1940.jpg"alt="STE Revelle development house drawing"width="394" height ="340"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1940.png"alt="14th Street sub-station for The Commonwealth Edison Company at 902-904 West 14th Street, Chicago, Ill.: Sheet 2"width="250" height ="250"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-STE Revelle development house drawing
+14th Street sub-station for The Commonwealth Edison Company at 902-904 West 14th Street, Chicago, Ill.: Sheet 2
 <!-- Article Text -->
-</p><br/>Salt Lake City architect Taylor A. Woolley trained as a draftsman to Frank Lloyd Wright in Prarie School architecture. This collection contains correspondence, blueprints, drawings, and memorabilia relating to Woolley's career. Of particular interest is the correspondence with artist Mahonri M. Young and Frank Lloyd Wright.</p><br/>&nbsp,</p><br/></p>
+</p><br/>Taylor A. Woolley was an Architect in Utah in starting in 1910, designing hundreds of structures of the 'modern' architectural style. Many of his original drawings and designs can be found in this collection.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1940&indx=1&bulkSize=50">Browse all record in Taylor A. Woolley Papers</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1940&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Taylor A. Woolley Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

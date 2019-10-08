@@ -18,10 +18,10 @@
 <!-- Image Description -->
 1965-1966 Utah Trade Technical Institute Course Catalog
 <!-- Article Text -->
-</p><br/>The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005.&nbsp, It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p><br/>
+</p><br/>The Utah Valley University Course Catalogs collection consists of older catalogs, up to the years 2004-2005. It provides easy searchable access to course names, numbers, descriptions, and credit hours, as well as an overview of the school's mission, campus policies and procedures, faculty, and maps.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2157&indx=1&bulkSize=50">Browse all record in Utah Valley University Course Catalogs</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2157&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Valley University Course Catalogs</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

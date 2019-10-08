@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 017 Charles Rapp Collection, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
+<meta name="description" content="MS 017 Charles Rapp Collection, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,14 +38,14 @@
 <!-- Collection Title-->
 <h4>MS 017 Charles Rapp Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 </p><br/>This collection consists of the 15 letters from Charles Rapp to Eva Shepard written from various locations in Wyoming Territory. Mr. Rapp, of New York, discusses gold mining, women homesteaders on the frontier, Mormon immigration, Shoshone and Sioux Indians, and a description of a visit to the Little Big Horn battlefield three days after the battle.</p><br/>Charles Rapp was a New Yorker who came to Wyoming during the short-lived gold rush period. The collection contains 15 letters, written to a friend back home, that describe life in early Wyoming and in the mining camps. Among the topics discussed are relations with the Indians, the Battle of Little Big Horn, and his feelings of home sickness.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2274&indx=1&bulkSize=50">Browse all record in MS 017 Charles Rapp Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2274&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 017 Charles Rapp Collection</a>
 </h6>
 <p></p>
 </div>

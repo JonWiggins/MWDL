@@ -41,11 +41,11 @@ Handy, Michael Todd
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p><br/>The master's theses of several Weber State University students.</p><br/>
+</p><br/>This is a collection of Weber State University Student Master's Theses from the Education, English and Communications departments.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2019&indx=1&bulkSize=50">Browse all record in Weber State University Student Master's Theses</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2019&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State University Student Master's Theses</a>
 </h6>
 <p></p>
 </div>

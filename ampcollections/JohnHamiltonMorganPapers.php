@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Miscellaneous biography research material about John Hamilton Morgan, Part 2
 <!-- Article Text -->
-</p><br/>Papers detailing the personal, professional, and religious activities of John Hamilton Morgan. Includes a typescript of his diary (1875-1892) and original and typescript correspondence (1875-1894), records of the Southern States Mission and the San Luis Valley, Colorado, settlement, biographical and religious articles written by and about John Morgan. Also included are collections of his inspirational stories, tributes to his memory, and a biography.</p><br/>&nbsp,</p><br/>
+</p><br/>Papers detailing the personal, professional, and religious activities of John Hamilton Morgan. Includes a typescript of his diary (1875-1892) and original and typescript correspondence (1875-1894), records of the Southern States Mission and the San Luis Valley, Colorado, settlement, biographical and religious articles written by and about John Morgan. Also included are collections of his inspirational stories, tributes to his memory, and a biography.</p><br/>&nbsp
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1901&indx=1&bulkSize=50">Browse all record in John Hamilton Morgan Papers</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1901&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John Hamilton Morgan Papers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

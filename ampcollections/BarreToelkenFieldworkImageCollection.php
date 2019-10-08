@@ -22,6 +22,6 @@ Barre Toelken playing a guitar and singing, Salzburg, Austria, 2001 (1 of 2).
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2116&indx=1&bulkSize=50">Browse all record in Barre Toelken Fieldwork Image Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2116&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Barre Toelken Fieldwork Image Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

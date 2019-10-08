@@ -41,11 +41,11 @@
 <h6> Published by <a href="../partners/WeberStateUniversityStewartLibrary.php">Weber State University - Stewart Library</a></h6>
  
 <!-- Collection Description -->
-</p><br/>A collection of 359 various handwritten or typed business correspondence papers to or from David Eccles from the various businesses he was involved with. The papers range in date from 1880-1914. The papers are arranged alphabetically by title of the company. </p><br/>
+</p><br/>A collection of handwritten or typed correspondence papers to or from David Eccles.The papers range in date from 1805 to 1914 and include: 359 papers from various businesses, 32 papers from the First Presidency and other offices of the church of Jesus Christ of Latter-day Saints, and 162 personal papers from family, friends and business associates.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1211&indx=1&bulkSize=50">Browse all record in Eccles, David: Business, Church and Personal Correspondence</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1211&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Eccles, David: Business, Church and Personal Correspondence</a>
 </h6>
 <p></p>
 </div>

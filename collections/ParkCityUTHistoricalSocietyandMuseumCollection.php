@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="Park City (UT) Historical Society and Museum Collection, a MWDL collection, presented by Park City (UT) Historical Society &amp">
+<meta name="description" content="Park City (UT) Historical Society and Museum Collection, a MWDL collection, presented by Park City (UT) Historical Society &amp Museum">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,14 +38,14 @@ American Flag Mine
 <!-- Collection Title-->
 <h4>Park City (UT) Historical Society and Museum Collection</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&amp.php">Park City (UT) Historical Society &amp</a></h6>
+<h6> Published by <a href="../partners/ParkCityUTHistoricalSociety&ampMuseum.php">Park City (UT) Historical Society &amp Museum</a></h6>
  
 <!-- Collection Description -->
- Museum,</p><br/>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p><br/>
+</p><br/>The Park City Historical Society and Museum is a non-profit organization dedicated to preserving, protecting and promoting Park City's history and heritage. This collection contains some of the Society's historic photos of Park City and the Mountain West region.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1158&indx=1&bulkSize=50">Browse all record in Park City (UT) Historical Society and Museum Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1158&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Park City (UT) Historical Society and Museum Collection</a>
 </h6>
 <p></p>
 </div>

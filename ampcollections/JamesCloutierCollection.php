@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Two women visit inside the Alpine Tavern.
 <!-- Article Text -->
-James Cloutier is a native Oregonian artist and photographer who began his study of art at the University of Oregon in 1958 and went on to earn an MFA. His drawings and photographs document the history of culture in Oregon, often with humourous twists, such as can be found in his illustrated map of Eugene, Oregon incorporating more than 300 local businesses with cartoon imagery. The images in the University of Oregon Library's collection feature the people of the small town of Alpine, Oregon from his 1977 book.
+James Cloutier is a native Oregonian artist and photographer who began his study of art at the University of Oregon in 1958 and went on to earn an MFA. His drawings and photographs document the history of culture in Oregon, often with humourous twists, such as can be found in his illustrated map of Eugene, Oregon incorporating more than 300 local businesses with cartoon imagery. The images in the University of Oregon Library�s collection feature the people of the small town of Alpine, Oregon from his 1977 book.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2261&indx=1&bulkSize=50">Browse all record in James Cloutier Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2261&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in James Cloutier Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

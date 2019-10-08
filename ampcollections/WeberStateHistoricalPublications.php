@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Weber State College A Centennial History_1989
 <!-- Article Text -->
-<p></p><br/><p>Weber State College: A Centennial History provides a one-hundred year history of the institution from its founding in 1889 to 1989.</p><br/></p>
+<p></p><br/><p>This collection includes monographs that capture the history of the Weber State Institution. Including: Weber State College...A Centennial History, a book about the first 100 years, as the institution evolved from Weber Stake Academy in 1889 to Weber State College in 1989; Of Timeless Moments, a monograph of priceless memories of former college students from 1919 to 2000, created by the Weber State University Alumni Association.</p><br/></p>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1860&indx=1&bulkSize=50">Browse all record in Weber State Historical Publications</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1860&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State Historical Publications</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

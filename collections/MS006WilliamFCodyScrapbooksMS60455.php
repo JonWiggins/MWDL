@@ -1,5 +1,5 @@
 <?php include ("../includes/collectionhead.php");?>
-<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.0455, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
+<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.0455, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <?php include ("../includes/collectionlinkimports.php");?>
 <script type="text/javascript">
 	if (screen.width <= 800) {
@@ -38,14 +38,14 @@ Diary 1887 Scrapbook - partial
 <!-- Collection Title-->
 <h4>MS 006 William F. Cody Scrapbooks MS6.0455</h4>
 <!-- Collection Publisher-->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
  
 <!-- Collection Description -->
 "Correspondence from others to William F. ""Buffalo Bill"" Cody"
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2383&indx=1&bulkSize=50">Browse all record in MS 006 William F. Cody Scrapbooks MS6.0455</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2383&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Scrapbooks MS6.0455</a>
 </h6>
 <p></p>
 </div>

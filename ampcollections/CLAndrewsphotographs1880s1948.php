@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Two men at a glacial crevasse
 <!-- Article Text -->
-Clarence L. Andrews (1862-1948) documented and collected documentation on native life, natural resources, and exploration of Alaska and the Yukon. The collection (1805-1948) consists of approximately 1600 prints and 75 negatives by more than 60 photographers, dealing almost exclusively with Alaska and the Yukon. Main subjects include the towns of Sitka, Skagway, Eagle, and Valdez, modes of transportation, from reindeer and dogs to railroads, ships, and kayaks, Native Americans, totems, wildlife and natural resources.
+Clarence L. Andrews (1862-1948) documented and collected documentation on native life, natural resources, and exploration of Alaska and the Yukon. The collection (1805-1948) consists of approximately 1600 prints and 75 negatives by more than 60 photographers, dealing almost exclusively with Alaska and the Yukon. Main subjects include the towns of Sitka, Skagway, Eagle, and Valdez,  modes of transportation, from reindeer and dogs to railroads, ships, and kayaks as well as Native Americans, totems, wildlife, and natural resources.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2256&indx=1&bulkSize=50">Browse all record in C. L. Andrews photographs, 1880s-1948</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2256&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in C. L. Andrews photographs, 1880s-1948</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

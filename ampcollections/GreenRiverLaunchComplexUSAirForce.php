@@ -13,15 +13,15 @@
 <h6> Published by <a href="../partners/GreenRiverUT.php">Green River (UT)</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1012.jpg"alt="Bivouac Area at White Mesa near Blanding, Utah, Black Mesa"width="358" height ="282"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1012.jpg"alt="Bivouac Area at White Mesa near Blanding, Utah"width="358" height ="282"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
-Bivouac Area at White Mesa near Blanding, Utah, Black Mesa
+Bivouac Area at White Mesa near Blanding, Utah
 <!-- Article Text -->
 </p><br/>The Green River Launch Complex sits near Green River, a small community in central Utah. Built in 1964, by the US Air Force, the complex was used to test various missile and projectile weapons.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1012&indx=1&bulkSize=50">Browse all record in Green River Launch Complex, U.S. Air Force</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1012&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Green River Launch Complex, U.S. Air Force</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

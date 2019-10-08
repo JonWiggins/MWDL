@@ -22,6 +22,6 @@ Florence M. Hartshorn (1869-1943) was a photographer who lived in the Yukon duri
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2254&indx=1&bulkSize=50">Browse all record in Florence M. Hartshorn photographs, 1899-1900</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2254&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Florence M. Hartshorn photographs, 1899-1900</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

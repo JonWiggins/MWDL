@@ -1,5 +1,5 @@
 <?php include("../includes/ampheader.php");?>
-<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.3781, a MWDL collection, presented by Buffalo Bill Center of the West, McCracken Research Library">
+<meta name="description" content="MS 006 William F. Cody Scrapbooks MS6.3781, a MWDL collection, presented by Buffalo Bill Center of the West - McCracken Research Library">
 <!-- Collection #2407 -->
 <!-- Collection Title -->
 <title>MS 006 William F. Cody Scrapbooks MS6.3781</title>
@@ -10,7 +10,7 @@
 <!-- Collection Title -->
 <h3>MS 006 William F. Cody Scrapbooks MS6.3781</h3>
 <!-- Collection Publisher -->
-<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West, McCracken Research Library</a></h6>
+<h6> Published by <a href="../partners/BuffaloBillCenteroftheWestMcCrackenResearchLibrary.php">Buffalo Bill Center of the West - McCracken Research Library</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
 <amp-img src="../images/collection_images/collection2407.png"alt="Buffalo Bill's Wild West Scrapbook of Brooklyn, NY"width="250" height ="250"  layout = "responsive"></amp-img>
@@ -22,6 +22,6 @@ Newspaper clippings and illustrations related to Buffalo Bill's Wild West partic
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2407&indx=1&bulkSize=50">Browse all record in MS 006 William F. Cody Scrapbooks MS6.3781</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2407&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in MS 006 William F. Cody Scrapbooks MS6.3781</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

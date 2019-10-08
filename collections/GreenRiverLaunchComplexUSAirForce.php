@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1012.jpg" alt="Bivouac Area at White Mesa near Blanding, Utah, Black Mesa"width="358" height="282"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1012.jpg" alt="Bivouac Area at White Mesa near Blanding, Utah"width="358" height="282"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Bivouac Area at White Mesa near Blanding, Utah, Black Mesa
+Bivouac Area at White Mesa near Blanding, Utah
 </div>
 <!-- Collection Title-->
 <h4>Green River Launch Complex, U.S. Air Force</h4>
@@ -45,7 +45,7 @@ Bivouac Area at White Mesa near Blanding, Utah, Black Mesa
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1012&indx=1&bulkSize=50">Browse all record in Green River Launch Complex, U.S. Air Force</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1012&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Green River Launch Complex, U.S. Air Force</a>
 </h6>
 <p></p>
 </div>

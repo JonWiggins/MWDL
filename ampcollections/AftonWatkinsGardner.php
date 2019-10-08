@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Southern Hotel in Dolores CO
 <!-- Article Text -->
-This collection contains images from Charles Goodman, a photographer in Bluff, Utah from the 1890s to 1912. Southern Utah and the surrounding areas are documented in Goodman's work showing an array of activity including mining ventures, landscapes, city streets, and residences. A few scattered images from fellow photographer Charles B. Lang, Sr. are included, but the majority of the images are attributed to Charles Goodman.
+This collection contains images from Charles Goodman, a photographer in Bluff, Utah from the 1890s to 1912. Southern Utah and the surrounding areas are documented in Goodman�s work showing an array of activity including mining ventures, landscapes, city streets, and residences. A few scattered images from fellow photographer Charles B. Lang, Sr. are included, but the majority of the images are attributed to Charles Goodman.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2351&indx=1&bulkSize=50">Browse all record in Afton Watkins Gardner</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2351&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Afton Watkins Gardner</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

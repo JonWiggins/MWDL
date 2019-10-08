@@ -41,15 +41,11 @@ United States and Ghana Flag cloth
 <h6> Published by <a href="../partners/AfricanStudiesProgramUniversityofOregon.php">African Studies Program, University of Oregon</a></h6>
  
 <!-- Collection Description -->
-<<<<<<< HEAD
 The African Political Ephemera and Realia Project is an online collection of ephemeral material�pamphlets, t-shirts, cloths, posters, to name just a few examples�that documents the material culture of politics in Sub-Saharan Africa. Ephemeral political material often does not find its way into institutional collections either because the material is discarded before it draws the attention of collectors, because it is too popular and mass-produced to merit consideration as art, or because it does not fit easily (either physically or intellectually) into the book- and manuscript-based realm of libraries. The African Political Ephemera Project hopes to focus attention on the significance of ephemeral political material as cultural artifacts that document both the political processes and the social and cultural forces at work in Sub-Saharan Africa. The African Political Ephemera and Realia Project is a collaboration between the�African Studies Program�and the�UO Libraries.
-=======
-The African Political Ephemera and Realia Project is an online collection of ephemeral material pamphlets, t-shirts, cloths, posters, to name just a few examples that documents the material culture of politics in Sub-Saharan Africa. Ephemeral political material often does not find its way into institutional collections either because the material is discarded before it draws the attention of collectors, because it is too popular and mass-produced to merit consideration as art, or because it does not fit easily (either physically or intellectually) into the book- and manuscript-based realm of libraries. The African Political Ephemera Project hopes to focus attention on the significance of ephemeral political material as cultural artifacts that document both the political processes and the social and cultural forces at work in Sub-Saharan Africa. The African Political Ephemera and Realia Project is a collaboration between the African Studies Program and the UO Libraries.
->>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2493&indx=1&bulkSize=50">Browse all record in African Political Ephemera and Realia Project</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2493&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in African Political Ephemera and Realia Project</a>
 </h6>
 <p></p>
 </div>

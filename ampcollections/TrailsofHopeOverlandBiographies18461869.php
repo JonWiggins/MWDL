@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Fairbanks, John Boylston 1817–1875
 <!-- Article Text -->
-</p><br/>Trails of Hope: Overland Diaries and Letters, 1846–1869 is a collection of the original writings of 49 voyagers on the Mormon, California, Oregon, and Montana trails who wrote while traveling on the trail. Some diarists speak with uncommon eloquence and others with maddening brevity, while telling their stories of persistence and pain, birth and death, God and gold, dust and debris, bugs and buffalo, love and laughter, and trail tedium. Accompanying the original diary images and their searchable transcripts are 43 contemporary maps, seven trail guides, 82 photographs, watercolors and art sketches, four essays on the Mormon and California trails, maps and trail guides, suggested readings for further discovery, and brief biographies of 45 of the 49 diarists.</p><br/>
+</p><br/>Trails of Hope: Overland Diaries and Letters, 1846–1869 is a collection of the original writings of 49 voyagers on the Mormon, California, Oregon, and Montana trails who wrote while traveling on the trail. Some diarists speak with uncommon eloquence and others with maddening brevity, while telling their stories of persistence and pain, birth and death, God and gold, dust and debris, bugs and buffalo, love and laughter, and trail tedium. Accompanying the original diary images and their searchable transcripts are 43 contemporary maps seven trail guides 82 photographs, watercolors and art sketches four essays on the Mormon and California trails, maps and trail guides suggested readings for further discovery and brief biographies of 45 of the 49 diarists.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1054&indx=1&bulkSize=50">Browse all record in Trails of Hope: Overland Biographies 1846-1869</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1054&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Trails of Hope: Overland Biographies 1846-1869</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

@@ -22,6 +22,6 @@ These records contain birth registers recorded during the years 1892 through 189
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2439&indx=1&bulkSize=50">Browse all record in Park City (Utah) Birth Register</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2439&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Park City (Utah) Birth Register</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

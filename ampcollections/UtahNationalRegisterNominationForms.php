@@ -22,6 +22,6 @@ Collection of multi-page forms dated 1966-2017 in support of various Utah houses
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2470&indx=1&bulkSize=50">Browse all record in Utah National Register Nomination Forms</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2470&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah National Register Nomination Forms</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

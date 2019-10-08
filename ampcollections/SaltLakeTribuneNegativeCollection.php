@@ -18,10 +18,10 @@
 <!-- Image Description -->
 September 1948 Parade- Horses
 <!-- Article Text -->
-This collection contains over 171,000 images from the 1930s to the 1960s. The collection is unique in origin as it includes images taken by dozens of different photographers sent out by the newspaper to get the perfect shot, something newsworthy. This results in many live action images taken of the everyday activities of life with no posing such as one sees with photograph studios.
+This collection contains over 171,000 images from the 1930s to the 1960s. The collection is unique in origin as it includes images taken by dozens of different photographers sent out by the newspaper to get the perfect shot, something newsworthy. This results in many �live action� images taken of the everyday activities of life with no posing such as one sees with photograph studios.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2229&indx=1&bulkSize=50">Browse all record in Salt Lake Tribune Negative Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2229&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Salt Lake Tribune Negative Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

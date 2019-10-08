@@ -22,6 +22,6 @@ This series contains various record books documenting arrests made, and prisoner
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2448&indx=1&bulkSize=50">Browse all record in Ogden (Utah) Police Arrest and Jail Record Books</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2448&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Ogden (Utah) Police Arrest and Jail Record Books</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

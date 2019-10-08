@@ -41,15 +41,11 @@ Orestes at Delphi (Pottery: red-figured bell-krater (wine-bowl))
 <h6> Published by <a href="../partners/DepartmentofClassicsandtheDepartmentoftheHistoryofArtandArchitectureUniversityofOregon.php">Department of Classics and the Department of the History of Art and Architecture, University of Oregon</a></h6>
  
 <!-- Collection Description -->
-<<<<<<< HEAD
 The 35mm slide collection of University of Oregon Classics professor Steven Lowenstam (1945�2003) was compiled over a lifetime of scholarship and inquiry into the visual culture of the Classical world. It is composed primarily of ceramics in European and American museums, architecture and archaeological sites across southern Europe. The collection contains diverse views and details, many of which are unusual or not easily obtained. Information provided about the images is minimal, and assistance from the scholarly community in identifying objects and enriching the metadata will improve usability of the collection.
-=======
-The 35mm slide collection of University of Oregon Classics professor Steven Lowenstam (1945-2003) was compiled over a lifetime of scholarship and inquiry into the visual culture of the Classical world. It is composed primarily of ceramics in European and American museums, architecture and archaeological sites across southern Europe. The collection contains diverse views and details, many of which are unusual or not easily obtained. Information provided about the images is minimal, and assistance from the scholarly community in identifying objects and enriching the metadata will improve usability of the collection.
->>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2519&indx=1&bulkSize=50">Browse all record in Lowenstam Collection of Ancient Western Art and Archaeology</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2519&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lowenstam Collection of Ancient Western Art and Archaeology</a>
 </h6>
 <p></p>
 </div>

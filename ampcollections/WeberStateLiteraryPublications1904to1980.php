@@ -18,10 +18,10 @@
 <!-- Image Description -->
 1969 Probe Fall
 <!-- Article Text -->
-</p><br/> Spanning from 1931 to 1980, Weber State had many different literary publications.Some periodicals had a longer run than others, but all provide an interesting feel for the social life of their time and a glimpse into Weber's past. The publications included are <em>The Acorn Crumb</em> from 1931 – 34, <em>Scribulus</em> ran from 1935 – 66 and doubled as a yearbook for several years, <em>Transit</em> from 1942 – 43, <em>The Selector</em> in 1948, <em>The New Touch</em> in 1948, <em>Probe</em> from 1968 – 72, <em>Kaleidoscope</em> in 1968, and <em>The Aardvark Review</em> from 1978 – 80. These publications include writings, photographs and history submitted by students, faculty and alumni.</p><br/>
+</p><br/>Spanning from 1904 to 1980, Weber State had many different literary publications. Some periodicals had a longer run than others, but all provide an interesting feel for the social life of their time and a glimpse into Weber's past. The publications include: The Acorn from 1904-16; The Weber Literary Journal from 1921-26; Acorn Crumbs from 1931-34; Scribulus from 1935-66 and doubling as a yearbook for several years; Transit from 1942-43; The Selector in 1948; The New Touch in 1948; Probe from 1968-72; Kaleidoscope in 1968; and The Aardvark Review from 1978-80. These publications include writings, photographs and history submitted by students, faculty and alumni.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2024&indx=1&bulkSize=50">Browse all record in Weber State Literary Publications 1904 to 1980</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2024&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State Literary Publications 1904 to 1980</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

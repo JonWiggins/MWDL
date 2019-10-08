@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Farm Bureau Case Files F-P
 <!-- Article Text -->
-</p><br/>This is an alphabetical index of companies incorporated to do business in the State of Utah and was created by the Division of Corporations to facilitate access to the Incorporation Case Files. The series provides name of incorporation and case file number for corporations active, or only recently expired, at that time.</p><br/>&nbsp,</p><br/>
+</p><br/>This is an alphabetical index of companies incorporated to do business in the State of Utah and was created by the Division of Corporations to facilitate access to the Incorporation Case Files. The series provides name of incorporation and case file number for corporations active, or only recently expired, at that time.</p><br/>&nbsp
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1151&indx=1&bulkSize=50">Browse all record in Utah Division of Corporations incorporation case files index, 1981</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1151&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Division of Corporations incorporation case files index, 1981</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

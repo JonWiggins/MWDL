@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Tradewinds, November 16, 1973
 <!-- Article Text -->
-</p><br/>This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p><br/>&nbsp,</p><br/>
+</p><br/>This is the collection of student newspapers from the various iterations of Utah Valley University. The collection includes newspapers from 1969 through 2012.</p><br/>&nbsp
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1956&indx=1&bulkSize=50">Browse all record in Utah Valley University Student Newspapers</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1956&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Valley University Student Newspapers</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>
