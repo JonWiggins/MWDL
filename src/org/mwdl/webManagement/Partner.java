@@ -91,7 +91,8 @@ public class Partner {
      * @return the Exlibirs browse link
      */
     public String getExlibirisLink(){
-        return "http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/search.do?tab=default_tab&mode=Advanced&scp.scps=scope:(mw)&vid=MWDL&indx=1&dum=true&srt=rank&frbg=&fn=search&ct=search&vl(1UI1)=exact&vl(35820410UI1)=lsr12&vl(freeText1)="
-                + this.name.replace(" ", "+");
+        return "https://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr12,exact,"
+                + this.name.replace(" ", "+")
+                + ",AND&tab=default_tab&search_scope=mw&sortby=rank&vid=MWDL&lang=en_US&mode=advanced&offset=0";
     }
 }

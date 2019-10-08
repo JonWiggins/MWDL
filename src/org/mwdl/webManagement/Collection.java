@@ -101,12 +101,9 @@ public class Collection {
      * @return the Exlibirs browse link
      */
     public String getExlibirisLink(){
-        return "http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,"
+        return "http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact"
                 + collectionNumber
-                + "&indx=1"
-                //Note, this variable controls how many objects to return each search
-                // currently set to 50
-                + "&bulkSize=50";
+                + "&tab=default_tab&search_scope=mw&vid=MWDL&offset=0";
     }
 
 }
