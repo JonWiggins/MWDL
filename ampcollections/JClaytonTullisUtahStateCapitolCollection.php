@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Greetings from Utah' postcard copy
 <!-- Article Text -->
-</p><br/>The J. Clayton Tullis Utah State Capitol Collection began when the donor, Mr. Tullis, volunteered as a tour guide at the Utah State Capitol. &nbsp,Mr. Tullis has been interested in the Utah State Capitol building for many years and began to collect anything relating to the capitol building, its history, construction, and the people who played a role in its development and construction. &nbsp,</p><br/>The collection currently consists of vintage postcards from the early twentieth century and a lithograph of the capitol building from the Governor's Office, commissioned to commemorate the Utah Centennial in 1996. &nbsp,</p><br/>
+</p><br/>The J. Clayton Tullis Utah State Capitol Collection began when the donor, Mr. Tullis, volunteered as a tour guide at the Utah State Capitol. Mr. Tullis has been interested in the Utah State Capitol building for many years and began to collect anything relating to the capitol building, its history, construction, and the people who played a role in its development and construction. </p><br/>The collection currently consists of vintage postcards from the early twentieth century and a lithograph of the capitol building from the Governor's Office, commissioned to commemorate the Utah Centennial in 1996.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2158&indx=1&bulkSize=50">Browse all record in J. Clayton Tullis Utah State Capitol Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2158&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in J. Clayton Tullis Utah State Capitol Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

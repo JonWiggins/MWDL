@@ -45,7 +45,7 @@ Artivism: how one community combined art and activism to revitalize hearts and m
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2106&indx=1&bulkSize=50">Browse all record in University of Utah Humanities In Focus</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2106&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in University of Utah Humanities In Focus</a>
 </h6>
 <p></p>
 </div>

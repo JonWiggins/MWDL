@@ -22,6 +22,6 @@ College of Architecture & Planning Building
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1325&indx=1&bulkSize=50">Browse all record in University of Utah College of Architecture + Planning Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1325&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in University of Utah College of Architecture + Planning Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

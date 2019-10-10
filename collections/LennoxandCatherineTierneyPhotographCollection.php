@@ -45,7 +45,7 @@ Aerial view of the Mikata-goko (Mikata Five Lakes) region in the Japanese Alps
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1635&indx=1&bulkSize=50">Browse all record in Lennox and Catherine Tierney Photograph Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1635&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Lennox and Catherine Tierney Photograph Collection</a>
 </h6>
 <p></p>
 </div>

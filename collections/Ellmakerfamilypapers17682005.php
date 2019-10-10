@@ -41,11 +41,11 @@ Photograph Album 1 - Pageant Pictures (ca 1890's)
 <h6> Published by <a href="../partners/UniversityofOregonLibraries.php">University of Oregon Libraries</a></h6>
  
 <!-- Collection Description -->
-The Ellmakers are a prominent pioneer family who first settled in Lane County, Oregon in the 1850s following their journey across the United States on the Oregon Trail. The Ellmaker family papers, 1768�2005 collection (A 032) contains material that documents the life of Oregon Trail pioneer Enos Ellmaker and the lives of his descendents in Lane County, Oregon, including his son Amos, Ulysses Ellmaker and his wife Ruth La Van Ellmaker, as well as Elaine Ellmaker Clark and her husband Gordon. This collection contains some 18th century documents related to the Ellmaker�s of Lancaster County, Pennsylvania; personal papers of members of the Ellmaker family; maps, drawings, and photographs; artifacts; books and periodicals; and genealogical research and resources.
+The Ellmakers are a prominent pioneer family who first settled in Lane County, Oregon in the 1850s following their journey across the United States on the Oregon Trail. The Ellmaker family papers, 1768�2005 collection (A 032) contains material that documents the life of Oregon Trail pioneer Enos Ellmaker and the lives of his descendents in Lane County, Oregon, including his son Amos, Ulysses Ellmaker and his wife Ruth La Van Ellmaker, as well as Elaine Ellmaker Clark and her husband Gordon. This collection contains some 18th century documents related to the Ellmaker�s of Lancaster County, Pennsylvania, personal papers of members of the Ellmaker family, maps, drawings, and photographs, artifacts, books and periodicals, and genealogical research and resources.
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2518&indx=1&bulkSize=50">Browse all record in Ellmaker family papers, 1768-2005</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2518&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Ellmaker family papers, 1768-2005</a>
 </h6>
 <p></p>
 </div>

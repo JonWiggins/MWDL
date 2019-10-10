@@ -22,6 +22,6 @@ Len B. Jordan (Leonard Beck Jordan) served as Governor of Idaho from 1951 to 195
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2216&indx=1&bulkSize=50">Browse all record in Len Jordan Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2216&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Len Jordan Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

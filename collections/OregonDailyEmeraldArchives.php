@@ -41,15 +41,11 @@ Game Day, September 1, 2005
 <h6> Published by <a href="../partners/EmeraldMediaGroup.php">Emerald Media Group</a></h6>
  
 <!-- Collection Description -->
-<<<<<<< HEAD
 The�Oregon Daily Emerald�(ODE) Archives is a full text searchable database of past ODE issues. The current collection began with issues in September 2005. At this time, there are no plans to digitize older issues of the�Oregon Daily Emerald.
-=======
-The Oregon Daily Emerald (ODE) Archives is a full text searchable database of past ODE issues. The current collection began with issues in September 2005. At this time, there are no plans to digitize older issues of the Oregon Daily Emerald.
->>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2515&indx=1&bulkSize=50">Browse all record in Oregon Daily Emerald Archives</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2515&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Oregon Daily Emerald Archives</a>
 </h6>
 <p></p>
 </div>

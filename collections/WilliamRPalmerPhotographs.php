@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection1113.jpg" alt="Courthouse, St. George, Washington County, Utah"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection1113.jpg" alt="Courthouse"width="238" height="365"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-Courthouse, St. George, Washington County, Utah
+Courthouse
 </div>
 <!-- Collection Title-->
 <h4>William R. Palmer Photographs</h4>
@@ -45,7 +45,7 @@ Courthouse, St. George, Washington County, Utah
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1113&indx=1&bulkSize=50">Browse all record in William R. Palmer Photographs</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1113&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in William R. Palmer Photographs</a>
 </h6>
 <p></p>
 </div>

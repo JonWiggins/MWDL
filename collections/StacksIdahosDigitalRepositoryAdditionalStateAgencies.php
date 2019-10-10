@@ -45,7 +45,7 @@ State Highway System, 2004
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2107&indx=1&bulkSize=50">Browse all record in Stacks: Idaho's Digital Repository - Additional State Agencies</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2107&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Stacks: Idaho's Digital Repository - Additional State Agencies</a>
 </h6>
 <p></p>
 </div>

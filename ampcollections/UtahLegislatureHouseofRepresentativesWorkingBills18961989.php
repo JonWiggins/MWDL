@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Petition from 1897
 <!-- Article Text -->
-</p><br/>This series documents the legislative process in the House of Representatives. The series contains the working copies of House bills, claims (through 1915), petitions (until 1921), memorials, reports (1897 only) and resolutions. The working copy includes the bill as introduced and any amendments made to it. The final official version of the bill is not part of this series unless it was vetoed by the Governor, returned to the Legislature while still in session, and the Legislature failed to override the veto. </p><br/>&nbsp,</p><br/></p><br/>
+</p><br/>This series documents the legislative process in the House of Representatives. The series contains the working copies of House bills, claims (through 1915), petitions (until 1921), memorials, reports (1897 only) and resolutions. The working copy includes the bill as introduced and any amendments made to it. The final official version of the bill is not part of this series unless it was vetoed by the Governor, returned to the Legislature while still in session, and the Legislature failed to override the veto. </p><br/>&nbsp
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2032&indx=1&bulkSize=50">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2032&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Legislature. House of Representatives Working Bills, 1896-1989</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

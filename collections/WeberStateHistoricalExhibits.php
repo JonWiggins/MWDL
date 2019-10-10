@@ -45,7 +45,7 @@ A collection of photographic exhibits depicting the historical development of We
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2345&indx=1&bulkSize=50">Browse all record in Weber State Historical Exhibits</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2345&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State Historical Exhibits</a>
 </h6>
 <p></p>
 </div>

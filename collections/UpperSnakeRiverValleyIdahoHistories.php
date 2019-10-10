@@ -45,7 +45,7 @@ Anderson, Betsy (Bengta) Shenstrum 1831-1922
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1090&indx=1&bulkSize=50">Browse all record in Upper Snake River Valley Idaho Histories</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1090&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Upper Snake River Valley Idaho Histories</a>
 </h6>
 <p></p>
 </div>

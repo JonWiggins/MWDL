@@ -22,6 +22,6 @@ Willis Dunagan was a farmer in Marion County, Oregon. The collection includes 15
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2514&indx=1&bulkSize=50">Browse all record in Willis Dunagan diaries and legal papers, 1858-1897</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2514&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Willis Dunagan diaries and legal papers, 1858-1897</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

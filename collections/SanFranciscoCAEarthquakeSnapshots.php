@@ -45,7 +45,7 @@ View of ruins from O'Farrell and Larkin Streets after the San Francisco Fire and
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2136&indx=1&bulkSize=50">Browse all record in San Francisco (CA) Earthquake Snapshots</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2136&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in San Francisco (CA) Earthquake Snapshots</a>
 </h6>
 <p></p>
 </div>

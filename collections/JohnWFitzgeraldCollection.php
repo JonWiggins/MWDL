@@ -41,11 +41,11 @@ Transition - From Sagebrush to Satellite
 <h6> Published by <a href="../partners/UniversityofUtahJWillardMarriottLibrary.php">University of Utah - J. Willard Marriott Library</a></h6>
  
 <!-- Collection Description -->
-</p><br/>Fitzgerald Famly Stories, An autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p><br/>
+</p><br/>Fitzgerald Famly Stories, an autobiographical story of a country town from 1910 to 1925 with an epilogue from 1925-1967, pictures and selected poems.</p><br/>
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1171&indx=1&bulkSize=50">Browse all record in John W. Fitzgerald Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1171&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in John W. Fitzgerald Collection</a>
 </h6>
 <p></p>
 </div>

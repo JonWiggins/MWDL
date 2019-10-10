@@ -18,10 +18,10 @@
 <!-- Image Description -->
 Juanita Brooks with Daughter
 <!-- Article Text -->
-The Juanita Brooks Photograph Collection contains images documenting Brooks's professional writing career from 1934-1971. The collection also provides a glimpse into her personal life with many images of her family, activities, and general life in southern Utah.
+The Juanita Brooks Photograph Collection contains images documenting Brooks�s professional writing career from 1934-1971. The collection also provides a glimpse into her personal life with many images of her family, activities, and general life in southern Utah.
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1908&indx=1&bulkSize=50">Browse all record in Juanita Brooks Photograph Collection, 1928-1981</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1908&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Juanita Brooks Photograph Collection, 1928-1981</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

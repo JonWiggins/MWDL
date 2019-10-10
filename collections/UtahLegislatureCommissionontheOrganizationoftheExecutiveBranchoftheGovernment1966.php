@@ -41,11 +41,11 @@ Plan of Organization
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p><br/>A collection of the reports and findings of the Commission on the Organization of the Executive Branch</p><br/>&nbsp,</p><br/></p><br/>
+</p><br/>A collection of the reports and findings of the Commission on the Organization of the Executive Branch</p><br/>&nbsp
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1624&indx=1&bulkSize=50">Browse all record in Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1624&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Legislature. Commission on the Organization of the Executive Branch of the Government, 1966</a>
 </h6>
 <p></p>
 </div>

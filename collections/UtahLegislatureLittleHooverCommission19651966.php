@@ -41,11 +41,11 @@ Council Meeting Minutes
 <h6> Published by <a href="../partners/UtahStateArchives.php">Utah State Archives</a></h6>
  
 <!-- Collection Description -->
-</p><br/>This series contains a variety of records that document work done by state agencies in response to mandates set by the Little Hoover Commission, which was tasked with reorganizing Utah State Government in the 1960's. The records in this series include correspondence between agencies and the commission, as well as state agency meeting minutes pertaining to discussions focused on improving efficiency and a variety of reorganization issues and scenarios. Based on this information many state government agencies produced statements and recommendations to the Little Hoover Commission , several of which can be found in this series.</p><br/>&nbsp,</p><br/></p><br/>
+</p><br/>This series contains a variety of records that document work done by state agencies in response to mandates set by the Little Hoover Commission, which was tasked with reorganizing Utah State Government in the 1960's. The records in this series include correspondence between agencies and the commission, as well as state agency meeting minutes pertaining to discussions focused on improving efficiency and a variety of reorganization issues and scenarios. Based on this information many state government agencies produced statements and recommendations to the Little Hoover Commission , several of which can be found in this series.</p><br/>&nbsp
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1627&indx=1&bulkSize=50">Browse all record in Utah Legislature. Little Hoover Commission, 1965-1966</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1627&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Utah Legislature. Little Hoover Commission, 1965-1966</a>
 </h6>
 <p></p>
 </div>

@@ -18,10 +18,10 @@
 <!-- Image Description -->
 
 <!-- Article Text -->
-</p><br/>This is a collection of yearbooks from 1964 to 1982. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses. The final Weber State College yearbooks comprise the years 1964 to 1982, in which publication ceased 1973, 1975-81, with 1982 being the last publication of the Acorn. </p><br/>
+</p><br/>The Weber State Yearbooks span the years 1905 to 1982. The yearbooks include photographs of students, class officers, faculty, Board of Education/Trustees, athletics, clubs, organizations and advertisements from local businesses.</p><br/>
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1310&indx=1&bulkSize=50">Browse all record in Weber State Yearbook 1905 to 1982</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1310&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Weber State Yearbook 1905 to 1982</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

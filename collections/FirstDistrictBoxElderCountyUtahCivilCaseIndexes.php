@@ -31,9 +31,9 @@
 </div>
 <div class="imageAndDes">
 <!-- Image (if any)-->
-<img src="../images/collection_images/collection2531.jpg" alt="1893-1915 Vol. 1; A-Z"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
+<img src="../images/collection_images/collection2531.jpg" alt="1893-1915 Vol. 1"width="250" height="250"align= "right" style="max-width: 250px; height: auto; margin: 1%; display: block; ">
 <!-- Image Description -->
-1893-1915 Vol. 1; A-Z
+1893-1915 Vol. 1
 </div>
 <!-- Collection Title-->
 <h4>First District: Box Elder County (Utah) Civil Case Indexes</h4>
@@ -45,7 +45,7 @@ This series contains civil case alphabetic indexes created by the Court to recor
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2531&indx=1&bulkSize=50">Browse all record in First District: Box Elder County (Utah) Civil Case Indexes</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2531&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in First District: Box Elder County (Utah) Civil Case Indexes</a>
 </h6>
 <p></p>
 </div>

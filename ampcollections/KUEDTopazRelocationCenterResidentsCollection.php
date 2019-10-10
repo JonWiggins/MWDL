@@ -13,7 +13,7 @@
 <h6> Published by <a href="../partners/DepartmentofHeritageandArts.php">Department of Heritage and Arts</a></h6>
 <!-- Collection Image -->
 <div class=amp-img-fill>
-<amp-img src="../images/collection_images/collection1909.jpe"alt="Tofu Factory Worker"width="387" height ="486"  layout = "responsive"></amp-img>
+<amp-img src="../images/collection_images/collection1909.jpg"alt="Tofu Factory Worker"width="387" height ="486"  layout = "responsive"></amp-img>
 </div>
 <!-- Image Description -->
 Tofu Factory Worker
@@ -22,6 +22,6 @@ Tofu Factory Worker
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1909&indx=1&bulkSize=50">Browse all record in KUED Topaz Relocation Center Residents Collection</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1909&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in KUED Topaz Relocation Center Residents Collection</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

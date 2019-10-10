@@ -41,11 +41,11 @@ The Peter Beemer manuscript : dance music collected in the gold mining camp of W
 <h6> Published by <a href="../partners/BoiseStateUniversityAlbertsonsLibrary.php">Boise State University - Albertsons Library</a></h6>
  
 <!-- Collection Description -->
-Handwritten musical scores recorded in the 1860s by Peter Beemer in the mining camp of Warren, Idaho, of songs and dance music performed by his band and others, with videos of modern performances of several of the pieces.
+</p><br/>Handwritten musical scores recorded in the 1860s by Peter Beemer in the mining camp of Warren, Idaho, of songs and dance music performed by his band and others, with videos of modern performances of several of the pieces.</p><br/>&nbsp
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2220&indx=1&bulkSize=50">Browse all record in Peter Beemer Music Manuscripts</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2220&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Peter Beemer Music Manuscripts</a>
 </h6>
 <p></p>
 </div>

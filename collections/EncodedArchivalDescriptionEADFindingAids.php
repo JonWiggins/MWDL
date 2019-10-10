@@ -45,7 +45,7 @@ Detailed records of the contents of over 150 historical manuscript collections i
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1255&indx=1&bulkSize=50">Browse all record in Encoded Archival Description (EAD) Finding Aids</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1255&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Encoded Archival Description (EAD) Finding Aids</a>
 </h6>
 <p></p>
 </div>

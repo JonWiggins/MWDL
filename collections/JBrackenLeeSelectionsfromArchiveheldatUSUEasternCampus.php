@@ -45,7 +45,7 @@ Transcript of Mayor J. Bracken Lee's testimonial dinner, Hotel Utah, January 7, 
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,1790&indx=1&bulkSize=50">Browse all record in J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact1790&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in J. Bracken Lee: Selections from Archive held at USU Eastern Campus</a>
 </h6>
 <p></p>
 </div>

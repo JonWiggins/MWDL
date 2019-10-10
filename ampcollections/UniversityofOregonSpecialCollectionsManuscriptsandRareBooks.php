@@ -22,6 +22,6 @@ A small collection of manuscripts and rare books exist outside other collections
 <hr>
 <!-- Browse Collection -->
 <h6>
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2504&indx=1&bulkSize=50">Browse all record in University of Oregon Special Collections Manuscripts and Rare Books</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2504&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in University of Oregon Special Collections Manuscripts and Rare Books</a>
 </h6>
 <?php include("../includes/ampfooter.php");?>

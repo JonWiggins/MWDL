@@ -41,15 +41,11 @@ Inc. Queriniano G V 15 (full page version)
 <h6> Published by <a href="../partners/NationalEndowmentfortheHumanitiesandtheAmericanCouncilofLearnedSocieties.php">National Endowment for the Humanities and the American Council of Learned Societies</a></h6>
  
 <!-- Collection Description -->
-<<<<<<< HEAD
 The items in the Petrarch digital collection support the Oregon Petrarch Open Book (OPOB). OPOB is a digital scholarship project directed by Professor Massimo Lollini as an ongoing web-based system devoted to the study and teaching of Petrarch�s Canzoniere.
-=======
-The items in the Petrarch digital collection support the Oregon Petrarch Open Book (OPOB). OPOB is a digital scholarship project directed by Professor Massimo Lollini as an ongoing web-based system devoted to the study and teaching of Petrarch's Canzoniere.
->>>>>>> 27bcb739ff1a3665d91a24f11a24e9fe9abfba7b
 <hr>
 <h6>
 <!-- Browse Link -->
-<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo_library/libweb/action/dlSearch.do?vid=MWDL&institution=MWDL&onCampus=false&search_scope=mw&query=lsr04,exact,2509&indx=1&bulkSize=50">Browse all record in Petrarch Canzionere</a>
+<a href="http://utah-primoprod.hosted.exlibrisgroup.com/primo-explore/search?query=lsr04,exact2509&tab=default_tab&search_scope=mw&vid=MWDL&offset=0">Browse all record in Petrarch Canzionere</a>
 </h6>
 <p></p>
 </div>
